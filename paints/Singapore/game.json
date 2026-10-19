@@ -1,0 +1,24 @@
+{
+  "name": "Singapore",
+  "rawName": "Singapore",
+  "item": "920009600932",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Named after the exciting and constantly-evolving country of Singapore, this paint is the perfect match for tankers who love to stay ahead of the competition by reinventing themselves with new equipment combinations and tactics.",
+  "paint": {
+    "id": "1548916964731",
+    "version": "1775743169870",
+    "animated": false
+  },
+  "preview": {
+    "id": "1548916964732",
+    "version": "1581391488192"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

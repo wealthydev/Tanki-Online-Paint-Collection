@@ -1,0 +1,27 @@
+{
+  "name": "Rustle",
+  "rawName": "Rustle",
+  "item": "920004704094",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 35000
+  },
+  "owned": false,
+  "description": "Autumn leaves may rustle beneath your tank's tracks, but your opponents still won't be able to detect you thanks to this paint's unique blend of hues.",
+  "paint": {
+    "id": "5006150",
+    "version": "1775743169820",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006135",
+    "version": "1581391468282"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

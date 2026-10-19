@@ -1,0 +1,27 @@
+{
+  "name": "Forester",
+  "rawName": "Forester",
+  "item": "920004704097",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 2500
+  },
+  "owned": true,
+  "description": "This is one of two paints specifically designed for ground operations in a mid latitude climate. According to reports from the independent organization \"True Camouflage\", a tank wearing this particular combination of light and dark green, is less likely to be detected in such regions.",
+  "paint": {
+    "id": "56065",
+    "version": "1775743169123",
+    "animated": false
+  },
+  "preview": {
+    "id": "58884",
+    "version": "1581391405402"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

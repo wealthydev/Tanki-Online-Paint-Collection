@@ -1,0 +1,26 @@
+{
+  "name": "{GAME}tty",
+  "source": "wiki",
+  "page": "/{GAME}tty",
+  "type": "Tankoin",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "The name of this racing team emphasizes the independent and self-sufficient nature of its founder family, the biggest patrons of cat shelters. Their tank cars are distinguished by gracefulness, elegance and devilish attractiveness!\nAs suited representatives of the feline family, the racers of this team are the most maneuverable and are able to fit into any turn without difficulty. Like the wild ancestors of cats, the desire to dominate and snatch victory like prey from the clutches of an opponent, is bubbling in the blood of the participants of this team.\n{GAME}tty are invincible predators on the battlefield.\nSee also: Paints",
+  "interestingFacts": [
+    "This paint was added to the game on february 24th, 2023.",
+    "{GAME}tty could have been obtained during The «Rally Tankcar» Event."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "700",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:700\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThe name of this racing team emphasizes the independent and self-sufficient nature of its founder family, the biggest patrons of cat shelters. Their tank cars are distinguished by gracefulness, elegance and devilish attractiveness!\nAs suited representatives of the feline family, the racers of this team are the most maneuverable and are able to fit into any turn without difficulty. Like the wild ancestors of cats, the desire to dominate and snatch victory like prey from the clutches of an opponent, is bubbling in the blood of the participants of this team.\n{GAME}tty are invincible predators on the battlefield.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on february 24th, 2023.\n{GAME}tty could have been obtained during The «Rally Tankcar» Event.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

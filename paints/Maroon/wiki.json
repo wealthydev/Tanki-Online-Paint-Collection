@@ -1,0 +1,24 @@
+{
+  "name": "Maroon",
+  "source": "wiki",
+  "page": "/Maroon",
+  "type": "Garage",
+  "price": {
+    "amount": 10,
+    "currency": "Crystals",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": null,
+  "description": "The embodiment of rage and courage. It also has the practical application of being able to hide any traces of enemy blood that inevitably appear on the hull, no matter how careful you are.",
+  "interestingFacts": [
+    "The paint is given to the player upon registration."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10",
+    "Garage categorization": "◆ Common"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10\nGarage categorization:◆ Common\nGarage description\nThe embodiment of rage and courage. It also has the practical application of being able to hide any traces of enemy blood that inevitably appear on the hull, no matter how careful you are.\nSee also: Paints\nInteresting facts\nThe paint is given to the player upon registration.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

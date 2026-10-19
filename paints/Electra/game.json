@@ -1,0 +1,27 @@
+{
+  "name": "Electra",
+  "rawName": "Electra",
+  "item": "920004703495",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 50000
+  },
+  "owned": false,
+  "description": "A shockingly beautiful paint that captures the elegance of an arc of electricity flying through the air.",
+  "paint": {
+    "id": "5001735",
+    "version": "1775743170719",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001736",
+    "version": "1581391571592"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "LOL",
+  "source": "wiki",
+  "page": "/LOL",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "For the tanker who can always find something to laugh about. Easily recognizable by the signature \"LOL\" reaction to jokes.",
+  "interestingFacts": [
+    "The paint was available for purchase in an April Fools' set for $59.90 from April 1 to April 8, 2019.",
+    "If you listen closely to this paint, you can faintly hear Rick Astley's \"Never Gonna Give You Up\""
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nFor the tanker who can always find something to laugh about. Easily recognizable by the signature \"LOL\" reaction to jokes.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in an April Fools' set for $59.90 from April 1 to April 8, 2019.\nIf you listen closely to this paint, you can faintly hear Rick Astley's \"Never Gonna Give You Up\"\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

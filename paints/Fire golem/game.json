@@ -1,0 +1,25 @@
+{
+  "name": "Fire golem",
+  "rawName": "Fire golem",
+  "item": "920009601260",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "If you've always wanted to look like a Fire Golem, this is the perfect paint for you. And if you don't want to look like a Fire Golem... wait, why WOULDN'T you want to look like a Fire Golem???",
+  "paint": {
+    "id": "1551268716928",
+    "version": "1697183401525",
+    "animated": true
+  },
+  "preview": {
+    "id": "1551268514896",
+    "version": "1581391340973"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Surf",
+  "rawName": "Surf",
+  "item": "921009687169",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Perfect balance. Riding the waves requires a surfer to have the ability to concentrate in a critical moment and to keep calm. The same qualities are needed for a tanker. This paint won't give you any advantage in a battle but may help you to catch the wave of success and stay on it for a long time.",
+  "paint": {
+    "id": "1598387976679",
+    "version": "1697183401429",
+    "animated": true
+  },
+  "preview": {
+    "id": "1598387972980",
+    "version": "1598387973320"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

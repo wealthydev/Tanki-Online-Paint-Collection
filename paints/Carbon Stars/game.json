@@ -1,0 +1,25 @@
+{
+  "name": "Carbon stars",
+  "rawName": "Carbon stars",
+  "item": "920009674719",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This rare paint was created using the Triple-alpha process by transforming three helium-4 nuclei into carbon. This gives the paint its unique luminous effect and allows it to emit stellar gamma radiation that attacks enemies from within and takes control over them.",
+  "paint": {
+    "id": "1590346585267",
+    "version": "1697183401455",
+    "animated": true
+  },
+  "preview": {
+    "id": "1590346585266",
+    "version": "1590348343169"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

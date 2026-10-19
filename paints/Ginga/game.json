@@ -1,0 +1,25 @@
+{
+  "name": "Ginga",
+  "rawName": "Ginga",
+  "item": "920009465643",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "As vivid colors flow into each other and bloom into beautiful patterns the Spring begins. Celebrate the start of Spring and International Women's Day with {GAME_NAME}! ",
+  "paint": {
+    "id": "1520340413384",
+    "version": "1697183401489",
+    "animated": true
+  },
+  "preview": {
+    "id": "1520340413001",
+    "version": "1581391336357"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

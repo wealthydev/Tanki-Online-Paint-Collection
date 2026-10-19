@@ -1,0 +1,24 @@
+{
+  "name": "Steel micro-fibers",
+  "rawName": "Steel micro-fibers",
+  "item": "920006240690",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours in the battlefield.",
+  "paint": {
+    "id": "500381250",
+    "version": "1775743168318",
+    "animated": false
+  },
+  "preview": {
+    "id": "500381251",
+    "version": "1581391700845"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

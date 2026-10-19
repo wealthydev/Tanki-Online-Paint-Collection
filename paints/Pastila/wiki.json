@@ -1,0 +1,28 @@
+{
+  "name": "Pastila",
+  "source": "wiki",
+  "page": "/Pastila",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint is actually made from pastila sweets with bits of marmalade inside. Boosts your battle spirit, and in between matches invites you for a tea break with dessert.",
+  "interestingFacts": [
+    "Pastila was added into the game on June 4th, 2018.",
+    "This paint was available in the Shop as part of a special package during the {GAME}'s Birthday 2018 celebrations.",
+    "This paint was added to containers on February 5th, 2021.",
+    "Yum, triangles!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint is actually made from pastila sweets with bits of marmalade inside. Boosts your battle spirit, and in between matches invites you for a tea break with dessert.\nSee also: Paints\nInteresting facts\nPastila was added into the game on June 4th, 2018.\nThis paint was available in the Shop as part of a special package during the {GAME}'s Birthday 2018 celebrations.\nThis paint was added to containers on February 5th, 2021.\nYum, triangles!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

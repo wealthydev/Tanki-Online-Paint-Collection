@@ -1,0 +1,26 @@
+{
+  "name": "Gears",
+  "source": "wiki",
+  "page": "/Gears",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Gears on your tank launch a perpetual motion machine, which means you can now reach the maximum efficiency in battles with the minimal resource waste. The effect wasn't proven yet though.",
+  "interestingFacts": [
+    "The paint was added to the containers on August 10, 2018.",
+    "When wearing this paint, your tank has engine on the outside, too!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nGears on your tank launch a perpetual motion machine, which means you can now reach the maximum efficiency in battles with the minimal resource waste. The effect wasn't proven yet though.\nSee also: Paints\nInteresting facts\nThe paint was added to the containers on August 10, 2018.\nWhen wearing this paint, your tank has engine on the outside, too!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

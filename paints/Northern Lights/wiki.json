@@ -1,0 +1,25 @@
+{
+  "name": "Northern Lights",
+  "source": "wiki",
+  "page": "/Northern_Lights",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This peculiar paint is obtained by taking gaseous particles obtained from the Earth's atmosphere and bombarding them with charged particles released from the sun's atmosphere. The result is reminiscent of the Aurora Borealis, also known as \"Northern Lights",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis peculiar paint is obtained by taking gaseous particles obtained from the Earth's atmosphere and bombarding them with charged particles released from the sun's atmosphere. The result is reminiscent of the Aurora Borealis, also known as \"Northern Lights\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

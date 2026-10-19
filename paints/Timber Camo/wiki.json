@@ -1,0 +1,27 @@
+{
+  "name": "Timber Camo",
+  "source": "wiki",
+  "page": "/Timber_Camo",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "High-tech wood-based camouflage for forest and jungle operations. Just keep it away from the barbecues.",
+  "interestingFacts": [
+    "This paint was appeared on February 1st, 2019.",
+    "This paint could have been unlocked as part of the paid second Battle Pass at Tier 17 of Challenges.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nHigh-tech wood-based camouflage for forest and jungle operations. Just keep it away from the barbecues.\nSee also: Paints\nInteresting facts\nThis paint was appeared on February 1st, 2019.\nThis paint could have been unlocked as part of the paid second Battle Pass at Tier 17 of Challenges.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

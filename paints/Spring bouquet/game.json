@@ -1,0 +1,24 @@
+{
+  "name": "Spring bouquet",
+  "rawName": "Spring bouquet",
+  "item": "921009717737",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Spring meadow camouflage will easily mislead any tanker. The enemy will definitely come closer to take a look at the beautiful wildflowers, but will immediately be riddled. You will only have to throw a flower to the defeated as a goodbye.",
+  "paint": {
+    "id": "1613566163635",
+    "version": "1775743169913",
+    "animated": false
+  },
+  "preview": {
+    "id": "1613566147739",
+    "version": "1613663218123"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

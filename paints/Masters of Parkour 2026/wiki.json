@@ -1,0 +1,25 @@
+{
+  "name": "Masters of Parkour 2026",
+  "source": "wiki",
+  "page": "/Masters_of_Parkour_2026",
+  "type": "Award",
+  "price": {
+    "amount": 10,
+    "currency": "Rubies",
+    "text": "10"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This temporary paint has been added in the game for participants of the «Masters of Parkour 2026» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team.",
+  "interestingFacts": [
+    "The paint appeared in the game on August 28th, 2026."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Award",
+    "Price": "10",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Award\nPrice:10\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis temporary paint has been added in the game for participants of the «Masters of Parkour 2026» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team.\nSee also: Paints\nInteresting facts\nThe paint appeared in the game on August 28th, 2026.\nGarage preview\nLast Edit: Emrakul 8/30/2026"
+}

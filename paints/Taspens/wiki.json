@@ -1,0 +1,26 @@
+{
+  "name": "Taspens",
+  "source": "wiki",
+  "page": "/Taspens",
+  "type": "Event",
+  "price": {
+    "amount": 990,
+    "currency": "Tankoins",
+    "text": "990"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was available for purchase along with 5 other paints from January 29th to February 14th, 2022, from a bundle of 15x ultra containers, and 3x nuclear energy supplies for 990 tankoins as part of the YouTuber battle.",
+    "The paints will remain in the player's garages forever"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "990",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:990\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase along with 5 other paints from January 29th to February 14th, 2022, from a bundle of 15x ultra containers, and 3x nuclear energy supplies for 990 tankoins as part of the YouTuber battle.\nThe paints will remain in the player's garages forever\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

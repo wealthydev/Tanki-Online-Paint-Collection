@@ -1,0 +1,24 @@
+{
+  "name": "Joy",
+  "rawName": "Joy",
+  "item": "920006240692",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "For those we don't let any bad battle destroy your mood this paint its for the strong and happy tankers!",
+  "paint": {
+    "id": "500381258",
+    "version": "1775743168070",
+    "animated": false
+  },
+  "preview": {
+    "id": "500381259",
+    "version": "1581391692776"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "PCB",
+  "source": "wiki",
+  "page": "/PCB",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint appeared as a result of attempts to develop an invisible armor. The first tests with thin steel plates were successful, but in practice engineers saw something surprising: The paint only made the armor transparent but not the parts underneath! These insights were so spectacular, it was decided that the paint should be put up for sale.",
+  "interestingFacts": [
+    "This paint was added to the game on October 16th, 2020.",
+    "This paint could have been unlocked at Tier 33 of the October 2020 Challenge B.",
+    "This paint was added to containers on February 5th, 2021.",
+    "With update 640, released March 19, 2021, PCB received a unique Garage description."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint appeared as a result of attempts to develop an invisible armor. The first tests with thin steel plates were successful, but in practice engineers saw something surprising: The paint only made the armor transparent but not the parts underneath! These insights were so spectacular, it was decided that the paint should be put up for sale.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on October 16th, 2020.\nThis paint could have been unlocked at Tier 33 of the October 2020 Challenge B.\nThis paint was added to containers on February 5th, 2021.\nWith update 640, released March 19, 2021, PCB received a unique Garage description.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Viscum",
+  "source": "wiki",
+  "page": "/Viscum",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was issued to participants of the <<{GAME} and the Snow Trap>> 2025 Minigame.",
+    "This paint was added into the game on December 26th, 2025."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nInteresting facts\nThis paint was issued to participants of the <<{GAME} and the Snow Trap>> 2025 Minigame.\nThis paint was added into the game on December 26th, 2025.\nGarage preview\nLast Edit: Heatw4ve 1/12/2026"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Pop Art",
+  "rawName": "Pop Art",
+  "item": "920009365543",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "We hear that texture for this paint was done by Andy Worhol himself, and as soon as you paint your tank it instantly becomes new art piece. Recommended for fans of ultraviolet and soda drinks!",
+  "paint": {
+    "id": "1516883264848",
+    "version": "1775743169717",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264849",
+    "version": "1581391562549"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

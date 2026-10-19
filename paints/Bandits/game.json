@@ -1,0 +1,24 @@
+{
+  "name": "Bandits",
+  "rawName": "Bandits",
+  "item": "1931009801645",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1695669497780",
+    "version": "1775743170633",
+    "animated": false
+  },
+  "preview": {
+    "id": "1695669497297",
+    "version": "1695810128588"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

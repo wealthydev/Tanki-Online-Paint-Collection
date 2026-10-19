@@ -1,0 +1,27 @@
+{
+  "name": "Chainmail",
+  "source": "wiki",
+  "page": "/Chainmail",
+  "type": "Garage",
+  "price": {
+    "amount": 35000,
+    "currency": "Crystals",
+    "text": "35 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A unique, stylized chainmail cover developed for the purpose of medieval-themed tank battles. Of course, whether tanks existed in the middle ages, and whether they actually wore chainmail armor, is a different matter altogether.",
+  "interestingFacts": [
+    "Paint first appeared on January 30, 2015.",
+    "On the 10th of April 2020, Chainmail's unlock rank was lowered from Master Corporal to Recruit.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "35 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:35 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA unique, stylized chainmail cover developed for the purpose of medieval-themed tank battles. Of course, whether tanks existed in the middle ages, and whether they actually wore chainmail armor, is a different matter altogether.\nSee also: Paints\nInteresting facts\nPaint first appeared on January 30, 2015.\nOn the 10th of April 2020, Chainmail's unlock rank was lowered from Master Corporal to Recruit.\nLegacy paint description:\nA paint that provides moderate protection against Hammer, Isida and Railgun, Will help in fights at any distance. Gives your tank the look of a knight in chainmail armor.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

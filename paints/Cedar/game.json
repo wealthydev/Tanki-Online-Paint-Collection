@@ -1,0 +1,27 @@
+{
+  "name": "Cedar",
+  "rawName": "Cedar",
+  "item": "920004703616",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 5500
+  },
+  "owned": true,
+  "description": "This paint is composed of pounded pine cone flakes. It is environmentally friendly and comes with two bags of peeled pine nuts with every second canister of paint purchased.",
+  "paint": {
+    "id": "5006357",
+    "version": "1775743168933",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006344",
+    "version": "1581391560873"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

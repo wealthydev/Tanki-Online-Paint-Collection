@@ -1,0 +1,27 @@
+{
+  "name": "Coral",
+  "rawName": "Coral",
+  "item": "1931009779876",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "A repair coating that simplifies spectral and ultrasonic analysis of cracks in armor. If the tank is used in extremely difficult temperature and radiation conditions, then the practical purpose of this paint is to avoid repainting the tank between with technical maintenance.",
+  "paint": {
+    "id": "1685024258202",
+    "version": "1775743169457",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024257747",
+    "version": "1707988292812"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

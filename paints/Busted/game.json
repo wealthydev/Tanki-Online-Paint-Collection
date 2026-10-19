@@ -1,0 +1,25 @@
+{
+  "name": "Busted",
+  "rawName": "Busted",
+  "item": "920009610626",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "You are the long arm (or turret) of the Law. Bring justice to the battlefield. Wear this paint with pride as you annihilate the threats of chaos and criminality.",
+  "paint": {
+    "id": "1564482299861",
+    "version": "1697183401430",
+    "animated": true
+  },
+  "preview": {
+    "id": "1564477071197",
+    "version": "1581391312513"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

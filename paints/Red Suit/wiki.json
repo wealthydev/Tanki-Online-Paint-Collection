@@ -1,0 +1,25 @@
+{
+  "name": "Red Suit",
+  "source": "wiki",
+  "page": "/Red_Suit",
+  "type": "Tankoin",
+  "price": {
+    "amount": 5000,
+    "currency": "Rubies",
+    "text": "5 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "\"You may be wondering, why the red suit? Well, that's so bad guys can't see me bleed!\"",
+  "interestingFacts": [
+    "The paint was available for purchase for 115,000 crystals at the rank of Colonel and above from February 19 to March 4, 2016, as part of the Redpool promotion."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "5 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:5 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\n\"You may be wondering, why the red suit? Well, that's so bad guys can't see me bleed!\"\nSee also: Paints\nInteresting facts\nThe paint was available for purchase for 115,000 crystals at the rank of Colonel and above from February 19 to March 4, 2016, as part of the Redpool promotion.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

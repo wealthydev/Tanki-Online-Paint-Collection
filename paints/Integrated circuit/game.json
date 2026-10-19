@@ -1,0 +1,25 @@
+{
+  "name": "Integrated circuit",
+  "rawName": "Integrated circuit",
+  "item": "921009725833",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1616582564178",
+    "version": "1697183401540",
+    "animated": true
+  },
+  "preview": {
+    "id": "1616582560598",
+    "version": "1616643258294"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Red planet",
+  "rawName": "Red planet",
+  "item": "920009612841",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Often referred to as \"the Red Planet\" or \"the Morning Star\", Mars has been a backdrop for many blockbuster movies. Additionally, for a long time, it was believed that this would be where we would discover alien life forms, also known as \"Martians\".",
+  "paint": {
+    "id": "1564486645178",
+    "version": "1775743169793",
+    "animated": false
+  },
+  "preview": {
+    "id": "1564486645192",
+    "version": "1581391659314"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

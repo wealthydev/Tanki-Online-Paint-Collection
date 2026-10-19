@@ -1,0 +1,24 @@
+{
+  "name": "And Roll",
+  "rawName": "And Roll",
+  "item": "920009615937",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "There's no rock without a roll. Here's another paint for the geology aficionados in {GAME_NAME}. Now you can really put your enemies between a rock and a hard place.",
+  "paint": {
+    "id": "1567052911505",
+    "version": "1775743169567",
+    "animated": false
+  },
+  "preview": {
+    "id": "1567052911514",
+    "version": "1581391517864"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

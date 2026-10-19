@@ -1,0 +1,26 @@
+{
+  "name": "Mint",
+  "source": "wiki",
+  "page": "/Mint",
+  "type": "Tankoin",
+  "price": {
+    "amount": 3000,
+    "currency": "Rubies",
+    "text": "3 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Now, you too can bring a breath of freshness into the arena with the Mint paint. Guaranteed to work against even the most severe cases of tank halitosis.",
+  "interestingFacts": [
+    "Paint appeared on October 20, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "3 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:3 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nNow, you too can bring a breath of freshness into the arena with the Mint paint. Guaranteed to work against even the most severe cases of tank halitosis.\nSee also: Paints\nInteresting facts\nPaint appeared on October 20, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

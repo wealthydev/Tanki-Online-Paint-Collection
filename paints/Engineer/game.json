@@ -1,0 +1,24 @@
+{
+  "name": "Engineer",
+  "rawName": "Engineer",
+  "item": "920004704572",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for testers.",
+  "paint": {
+    "id": "50117011",
+    "version": "1775743169088",
+    "animated": false
+  },
+  "preview": {
+    "id": "50117010",
+    "version": "1581391444785"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

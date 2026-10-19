@@ -1,0 +1,26 @@
+{
+  "name": "Dragon",
+  "source": "wiki",
+  "page": "/Dragon",
+  "type": "Garage",
+  "price": {
+    "amount": 50000,
+    "currency": "Crystals",
+    "text": "50 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "The inspiration for the prototype of this complex creation was the dragon scale. Each scale is drawn by hand on a reinforced piece of titanium plate armor.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Dragon was worth 3,000 crystals and could be bought from the rank of Staff Sergeant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "50 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:50 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThe inspiration for the prototype of this complex creation was the dragon scale. Each scale is drawn by hand on a reinforced piece of titanium plate armor.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Dragon was worth 3,000 crystals and could be bought from the rank of Staff Sergeant.\nLegacy paint description:\nA paint that performs decently against Ricochet rounds and is mostly useful in mid-range battles. Gives tanks a reptilian look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

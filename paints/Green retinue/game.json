@@ -1,0 +1,24 @@
+{
+  "name": "Green retinue",
+  "rawName": "Green retinue",
+  "item": "1931009779475",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Green retinue — a shining team of warriors who are ready to defend forests and prairies from attacks of invaders. In their ranks, there are an accurate elf-shooter, a dwarf-lumberjack and a huge tank landing crawler. The last can withstand any collision.\n\nIn each battle, the retinue carefully defend their lands and use the power of nature in their own interest. Dwarf-engineers create battle machines that use the power of waterfalls and winds to hit an enemy with the most powerful attacks.\n\nEach warrior is spiritually connected with nature and is ready to challenge any enemy to defend his land and his teammates.",
+  "paint": {
+    "id": "1678355910064",
+    "version": "1775743169194",
+    "animated": false
+  },
+  "preview": {
+    "id": "1678355909595",
+    "version": "1678355909786"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

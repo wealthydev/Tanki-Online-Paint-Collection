@@ -1,0 +1,27 @@
+{
+  "name": "Kungur Ice Cave",
+  "rawName": "Kungur Ice Cave",
+  "item": "920009365534",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "The paint was created by the geological society of Kungur city, and named after the popular tourist destination. Did you know, that the Snow King was inspired by this paint when he decorated his own cave?",
+  "paint": {
+    "id": "1516883264862",
+    "version": "1775743169332",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264863",
+    "version": "1581391633988"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

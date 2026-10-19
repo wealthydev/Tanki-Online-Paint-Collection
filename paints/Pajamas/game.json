@@ -1,0 +1,27 @@
+{
+  "name": "Pajamas",
+  "rawName": "Pajamas",
+  "item": "920007005376",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": false,
+  "description": "Computer games are great because you can play them wearing anything, even your pajamas. If you like your tank to be as comfortable as you are while playing, this paint is perfect for you.",
+  "paint": {
+    "id": "500391216",
+    "version": "1775743169693",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391207",
+    "version": "1581391323144"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

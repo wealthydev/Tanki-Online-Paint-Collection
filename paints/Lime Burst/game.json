@@ -1,0 +1,24 @@
+{
+  "name": "Lime burst",
+  "rawName": "Lime burst",
+  "item": "920006313000",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A festive paint with a refreshing design. Tanks coated in this paint will have a curiously aciding taste with a hint of lime.",
+  "paint": {
+    "id": "500382211",
+    "version": "1775743168017",
+    "animated": false
+  },
+  "preview": {
+    "id": "500382212",
+    "version": "1581391752996"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

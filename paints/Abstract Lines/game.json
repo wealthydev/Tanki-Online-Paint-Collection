@@ -1,0 +1,27 @@
+{
+  "name": "Abstract lines",
+  "rawName": "Abstract lines",
+  "item": "920009595682",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "Turn your imagination on and you see a startling pattern of lines that catches any curious eye.",
+  "paint": {
+    "id": "1526549379850",
+    "version": "1775743168745",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550545956",
+    "version": "1581391354388"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

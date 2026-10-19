@@ -1,0 +1,25 @@
+{
+  "name": "Disco 2.0",
+  "rawName": "Disco 2.0",
+  "item": "920009600935",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Everybody loves Disco. Disco gets you movin' and groovin'. Now, this animated version of the all-time favorite paint will get you rockin' that dancefloor like never before!",
+  "paint": {
+    "id": "1556531971774",
+    "version": "1697183401529",
+    "animated": true
+  },
+  "preview": {
+    "id": "1548917135139",
+    "version": "1581391325842"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

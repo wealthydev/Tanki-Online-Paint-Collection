@@ -1,0 +1,27 @@
+{
+  "name": "Pixel Heart",
+  "rawName": "Pixel Heart",
+  "item": "920004826766",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 30000
+  },
+  "owned": false,
+  "description": "Design for love in the digital age, this paint is perfect for tankers who find no shame in expressing their feelings.",
+  "paint": {
+    "id": "500362859",
+    "version": "1775743169686",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362851",
+    "version": "1581391344263"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

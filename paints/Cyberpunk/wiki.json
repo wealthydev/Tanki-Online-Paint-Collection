@@ -1,0 +1,27 @@
+{
+  "name": "Cyberpunk",
+  "source": "wiki",
+  "page": "/Cyberpunk",
+  "type": "Tankoin",
+  "price": {
+    "amount": 19000,
+    "currency": "Rubies",
+    "text": "19 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Shiny technology meets gritty metal in a paint dedicated to those who love to roam in cities of neon and chrome.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass.",
+    "Paint can also be obtained from a container.",
+    "The quivering electric patterns of this paint are reminiscent of the fearful quaking of your enemies when they see you approach."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "19 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:19 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nShiny technology meets gritty metal in a paint dedicated to those who love to roam in cities of neon and chrome.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass.\nPaint can also be obtained from a container.\nThe quivering electric patterns of this paint are reminiscent of the fearful quaking of your enemies when they see you approach.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

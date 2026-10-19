@@ -1,0 +1,25 @@
+{
+  "name": "Ducks",
+  "rawName": "Ducks",
+  "item": "921009736829",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1621331266259",
+    "version": "1697183401550",
+    "animated": true
+  },
+  "preview": {
+    "id": "1621331259570",
+    "version": "1621331260029"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

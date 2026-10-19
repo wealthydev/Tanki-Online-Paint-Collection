@@ -1,0 +1,26 @@
+{
+  "name": "Team OK",
+  "source": "wiki",
+  "page": "/Team_OK",
+  "type": "Event",
+  "price": {
+    "amount": 1000,
+    "currency": "Crystals",
+    "text": "1 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is for the participants of the «{GAME} Battle: OK vs VK» event. Destroy as many enemy tanks as you can with this paint equipped, lead Odnoklassniki to victory and win cool prizes!",
+  "interestingFacts": [
+    "The paint was available for purchase for 1,000 crystals as part of the Tank Battle campaign, which ran from November 16 to November 23, 2017.",
+    "Once bought, it will stay in your Garage forever."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "1 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:1 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is for the participants of the «{GAME} Battle: OK vs VK» event. Destroy as many enemy tanks as you can with this paint equipped, lead Odnoklassniki to victory and win cool prizes!\nSee also: Paints\nInteresting facts\nThe paint was available for purchase for 1,000 crystals as part of the Tank Battle campaign, which ran from November 16 to November 23, 2017.\nOnce bought, it will stay in your Garage forever.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

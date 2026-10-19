@@ -1,0 +1,26 @@
+{
+  "name": "Spring",
+  "source": "wiki",
+  "page": "/Spring",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "When wearing this paint, your tank will look so fresh and peaceful that your enemies won't even want to shoot you...Maybe",
+  "interestingFacts": [
+    "The paint was available for purchase in a special offer from March 5 to March 11, 2019.",
+    "A caterpillar-themed prototype of this paint was also developed, but proved somewhat less aesthetically pleasing"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nWhen wearing this paint, your tank will look so fresh and peaceful that your enemies won't even want to shoot you...Maybe\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a special offer from March 5 to March 11, 2019.\nA caterpillar-themed prototype of this paint was also developed, but proved somewhat less aesthetically pleasing\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

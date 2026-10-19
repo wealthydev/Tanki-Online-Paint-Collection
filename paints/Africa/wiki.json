@@ -1,0 +1,29 @@
+{
+  "name": "Africa",
+  "source": "wiki",
+  "page": "/Africa",
+  "type": "Garage",
+  "price": {
+    "amount": 400000,
+    "currency": "Crystals",
+    "text": "400 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This paint features traditional African patterns used by African shamans with the belief that it can protect tanks from harm.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Before the Paint Separation Update, Africa was worth 300,000 crystals and could be bought from Generalissimo.",
+    "The paint used to have protection from Twins, Thunder, Hammer, and Vulcan.",
+    "On the 10th of April 2020, Africa's unlock rank was lowered from Warrant Officer 1 to Recruit.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "400 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:400 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis paint features traditional African patterns used by African shamans with the belief that it can protect tanks from harm.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nBefore the Paint Separation Update, Africa was worth 300,000 crystals and could be bought from Generalissimo.\nThe paint used to have protection from Twins, Thunder, Hammer, and Vulcan.\nOn the 10th of April 2020, Africa's unlock rank was lowered from Warrant Officer 1 to Recruit.\nLegacy paint description:\nAn all-rounder paint with excellent protection from Hammer, Twins, Vulcan, and Thunder. It will make your tank a dangerous opponent at medium ranges. Covers your battle machine in a traditional African pattern.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

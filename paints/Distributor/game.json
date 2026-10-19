@@ -1,0 +1,24 @@
+{
+  "name": "Distributor",
+  "rawName": "Distributor",
+  "item": "920009601400",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "",
+  "paint": {
+    "id": "1575279612245",
+    "version": "1775743168681",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580200499719",
+    "version": "1581391596573"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

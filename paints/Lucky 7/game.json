@@ -1,0 +1,24 @@
+{
+  "name": "Lucky 7",
+  "rawName": "Lucky 7",
+  "item": "920004704696",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to players who reached the «Challengers Stage» in a Major tournament.",
+  "paint": {
+    "id": "500135050",
+    "version": "1775743169372",
+    "animated": false
+  },
+  "preview": {
+    "id": "500135052",
+    "version": "1581391577884"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

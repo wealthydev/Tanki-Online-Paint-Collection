@@ -1,0 +1,24 @@
+{
+  "name": "Snowman",
+  "rawName": "Snowman",
+  "item": "920009291491",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": " ",
+  "paint": {
+    "id": "1514361405068",
+    "version": "1775743169881",
+    "animated": false
+  },
+  "preview": {
+    "id": "1514361463641",
+    "version": "1581391328300"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

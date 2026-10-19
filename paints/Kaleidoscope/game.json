@@ -1,0 +1,27 @@
+{
+  "name": "Kaleidoscope",
+  "rawName": "Kaleidoscope",
+  "item": "920004959811",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 130000
+  },
+  "owned": false,
+  "description": "A dizzying mixture of colors and shapes intended to disrupt the way your enemies perceive your tank. The harder they try to look at you, the more confusing you will look, and hopefully, the more difficulty they will have with hitting you.",
+  "paint": {
+    "id": "500364205",
+    "version": "1775743169319",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364214",
+    "version": "1581391397176"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

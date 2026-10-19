@@ -1,0 +1,25 @@
+{
+  "name": "Microbiology",
+  "rawName": "Microbiology",
+  "item": "920009601464",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "When observed under a microscope it looks like... you definitely don't want to know.",
+  "paint": {
+    "id": "1553589354702",
+    "version": "1697183401440",
+    "animated": true
+  },
+  "preview": {
+    "id": "1553589274907",
+    "version": "1581391476725"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

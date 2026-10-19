@@ -1,0 +1,24 @@
+{
+  "name": "Microchip",
+  "rawName": "Microchip",
+  "item": "920004703737",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for social media helpers and content helpers. ",
+  "paint": {
+    "id": "50115991",
+    "version": "1775743169419",
+    "animated": false
+  },
+  "preview": {
+    "id": "50115990",
+    "version": "1581391337766"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

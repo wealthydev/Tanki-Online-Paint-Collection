@@ -1,0 +1,27 @@
+{
+  "name": "Orange",
+  "rawName": "Orange",
+  "item": "1931009779879",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "Originally, there were no plans to include this color in the official list, as it lacked any practical value, except maybe a decent camouflage in desert areas. However, army psychologists have proved that this particular hue of orange has a positive, therapeutic effect on shell-shocked tanks.",
+  "paint": {
+    "id": "1685024367966",
+    "version": "1775743169465",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024367512",
+    "version": "1707988444002"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

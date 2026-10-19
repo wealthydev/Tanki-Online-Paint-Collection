@@ -1,0 +1,27 @@
+{
+  "name": "Yellow",
+  "rawName": "Yellow",
+  "item": "1931009779882",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "This paint is used by the \"East Warriors\" divisions that always attack enemies from the side of the sun. On sunrise, the blinding sun shimmers in the paint with millions of glares and reduces how often a tank is hit. But only during the sunrise.",
+  "paint": {
+    "id": "1685024458873",
+    "version": "1775743169474",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024458418",
+    "version": "1707988497340"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

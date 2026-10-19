@@ -1,0 +1,27 @@
+{
+  "name": "Magma",
+  "rawName": "Magma",
+  "item": "920004703853",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10000
+  },
+  "owned": false,
+  "description": "This paint is often used on tanks equipped with flamethrowers. It gives the impression that lava is flowing through the tank itself, terrorizing the opposition. ",
+  "paint": {
+    "id": "500309252",
+    "version": "1775743169384",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309259",
+    "version": "1581391588808"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

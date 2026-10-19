@@ -1,0 +1,27 @@
+{
+  "name": "Gold",
+  "rawName": "Gold",
+  "item": "1931009779878",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "A paint used often for test samples and maintenance vehicles. The Gold color is considered incredibly eye-catching, even if it's just a paint. Ignoring tanks with this color scheme is considered bad manners.",
+  "paint": {
+    "id": "1685024347024",
+    "version": "1775743169462",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024346564",
+    "version": "1707988340120"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Star",
+  "rawName": "Star",
+  "item": "920004703613",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to players who reached the «Champions Stage» in a Major tournament.",
+  "paint": {
+    "id": "500052350",
+    "version": "1775743169920",
+    "animated": false
+  },
+  "preview": {
+    "id": "500052351",
+    "version": "1581391409160"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

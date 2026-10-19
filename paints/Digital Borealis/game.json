@@ -1,0 +1,25 @@
+{
+  "name": "Digital Borealis",
+  "rawName": "Digital Borealis",
+  "item": "920009656663",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Become the most beautiful northern lights the world has ever seen! Scientists have managed to create an artificial Aurora using the latest technology. Thanks to her, not only the northern sky will shine in all its splendor, but also your tank. One of the most beautiful natural phenomena can be yours in the form of a garage paint.",
+  "paint": {
+    "id": "1580121713054",
+    "version": "1697183401481",
+    "animated": true
+  },
+  "preview": {
+    "id": "1580123026614",
+    "version": "1581391375843"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

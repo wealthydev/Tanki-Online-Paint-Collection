@@ -1,0 +1,25 @@
+{
+  "name": "Cosmic Blast",
+  "rawName": "Cosmic Blast",
+  "item": "920009656664",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is full of surprises, just like space. Maybe there's more to this paint than just an explosion. If you look closer you will notice one or two planets that may seem familiar to you.",
+  "paint": {
+    "id": "1580123121190",
+    "version": "1697183401388",
+    "animated": true
+  },
+  "preview": {
+    "id": "1580124308581",
+    "version": "1581391431836"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

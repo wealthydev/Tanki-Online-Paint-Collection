@@ -1,0 +1,25 @@
+{
+  "name": "Thunderball",
+  "source": "wiki",
+  "page": "/Thunderball",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A very rare and dangerous phenomenon, unpredictable in its trajectory and deadliest effect.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA very rare and dangerous phenomenon, unpredictable in its trajectory and deadliest effect.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

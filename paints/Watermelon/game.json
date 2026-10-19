@@ -1,0 +1,24 @@
+{
+  "name": "Watermelon",
+  "rawName": "Watermelon",
+  "item": "920009605680",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Sometimes, simple works best. This bright red paint sports the classic {GAME_NAME} logo, creating a striking visual statement.",
+  "paint": {
+    "id": "1561638712793",
+    "version": "1775743169784",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561639088237",
+    "version": "1581391350475"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

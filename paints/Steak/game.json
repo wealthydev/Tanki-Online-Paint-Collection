@@ -1,0 +1,27 @@
+{
+  "name": "Steak",
+  "rawName": "Steak",
+  "item": "920007005378",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "This paint gives your tank a succulent look that just begs to be bitten. Expect to be chased around the arena by carnivores with Firebirds, while vegans will want to punish you for your lack of sensitivity.",
+  "paint": {
+    "id": "500391217",
+    "version": "1775743169929",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391208",
+    "version": "1581391512949"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

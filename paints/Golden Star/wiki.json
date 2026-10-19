@@ -1,0 +1,28 @@
+{
+  "name": "Golden Star",
+  "source": "wiki",
+  "page": "/Golden_Star",
+  "type": "Garage",
+  "price": {
+    "amount": 750000,
+    "currency": "Crystals",
+    "text": "750 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Gold plating dusted with diamond filings. This coating can only be afforded by the wealthiest tankers.",
+  "interestingFacts": [
+    "The paint first appeared on May 1, 2015, as a holiday cover for the May holidays.",
+    "Returned on sale July 21, 2016.",
+    "Paint used to be possible to be purchased with an active premium account until December 2020.",
+    "This is the most expensive paint in the game that can be purchased for crystals, and one of only 2 Epic Garage paints - the other being Frost."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "750 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:750 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nGold plating dusted with diamond filings. This coating can only be afforded by the wealthiest tankers.\nSee also: Paints\nInteresting facts\nThe paint first appeared on May 1, 2015, as a holiday cover for the May holidays.\nReturned on sale July 21, 2016.\nPaint used to be possible to be purchased with an active premium account until December 2020.\nThis is the most expensive paint in the game that can be purchased for crystals, and one of only 2 Epic Garage paints - the other being Frost.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

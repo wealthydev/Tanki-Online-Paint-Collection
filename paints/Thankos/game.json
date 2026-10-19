@@ -1,0 +1,25 @@
+{
+  "name": "Thankos",
+  "rawName": "Thankos",
+  "item": "920009601780",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Great titan from {GAME_NAME} (not to be confused with the hull!). It would be great if this paint gave an overdrive “Click” that kills everyone on the map. But the paint does not give abilities.",
+  "paint": {
+    "id": "1557737216663",
+    "version": "1697183401458",
+    "animated": true
+  },
+  "preview": {
+    "id": "1557735554590",
+    "version": "1581391696579"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

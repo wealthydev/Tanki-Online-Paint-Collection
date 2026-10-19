@@ -1,0 +1,27 @@
+{
+  "name": "Flow",
+  "source": "wiki",
+  "page": "/Flow",
+  "type": "Tankoin",
+  "price": {
+    "amount": 14000,
+    "currency": "Rubies",
+    "text": "14 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A legendary animated tank coating - the first of its kind. Ultra-compact tesla-generators cause energy to flow along the tank's body, surrounding it with a moving field of unstable particles that swirl around the tank in hypnotic, swaying patterns. This special paint was originally named \"XF-245RD\". However, it was soon nicknamed \"Flow\", not just because of its flowing patterns, but because the tankers who use it personify the deadly calm and crushing the power of flowing water.",
+  "interestingFacts": [
+    "Flow was the first animated paint to be released in {GAME}.",
+    "A unique paint available for purchase from July 8th to July 10th, 2017. It was part of a bundle containing crystals, supplies, Gold Boxes, and Premium.",
+    "If a tanker wearing Flow could drive out into the ocean from the beaches at Rio, their energy would dissipate into the water and become something vaster and more ethereal than any tank. Tragically, that ocean is impossibly distant."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "14 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:14 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA legendary animated tank coating - the first of its kind. Ultra-compact tesla-generators cause energy to flow along the tank's body, surrounding it with a moving field of unstable particles that swirl around the tank in hypnotic, swaying patterns. This special paint was originally named \"XF-245RD\". However, it was soon nicknamed \"Flow\", not just because of its flowing patterns, but because the tankers who use it personify the deadly calm and crushing the power of flowing water.\nSee also: Paints\nInteresting facts\nFlow was the first animated paint to be released in {GAME}.\nA unique paint available for purchase from July 8th to July 10th, 2017. It was part of a bundle containing crystals, supplies, Gold Boxes, and Premium.\nIf a tanker wearing Flow could drive out into the ocean from the beaches at Rio, their energy would dissipate into the water and become something vaster and more ethereal than any tank. Tragically, that ocean is impossibly distant.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

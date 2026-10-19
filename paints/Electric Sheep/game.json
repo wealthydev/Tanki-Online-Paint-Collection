@@ -1,0 +1,25 @@
+{
+  "name": "Electric Sheep",
+  "rawName": "Electric Sheep",
+  "item": "920009618067",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Do androids dream of electric sheep? And do those sheep drive electric tanks? And would those tanks be equipped with this paint? Nobody knows. That knowledge has been lost in time, like tears in the rain.",
+  "paint": {
+    "id": "1567073125649",
+    "version": "1697183401484",
+    "animated": true
+  },
+  "preview": {
+    "id": "1567073125655",
+    "version": "1581391685115"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

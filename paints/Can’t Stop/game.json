@@ -1,0 +1,24 @@
+{
+  "name": "Can’t Stop",
+  "rawName": "Can’t Stop",
+  "item": "920009652012",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Buy this paint and become a fan of Clan \"Can’t Stop\" in the Clan Championship XII playoffs.\n\nImportant! Upon purchasing this paint, the other three fan paints will become unavailable.",
+  "paint": {
+    "id": "1577177838798",
+    "version": "1775743168923",
+    "animated": false
+  },
+  "preview": {
+    "id": "1577177505758",
+    "version": "1581391656534"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

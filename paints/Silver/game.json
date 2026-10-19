@@ -1,0 +1,25 @@
+{
+  "name": "Silver",
+  "rawName": "Silver",
+  "item": "920004703736",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Unique paint made our of silver fibers and secret nano-ingridients, developed in the top research facilities. This paint cannot be bought in the Garage for any amount of crystals, and the paint is given only to players with outstanding achievements in eSports battles.",
+  "paint": {
+    "id": "1543082449025",
+    "version": "1697183401525",
+    "animated": true
+  },
+  "preview": {
+    "id": "500133154",
+    "version": "1581391689914"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

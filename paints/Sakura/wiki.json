@@ -1,0 +1,27 @@
+{
+  "name": "Sakura",
+  "source": "wiki",
+  "page": "/Sakura",
+  "type": "Garage",
+  "price": {
+    "amount": 180000,
+    "currency": "Crystals",
+    "text": "180 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "The parade paint for the samurai tank division. It brings inner harmony and infinite tranquility. Not even the sirens can disrupt the state of mind of the tanker whose tank is wearing this paint.",
+  "interestingFacts": [
+    "Paint appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Sakura was worth 50,500 crystals and could be bought from the rank of Third Lieutenant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "180 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:180 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThe parade paint for the samurai tank division. It brings inner harmony and infinite tranquility. Not even the sirens can disrupt the state of mind of the tanker whose tank is wearing this paint.\nSee also: Paints\nInteresting facts\nPaint appeared on February 6, 2015.\nPrior to the Paint Separation Update, Sakura was worth 50,500 crystals and could be bought from the rank of Third Lieutenant.\nLegacy paint description:\nA paint that protects well against Hammer and Isida. Helps slightly against Vulcan damage. Will be useful at any distance. Will cover your tank with flowers from the sakura tree, giving you a feeling of harmony.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

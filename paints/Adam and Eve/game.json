@@ -1,0 +1,24 @@
+{
+  "name": "Adam and Eve",
+  "rawName": "Adam and Eve",
+  "item": "920009626654",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1572428056985",
+    "version": "1775743168754",
+    "animated": false
+  },
+  "preview": {
+    "id": "1572426953620",
+    "version": "1581391629451"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

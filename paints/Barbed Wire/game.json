@@ -1,0 +1,25 @@
+{
+  "name": "Barbed wire",
+  "rawName": "Barbed wire",
+  "item": "920009599281",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This spiky paint will protect your gear from unwanted visitors, while you're recovering your tank's strength after another round of tiresome battles.",
+  "paint": {
+    "id": "1540801327664",
+    "version": "1697183401507",
+    "animated": true
+  },
+  "preview": {
+    "id": "1540801578285",
+    "version": "1581391479178"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

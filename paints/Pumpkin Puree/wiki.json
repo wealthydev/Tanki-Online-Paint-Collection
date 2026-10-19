@@ -1,0 +1,26 @@
+{
+  "name": "Pumpkin Puree",
+  "source": "wiki",
+  "page": "/Pumpkin_Puree",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint appeared in the game on the 25th of October, 2024.",
+    "This paint was available through the «Trick or Treat» mini-game from October 25th to November 21st, 2023."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint appeared in the game on the 25th of October, 2024.\nThis paint was available through the «Trick or Treat» mini-game from October 25th to November 21st, 2023.\nGarage preview\nLast Edit: Emrakul 10/27/2024"
+}

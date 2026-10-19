@@ -1,0 +1,28 @@
+{
+  "name": "Spectrum",
+  "rawName": "Spectrum",
+  "item": "920009189871",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 16000
+  },
+  "owned": false,
+  "description": "This paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by the animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green.., wait, blu... wait... red color. Oh for the love of!.. Yellow! AAA! Purple! That's it, I'm done, write this description yourself.",
+  "paint": {
+    "id": "1511270131444",
+    "version": "1697183401517",
+    "animated": true
+  },
+  "preview": {
+    "id": "1511330865477",
+    "version": "1581391555576"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

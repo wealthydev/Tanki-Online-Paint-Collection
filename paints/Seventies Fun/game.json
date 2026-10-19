@@ -1,0 +1,25 @@
+{
+  "name": "Seventies Fun",
+  "rawName": "Seventies Fun",
+  "item": "920009621502",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1569902336729",
+    "version": "1697183401454",
+    "animated": true
+  },
+  "preview": {
+    "id": "1569902371110",
+    "version": "1581391339681"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

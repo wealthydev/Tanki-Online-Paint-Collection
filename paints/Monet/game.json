@@ -1,0 +1,27 @@
+{
+  "name": "Monet",
+  "rawName": "Monet",
+  "item": "920009365537",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "This paint was inspired by a little known painting of the famous French artists Édouard Manet and Claude Monet. Researches say for a long time the artists would debate who will have their last name on the painting. Flipping a coin solved it.",
+  "paint": {
+    "id": "1516883264882",
+    "version": "1775743169442",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264883",
+    "version": "1581391368307"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

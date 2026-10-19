@@ -1,0 +1,26 @@
+{
+  "name": "Safari",
+  "source": "wiki",
+  "page": "/Safari",
+  "type": "Garage",
+  "price": {
+    "amount": 75000,
+    "currency": "Crystals",
+    "text": "75 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Designed by those who love the thrill of the safari, this paint masks the tank as an innocuous zebra, which makes it perfect for hunting African predators, as well as naive tankers.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Safari's was worth 3,000 crystals and could be bought from the rank of Staff Sergeant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "75 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:75 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nDesigned by those who love the thrill of the safari, this paint masks the tank as an innocuous zebra, which makes it perfect for hunting African predators, as well as naive tankers.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Safari's was worth 3,000 crystals and could be bought from the rank of Staff Sergeant.\nLegacy paint description:\nA paint that protects against Isida beams. Good for short-range battles. Gives tanks a zebra-like look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

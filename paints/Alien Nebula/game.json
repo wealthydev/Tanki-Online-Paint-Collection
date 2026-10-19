@@ -1,0 +1,25 @@
+{
+  "name": "Alien Nebula",
+  "rawName": "Alien Nebula",
+  "item": "920009605683",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "As our study into alien life forms continues, it has recently been discovered that alien craft are using a type of cloaking technology codenamed \"Alien Nebula\". This is what it looks like.",
+  "paint": {
+    "id": "1561645548416",
+    "version": "1697183401529",
+    "animated": true
+  },
+  "preview": {
+    "id": "1561646674838",
+    "version": "1581391755809"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rustle",
+  "source": "wiki",
+  "page": "/Rustle",
+  "type": "Garage",
+  "price": {
+    "amount": 35000,
+    "currency": "Crystals",
+    "text": "35 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Autumn leaves may rustle beneath your tank's tracks, but your opponents still won't be able to detect you thanks to this paint's unique blend of hues.",
+  "interestingFacts": [
+    "Paint first appeared on July 29, 2010.",
+    "Prior to the Paint Separation Update, Rustle was worth 90,500 crystals and could be bought from Major.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "35 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:35 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nAutumn leaves may rustle beneath your tank's tracks, but your opponents still won't be able to detect you thanks to this paint's unique blend of hues.\nSee also: Paints\nInteresting facts\nPaint first appeared on July 29, 2010.\nPrior to the Paint Separation Update, Rustle was worth 90,500 crystals and could be bought from Major.\nLegacy paint description:\nA paint that gives some protection against Isida and solid protection against Thunder and Freeze. Great for mid to long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

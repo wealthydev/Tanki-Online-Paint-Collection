@@ -1,0 +1,25 @@
+{
+  "name": "Jaguar",
+  "source": "wiki",
+  "page": "/Jaguar",
+  "type": "Garage",
+  "price": {
+    "amount": 300000,
+    "currency": "Crystals",
+    "text": "300 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Hand-crafted to give your tank the look of a noble predator ?— the camouflage of a true hunter.",
+  "interestingFacts": [
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "300 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:300 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nHand-crafted to give your tank the look of a noble predator ?— the camouflage of a true hunter.\nSee also: Paints\nInteresting facts\nLegacy paint description:\nA paint that somewhat protects against Firebird and Thunder, but does a better job against Freeze. Useful in short to mid-range battles. Makes your tank look like a wild cat.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

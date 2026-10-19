@@ -1,0 +1,25 @@
+{
+  "name": "Spangles",
+  "source": "wiki",
+  "page": "/Spangles",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Bring a touch of holiday cheer with this special paint that makes you look like a Christmas tree bauble... if baubles had turrets and fired all sorts of deadly projectiles.",
+  "interestingFacts": [
+    "This paint was available in the shop as part of a special bundle during the 2017 New Year celebrations from December 24, 2016, to January 9, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nBring a touch of holiday cheer with this special paint that makes you look like a Christmas tree bauble... if baubles had turrets and fired all sorts of deadly projectiles.\nSee also: Paints\nInteresting facts\nThis paint was available in the shop as part of a special bundle during the 2017 New Year celebrations from December 24, 2016, to January 9, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

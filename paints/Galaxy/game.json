@@ -1,0 +1,25 @@
+{
+  "name": "Galaxy",
+  "rawName": "Galaxy",
+  "item": "920009542641",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "If you gaze into this paint long enough, you can see a cat flying through space on a slice of pizza.",
+  "paint": {
+    "id": "1523437647692",
+    "version": "1697183401513",
+    "animated": true
+  },
+  "preview": {
+    "id": "1523439829179",
+    "version": "1581391572630"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

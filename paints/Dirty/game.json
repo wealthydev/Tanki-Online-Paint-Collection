@@ -1,0 +1,27 @@
+{
+  "name": "Dirty",
+  "rawName": "Dirty",
+  "item": "920004703490",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 3500
+  },
+  "owned": false,
+  "description": "This was originally intended as the third paint designed for ground operations in a mid-latitude climate. However, the military later decided not to include it in the standard package, after repeated attempts by staff cleaners to remove the painted mud texture from the cover. ",
+  "paint": {
+    "id": "5001773",
+    "version": "1775743169042",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001772",
+    "version": "1581391546796"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

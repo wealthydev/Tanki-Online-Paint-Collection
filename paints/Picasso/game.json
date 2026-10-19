@@ -1,0 +1,27 @@
+{
+  "name": "Picasso",
+  "rawName": "Picasso",
+  "item": "920004703850",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 65000
+  },
+  "owned": false,
+  "description": "This paint invokes the highly unique and interpretative style of the master himself. It proves that tanks aren't just about brutal firepower.",
+  "paint": {
+    "id": "5010493",
+    "version": "1775743169682",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010492",
+    "version": "1581391522210"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

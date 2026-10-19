@@ -1,0 +1,25 @@
+{
+  "name": "Eruption",
+  "rawName": "Eruption",
+  "item": "920009595701",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Powerful explosion, black clouds of ash, rivers of searing lava, destroying everything in its path — this paint will make your tank a true disaster for your enemies.",
+  "paint": {
+    "id": "1526549226681",
+    "version": "1697183401473",
+    "animated": true
+  },
+  "preview": {
+    "id": "1526550876610",
+    "version": "1581391324213"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

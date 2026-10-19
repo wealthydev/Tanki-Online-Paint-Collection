@@ -1,0 +1,27 @@
+{
+  "name": "Neuron",
+  "rawName": "Neuron",
+  "item": "920004826769",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 4000
+  },
+  "owned": false,
+  "description": "Using a sophisticated neural network, our scientists have created an artificial paint designer to optimise paint job production. To test its capabilities, the scientists gave it the task of drawing itself. Neural Network took that task literally, as can be seen from the result. Some scientists speculate that Neural Network might have been joking, and might even be self-aware, but we assure you that we've taken every precaution to prevent possible robot apocalypse scenarios.",
+  "paint": {
+    "id": "500362869",
+    "version": "1775743169512",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362867",
+    "version": "1581391602480"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

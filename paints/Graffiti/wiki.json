@@ -1,0 +1,27 @@
+{
+  "name": "Graffiti",
+  "source": "wiki",
+  "page": "/Graffiti",
+  "type": "Garage",
+  "price": {
+    "amount": 250000,
+    "currency": "Crystals",
+    "text": "250 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "An interesting approach to urban camouflage. Pretending to be a victim of street hooligans, your tank perfectly merges with the residential areas of concrete jungles.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Graffiti was worth 250,000 crystals and could be bought from the rank of Generalissimo.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "250 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:250 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nAn interesting approach to urban camouflage. Pretending to be a victim of street hooligans, your tank perfectly merges with the residential areas of concrete jungles.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Graffiti was worth 250,000 crystals and could be bought from the rank of Generalissimo.\nLegacy paint description:\nThe paint with the best protection against Vulcan. Also deals well with damage from Twins and Shaft. Will come in handy at mid to long ranges. Gives your tank a street art look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

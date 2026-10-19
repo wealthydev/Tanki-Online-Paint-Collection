@@ -1,0 +1,24 @@
+{
+  "name": "Hazel’s Panzerwerke",
+  "rawName": "Hazel’s Panzerwerke",
+  "item": "1931009779354",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Hazel's tank factories are an international mark of quality! Attention: the plant does not process nuts, it got this name in honor of the chief game designer — Hazel-Rah!\nExcellent handling and first-class dynamics of these tank cars laid the foundation for success. The perfect combination of power, speed and cross-country ability allows you to lead in the global arena. No matter how many competitors try to declassify unique technologies, they still fail to do so. Such a tough nut is too tough for rivals!",
+  "paint": {
+    "id": "1676449872409",
+    "version": "1775743169972",
+    "animated": false
+  },
+  "preview": {
+    "id": "1676449871933",
+    "version": "1676449872126"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

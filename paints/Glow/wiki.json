@@ -1,0 +1,29 @@
+{
+  "name": "Glow",
+  "source": "wiki",
+  "page": "/Glow",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint appeared on July 9th, 2021.",
+    "This paint was originally obtainable for 3 days from the \"Gamma Jump\" bundle for the Ultra Weekend celebrations.",
+    "Glow was added to Ultra Containers on July 16th, 2021.",
+    "The phosphorescence in this paint comes from a web of glow sticks embedded in the surface of the hull, which are all cracked in sequence by a centralized computer.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint appeared on July 9th, 2021.\nThis paint was originally obtainable for 3 days from the \"Gamma Jump\" bundle for the Ultra Weekend celebrations.\nGlow was added to Ultra Containers on July 16th, 2021.\nThe phosphorescence in this paint comes from a web of glow sticks embedded in the surface of the hull, which are all cracked in sequence by a centralized computer.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

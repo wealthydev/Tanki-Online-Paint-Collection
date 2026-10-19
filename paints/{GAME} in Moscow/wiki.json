@@ -1,0 +1,26 @@
+{
+  "name": "{GAME} in Moscow",
+  "source": "wiki",
+  "page": "/{GAME}_in_Moscow",
+  "type": "Usdbundle",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint was added to the game especially for the «{GAME} in the City» event that took place in Moscow on September 9th, 2017. The paint was also part of the special «{GAME} in Moscow» pack.",
+  "interestingFacts": [
+    "This paint was received by all registered participants of the tank meeting in Moscow on September 9, 2017 in the form of a promotional code.",
+    "Also, the paint was available for purchase in the “{GAME} in Moscow” kit for 15.99 EUR from September 2 to September 11, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Usdbundle",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Usdbundle\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint was added to the game especially for the «{GAME} in the City» event that took place in Moscow on September 9th, 2017. The paint was also part of the special «{GAME} in Moscow» pack.\nSee also: Paints\nInteresting facts\nThis paint was received by all registered participants of the tank meeting in Moscow on September 9, 2017 in the form of a promotional code.\nAlso, the paint was available for purchase in the “{GAME} in Moscow” kit for 15.99 EUR from September 2 to September 11, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

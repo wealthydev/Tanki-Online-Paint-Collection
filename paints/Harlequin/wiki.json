@@ -1,0 +1,25 @@
+{
+  "name": "Harlequin",
+  "source": "wiki",
+  "page": "/Harlequin",
+  "type": "Garage",
+  "price": {
+    "amount": 40000,
+    "currency": "Crystals",
+    "text": "40 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Become the iconic Italian street artist with the Harlequin paint. Entertain your teammates with some ad-hoc theatricality, or make your opponents underestimate you by playing the part of the fool... then shoot some holes into them. In the end, you'll be the one laughing.",
+  "interestingFacts": [
+    "Paint appeared on August 12, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "40 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:40 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nBecome the iconic Italian street artist with the Harlequin paint. Entertain your teammates with some ad-hoc theatricality, or make your opponents underestimate you by playing the part of the fool... then shoot some holes into them. In the end, you'll be the one laughing.\nSee also: Paints\nInteresting facts\nPaint appeared on August 12, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

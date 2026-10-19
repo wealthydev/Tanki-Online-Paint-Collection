@@ -1,0 +1,27 @@
+{
+  "name": "Needle",
+  "rawName": "Needle",
+  "item": "920004704218",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 60000
+  },
+  "owned": false,
+  "description": "Using spruce from sustainable-only areas, the \"Needle\" paint is prepared using 25 square meters of spruce, cut down and shredded into miniature wooden needles, and bound together using a special type of resin.",
+  "paint": {
+    "id": "5010494",
+    "version": "1775743169495",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010491",
+    "version": "1581391496121"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

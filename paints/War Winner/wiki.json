@@ -1,0 +1,26 @@
+{
+  "name": "War Winner",
+  "source": "wiki",
+  "page": "/War_Winner",
+  "type": "War",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is given to the winners of the global «War» event. Actions in the «War» happen on the {GAME} world map. The owner of this paint is a very active tanker who is a good team player and knows how to apply good tactics.\nThe winner's paint is temporary. With the start of the next War with the map-voting system, it will be removed from the accounts of the current owners.",
+  "interestingFacts": [
+    "Paint appeared on December 25th 2019.",
+    "This paint was obtained by the winning faction from the War. Stolen Christmas in December 2019 and in War 2025."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is given to the winners of the global «War» event. Actions in the «War» happen on the {GAME} world map. The owner of this paint is a very active tanker who is a good team player and knows how to apply good tactics.\nThe winner's paint is temporary. With the start of the next War with the map-voting system, it will be removed from the accounts of the current owners.\nSee also: Paints\nInteresting facts\nPaint appeared on December 25th 2019.\nThis paint was obtained by the winning faction from the War. Stolen Christmas in December 2019 and in War 2025.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

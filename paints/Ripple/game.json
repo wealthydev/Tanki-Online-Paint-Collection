@@ -1,0 +1,27 @@
+{
+  "name": "Ripple",
+  "rawName": "Ripple",
+  "item": "920009365546",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "As toxic colors drip into the pattern you become fazed out of battles, as enemy tanks suddenly find you behind and blasting them with fire. Captivating.",
+  "paint": {
+    "id": "1516883264870",
+    "version": "1775743169808",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264871",
+    "version": "1581391373679"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

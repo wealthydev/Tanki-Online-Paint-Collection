@@ -1,0 +1,28 @@
+{
+  "name": "Trapped Inside",
+  "rawName": "Trapped Inside",
+  "item": "920009645941",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 16000
+  },
+  "owned": false,
+  "description": "Do you feel like it's time to pursue a vendetta? Does it look like your teammates have deserted you? Feel like you are trapped in your own tank? Overcome the suffering by equipping this paint as a symbol of strength and pride on the battlefield.",
+  "paint": {
+    "id": "1574943622391",
+    "version": "1697183401488",
+    "animated": true
+  },
+  "preview": {
+    "id": "1574945561013",
+    "version": "1581391317607"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

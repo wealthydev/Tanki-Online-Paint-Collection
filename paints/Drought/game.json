@@ -1,0 +1,27 @@
+{
+  "name": "Drought",
+  "rawName": "Drought",
+  "item": "920005376822",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": false,
+  "description": "The Drought paint gives your enemies a preview of the desolation and destruction you will bring into the arena. Nothing survives the Drought... and nothing survives you.",
+  "paint": {
+    "id": "500368907",
+    "version": "1775743169054",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368902",
+    "version": "1581391711163"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

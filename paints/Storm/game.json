@@ -1,0 +1,27 @@
+{
+  "name": "Storm",
+  "rawName": "Storm",
+  "item": "920004703731",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 3000
+  },
+  "owned": false,
+  "description": "A perfect disguise for covert night time operations, this paint makes the tank virtually invisible at dusk.",
+  "paint": {
+    "id": "5006154",
+    "version": "1775743169932",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006139",
+    "version": "1581391377411"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

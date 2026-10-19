@@ -1,0 +1,27 @@
+{
+  "name": "Mint",
+  "rawName": "Mint",
+  "item": "920005376821",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 3000
+  },
+  "owned": false,
+  "description": "Now, you too can bring a breath of freshness into the arena with the Mint paint. Guaranteed to work against even the most severe cases of tank halitosis.",
+  "paint": {
+    "id": "500368906",
+    "version": "1775743169433",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368901",
+    "version": "1581391612208"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

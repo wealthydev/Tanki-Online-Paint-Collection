@@ -1,0 +1,24 @@
+{
+  "name": "Sonar",
+  "rawName": "Sonar",
+  "item": "921009687164",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1598366046120",
+    "version": "1775743169890",
+    "animated": false
+  },
+  "preview": {
+    "id": "1598366026126",
+    "version": "1598366027005"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

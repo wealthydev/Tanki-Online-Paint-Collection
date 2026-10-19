@@ -1,0 +1,24 @@
+{
+  "name": "Zombies",
+  "rawName": "Zombies",
+  "item": "1931009779056",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "«Zombies» faction! The main task is to survive! Intimidate your opponents with your appearance, infect them with the secret virus developed in {GAME}'s laboratory, and bring your army of the walking dead to victory!",
+  "paint": {
+    "id": "1669096585717",
+    "version": "1775743170715",
+    "animated": false
+  },
+  "preview": {
+    "id": "1669096585286",
+    "version": "1669096585480"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

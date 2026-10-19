@@ -1,0 +1,24 @@
+{
+  "name": "Tempest",
+  "rawName": "Tempest",
+  "item": "1931010008940",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1763459381603",
+    "version": "1775743170221",
+    "animated": false
+  },
+  "preview": {
+    "id": "1763459381351",
+    "version": "1763459381596"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

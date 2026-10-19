@@ -1,0 +1,24 @@
+{
+  "name": " ",
+  "rawName": " ",
+  "item": "920006706962",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": " ",
+  "paint": {
+    "id": "500390043",
+    "version": "1775743168382",
+    "animated": false
+  },
+  "preview": {
+    "id": "500390044",
+    "version": "1581391683682"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

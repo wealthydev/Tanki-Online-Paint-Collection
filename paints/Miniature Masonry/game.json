@@ -1,0 +1,24 @@
+{
+  "name": "Miniature Masonry",
+  "rawName": "Miniature Masonry",
+  "item": "920009626658",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1572428190737",
+    "version": "1775743169430",
+    "animated": false
+  },
+  "preview": {
+    "id": "1572427112582",
+    "version": "1581391307025"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

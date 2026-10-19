@@ -1,0 +1,25 @@
+{
+  "name": "Siberian tiger",
+  "rawName": "Siberian tiger",
+  "item": "920009595703",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Luxurious paint, which defines its owner as a true, savage predator.\n\nAccording to worldwide numbers in 2015 there're only 500 Siberian tigers left. Let's up the number!",
+  "paint": {
+    "id": "1526549081348",
+    "version": "1697183401539",
+    "animated": true
+  },
+  "preview": {
+    "id": "1526550933306",
+    "version": "1581391329874"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

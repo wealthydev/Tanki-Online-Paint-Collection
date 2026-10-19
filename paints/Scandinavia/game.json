@@ -1,0 +1,27 @@
+{
+  "name": "Scandinavia",
+  "rawName": "Scandinavia",
+  "item": "920007005064",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "This paint dresses up your tank in a warm woolen coating with a typical Scandinavian pattern. It should keep you cosy as far as the Arctic Circle.",
+  "paint": {
+    "id": "500391210",
+    "version": "1775743169848",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391202",
+    "version": "1581391674371"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

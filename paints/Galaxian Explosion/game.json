@@ -1,0 +1,25 @@
+{
+  "name": "Galaxian Explosion",
+  "rawName": "Galaxian Explosion",
+  "item": "920009601712",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This animated paint was created for people who are fascinated by the infinity of outer space... and maybe for fans of a certain manga series from the eighties.",
+  "paint": {
+    "id": "1556529057050",
+    "version": "1697183401325",
+    "animated": true
+  },
+  "preview": {
+    "id": "1556278779287",
+    "version": "1581391738723"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

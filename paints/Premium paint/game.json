@@ -1,0 +1,24 @@
+{
+  "name": "Premium paint",
+  "rawName": "Premium paint",
+  "item": "920003139980",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "500339001",
+    "version": "1775743169732",
+    "animated": false
+  },
+  "preview": {
+    "id": "500339000",
+    "version": "1581391717440"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

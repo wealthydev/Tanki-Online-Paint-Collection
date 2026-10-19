@@ -1,0 +1,27 @@
+{
+  "name": "Strawberry",
+  "rawName": "Strawberry",
+  "item": "920007005370",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": true,
+  "description": "Tantalize your enemies with the aroma, bright red color, juicy texture, and sweetness of your strawberry tank. And then, when they move closer to have a bite, give them a taste of your bullets.",
+  "paint": {
+    "id": "500391213",
+    "version": "1775743169325",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391205",
+    "version": "1581391492872"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mary",
+  "source": "wiki",
+  "page": "/Mary",
+  "type": "Garage",
+  "price": {
+    "amount": 100000,
+    "currency": "Crystals",
+    "text": "100 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Covered with bloody red stains, this paint is meant to inflict horror upon the enemy. However, highly experienced tankers will probably notice that what looks like blood is actually tomato juice. No wonder the paint is called \"Mary\".",
+  "interestingFacts": [
+    "Paint first appeared on July 29, 2010.",
+    "Prior to the Paint Separation Update, Mary's price was 6,500 crystals and was obtainable at the rank of Master Sergeant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "100 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:100 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nCovered with bloody red stains, this paint is meant to inflict horror upon the enemy. However, highly experienced tankers will probably notice that what looks like blood is actually tomato juice. No wonder the paint is called \"Mary\".\nSee also: Paints\nInteresting facts\nPaint first appeared on July 29, 2010.\nPrior to the Paint Separation Update, Mary's price was 6,500 crystals and was obtainable at the rank of Master Sergeant.\nLegacy paint description:\nA paint that protects against several guns. Offers decent protection against Smoky and Twins while being excellent against Freeze. Good for short to mid-range battles. Gives your tank a garish, memorable look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

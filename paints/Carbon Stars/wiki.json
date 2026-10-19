@@ -1,0 +1,29 @@
+{
+  "name": "Carbon Stars",
+  "source": "wiki",
+  "page": "/Carbon_Stars",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This rare paint was created using the Triple-alpha process by transforming three helium-4 nuclei into carbon. This gives the paint its unique luminous effect and allows it to emit stellar gamma radiation that attacks enemies from within and takes control over them.",
+  "interestingFacts": [
+    "This paint was added to the game on June 1st, 2020.",
+    "This paint could have been unlocked at Tier 33 of the June 2020 Challenge A.",
+    "This paint was added to containers on February 5th, 2021.",
+    "With update 640, released March 19, 2021, Carbon Stars received a unique Garage description.",
+    "This paint could have been unlocked at Tier 23 of the June 2021 Challenge A."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis rare paint was created using the Triple-alpha process by transforming three helium-4 nuclei into carbon. This gives the paint its unique luminous effect and allows it to emit stellar gamma radiation that attacks enemies from within and takes control over them.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on June 1st, 2020.\nThis paint could have been unlocked at Tier 33 of the June 2020 Challenge A.\nThis paint was added to containers on February 5th, 2021.\nWith update 640, released March 19, 2021, Carbon Stars received a unique Garage description.\nThis paint could have been unlocked at Tier 23 of the June 2021 Challenge A.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

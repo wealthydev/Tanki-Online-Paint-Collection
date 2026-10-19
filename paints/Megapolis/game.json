@@ -1,0 +1,27 @@
+{
+  "name": "Megapolis",
+  "rawName": "Megapolis",
+  "item": "920009595695",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "This paint will hide your tank among the tourist streets of Shanghai, Tokyo and Las Vegas, thanks to bright colors and sharp lines designed to make your opponents mass produce envy.",
+  "paint": {
+    "id": "1526550185502",
+    "version": "1775743169501",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550902355",
+    "version": "1581391334564"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

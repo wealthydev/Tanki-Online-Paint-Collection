@@ -1,0 +1,24 @@
+{
+  "name": "{GAME} Trip 2019",
+  "rawName": "{GAME} Trip 2019",
+  "item": "920009613066",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Do you like summer? Do you like {GAME}? Then you will LOVE this paint! \n\nIt has been created to commemorate the 2019 {GAME} Trip and is exclusively found in the bundle of the same name.",
+  "paint": {
+    "id": "1565247286929",
+    "version": "1775743170538",
+    "animated": false
+  },
+  "preview": {
+    "id": "1565248050299",
+    "version": "1581391313377"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

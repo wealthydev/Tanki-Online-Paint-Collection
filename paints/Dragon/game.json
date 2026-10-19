@@ -1,0 +1,27 @@
+{
+  "name": "Dragon",
+  "rawName": "Dragon",
+  "item": "920004703498",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 50000
+  },
+  "owned": false,
+  "description": "The inspiration for the prototype of this complex creation, was the dragon scale. Each scale is drawn by hand on a reinforced piece of titanium plate armor.",
+  "paint": {
+    "id": "5001721",
+    "version": "1775743169352",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001724",
+    "version": "1581391679497"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

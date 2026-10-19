@@ -1,0 +1,25 @@
+{
+  "name": "Sudoku",
+  "source": "wiki",
+  "page": "/Sudoku",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "To solve this puzzle you need patience, a sharp mind, and the ability to think logically. If you bring all three to the battlefield wearing this paint, the enemies won't solve you.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nTo solve this puzzle you need patience, a sharp mind, and the ability to think logically. If you bring all three to the battlefield wearing this paint, the enemies won't solve you.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

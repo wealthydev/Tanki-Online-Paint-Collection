@@ -1,0 +1,24 @@
+{
+  "name": "Blaze",
+  "rawName": "Blaze",
+  "item": "920009546362",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint belongs to the fearsome players of parkour community, who completed the impossible challenges of Parkour Survival and finished the contest as a single team.",
+  "paint": {
+    "id": "1523609170344",
+    "version": "1775743165789",
+    "animated": false
+  },
+  "preview": {
+    "id": "1523609195480",
+    "version": "1581391337208"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

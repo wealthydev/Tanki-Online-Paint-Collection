@@ -1,0 +1,25 @@
+{
+  "name": "Champion",
+  "rawName": "Champion",
+  "item": "920004704098",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Unique paint \"Champion\" can not be bought for any amount of money even on the Black Market. Made from gold and platinum fibers, it is given strictly under personal signature only to the winners of big team tournaments.",
+  "paint": {
+    "id": "1543082012000",
+    "version": "1697183401493",
+    "animated": true
+  },
+  "preview": {
+    "id": "5006188",
+    "version": "1581391492404"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Arachnid",
+  "rawName": "Arachnid",
+  "item": "920004959661",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "A paint inspired by the intricate nets of death that the spider creates to capture its next meal. And with the fear of spiders being so common, this paint gives you the added advantage of psychological warfare.",
+  "paint": {
+    "id": "500364200",
+    "version": "1775743168793",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364209",
+    "version": "1581391351101"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

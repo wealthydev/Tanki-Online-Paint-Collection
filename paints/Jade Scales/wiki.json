@@ -1,0 +1,25 @@
+{
+  "name": "Jade Scales",
+  "source": "wiki",
+  "page": "/Jade_Scales",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint was inspired by oriental stories of a mysterious dragon whose skin is said to be encrusted with fine specks of jade.",
+  "interestingFacts": [
+    "This paint was available as a reward for completing the challenge during July 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint was inspired by oriental stories of a mysterious dragon whose skin is said to be encrusted with fine specks of jade.\nSee also: Paints\nInteresting facts\nThis paint was available as a reward for completing the challenge during July 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

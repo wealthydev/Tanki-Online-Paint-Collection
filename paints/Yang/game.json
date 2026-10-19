@@ -1,0 +1,24 @@
+{
+  "name": "Yang",
+  "rawName": "Yang",
+  "item": "920009657338",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1580194741748",
+    "version": "1775743170657",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580194907556",
+    "version": "1581391430436"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

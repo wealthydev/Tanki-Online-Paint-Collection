@@ -1,0 +1,26 @@
+{
+  "name": "Fall leaves",
+  "source": "wiki",
+  "page": "/Fall_leaves",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Maple leaves, which make up this paint, will forever keep their beautiful shape and inspire a wonderful mood within you. Any time of the year your tank will be golden, and the paint also makes a perfect forest camouflage.",
+  "interestingFacts": [
+    "The paint was issued to players who earned 700 stars in the Star Week promotion (August 21 - 27, 2018).",
+    "This paint makes a wonderful crunchy sound when you step on it."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nMaple leaves, which make up this paint, will forever keep their beautiful shape and inspire a wonderful mood within you. Any time of the year your tank will be golden, and the paint also makes a perfect forest camouflage.\nSee also: Paints\nInteresting facts\nThe paint was issued to players who earned 700 stars in the Star Week promotion (August 21 - 27, 2018).\nThis paint makes a wonderful crunchy sound when you step on it.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

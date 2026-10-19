@@ -1,0 +1,27 @@
+{
+  "name": "Python",
+  "rawName": "Python",
+  "item": "920004703979",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 100000
+  },
+  "owned": true,
+  "description": "This paint is an exact replica of a giant python's skin. It also replicates the snake's properties of extreme elasticity, as well as its scaly texture.",
+  "paint": {
+    "id": "5006187",
+    "version": "1775743169757",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006185",
+    "version": "1581391683321"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

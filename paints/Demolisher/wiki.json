@@ -1,0 +1,26 @@
+{
+  "name": "Demolisher",
+  "source": "wiki",
+  "page": "/Demolisher",
+  "type": "War",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Buy this temporary paint to participate in the Demolition WAR, where you will defend the world of {GAME} against the threat of the evil corporation AZAZACORP!",
+  "interestingFacts": [
+    "The paint was created as part of the Demolition War event and was removed from the players' garages after it ended.",
+    "The paint could be obtained forever by completing the special mission “Demolition War” in the period from August 2 to 29, 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nBuy this temporary paint to participate in the Demolition WAR, where you will defend the world of {GAME} against the threat of the evil corporation AZAZACORP!\nSee also: Paints\nInteresting facts\nThe paint was created as part of the Demolition War event and was removed from the players' garages after it ended.\nThe paint could be obtained forever by completing the special mission “Demolition War” in the period from August 2 to 29, 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

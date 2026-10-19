@@ -1,0 +1,25 @@
+{
+  "name": "Cucurbita Pepo",
+  "source": "wiki",
+  "page": "/Cucurbita_Pepo",
+  "type": "Container",
+  "price": {
+    "amount": 14000,
+    "currency": "Rubies",
+    "text": "14 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was available for purchase in the October bundle for 7,000 tankoins. October 25 - November 4, 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "14 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:14 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in the October bundle for 7,000 tankoins. October 25 - November 4, 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

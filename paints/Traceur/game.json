@@ -1,0 +1,24 @@
+{
+  "name": "Traceur",
+  "rawName": "Traceur",
+  "item": "920004704573",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with no defensive attributes. Made for parkour enthusiasts.",
+  "paint": {
+    "id": "500134600",
+    "version": "1775743170530",
+    "animated": false
+  },
+  "preview": {
+    "id": "500134601",
+    "version": "1581391385867"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

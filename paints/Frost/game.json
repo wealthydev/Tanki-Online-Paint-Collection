@@ -1,0 +1,27 @@
+{
+  "name": "Frost",
+  "rawName": "Frost",
+  "item": "920004826761",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 650000
+  },
+  "owned": false,
+  "description": "When the temperatures start soaring, the Frost paint comes to the rescue with a cool look. Also works great for keeping your soda perfectly chilled.",
+  "paint": {
+    "id": "500303567",
+    "version": "1775743169138",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362856",
+    "version": "1581391349632"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

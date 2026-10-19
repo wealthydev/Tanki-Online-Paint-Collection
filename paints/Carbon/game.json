@@ -1,0 +1,27 @@
+{
+  "name": "Carbon",
+  "rawName": "Carbon",
+  "item": "920004703493",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 30000
+  },
+  "owned": false,
+  "description": "A combination of high-tech carbon fiber and high-resistance paint. Includes a special substance meant for disrupting enemy sighting systems, even though this is prohibited by the Tank Movement Inspection Directorate.",
+  "paint": {
+    "id": "5001756",
+    "version": "1775743168930",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001755",
+    "version": "1581391699836"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

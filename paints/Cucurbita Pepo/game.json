@@ -1,0 +1,28 @@
+{
+  "name": "Cucurbita Pepo",
+  "rawName": "Cucurbita Pepo",
+  "item": "920009621504",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1571888992432",
+    "version": "1697183401558",
+    "animated": true
+  },
+  "preview": {
+    "id": "1571889799118",
+    "version": "1581391749855"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

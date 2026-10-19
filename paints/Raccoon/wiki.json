@@ -1,0 +1,27 @@
+{
+  "name": "Raccoon",
+  "source": "wiki",
+  "page": "/Raccoon",
+  "type": "Garage",
+  "price": {
+    "amount": 210000,
+    "currency": "Crystals",
+    "text": "210 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This paint is one of three mandatory possessions for all members of the Worldwide Raccoon Club. The jacket and the tie are only awarded after the initiate has achieved the status of \"Cute Raccoon\". It's serious business.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Raccoon was worth 210,000 crystals and could be bought from the rank of Fieldmarshal.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "210 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:210 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis paint is one of three mandatory possessions for all members of the Worldwide Raccoon Club. The jacket and the tie are only awarded after the initiate has achieved the status of \"Cute Raccoon\". It's serious business.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Raccoon was worth 210,000 crystals and could be bought from the rank of Fieldmarshal.\nLegacy paint description:\nA versatile paint protecting against Isida, Hammer, Vulcan and Railgun. Will help you in any situation. Buying this paint automatically makes you a member of the worldwide raccoon fan club!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "LEDs",
+  "rawName": "LEDs",
+  "item": "920009597011",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The owner of this paint is a welcome guest for any party or event, since their tank, decorated with flowing colorful lights, will shine like a strobe. ",
+  "paint": {
+    "id": "1533631740546",
+    "version": "1697183401331",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533632362044",
+    "version": "1581391402397"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

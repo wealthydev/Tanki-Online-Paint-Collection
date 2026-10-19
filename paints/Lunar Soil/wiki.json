@@ -1,0 +1,27 @@
+{
+  "name": "Lunar Soil",
+  "source": "wiki",
+  "page": "/Lunar_Soil",
+  "type": "Tankoin",
+  "price": {
+    "amount": 3000,
+    "currency": "Rubies",
+    "text": "3 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Since the reintroduction of «Space Mode», there has been a renewed enthusiasm for space trinkets and memorabilia. As a result, a group of rogue scientists, have created this paint using lunar soil smuggled from the moon.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "The paint was issued as the Holiday paint for the cosmonautics day celebrations on April 9th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "3 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:3 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nSince the reintroduction of «Space Mode», there has been a renewed enthusiasm for space trinkets and memorabilia. As a result, a group of rogue scientists, have created this paint using lunar soil smuggled from the moon.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nThe paint was issued as the Holiday paint for the cosmonautics day celebrations on April 9th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

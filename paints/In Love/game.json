@@ -1,0 +1,27 @@
+{
+  "name": "In Love",
+  "rawName": "In Love",
+  "item": "920004704459",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 55000
+  },
+  "owned": true,
+  "description": "Designed for the sophisticated and romantic ones, this paint will satisfy your desire for aesthetically pleasing military attributes. It will also earn you a few valuable seconds by fascinating your enemy with the extravagant looks of your tank, covered in red hearts.",
+  "paint": {
+    "id": "500314661",
+    "version": "1775743169370",
+    "animated": false
+  },
+  "preview": {
+    "id": "500314660",
+    "version": "1581391455641"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

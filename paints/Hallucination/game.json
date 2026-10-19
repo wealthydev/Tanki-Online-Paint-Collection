@@ -1,0 +1,27 @@
+{
+  "name": "Hallucination",
+  "rawName": "Hallucination",
+  "item": "920009365532",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "To be honest, the author of this paint wanted to show a dusk in July, but something went very wrong...",
+  "paint": {
+    "id": "1516883264852",
+    "version": "1775743169241",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264853",
+    "version": "1581391329491"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

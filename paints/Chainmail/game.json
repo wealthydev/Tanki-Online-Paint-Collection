@@ -1,0 +1,27 @@
+{
+  "name": "Chainmail",
+  "rawName": "Chainmail",
+  "item": "920004703857",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 35000
+  },
+  "owned": false,
+  "description": "A unique, stylized chainmail cover developed for the purpose of medieval-themed tank battles. Of course, whether tanks existed in the middle ages, and whether they actually wore chainmail armor, is a different matter altogether. ",
+  "paint": {
+    "id": "500309251",
+    "version": "1775743168936",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309258",
+    "version": "1581391435829"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

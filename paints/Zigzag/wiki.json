@@ -1,0 +1,25 @@
+{
+  "name": "Zigzag",
+  "source": "wiki",
+  "page": "/Zigzag",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint is the result of the research by American graffiti artists. Paint your tank with it and disappear among the street art of the Big Apple. Though to make it happen you still need to get there, somehow...",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint is the result of the research by American graffiti artists. Paint your tank with it and disappear among the street art of the Big Apple. Though to make it happen you still need to get there, somehow...\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

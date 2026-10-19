@@ -1,0 +1,25 @@
+{
+  "name": "Disco",
+  "source": "wiki",
+  "page": "/Disco",
+  "type": "Garage",
+  "price": {
+    "amount": 100000,
+    "currency": "Crystals",
+    "text": "100 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Capture the musical vibe and disco beat of your bullets thumping at a steady rhythm against your enemy's armor. Combine with Twins for that perfect disco feel.",
+  "interestingFacts": [
+    "Paint appeared on August 12, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "100 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:100 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nCapture the musical vibe and disco beat of your bullets thumping at a steady rhythm against your enemy's armor. Combine with Twins for that perfect disco feel.\nSee also: Paints\nInteresting facts\nPaint appeared on August 12, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

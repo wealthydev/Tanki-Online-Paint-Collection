@@ -1,0 +1,24 @@
+{
+  "name": "Sight",
+  "rawName": "Sight",
+  "item": "931009761274",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1637681574318",
+    "version": "1775743169862",
+    "animated": false
+  },
+  "preview": {
+    "id": "1637681570337",
+    "version": "1637731548794"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

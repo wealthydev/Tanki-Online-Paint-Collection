@@ -1,0 +1,24 @@
+{
+  "name": "Memento mei",
+  "rawName": "Memento mei",
+  "item": "1931010008235",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1747935184380",
+    "version": "1775743169606",
+    "animated": false
+  },
+  "preview": {
+    "id": "1747935184114",
+    "version": "1747935184374"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

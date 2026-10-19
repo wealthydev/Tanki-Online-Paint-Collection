@@ -1,0 +1,24 @@
+{
+  "name": "Wonderbird",
+  "rawName": "Wonderbird",
+  "item": "920009615939",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Blast through your enemies as you sing serenely, \"And after aaaaallll... you're my Wonder...\" No wait, that's not how the sine goes. Oh well, you're probably not that great a singer anyway. Better stick to the shooting.",
+  "paint": {
+    "id": "1567053084184",
+    "version": "1775743169629",
+    "animated": false
+  },
+  "preview": {
+    "id": "1567053084186",
+    "version": "1581391597326"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Tropical Foliage",
+  "source": "wiki",
+  "page": "/Tropical_Foliage",
+  "type": "Container",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A coating made out of patched foliage collected from a variety of tropical forests. These huge leaves are guaranteed to keep you cool under the hottest enemy fire.",
+  "interestingFacts": [
+    "The paint was available for purchase for 120,000 crystals from 5 to 7 August 2017.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "120 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:120 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA coating made out of patched foliage collected from a variety of tropical forests. These huge leaves are guaranteed to keep you cool under the hottest enemy fire.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase for 120,000 crystals from 5 to 7 August 2017.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

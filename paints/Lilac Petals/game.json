@@ -1,0 +1,24 @@
+{
+  "name": "Lilac petals",
+  "rawName": "Lilac petals",
+  "item": "920006313001",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A deceptively delicate paint for the tanker who would like to look good while still being deadly.",
+  "paint": {
+    "id": "500382213",
+    "version": "1775743168013",
+    "animated": false
+  },
+  "preview": {
+    "id": "500382214",
+    "version": "1581391533747"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

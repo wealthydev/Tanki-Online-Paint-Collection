@@ -1,0 +1,26 @@
+{
+  "name": "Monochrome",
+  "source": "wiki",
+  "page": "/Monochrome",
+  "type": "Tankoin",
+  "price": {
+    "amount": 12000,
+    "currency": "Rubies",
+    "text": "12 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Contrary to what most people think, \"Monochrome\" does not mean \"Black and White\". Actually, it means \"various shades of a single color\". Then again, probably the only thing you care about is that the paint looks cool, right?",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (08/02/2019 - 08/29/2019) with a battle pass.",
+    "Tankers wearing this paint appear to slowly oscillate in and out of existence. More likely, they're just getting destroyed and re-spawning, but who's asking?"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "12 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:12 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nContrary to what most people think, \"Monochrome\" does not mean \"Black and White\". Actually, it means \"various shades of a single color\". Then again, probably the only thing you care about is that the paint looks cool, right?\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (08/02/2019 - 08/29/2019) with a battle pass.\nTankers wearing this paint appear to slowly oscillate in and out of existence. More likely, they're just getting destroyed and re-spawning, but who's asking?\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

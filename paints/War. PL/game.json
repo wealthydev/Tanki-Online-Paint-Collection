@@ -1,0 +1,24 @@
+{
+  "name": "War. PL",
+  "rawName": "War. PL",
+  "item": "920009398608",
+  "rarity": "SPECIAL",
+  "minRank": 8,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was made specially for the global event «{GAME_NAME}: War». Purchase the paint of the Polish community and lead it to victory! Capture territories, devise strategies and conquer the world!",
+  "paint": {
+    "id": "1518436838206",
+    "version": "1775743168653",
+    "animated": false
+  },
+  "preview": {
+    "id": "1518436936477",
+    "version": "1581391433772"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

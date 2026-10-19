@@ -1,0 +1,27 @@
+{
+  "name": "Invader",
+  "rawName": "Invader",
+  "item": "920004704455",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 50000
+  },
+  "owned": true,
+  "description": "This paint was developed in collaboration with a community of experts on the eight-bit gaming console era. It uses an army of eight-bit aliens to mask your tank, and will mark you as a true connoisseur of video games. ",
+  "paint": {
+    "id": "500313720",
+    "version": "1775743169292",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313708",
+    "version": "1581391543209"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Spark",
+  "rawName": "Spark",
+  "item": "920004704096",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 200000
+  },
+  "owned": false,
+  "description": "Fairy lights, stage lights, music of the spheres - this paint can be described using many words, but none of them can ever fully describe it. The \"Spark\" paint is chosen by those tankers for whom the tank is not only a battle machine, but also a means of expression. ",
+  "paint": {
+    "id": "5006120",
+    "version": "1775743169899",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006098",
+    "version": "1581391581111"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

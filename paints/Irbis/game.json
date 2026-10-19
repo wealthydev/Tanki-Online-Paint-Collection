@@ -1,0 +1,27 @@
+{
+  "name": "Irbis",
+  "rawName": "Irbis",
+  "item": "920004704336",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 400000
+  },
+  "owned": false,
+  "description": "One of the most mysterious felines, the Irbis is also known as the \"snow leopard\". After a series of high-risk expeditions and fifteen accidents, our researchers managed to restrain a snow leopard long enough to copy its coat and create the \"Irbis\" paint.",
+  "paint": {
+    "id": "5010691",
+    "version": "1775743169300",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010690",
+    "version": "1581391562265"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

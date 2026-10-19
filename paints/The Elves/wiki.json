@@ -1,0 +1,27 @@
+{
+  "name": "The Elves",
+  "source": "wiki",
+  "page": "/The_Elves",
+  "type": "War",
+  "price": {
+    "amount": 10,
+    "currency": "Tankoins",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": "n/a",
+  "description": "The paint is for players who are joining the Elves' faction in the global event \"War. Stolen Christmas\".",
+  "interestingFacts": [
+    "Paint appeared on December 7th, 2019.",
+    "The Elves is one of three paints created for the \"War. Stolen Christmas\" special event in December 2019.",
+    "This was a temporary paint. It was removed from all garages after the event was over."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "10",
+    "Garage categorization": "◆ Common",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice: 10\nGarage categorization:◆ Common\nContainer rarity:n/a\nGarage description\nThe paint is for players who are joining the Elves' faction in the global event \"War. Stolen Christmas\".\nSee also: Paints\nInteresting facts\nPaint appeared on December 7th, 2019.\nThe Elves is one of three paints created for the \"War. Stolen Christmas\" special event in December 2019.\nThis was a temporary paint. It was removed from all garages after the event was over.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Silver Bricks",
+  "rawName": "Silver Bricks",
+  "item": "920009600632",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "An animated chain armor created out of a reinfoced silver alloy. This paint sends a clear message to your enemy, \"Mess with me and you're in for a bruising\".",
+  "paint": {
+    "id": "1544527988265",
+    "version": "1697183401344",
+    "animated": true
+  },
+  "preview": {
+    "id": "1544528163640",
+    "version": "1581391719536"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

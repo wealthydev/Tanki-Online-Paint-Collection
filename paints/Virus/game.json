@@ -1,0 +1,24 @@
+{
+  "name": "Virus",
+  "rawName": "Virus",
+  "item": "920009664157",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1586510788305",
+    "version": "1775743170598",
+    "animated": false
+  },
+  "preview": {
+    "id": "1586510788296",
+    "version": "1586510818407"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

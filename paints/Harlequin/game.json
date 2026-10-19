@@ -1,0 +1,27 @@
+{
+  "name": "Harlequin",
+  "rawName": "Harlequin",
+  "item": "920004959781",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 40000
+  },
+  "owned": false,
+  "description": "Become the iconic Italian street artist with the Harlequin paint. Entertain your team mates with some ad-hoc theatricality, or make your opponents underestimate you by playing the part of the fool... then shoot some holes into them. In the end, you'll be the one laughing.",
+  "paint": {
+    "id": "500364201",
+    "version": "1775743168804",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364210",
+    "version": "1581391603431"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

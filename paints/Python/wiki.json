@@ -1,0 +1,27 @@
+{
+  "name": "Python",
+  "source": "wiki",
+  "page": "/Python",
+  "type": "Garage",
+  "price": {
+    "amount": 100000,
+    "currency": "Crystals",
+    "text": "100 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This paint is an exact replica of a giant python's skin. It also replicates the snake's properties of extreme elasticity, as well as its scaly texture.",
+  "interestingFacts": [
+    "Paint first appeared on July 29, 2010.",
+    "Prior to the Paint Separation Update, Python was worth 50,500 crystals and could be bought from the rank of Third Lieutenant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "100 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:100 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis paint is an exact replica of a giant python's skin. It also replicates the snake's properties of extreme elasticity, as well as its scaly texture.\nSee also: Paints\nInteresting facts\nPaint first appeared on July 29, 2010.\nPrior to the Paint Separation Update, Python was worth 50,500 crystals and could be bought from the rank of Third Lieutenant.\nLegacy paint description:\nA paint that helps shield your tank from Freeze and slightly reduces the damage inflicted by Shaft. Useful both in short and long-range battles. Makes your tank look as if it has been swallowed by a giant python.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

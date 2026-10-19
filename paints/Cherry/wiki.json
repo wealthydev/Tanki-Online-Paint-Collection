@@ -1,0 +1,25 @@
+{
+  "name": "Cherry",
+  "source": "wiki",
+  "page": "/Cherry",
+  "type": "Garage",
+  "price": {
+    "amount": 50000,
+    "currency": "Crystals",
+    "text": "50 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "A highly specialized camouflage for forester tanks tasked with protecting groves of rare mahogany from poachers.",
+  "interestingFacts": [
+    "Paint appeared on February 6, 2015."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "50 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:50 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nA highly specialized camouflage for forester tanks tasked with protecting groves of rare mahogany from poachers.\nSee also: Paints\nInteresting facts\nPaint appeared on February 6, 2015.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

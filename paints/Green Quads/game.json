@@ -1,0 +1,25 @@
+{
+  "name": "Green Quads",
+  "rawName": "Green Quads",
+  "item": "920009662888",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Engineers have been working hard to create such a unique camouflage. Just like a chameleon, your tank will blend in with its surroundings. However, it won't work properly in deserts and within city limits.",
+  "paint": {
+    "id": "1585558824025",
+    "version": "1697183401492",
+    "animated": true
+  },
+  "preview": {
+    "id": "1585558824019",
+    "version": "1585569079935"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

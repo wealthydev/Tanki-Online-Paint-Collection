@@ -1,0 +1,24 @@
+{
+  "name": "Glide",
+  "rawName": "Glide",
+  "item": "920004704697",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A unique paint for parkour specialists. ",
+  "paint": {
+    "id": "500135051",
+    "version": "1775743169177",
+    "animated": false
+  },
+  "preview": {
+    "id": "500135053",
+    "version": "1581391409429"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

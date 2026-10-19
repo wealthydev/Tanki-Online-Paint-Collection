@@ -1,0 +1,24 @@
+{
+  "name": "International",
+  "rawName": "International",
+  "item": "920009180236",
+  "rarity": "SPECIAL",
+  "minRank": 11,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Buy this paint and become clan International fan in the Clan Championship X finals.\n\nImportant! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop.",
+  "paint": {
+    "id": "1510735542004",
+    "version": "1775743168089",
+    "animated": false
+  },
+  "preview": {
+    "id": "1510735542005",
+    "version": "1581391406178"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

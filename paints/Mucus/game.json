@@ -1,0 +1,24 @@
+{
+  "name": "Mucus",
+  "rawName": "Mucus",
+  "item": "1931010008799",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1760965731364",
+    "version": "1775743169579",
+    "animated": false
+  },
+  "preview": {
+    "id": "1760965731105",
+    "version": "1760965731360"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

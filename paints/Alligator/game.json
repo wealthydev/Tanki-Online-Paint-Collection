@@ -1,0 +1,24 @@
+{
+  "name": "Alligator",
+  "rawName": "Alligator",
+  "item": "920004704219",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for chat moderators and battle moderators.",
+  "paint": {
+    "id": "5010331",
+    "version": "1775743168779",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010330",
+    "version": "1581391643732"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

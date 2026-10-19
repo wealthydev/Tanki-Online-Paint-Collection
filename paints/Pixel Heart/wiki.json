@@ -1,0 +1,26 @@
+{
+  "name": "Pixel Heart",
+  "source": "wiki",
+  "page": "/Pixel_Heart",
+  "type": "Garage",
+  "price": {
+    "amount": 30000,
+    "currency": "Crystals",
+    "text": "30 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Designed for love in the digital age, this paint is perfect for tankers who find no shame in expressing their feelings.",
+  "interestingFacts": [
+    "The paint first appeared on February 14, 2013, as a holiday cover for Valentine's Day.",
+    "Returned on permanent sale July 21, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "30 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:30 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nDesigned for love in the digital age, this paint is perfect for tankers who find no shame in expressing their feelings.\nSee also: Paints\nInteresting facts\nThe paint first appeared on February 14, 2013, as a holiday cover for Valentine's Day.\nReturned on permanent sale July 21, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Blueness",
+  "rawName": "Blueness",
+  "item": "1931009779874",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "This paint has been developed for hovering tanks. The prototypes could fly much higher and camouflage against the sky was practically necessary. Versions for mass production have an optimized flight altitude at the level of traditional tanks and require standard camouflage. The paint nevertheless was kept in the official catalog.",
+  "paint": {
+    "id": "1685024169829",
+    "version": "1775743169451",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024169371",
+    "version": "1707988194493"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

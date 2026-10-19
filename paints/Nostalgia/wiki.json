@@ -1,0 +1,25 @@
+{
+  "name": "Nostalgia",
+  "source": "wiki",
+  "page": "/Nostalgia",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nThis paint was issued to participants of the CyberTank 2024 mini-game.",
+  "interestingFacts": [
+    "This paint was added into the game on July 12th, 2024."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nThis paint was issued to participants of the CyberTank 2024 mini-game.\nInteresting facts\nThis paint was added into the game on July 12th, 2024.\nGarage preview\nLast Edit: Emrakul 7/13/2024"
+}

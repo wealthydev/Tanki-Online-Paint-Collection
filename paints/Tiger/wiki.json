@@ -1,0 +1,25 @@
+{
+  "name": "Tiger",
+  "source": "wiki",
+  "page": "/Tiger",
+  "type": "Garage",
+  "price": {
+    "amount": 500000,
+    "currency": "Crystals",
+    "text": "500 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This camouflage not only looks like a tiger's fur, but also feels soft and fluffy to the touch. It will also inspire you to achieve the eye of the tiger and terrorize your enemies.",
+  "interestingFacts": [
+    "Paint appeared on January 30, 2015."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "500 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:500 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis camouflage not only looks like a tiger's fur, but also feels soft and fluffy to the touch. It will also inspire you to achieve the eye of the tiger and terrorize your enemies.\nSee also: Paints\nInteresting facts\nPaint appeared on January 30, 2015.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

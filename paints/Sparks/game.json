@@ -1,0 +1,25 @@
+{
+  "name": "Sparks",
+  "rawName": "Sparks",
+  "item": "920009649918",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was launched with the end of year celebrations for 2019-2020. May its bright and sparkly patterns bring you everlasting joy and fortune.",
+  "paint": {
+    "id": "1576755871474",
+    "version": "1697183401382",
+    "animated": true
+  },
+  "preview": {
+    "id": "1576755774379",
+    "version": "1581391447987"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

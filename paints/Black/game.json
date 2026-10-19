@@ -1,0 +1,27 @@
+{
+  "name": "Black",
+  "rawName": "Black",
+  "item": "920004704216",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "This color has become the unofficial standard for the saboteur tank division, whose main task is to penetrate enemy territory during the night. Within military circles, these elite divisions have been nicknamed \"The Black Spots of Death\".",
+  "paint": {
+    "id": "56059",
+    "version": "1775743168878",
+    "animated": false
+  },
+  "preview": {
+    "id": "58875",
+    "version": "1707988219396"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

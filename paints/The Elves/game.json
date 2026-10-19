@@ -1,0 +1,24 @@
+{
+  "name": "The Elves",
+  "rawName": "The Elves",
+  "item": "920009648083",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The paint is for players who are joining the Elves' faction in the global event \"War. Stolen Christmas\".",
+  "paint": {
+    "id": "1575280380867",
+    "version": "1775743168686",
+    "animated": false
+  },
+  "preview": {
+    "id": "1575279479732",
+    "version": "1581391687069"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Black Ruby",
+  "rawName": "Black Ruby",
+  "item": "1931009801441",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is blacker than the soul of your potential enemy. Our best specialists scrupulously attached each Ruby piece to gravity fields among dark matter particles.",
+  "paint": {
+    "id": "1732602641163",
+    "version": "1732602641978",
+    "animated": true
+  },
+  "preview": {
+    "id": "1732602640969",
+    "version": "1732602641160"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

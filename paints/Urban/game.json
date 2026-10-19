@@ -1,0 +1,27 @@
+{
+  "name": "Urban",
+  "rawName": "Urban",
+  "item": "920004703852",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 7500
+  },
+  "owned": false,
+  "description": "The best paint for battle in urban environments. Works especially well with roadside bushes.",
+  "paint": {
+    "id": "5000258",
+    "version": "1775743170565",
+    "animated": false
+  },
+  "preview": {
+    "id": "5000273",
+    "version": "1581391642669"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

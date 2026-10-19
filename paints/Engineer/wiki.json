@@ -1,0 +1,26 @@
+{
+  "name": "Engineer",
+  "source": "wiki",
+  "page": "/Engineer",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint for testers.\nThis paint is based on principles developed by Nicola Tesla himself. Metal wrenches placed on carbon armor plates generate a magnetic resonance field with properties that haven't been studied to the full extent yet. The coating is installed on special test tanks that are controlled by pilots voluntarily taking part in experiments and risking their lives for the well-being of future generations.",
+  "interestingFacts": [
+    "Paint appeared on August 16, 2012.",
+    "The author of the paint is Doomby (ex soiko)."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint for testers.\nThis paint is based on principles developed by Nicola Tesla himself. Metal wrenches placed on carbon armor plates generate a magnetic resonance field with properties that haven't been studied to the full extent yet. The coating is installed on special test tanks that are controlled by pilots voluntarily taking part in experiments and risking their lives for the well-being of future generations.\nNote\nFor information about the drone Engineer, click here\nSee also: Paints\nInteresting facts\nPaint appeared on August 16, 2012.\nThe author of the paint is Doomby (ex soiko).\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

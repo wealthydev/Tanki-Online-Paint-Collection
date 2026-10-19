@@ -1,0 +1,27 @@
+{
+  "name": "Hypercube",
+  "rawName": "Hypercube",
+  "item": "920009365533",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "Enter the 4th dimension as time itself bends to show the tankers around you how 2 points form a line, 4 lines form a square, 6 squares a cube and 8 cubes form a mind blown by the Tesseract.",
+  "paint": {
+    "id": "1516883264850",
+    "version": "1775743169272",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264851",
+    "version": "1581391375194"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

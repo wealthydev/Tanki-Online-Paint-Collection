@@ -1,0 +1,27 @@
+{
+  "name": "Valour",
+  "source": "wiki",
+  "page": "/Valour",
+  "type": "Tankoin",
+  "price": {
+    "amount": 30000,
+    "currency": "Rubies",
+    "text": "30 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "n/a",
+  "description": "This paint is given to the best fighters in the front line. Show to grandkids your battle-worn tank, covered with this paint, and tell them how you battled in 2018, they will be proud of their grandparent!",
+  "interestingFacts": [
+    "Paint is awarded as a reward for completing the Parade of the Beginners event in the mobile version of the game.",
+    "Valour, like Breeze, can not be unlocked by opening containers.",
+    "Valour is the second most expensive paint available for purchase in the Garage."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "30 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:30 000\nGarage categorization:◆ Legendary\nContainer rarity:n/a\nGarage description\nThis paint is given to the best fighters in the front line. Show to grandkids your battle-worn tank, covered with this paint, and tell them how you battled in 2018, they will be proud of their grandparent!\nSee also: Paints\nInteresting facts\nPaint is awarded as a reward for completing the Parade of the Beginners event in the mobile version of the game.\nValour, like Breeze, can not be unlocked by opening containers.\nValour is the second most expensive paint available for purchase in the Garage.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

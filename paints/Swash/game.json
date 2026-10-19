@@ -1,0 +1,27 @@
+{
+  "name": "Swash",
+  "rawName": "Swash",
+  "item": "920004704093",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 11000
+  },
+  "owned": false,
+  "description": "The formula of the \"Swash\" cover was stolen from a secret laboratory codenamed \"Aqua\", specializing in genetic experiments on fish. Thanks to its special heat-reflecting properties, this paint gives the air inside the tank a refreshing seaside freshness.",
+  "paint": {
+    "id": "5006121",
+    "version": "1775743169948",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006099",
+    "version": "1581391740920"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

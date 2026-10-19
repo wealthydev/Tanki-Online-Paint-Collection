@@ -1,0 +1,28 @@
+{
+  "name": "Cap",
+  "source": "wiki",
+  "page": "/Cap",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Strong, handsome, noble — this is how the average owner of this paint looks. At least he would like to be.",
+  "interestingFacts": [
+    "It was available in the game on January 5, 2019.",
+    "This paint was available to obtain from the War of Superpowers event in January 2019.",
+    "This paint could have been unlocked at Tier 18 of the August 2020 Challenge A.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nStrong, handsome, noble — this is how the average owner of this paint looks. At least he would like to be.\nSee also: Paints\nInteresting facts\nIt was available in the game on January 5, 2019.\nThis paint was available to obtain from the War of Superpowers event in January 2019.\nThis paint could have been unlocked at Tier 18 of the August 2020 Challenge A.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lumberjack",
+  "source": "wiki",
+  "page": "/Lumberjack",
+  "type": "Garage",
+  "price": {
+    "amount": 160000,
+    "currency": "Crystals",
+    "text": "160 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A lumberjack's shirt represents strength and endurance to the hardships of manual labor. This paint borrows from that pattern to imbue the same values into the tank that wears it.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Lumberjack was worth 300,000 crystals and could be bought from the rank of Generalissimo.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "160 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:160 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA lumberjack's shirt represents strength and endurance to the hardships of manual labor. This paint borrows from that pattern to imbue the same values into the tank that wears it.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Lumberjack was worth 300,000 crystals and could be bought from the rank of Generalissimo.\nLegacy paint description:\nA paint with formidable protection against Firebird, Freeze and Isida. Slightly decreases damage dealt by Vulcan. An essential for any fan of close range combat. Makes your tank look like a tough woodcutter.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Demolisher",
+  "rawName": "Demolisher",
+  "item": "920009610628",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10000
+  },
+  "owned": false,
+  "description": "Buy this temporary paint to participate in the Demolition WAR, where you will defend the world of {GAME} against the threat of the evil corporation AZAZACORP!",
+  "paint": {
+    "id": "1564483516571",
+    "version": "1775743169026",
+    "animated": false
+  },
+  "preview": {
+    "id": "1564477071487",
+    "version": "1581391431754"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

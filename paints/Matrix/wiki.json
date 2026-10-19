@@ -1,0 +1,27 @@
+{
+  "name": "Matrix",
+  "source": "wiki",
+  "page": "/Matrix",
+  "type": "Tankoin",
+  "price": {
+    "amount": 18000,
+    "currency": "Rubies",
+    "text": "18 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。\nどのような真実？ スプーンはありません。スプーンはありませんか？それから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\"",
+  "interestingFacts": [
+    "Paint was added to containers on January 27, 2018.",
+    "It is not the tank that wins the battle; it is only yourself.",
+    "Have you ever had a dream, Neo, that you were so sure was real? What if you were unable to wake from that dream? How would you know the difference between the dream world and the real world?"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "18 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:18 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\n\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。\nどのような真実？ スプーンはありません。スプーンはありませんか？それから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\"\nSee also: Paints\nInteresting facts\nPaint was added to containers on January 27, 2018.\nIt is not the tank that wins the battle; it is only yourself.\nHave you ever had a dream, Neo, that you were so sure was real? What if you were unable to wake from that dream? How would you know the difference between the dream world and the real world?\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

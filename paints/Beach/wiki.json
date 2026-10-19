@@ -1,0 +1,27 @@
+{
+  "name": "Beach",
+  "source": "wiki",
+  "page": "/Beach",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on July 16th, 2021.",
+    "This paint could have been unlocked at Tier 5 of the July 2021 Challenge B.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on July 16th, 2021.\nThis paint could have been unlocked at Tier 5 of the July 2021 Challenge B.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

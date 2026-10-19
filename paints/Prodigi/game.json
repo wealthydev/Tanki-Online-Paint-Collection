@@ -1,0 +1,27 @@
+{
+  "name": "Prodigi",
+  "rawName": "Prodigi",
+  "item": "920004704217",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 55000
+  },
+  "owned": false,
+  "description": "An enhanced digital paint with a pattern that is intended to distract and disorient your enemy, making them more likely to miss when firing at you.",
+  "paint": {
+    "id": "5006371",
+    "version": "1775743169736",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006340",
+    "version": "1581391737422"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

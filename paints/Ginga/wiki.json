@@ -1,0 +1,26 @@
+{
+  "name": "Ginga",
+  "source": "wiki",
+  "page": "/Ginga",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "As vivid colors flow into each other and bloom into beautiful patterns the Spring begins. Celebrate the start of Spring and International Women's Day with {GAME_NAME}!",
+  "interestingFacts": [
+    "This paint was available in the Shop as part of a special package during the Women's Day 2018 celebrations from March 9 until March 12, 2018.",
+    "This paint adds a nice, crisp flavor to your cookie mines."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nAs vivid colors flow into each other and bloom into beautiful patterns the Spring begins. Celebrate the start of Spring and International Women's Day with {GAME_NAME}!\nSee also: Paints\nInteresting facts\nThis paint was available in the Shop as part of a special package during the Women's Day 2018 celebrations from March 9 until March 12, 2018.\nThis paint adds a nice, crisp flavor to your cookie mines.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

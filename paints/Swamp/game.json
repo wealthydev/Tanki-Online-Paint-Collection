@@ -1,0 +1,27 @@
+{
+  "name": "Swamp",
+  "rawName": "Swamp",
+  "item": "920004703492",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 2000
+  },
+  "owned": true,
+  "description": "This paint was created after a tank battalion leader accidentally fell asleep, and drove his comrades into a swamp, where a secret operation for training sabotear frogs was being conducted.",
+  "paint": {
+    "id": "5001770",
+    "version": "1775743169945",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001771",
+    "version": "1581391700424"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

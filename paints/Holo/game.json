@@ -1,0 +1,25 @@
+{
+  "name": "Holo",
+  "rawName": "Holo",
+  "item": "920009601262",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This holo projector could project any image. But its flash drive has malfunctioned, so it's stuck showing the same image over and over again.",
+  "paint": {
+    "id": "1551268895675",
+    "version": "1697183401499",
+    "animated": true
+  },
+  "preview": {
+    "id": "1551268875673",
+    "version": "1581391422471"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

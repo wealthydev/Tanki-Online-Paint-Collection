@@ -1,0 +1,27 @@
+{
+  "name": "Watercolor",
+  "rawName": "Watercolor",
+  "item": "920005192443",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 4000
+  },
+  "owned": true,
+  "description": "This paint was originally meant to look very different. However, an incident in garage #264, involving lots of paint buckets and an exploding gas tank, resulted in this rather colorful but appealing texture. The lead paint designer was so impressed, he decided to add it to the official collection for Fall 2016.",
+  "paint": {
+    "id": "500366451",
+    "version": "1775743170624",
+    "animated": false
+  },
+  "preview": {
+    "id": "500366453",
+    "version": "1581391506449"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Domino",
+  "rawName": "Domino",
+  "item": "920005192442",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "This paint was inspired by a project created by a team of child geniuses who built an incredibly detailed replica of a tank out of domino pieces. The model contained so many domino pieces that it is said to have taken 5 hours for all of them to fall.",
+  "paint": {
+    "id": "500366450",
+    "version": "1775743169048",
+    "animated": false
+  },
+  "preview": {
+    "id": "500366452",
+    "version": "1581391399866"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

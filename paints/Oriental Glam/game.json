@@ -1,0 +1,24 @@
+{
+  "name": "Oriental Glam",
+  "rawName": "Oriental Glam",
+  "item": "920009655444",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Get ready to rock some oriental coolness on the battlefield with this fearsome and glamorous themed paint for the Chinese New Year.",
+  "paint": {
+    "id": "1579698210569",
+    "version": "1775743169051",
+    "animated": false
+  },
+  "preview": {
+    "id": "1579698210596",
+    "version": "1581391363865"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

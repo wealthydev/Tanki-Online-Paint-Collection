@@ -1,0 +1,28 @@
+{
+  "name": "Loam",
+  "source": "wiki",
+  "page": "/Loam",
+  "type": "Garage",
+  "price": {
+    "amount": 6500,
+    "currency": "Crystals",
+    "text": "6 500"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Nobody pays much attention to dirty vehicles. The \"Loam\" paint uses this psychological element to your tank's advantage by disguising it as a dirty piece of machinery. And once your enemy turns his back on you, that's when you strike!",
+  "interestingFacts": [
+    "Paint first appeared on July 29, 2010.",
+    "Prior to the Paint Separation Update, Loam was worth 102,500 crystals and was purchasable at the rank of Lieutenant Colonel.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "6 500",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:6 500\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nNobody pays much attention to dirty vehicles. The \"Loam\" paint uses this psychological element to your tank's advantage by disguising it as a dirty piece of machinery. And once your enemy turns his back on you, that's when you strike!\nSee also: Paints\nInteresting facts\nPaint first appeared on July 29, 2010.\nPrior to the Paint Separation Update, Loam was worth 102,500 crystals and was purchasable at the rank of Lieutenant Colonel.\nLegacy paint description:\nAn all-around paint that gives solid protection against Firebird and somewhat reduces the damage done by Thunder, Freeze and Ricochet. Great for mid to long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

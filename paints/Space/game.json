@@ -1,0 +1,27 @@
+{
+  "name": "Space",
+  "rawName": "Space",
+  "item": "920004826762",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 180000
+  },
+  "owned": false,
+  "description": "This paint is a replica of the area of ​​sky where the alleged alien radio signal SHGb02 + 14a was recorded in March 2003. It was recorded three times and appeared to come from the area between the constellations Pisces and Aries.",
+  "paint": {
+    "id": "500362863",
+    "version": "1775743169893",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362855",
+    "version": "1581391458484"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

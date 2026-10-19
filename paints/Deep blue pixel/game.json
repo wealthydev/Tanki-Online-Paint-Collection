@@ -1,0 +1,24 @@
+{
+  "name": "Deep blue pixel",
+  "rawName": "Deep blue pixel",
+  "item": "920009656662",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1580119934509",
+    "version": "1775743169010",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580120202043",
+    "version": "1581391565633"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

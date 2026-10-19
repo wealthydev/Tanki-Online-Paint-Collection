@@ -1,0 +1,24 @@
+{
+  "name": "Photon",
+  "rawName": "Photon",
+  "item": "920009600152",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Unique paint of TO Mobile pioneers.\n\nMany believe, that a tank with this paint becomes a little smaller and harder to hit. It's not true, but if you believe in something strong enough...",
+  "paint": {
+    "id": "1541150709827",
+    "version": "1775743169678",
+    "animated": false
+  },
+  "preview": {
+    "id": "1541150504986",
+    "version": "1581391651099"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

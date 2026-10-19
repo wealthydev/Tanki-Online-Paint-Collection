@@ -1,0 +1,25 @@
+{
+  "name": "Red Urban",
+  "source": "wiki",
+  "page": "/Red_Urban",
+  "type": "Garage",
+  "price": {
+    "amount": 75000,
+    "currency": "Crystals",
+    "text": "75 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "A camouflage designed for combat in urban areas with predominantly red brick buildings.",
+  "interestingFacts": [
+    "Paint appeared on October 20, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "75 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:75 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nA camouflage designed for combat in urban areas with predominantly red brick buildings.\nSee also: Paints\nInteresting facts\nPaint appeared on October 20, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

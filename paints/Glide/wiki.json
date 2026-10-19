@@ -1,0 +1,30 @@
+{
+  "name": "Glide",
+  "source": "wiki",
+  "page": "/Glide",
+  "type": "Parkour",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A unique paint for parkour specialists.",
+  "interestingFacts": [
+    "Paint appeared on July 4, 2013 (update 166).",
+    "Paint was given to the members of the {GAME_NAME} Tutorials (TOT) team.",
+    "At the end of December 2015, the TOT team was disbanded, and the paint was removed from the garages of the tankers that owned it.",
+    "On August 26, 2016, the paint was given to the Academy Of Parkour team.",
+    "This unique paint job was designed for members of the \"Academy of Parkour\" parkour team. These guys not only perform various tricks on their tanks but also produce excellent video guides.",
+    "On December 1st, 2020 the paint was given to the members of Never Fall Team (NFT) parkour team."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Parkour",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Parkour\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA unique paint for parkour specialists.\nSee also: Paints\nInteresting facts\nPaint appeared on July 4, 2013 (update 166).\nPaint was given to the members of the {GAME_NAME} Tutorials (TOT) team.\nAt the end of December 2015, the TOT team was disbanded, and the paint was removed from the garages of the tankers that owned it.\nOn August 26, 2016, the paint was given to the Academy Of Parkour team.\nThis unique paint job was designed for members of the \"Academy of Parkour\" parkour team. These guys not only perform various tricks on their tanks but also produce excellent video guides.\nOn December 1st, 2020 the paint was given to the members of Never Fall Team (NFT) parkour team.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

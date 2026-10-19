@@ -1,0 +1,24 @@
+{
+  "name": "Moonwalker",
+  "rawName": "Moonwalker",
+  "item": "920004704454",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint that was only available for purchase during the Farewell to Moon Silence event.",
+  "paint": {
+    "id": "500150950",
+    "version": "1775743169477",
+    "animated": false
+  },
+  "preview": {
+    "id": "500150951",
+    "version": "1581391360811"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

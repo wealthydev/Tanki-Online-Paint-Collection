@@ -1,0 +1,25 @@
+{
+  "name": "Grasslands",
+  "source": "wiki",
+  "page": "/Grasslands",
+  "type": "Garage",
+  "price": {
+    "amount": 40000,
+    "currency": "Crystals",
+    "text": "40 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Perfect for stealth approaches in areas characterized by a composition of grasses, herbs, and shrubs. Especially effective in autumn.",
+  "interestingFacts": [
+    "Paint appeared on October 20, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "40 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:40 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nPerfect for stealth approaches in areas characterized by a composition of grasses, herbs, and shrubs. Especially effective in autumn.\nSee also: Paints\nInteresting facts\nPaint appeared on October 20, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

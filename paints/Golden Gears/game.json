@@ -1,0 +1,25 @@
+{
+  "name": "Golden Gears",
+  "rawName": "Golden Gears",
+  "item": "920009601762",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Ready to show off your status in battle? This animated paint consists of an electron-generated damask coating, and solid gold wrench-and-gear motifs. Show your enemies that you're superior to them in every way, and then rub it in their faces.",
+  "paint": {
+    "id": "1556523696600",
+    "version": "1697183401358",
+    "animated": true
+  },
+  "preview": {
+    "id": "1556525878175",
+    "version": "1581391513229"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

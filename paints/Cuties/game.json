@@ -1,0 +1,24 @@
+{
+  "name": "Cuties",
+  "rawName": "Cuties",
+  "item": "1931010008946",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1763459555156",
+    "version": "1775743170237",
+    "animated": false
+  },
+  "preview": {
+    "id": "1763459554895",
+    "version": "1763459555150"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "White",
+  "rawName": "White",
+  "item": "920004703973",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "This paint has been developed specifically for ground operations in countries with cold climates. In snowy areas, it can significantly reduce the likelihood of detection. To increase sales, some manufacturers included a warm coat and boots in the package. ",
+  "paint": {
+    "id": "58831",
+    "version": "1775743170628",
+    "animated": false
+  },
+  "preview": {
+    "id": "58905",
+    "version": "1707988485183"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

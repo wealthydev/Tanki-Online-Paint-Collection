@@ -1,0 +1,27 @@
+{
+  "name": "Zeus",
+  "source": "wiki",
+  "page": "/Zeus",
+  "type": "Garage",
+  "price": {
+    "amount": 500000,
+    "currency": "Crystals",
+    "text": "500 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Fashioned after the Greek god known for his love of thunderbolts, this paint will signal to your enemies that you're a force not to be taken lightly.",
+  "interestingFacts": [
+    "Paint first appeared on May 28, 2011.",
+    "Before the Paint Separation Update, Zeus was worth 250,000 crystals and could be bought from the rank of Generalissimo.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "500 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:500 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nFashioned after the Greek god known for his love of thunderbolts, this paint will signal to your enemies that you're a force not to be taken lightly.\nSee also: Paints\nInteresting facts\nPaint first appeared on May 28, 2011.\nBefore the Paint Separation Update, Zeus was worth 250,000 crystals and could be bought from the rank of Generalissimo.\nLegacy paint description:\nThe paint that offers the best protection against Firebird, while also decreasing damage inflicted by Smoky and Freeze. Good for short to mid-range battles. Covers your tank in a pattern of lightning bolts.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

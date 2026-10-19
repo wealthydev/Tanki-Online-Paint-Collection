@@ -1,0 +1,27 @@
+{
+  "name": "Fried egg",
+  "source": "wiki",
+  "page": "/Fried_egg",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "Fried egg was released on October 8th, 2021, for purchase in a special bundle only available until the 11th of the month.[1]",
+    "It could be purchased as part of a larger bundle costing 19 990 ; the bundle was named \"Ultra Pack\" and apart from the paint, also came with 300x Ultra Containers, and unlock a protection module slot.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nFried egg was released on October 8th, 2021, for purchase in a special bundle only available until the 11th of the month.[1]\nIt could be purchased as part of a larger bundle costing 19 990 ; the bundle was named \"Ultra Pack\" and apart from the paint, also came with 300x Ultra Containers, and unlock a protection module slot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024\n↑ https://en.{GAME}forum.com/topic/393490-ultra-weekend-october-8th-10th/"
+}

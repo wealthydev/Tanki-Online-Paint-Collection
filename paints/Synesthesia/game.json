@@ -1,0 +1,25 @@
+{
+  "name": "Synesthesia",
+  "rawName": "Synesthesia",
+  "item": "920009276271",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Do you know how a shot from a Railgun tastes like? Did you listen to the «Flow» paint? How the flag captured in the last moments of battle smells? What Gold Box feels like to the touch? Only those who keep the gates of senses wide open deserve to transend their discoveries. Synesthesia is a gift and a curse, alpha and omega, anomaly in the system. The rivers of eternity wash away meaning and delude reality. Tank is a sword, ego, power of will. It's Synesthesia.",
+  "paint": {
+    "id": "1513586577417",
+    "version": "1697183401540",
+    "animated": true
+  },
+  "preview": {
+    "id": "1513667374481",
+    "version": "1581391739905"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

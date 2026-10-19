@@ -1,0 +1,27 @@
+{
+  "name": "Hive",
+  "rawName": "Hive",
+  "item": "920004703499",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 120000
+  },
+  "owned": false,
+  "description": "Originally intended as a paint with active offensive properties, \"Hive\" was supposed to be enriched with special anti-tank bees. However, this plan was dropped due to numerous protests from animal-friendly organizations. As a result, the paint now only retains its color and texture.",
+  "paint": {
+    "id": "500313719",
+    "version": "1775743169253",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313707",
+    "version": "1581391369185"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

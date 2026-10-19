@@ -1,0 +1,25 @@
+{
+  "name": "The Winner",
+  "rawName": "The Winner",
+  "item": "920009597070",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "To honour the heroism shown in the event \"War: Domination\", the most active fighters of the Lions faction were given this unique paint.\n\nThe Winner's paint is temporary. With the start of the next War it will be removed from the owner's accounts.",
+  "paint": {
+    "id": "1533723793865",
+    "version": "1697183401535",
+    "animated": true
+  },
+  "preview": {
+    "id": "1531315610912",
+    "version": "1581391565199"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

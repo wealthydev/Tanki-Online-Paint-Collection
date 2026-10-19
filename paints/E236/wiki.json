@@ -1,0 +1,25 @@
+{
+  "name": "E236",
+  "source": "wiki",
+  "page": "/E236",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "According to recent studies from the University of Almost Certain Data (UACD), this is exactly how ants' acid looks like under the microscope. Almost certainly.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nAccording to recent studies from the University of Almost Certain Data (UACD), this is exactly how ants' acid looks like under the microscope. Almost certainly.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

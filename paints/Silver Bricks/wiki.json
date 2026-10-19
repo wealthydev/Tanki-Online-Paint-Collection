@@ -1,0 +1,25 @@
+{
+  "name": "Silver Bricks",
+  "source": "wiki",
+  "page": "/Silver_Bricks",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "An animated chain armor created out of a reinforced silver alloy. This paint sends a clear message to your enemy, \"Mess with me and you're in for a bruising\".",
+  "interestingFacts": [
+    "This paint was only available during the first release of Challenges which lasted from 14th December until 25th January (6 weeks)."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nAn animated chain armor created out of a reinforced silver alloy. This paint sends a clear message to your enemy, \"Mess with me and you're in for a bruising\".\nSee also: Paints\nInteresting facts\nThis paint was only available during the first release of Challenges which lasted from 14th December until 25th January (6 weeks).\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

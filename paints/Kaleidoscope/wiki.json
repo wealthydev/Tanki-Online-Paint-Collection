@@ -1,0 +1,25 @@
+{
+  "name": "Kaleidoscope",
+  "source": "wiki",
+  "page": "/Kaleidoscope",
+  "type": "Garage",
+  "price": {
+    "amount": 130000,
+    "currency": "Crystals",
+    "text": "130 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A dizzying mixture of colors and shapes intended to disrupt the way your enemies perceive your tank. The harder they try to look at you, the more confusing you will look, and hopefully, the more difficulty they will have with hitting you.",
+  "interestingFacts": [
+    "Paint appeared on August 12, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "130 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:130 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA dizzying mixture of colors and shapes intended to disrupt the way your enemies perceive your tank. The harder they try to look at you, the more confusing you will look, and hopefully, the more difficulty they will have with hitting you.\nSee also: Paints\nInteresting facts\nPaint appeared on August 12, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

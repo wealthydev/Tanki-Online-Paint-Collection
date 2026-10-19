@@ -1,0 +1,25 @@
+{
+  "name": "Pixel Plasma",
+  "rawName": "Pixel Plasma",
+  "item": "920009668727",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was made from the smallest atomic pixels. Take a good look and you will see that it achieves a certain color that the opponent can hardly see with the naked eye. They say that this paint can change its properties without anybody noticing.",
+  "paint": {
+    "id": "1588154718977",
+    "version": "1697183401364",
+    "animated": true
+  },
+  "preview": {
+    "id": "1588154718976",
+    "version": "1588156978642"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

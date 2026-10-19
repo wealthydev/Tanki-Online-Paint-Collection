@@ -1,0 +1,24 @@
+{
+  "name": "Area 52",
+  "rawName": "Area 52",
+  "item": "921009742073",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1624461325015",
+    "version": "1775743168797",
+    "animated": false
+  },
+  "preview": {
+    "id": "1624461324448",
+    "version": "1624461324689"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

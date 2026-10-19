@@ -1,0 +1,25 @@
+{
+  "name": "Diamond",
+  "rawName": "Diamond",
+  "item": "920009601460",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is the best friend of girls... and respectable men. Its brilliance can be blinding. Luxury all the way.",
+  "paint": {
+    "id": "1553589360773",
+    "version": "1697183401437",
+    "animated": true
+  },
+  "preview": {
+    "id": "1553589173312",
+    "version": "1581391374249"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

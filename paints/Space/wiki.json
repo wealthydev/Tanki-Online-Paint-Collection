@@ -1,0 +1,26 @@
+{
+  "name": "Space",
+  "source": "wiki",
+  "page": "/Space",
+  "type": "Garage",
+  "price": {
+    "amount": 180000,
+    "currency": "Crystals",
+    "text": "180 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This paint is a replica of the area of sky where the alleged alien radio signal SHGb02 + 14a was recorded in March 2003. It was recorded three times and appeared to come from the area between the constellations Pisces and Aries.",
+  "interestingFacts": [
+    "The paint first appeared on April 12, 2014, as a holiday paint for Cosmonautics Day.",
+    "Returned on permanent sale on July 21, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "180 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:180 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis paint is a replica of the area of sky where the alleged alien radio signal SHGb02 + 14a was recorded in March 2003. It was recorded three times and appeared to come from the area between the constellations Pisces and Aries.\nSee also: Paints\nInteresting facts\nThe paint first appeared on April 12, 2014, as a holiday paint for Cosmonautics Day.\nReturned on permanent sale on July 21, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

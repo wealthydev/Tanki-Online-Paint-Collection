@@ -1,0 +1,27 @@
+{
+  "name": "Taiga",
+  "rawName": "Taiga",
+  "item": "920004703619",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 9000
+  },
+  "owned": false,
+  "description": "The \"Taiga\" camouflage paint masks the tank so well in thick vegetation, that you could probably sneak up on a moose with your tank.",
+  "paint": {
+    "id": "5006356",
+    "version": "1775743169968",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006355",
+    "version": "1581391617667"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

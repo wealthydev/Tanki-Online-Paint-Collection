@@ -1,0 +1,25 @@
+{
+  "name": "Flame 2.0",
+  "rawName": "Flame 2.0",
+  "item": "920009674720",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "An animated version of the legendary «Flame» paint. They say that nobody has managed to subdue the elements yet except from the Administrators of {GAME_NAME} who also handle more serious tasks on a daily basis: wise and fair guardians of the game manage helper groups and are responsible for different sectors of community life. The paint commands respect to its owner and gifts an ability to predict actions and wishes of tankers.",
+  "paint": {
+    "id": "1590346585261",
+    "version": "1697183401523",
+    "animated": true
+  },
+  "preview": {
+    "id": "1590346585246",
+    "version": "1590347604970"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

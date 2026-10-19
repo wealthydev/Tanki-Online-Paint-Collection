@@ -1,0 +1,29 @@
+{
+  "name": "Survivor",
+  "source": "wiki",
+  "page": "/Survivor",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on May 15th, 2020.",
+    "This paint was available by completing a special mission, \"The Revenant Project\" Complete «Dangerous tag game», «Gatherings are banned!» and «15 meters» missions. These missions were available from May 15th - June 1st, 2020:\n\"Dangerous tag game\": Destroy 50 tanks using Mammoth's overdrive in Matchmaking battles.\n\"Gatherings are banned!\": Earn 30 000 battle points in Siege mode.\n\"1.5 meters\": Destroy 3000 tanks with short-range turrets (Twins, Ricochet, Hammer) in Matchmaking battles.",
+    "\"Dangerous tag game\": Destroy 50 tanks using Mammoth's overdrive in Matchmaking battles.",
+    "\"Gatherings are banned!\": Earn 30 000 battle points in Siege mode.",
+    "\"1.5 meters\": Destroy 3000 tanks with short-range turrets (Twins, Ricochet, Hammer) in Matchmaking battles."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on May 15th, 2020.\nThis paint was available by completing a special mission, \"The Revenant Project\" Complete «Dangerous tag game», «Gatherings are banned!» and «15 meters» missions. These missions were available from May 15th - June 1st, 2020:\n\"Dangerous tag game\": Destroy 50 tanks using Mammoth's overdrive in Matchmaking battles.\n\"Gatherings are banned!\": Earn 30 000 battle points in Siege mode.\n\"1.5 meters\": Destroy 3000 tanks with short-range turrets (Twins, Ricochet, Hammer) in Matchmaking battles.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

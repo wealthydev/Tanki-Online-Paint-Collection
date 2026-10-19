@@ -1,0 +1,27 @@
+{
+  "name": "Corrosion",
+  "rawName": "Corrosion",
+  "item": "920004704091",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 12000
+  },
+  "owned": false,
+  "description": "For the tanker who wants to go beyond using bullets, and venture into the realm of chemical tetanus-powered warfare, the \"Corrosion\" paint is the perfect companion.",
+  "paint": {
+    "id": "5006152",
+    "version": "1775743168982",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006137",
+    "version": "1581391478798"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

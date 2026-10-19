@@ -1,0 +1,24 @@
+{
+  "name": "Spirit of LATAM",
+  "rawName": "Spirit of LATAM",
+  "item": "920009662013",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This unique paint was created in honor of the Latin American community in {GAME_NAME}. It is given exclusively to members of that localization.",
+  "paint": {
+    "id": "1583311825429",
+    "version": "1775743169910",
+    "animated": false
+  },
+  "preview": {
+    "id": "1583311825428",
+    "version": "1583315609275"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

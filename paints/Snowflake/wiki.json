@@ -1,0 +1,25 @@
+{
+  "name": "Snowflake",
+  "source": "wiki",
+  "page": "/Snowflake",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint is manufactured by a special production facility hidden deep in the arctic tundra, using a patented snow harvesting system that results in sheets of rigid, thinly-layered snow. These layers are then processed to enhance the unique refractive index of each snowflake, making for a stunning visual effect of rare beauty.",
+  "interestingFacts": [
+    "This paint was available in the shop as part of a special bundle during the 2017 New Year celebrations from December 28, 2016, to January 9, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint is manufactured by a special production facility hidden deep in the arctic tundra, using a patented snow harvesting system that results in sheets of rigid, thinly-layered snow. These layers are then processed to enhance the unique refractive index of each snowflake, making for a stunning visual effect of rare beauty.\nSee also: Paints\nInteresting facts\nThis paint was available in the shop as part of a special bundle during the 2017 New Year celebrations from December 28, 2016, to January 9, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

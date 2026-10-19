@@ -1,0 +1,27 @@
+{
+  "name": "Neuron",
+  "source": "wiki",
+  "page": "/Neuron",
+  "type": "Tankoin",
+  "price": {
+    "amount": 4000,
+    "currency": "Rubies",
+    "text": "4 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Using a sophisticated neural network, our scientists have created an artificial paint designer to optimize paint job production. To test its capabilities, the scientists gave it the task of drawing itself. Neural Network took the task literally, as can be seen from the result. Some scientists speculate that Neural Network might have been joking, and might even be self-aware, but we assure you that we've taken every precaution to prevent possible robot apocalypse scenarios.",
+  "interestingFacts": [
+    "This paint appeared on September 13, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "Your brain contains somewhere around 86 billion neurons. Luckily, the enemy team's brains only contain 85 billion, so you should be able to win the battle."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "4 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:4 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nUsing a sophisticated neural network, our scientists have created an artificial paint designer to optimize paint job production. To test its capabilities, the scientists gave it the task of drawing itself. Neural Network took the task literally, as can be seen from the result. Some scientists speculate that Neural Network might have been joking, and might even be self-aware, but we assure you that we've taken every precaution to prevent possible robot apocalypse scenarios.\nSee also: Paints\nInteresting facts\nThis paint appeared on September 13, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nYour brain contains somewhere around 86 billion neurons. Luckily, the enemy team's brains only contain 85 billion, so you should be able to win the battle.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

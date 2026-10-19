@@ -1,0 +1,27 @@
+{
+  "name": "Violet",
+  "rawName": "Violet",
+  "item": "1931009779881",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "Great paint for scientific research vehicles that collect information about the weather, radiation, and other changes in the surrounding environment. It is used by combat vehicles when transporting researchers or to attract less attention in questionable territories.",
+  "paint": {
+    "id": "1685024433451",
+    "version": "1775743169471",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024432999",
+    "version": "1707988473142"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

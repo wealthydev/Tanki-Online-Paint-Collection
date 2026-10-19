@@ -1,0 +1,24 @@
+{
+  "name": "Team Russia",
+  "rawName": "Team Russia",
+  "item": "920004008400",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This is the paint of a tanker who supported the team of Russian female tankers during the Spring Showdown battle. It was only available for purchase on March 7th and 8th, 2016. Thanks to the victory of the Russian team, each of their fans received 7112 crystals.",
+  "paint": {
+    "id": "500355361",
+    "version": "1775743167993",
+    "animated": false
+  },
+  "preview": {
+    "id": "500355365",
+    "version": "1581391581558"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Domino",
+  "source": "wiki",
+  "page": "/Domino",
+  "type": "Tankoin",
+  "price": {
+    "amount": 1000,
+    "currency": "Rubies",
+    "text": "1 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint was inspired by a project created by a team of child geniuses who built an incredibly detailed replica of a tank out of domino pieces. The model contained so many domino pieces that it is said to have taken 5 hours for all of them to fall.",
+  "interestingFacts": [
+    "Paint appeared on September 29, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "1 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:1 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint was inspired by a project created by a team of child geniuses who built an incredibly detailed replica of a tank out of domino pieces. The model contained so many domino pieces that it is said to have taken 5 hours for all of them to fall.\nSee also: Paints\nInteresting facts\nPaint appeared on September 29, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

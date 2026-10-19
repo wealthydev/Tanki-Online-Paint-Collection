@@ -1,0 +1,25 @@
+{
+  "name": "Lightning storm",
+  "rawName": "Lightning storm",
+  "item": "920009600633",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A rippling electrical current flows right beneath the transparent coating of this paint, making your tank look like a mobile plasma ball of destruction.",
+  "paint": {
+    "id": "1544529166664",
+    "version": "1697183401534",
+    "animated": true
+  },
+  "preview": {
+    "id": "1544529246457",
+    "version": "1581391626383"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

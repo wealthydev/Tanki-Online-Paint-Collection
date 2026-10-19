@@ -1,0 +1,26 @@
+{
+  "name": "Houston {GAME}n",
+  "source": "wiki",
+  "page": "/Houston_{GAME}n",
+  "type": "Tankoin",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "At a time when our spaceships are travelling through the universe, a new star has lit up in the racing tank building — Houston {GAME}n. The members of this team are progressive thinkers of their time, who know a lot about technologies of the future. High-speed cars that withstand the effects of extra high and cryogenic temperatures can bring a triumphant victory to their owners.\nThanks to innovative ideas and an extraordinary approach, the creators of this racing team have formed the following motto: \"Houston, we have no problems.\"",
+  "interestingFacts": [
+    "This paint was added to the game on february 24th, 2023.",
+    "Houston {GAME}n could have been obtained during The «Rally Tankcar» Event."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "700",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:700\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nAt a time when our spaceships are travelling through the universe, a new star has lit up in the racing tank building — Houston {GAME}n. The members of this team are progressive thinkers of their time, who know a lot about technologies of the future. High-speed cars that withstand the effects of extra high and cryogenic temperatures can bring a triumphant victory to their owners.\nThanks to innovative ideas and an extraordinary approach, the creators of this racing team have formed the following motto: \"Houston, we have no problems.\"\nSee also: Paints\nInteresting facts\nThis paint was added to the game on february 24th, 2023.\nHouston {GAME}n could have been obtained during The «Rally Tankcar» Event.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

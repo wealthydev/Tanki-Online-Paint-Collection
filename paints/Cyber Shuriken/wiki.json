@@ -1,0 +1,26 @@
+{
+  "name": "Cyber Shuriken",
+  "source": "wiki",
+  "page": "/Cyber_Shuriken",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on April 1st, 2020.",
+    "This paint could have been unlocked at Tier 45 of the April 2020 Challenge A."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on April 1st, 2020.\nThis paint could have been unlocked at Tier 45 of the April 2020 Challenge A.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

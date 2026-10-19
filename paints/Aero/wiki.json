@@ -1,0 +1,28 @@
+{
+  "name": "Aero",
+  "source": "wiki",
+  "page": "/Aero",
+  "type": "Parkour",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner's tank if it's not fed a regular dose of concentrated adrenaline.",
+  "interestingFacts": [
+    "The only way to obtain Aero is to become a member of a club that has been awarded it.",
+    "This paint was created exclusively for members of the German {GAME} Tutorials parkour club.",
+    "On March 21st, 2020, the parkour group \"German {GAME} Tutorials\" lost the paint and the paint was given to the members of Fly to High.",
+    "On October 9th, 2021, The paint was given to the members of Team of Demons as a result of becoming an official parkour club."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Parkour",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Parkour\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner's tank if it's not fed a regular dose of concentrated adrenaline.\nSee also: Paints\nInteresting facts\nThe only way to obtain Aero is to become a member of a club that has been awarded it.\nThis paint was created exclusively for members of the German {GAME} Tutorials parkour club.\nOn March 21st, 2020, the parkour group \"German {GAME} Tutorials\" lost the paint and the paint was given to the members of Fly to High.\nOn October 9th, 2021, The paint was given to the members of Team of Demons as a result of becoming an official parkour club.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

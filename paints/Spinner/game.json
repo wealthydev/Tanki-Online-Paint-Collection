@@ -1,0 +1,25 @@
+{
+  "name": "Spinner",
+  "rawName": "Spinner",
+  "item": "920009597001",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Spinner? Is that THE spinner? That's right, your eyes do not deceive you. A battle gone wrong or teammates being dense? Keep calm and spin it.",
+  "paint": {
+    "id": "1533628744333",
+    "version": "1697183401440",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533629486871",
+    "version": "1581391611062"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

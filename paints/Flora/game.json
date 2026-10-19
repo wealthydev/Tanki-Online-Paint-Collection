@@ -1,0 +1,27 @@
+{
+  "name": "Flora",
+  "rawName": "Flora",
+  "item": "920004704211",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 1000
+  },
+  "owned": true,
+  "description": "This is one of two paints specifically designed for ground operations in a mid latitude climate. According to reports from the independent organization \"True Camouflage\", a tank wearing this particular combination of yellow, green and brown, is less likely to be detected in such regions.",
+  "paint": {
+    "id": "56056",
+    "version": "1775743169120",
+    "animated": false
+  },
+  "preview": {
+    "id": "58881",
+    "version": "1581391607225"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

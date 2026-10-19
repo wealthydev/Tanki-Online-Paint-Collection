@@ -1,0 +1,27 @@
+{
+  "name": "First Love",
+  "rawName": "First Love",
+  "item": "920004826764",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 110000
+  },
+  "owned": true,
+  "description": "They say nothing hurts like the broken heart of a first love. But in reality, a bullet from a tank wearing the \"First Love\" paint is even more heart-shattering.",
+  "paint": {
+    "id": "500362861",
+    "version": "1775743169111",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362853",
+    "version": "1581391692664"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

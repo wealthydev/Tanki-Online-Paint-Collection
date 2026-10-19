@@ -1,0 +1,24 @@
+{
+  "name": "Antisystem",
+  "rawName": "Antisystem",
+  "item": "1931009801932",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1699902886785",
+    "version": "1775743170138",
+    "animated": false
+  },
+  "preview": {
+    "id": "1699902886287",
+    "version": "1699902886479"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Oasis",
+  "rawName": "Oasis",
+  "item": "921009738091",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1622055295526",
+    "version": "1775743169534",
+    "animated": false
+  },
+  "preview": {
+    "id": "1622055292165",
+    "version": "1622102915588"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

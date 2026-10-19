@@ -1,0 +1,24 @@
+{
+  "name": "Helios",
+  "rawName": "Helios",
+  "item": "920004704570",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for truly creative tankers. ",
+  "paint": {
+    "id": "500142400",
+    "version": "1775743168808",
+    "animated": false
+  },
+  "preview": {
+    "id": "500142403",
+    "version": "1581391565185"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

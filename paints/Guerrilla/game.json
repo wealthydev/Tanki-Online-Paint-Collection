@@ -1,0 +1,27 @@
+{
+  "name": "Guerrilla",
+  "rawName": "Guerrilla",
+  "item": "920004704450",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 4000
+  },
+  "owned": false,
+  "description": "This paint is assembled from a variety of scrap materials, providing the perfect cover for the guerrilla tanker who wants to take advantage of the element of surprise.",
+  "paint": {
+    "id": "500313718",
+    "version": "1775743169235",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313706",
+    "version": "1581391487021"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Feathers",
+  "rawName": "Feathers",
+  "item": "920009595689",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "Art critics debated for a long time the meaning behind this pattern. Some clearly see the end of the world, when others — serenity. Truth is, the artist just randomly dropped his paints on the frame.",
+  "paint": {
+    "id": "1526549518362",
+    "version": "1775743168968",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550656404",
+    "version": "1581391571552"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

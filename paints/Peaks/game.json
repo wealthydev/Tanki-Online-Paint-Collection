@@ -1,0 +1,27 @@
+{
+  "name": "Peaks",
+  "rawName": "Peaks",
+  "item": "920009365540",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "This paint even looks dangerously! With black, oozing posion thorns turn your enemies to run in fear and breathe new confidence into your team.",
+  "paint": {
+    "id": "1516883264846",
+    "version": "1775743169652",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264847",
+    "version": "1581391374034"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

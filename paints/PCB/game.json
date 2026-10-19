@@ -1,0 +1,25 @@
+{
+  "name": "PCB",
+  "rawName": "PCB",
+  "item": "921009687167",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint appeared as a result of attempts to develop an invisible armor. The first tests with thin steel plates were successful, but in practice engineers saw something surprising: The paint only made the armor transparent but not the parts underneath! These insights were so spectacular, it was decided that the paint should be put up for sale.",
+  "paint": {
+    "id": "1598369840147",
+    "version": "1697183401469",
+    "animated": true
+  },
+  "preview": {
+    "id": "1598369835473",
+    "version": "1598369835779"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

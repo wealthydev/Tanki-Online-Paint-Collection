@@ -1,0 +1,25 @@
+{
+  "name": "Spring",
+  "rawName": "Spring",
+  "item": "920009601250",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "When wearing this paint, your tank will looks so fresh and peaceful that your enemies won't even want to shoot you... Maybe. ",
+  "paint": {
+    "id": "1551181423162",
+    "version": "1697183401438",
+    "animated": true
+  },
+  "preview": {
+    "id": "1551181354530",
+    "version": "1581391330762"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

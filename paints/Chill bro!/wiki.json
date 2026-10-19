@@ -1,0 +1,25 @@
+{
+  "name": "Chill bro!",
+  "source": "wiki",
+  "page": "/Chill_bro!",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A paint for the tanker who's cool regardless of the season. Try this one out with a Freeze and Mammoth combo to get a distinct \"ice-age\" look.",
+  "interestingFacts": [
+    "This paint was available in the shop as part of a special bundle during the 2017 Summer Sale celebrations from the 5th to the 7th of August 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA paint for the tanker who's cool regardless of the season. Try this one out with a Freeze and Mammoth combo to get a distinct \"ice-age\" look.\nSee also: Paints\nInteresting facts\nThis paint was available in the shop as part of a special bundle during the 2017 Summer Sale celebrations from the 5th to the 7th of August 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

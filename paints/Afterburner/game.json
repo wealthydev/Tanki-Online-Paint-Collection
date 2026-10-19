@@ -1,0 +1,24 @@
+{
+  "name": "Afterburner",
+  "rawName": "Afterburner",
+  "item": "920009600801",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "In military aircraft, the afterburner activates supersonic flight by injecting additional fuel after the turbine. This paint reminds you that in battle, sometimes the best equipment isn't enough. Your tank needs to be fuelled by your passion and determination to win. They are the afterburner that will give you the ultimate advantage over your enemies so you can grind them into the ground.",
+  "paint": {
+    "id": "1545816446723",
+    "version": "1775743168764",
+    "animated": false
+  },
+  "preview": {
+    "id": "1545816651251",
+    "version": "1581391335488"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

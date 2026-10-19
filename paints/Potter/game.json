@@ -1,0 +1,27 @@
+{
+  "name": "Potter",
+  "rawName": "Potter",
+  "item": "920009365544",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "Once in a battle in Iran a tank flew straight into the pottery shop and next the utter distraction fell as pieces onto the tank. This improvised paint helped the tanker to win the battle and instantly became a hit.",
+  "paint": {
+    "id": "1516883264864",
+    "version": "1775743169726",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264865",
+    "version": "1581391684383"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

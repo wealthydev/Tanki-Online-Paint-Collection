@@ -1,0 +1,27 @@
+{
+  "name": "Emerald",
+  "source": "wiki",
+  "page": "/Emerald",
+  "type": "Garage",
+  "price": {
+    "amount": 370000,
+    "currency": "Crystals",
+    "text": "370 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "The researchers at the paint laboratory \"Style and Grill\" have long worked on a paint that would retain the classic green tone of a tank, while at the same time emphasizing the high status of its owner. The result is the \"Emerald\" paint, which appears to be illuminated from within.",
+  "interestingFacts": [
+    "Paint first appeared on May 28, 2011.",
+    "Prior to the Paint Separation Update, Emerald was worth 143,500 crystals and could be purchased from the rank of Major General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "370 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:370 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThe researchers at the paint laboratory \"Style and Grill\" have long worked on a paint that would retain the classic green tone of a tank, while at the same time emphasizing the high status of its owner. The result is the \"Emerald\" paint, which appears to be illuminated from within.\nSee also: Paints\nInteresting facts\nPaint first appeared on May 28, 2011.\nPrior to the Paint Separation Update, Emerald was worth 143,500 crystals and could be purchased from the rank of Major General.\nLegacy paint description:\nA paint thaat performs well against Twins, Railgun, and phenomenally against Thunder. Good for mid to long-range battles. Makes your tank glisten like a gem!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

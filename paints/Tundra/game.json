@@ -1,0 +1,27 @@
+{
+  "name": "Tundra",
+  "rawName": "Tundra",
+  "item": "920004703491",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 5000
+  },
+  "owned": true,
+  "description": "Gives your tank an intimidating, battle-hardened look. Nobody will dare mess with you.",
+  "paint": {
+    "id": "5001793",
+    "version": "1775743170548",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001791",
+    "version": "1581391449528"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

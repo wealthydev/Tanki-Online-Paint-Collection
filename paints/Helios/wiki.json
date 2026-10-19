@@ -1,0 +1,26 @@
+{
+  "name": "Helios",
+  "source": "wiki",
+  "page": "/Helios",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint for truly creative tankers.\nThis unique coating is found during archaeological excavations of the ancient city full of temples, where people used to worship the ancient sun god. Legend has it that this paint holds enormous amounts of energy that can be used only by truly creative people. Every artist wants it but only the members of the Creative League and chosen artists can wear the Helios.",
+  "interestingFacts": [
+    "Paint appeared on August 13, 2013 (update 178).",
+    "The author of the paint is DevilCrowley (ex KOBEP-CAMOLET)."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint for truly creative tankers.\nThis unique coating is found during archaeological excavations of the ancient city full of temples, where people used to worship the ancient sun god. Legend has it that this paint holds enormous amounts of energy that can be used only by truly creative people. Every artist wants it but only the members of the Creative League and chosen artists can wear the Helios.\nSee also: Paints\nInteresting facts\nPaint appeared on August 13, 2013 (update 178).\nThe author of the paint is DevilCrowley (ex KOBEP-CAMOLET).\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

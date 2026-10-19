@@ -1,0 +1,24 @@
+{
+  "name": "Gentleman",
+  "rawName": "Gentleman",
+  "item": "920009601163",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "(temporary paint)\n\nWearing this paint shows your allegiance to the MALE camp in the «Gender War». When purchasing this paint, you will be participating in a star battle against the female camp in {GAME_NAME}. The strongest side will win!\n\nIMPORTANT! This paint is temporary. It will be removed from all Garages at the end of the «Gender War».",
+  "paint": {
+    "id": "1550564253671",
+    "version": "1775743168325",
+    "animated": false
+  },
+  "preview": {
+    "id": "1550564346190",
+    "version": "1581391617261"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

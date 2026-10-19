@@ -1,0 +1,27 @@
+{
+  "name": "Gucciflage",
+  "rawName": "Gucciflage",
+  "item": "920009365531",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "The most fashionable camouflage in the game. Provides perfect combination of hiding techniques and new trends from the spring-summer collection. Create a stylish look and take a selfie on your favorite map!",
+  "paint": {
+    "id": "1516883264844",
+    "version": "1775743169232",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264845",
+    "version": "1581391607459"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

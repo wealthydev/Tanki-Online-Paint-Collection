@@ -1,0 +1,25 @@
+{
+  "name": "lol",
+  "rawName": "lol",
+  "item": "920009601450",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "For the tanker who can always find something to laugh about. Easily recognizable by the signature \"LOL\" reaction to jokes.",
+  "paint": {
+    "id": "1553576998235",
+    "version": "1697183401330",
+    "animated": true
+  },
+  "preview": {
+    "id": "1553523141727",
+    "version": "1581391368788"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

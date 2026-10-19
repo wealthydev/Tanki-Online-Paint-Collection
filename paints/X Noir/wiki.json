@@ -1,0 +1,25 @@
+{
+  "name": "X Noir",
+  "source": "wiki",
+  "page": "/X_Noir",
+  "type": "Tankoin",
+  "price": {
+    "amount": 11000,
+    "currency": "Rubies",
+    "text": "11 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A birthday-themed tribute to the 1944–54 Film Noir era. This animated paint evokes the gritty and brooding setting of those old detective movies. It makes a clear statement, \"Don't mess with me... you wouldn't like it\".",
+  "interestingFacts": [
+    "It is speculated that interpretations of the inkblot-like patterns on this paint can reveal the secrets of one's past, but for some reason, all they seem to reveal to me is how clumsy I am when driving wasp."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "11 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:11 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA birthday-themed tribute to the 1944–54 Film Noir era. This animated paint evokes the gritty and brooding setting of those old detective movies. It makes a clear statement, \"Don't mess with me... you wouldn't like it\".\nSee also: Paints\nInteresting facts\nIt is speculated that interpretations of the inkblot-like patterns on this paint can reveal the secrets of one's past, but for some reason, all they seem to reveal to me is how clumsy I am when driving wasp.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pink Elephant",
+  "rawName": "Pink Elephant",
+  "item": "920009621496",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint will become your partner in each fight. An artwork of an unknown artist from Togo, West Africa. A rare paint that leads your team to victory.",
+  "paint": {
+    "id": "1569902633045",
+    "version": "1775743168970",
+    "animated": false
+  },
+  "preview": {
+    "id": "1569902982287",
+    "version": "1581391442756"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

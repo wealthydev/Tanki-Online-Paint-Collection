@@ -1,0 +1,24 @@
+{
+  "name": "Spirit of Brazil",
+  "rawName": "Spirit of Brazil",
+  "item": "920009662014",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This unique paint was created in honor of the Brazilian community in {GAME_NAME}. It is given exclusively to members of that localization.",
+  "paint": {
+    "id": "1583311825426",
+    "version": "1775743169906",
+    "animated": false
+  },
+  "preview": {
+    "id": "1583311825416",
+    "version": "1583315572750"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

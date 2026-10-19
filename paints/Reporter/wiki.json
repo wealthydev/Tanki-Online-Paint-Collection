@@ -1,0 +1,27 @@
+{
+  "name": "Reporter",
+  "source": "wiki",
+  "page": "/Reporter",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint for {GAME_NAME} wiki editors.",
+  "interestingFacts": [
+    "The creator of the paint is Summer (ex lmprove).",
+    "Until August 19, 2015, the paint had a different texture, which was based on notes from the newspaper. The author of the old paint texture is ACTPOHOM.",
+    "The paint used to be issued to Reporters. It was discontinued to be issued after the position closed mid-2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint for {GAME_NAME} wiki editors.\nSee also: Paints\nInteresting facts\nThe creator of the paint is Summer (ex lmprove).\nUntil August 19, 2015, the paint had a different texture, which was based on notes from the newspaper. The author of the old paint texture is ACTPOHOM.\nThe paint used to be issued to Reporters. It was discontinued to be issued after the position closed mid-2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

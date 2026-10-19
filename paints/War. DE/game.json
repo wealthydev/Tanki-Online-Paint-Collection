@@ -1,0 +1,24 @@
+{
+  "name": "War. DE",
+  "rawName": "War. DE",
+  "item": "920009398606",
+  "rarity": "SPECIAL",
+  "minRank": 8,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was made specially for the global event «{GAME_NAME}: War». Purchase the paint of the German community and lead it to victory! Capture territories, devise strategies and conquer the world!",
+  "paint": {
+    "id": "1518436673078",
+    "version": "1775743168644",
+    "animated": false
+  },
+  "preview": {
+    "id": "1518436885957",
+    "version": "1581391326770"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

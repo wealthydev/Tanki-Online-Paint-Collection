@@ -1,0 +1,24 @@
+{
+  "name": "Spangles",
+  "rawName": "Spangles",
+  "item": "920005715670",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Bring a touch of holiday cheer with this special paint that makes you look like a Christmas tree bauble... if baubles had turrets and fired all sorts of deadly projectiles.",
+  "paint": {
+    "id": "500372369",
+    "version": "1775743168452",
+    "animated": false
+  },
+  "preview": {
+    "id": "500372370",
+    "version": "1581391584883"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

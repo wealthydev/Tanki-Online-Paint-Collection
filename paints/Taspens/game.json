@@ -1,0 +1,24 @@
+{
+  "name": "Taspens",
+  "rawName": "Taspens",
+  "item": "931009766063",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1641967774357",
+    "version": "1775743170687",
+    "animated": false
+  },
+  "preview": {
+    "id": "1641967774010",
+    "version": "1641967774158"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Paisley Ice",
+  "rawName": "Paisley Ice",
+  "item": "920009365539",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "This pattern looks perfect on everything: pottery, designer's clothes, persian rugs and, especially, tanks. We have this pattern in two colors - Ice and Flame.",
+  "paint": {
+    "id": "1516883264874",
+    "version": "1775743169635",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264875",
+    "version": "1581391443626"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

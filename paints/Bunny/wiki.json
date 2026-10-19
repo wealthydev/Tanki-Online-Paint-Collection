@@ -1,0 +1,27 @@
+{
+  "name": "Bunny",
+  "source": "wiki",
+  "page": "/Bunny",
+  "type": "Tankoin",
+  "price": {
+    "amount": 14000,
+    "currency": "Rubies",
+    "text": "14 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint grants the owner the ability to notice even the tiniest details, and not even the smallest Wasp-o-Smoky will hide from its piercing eyes. Use it for intended purposes only, and nobody will come even close to you.",
+  "interestingFacts": [
+    "Bunny was part of a special bundle in the Shop available during the 2018 Halloween celebrations.",
+    "This paint was added into the game on October 30th, 2018; and was available until 5th November, as part of the 2018 Halloween celebrations. Simultaneously it was added to containers permanently.",
+    "Wearing this paint around Easter may make you find eggs in unsettling places. Check your turret barrels before firing..."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "14 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:14 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint grants the owner the ability to notice even the tiniest details, and not even the smallest Wasp-o-Smoky will hide from its piercing eyes. Use it for intended purposes only, and nobody will come even close to you.\nSee also: Paints\nInteresting facts\nBunny was part of a special bundle in the Shop available during the 2018 Halloween celebrations.\nThis paint was added into the game on October 30th, 2018; and was available until 5th November, as part of the 2018 Halloween celebrations. Simultaneously it was added to containers permanently.\nWearing this paint around Easter may make you find eggs in unsettling places. Check your turret barrels before firing...\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

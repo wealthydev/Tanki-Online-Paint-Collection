@@ -1,0 +1,27 @@
+{
+  "name": "Amber",
+  "rawName": "Amber",
+  "item": "920005376820",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 3000
+  },
+  "owned": false,
+  "description": "This paint is created using a very old technique. It involves extracting tree resin and working it at low pressure into thin sheets that are then hammered onto the tank. The end result is an aesthetically pleasing coating that gives the tank the distinct look of an amber gemstone.",
+  "paint": {
+    "id": "500368905",
+    "version": "1775743168782",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368900",
+    "version": "1581391317877"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

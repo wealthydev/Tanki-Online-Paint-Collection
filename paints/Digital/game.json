@@ -1,0 +1,27 @@
+{
+  "name": "Digital",
+  "rawName": "Digital",
+  "item": "920004703494",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "Besides having exceptional camouflage properties, this paint is extremely durable and contains special nanobots for automatic cleaning of the paint while in combat.",
+  "paint": {
+    "id": "5001758",
+    "version": "1775743169038",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001757",
+    "version": "1581391542714"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

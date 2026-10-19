@@ -1,0 +1,26 @@
+{
+  "name": "Carnage",
+  "source": "wiki",
+  "page": "/Carnage",
+  "type": "Event",
+  "price": {
+    "amount": 5990,
+    "currency": "Tankoins",
+    "text": "5990"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament.",
+  "interestingFacts": [
+    "The paint was available for purchase from December 6th to December 19th, 2021, from a bundle containing the three other fan paints, 50 ultra containers, and 240,000 crystals for 5990 Tankoins as part of the fourth {GAME}Sport 2021 series tournament.",
+    "The paints from the bundle remain in the player's garages forever."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "5990",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:5990\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nPurchase this paint to become a fan of this clan and support it in the playoff stage of the tournament.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase from December 6th to December 19th, 2021, from a bundle containing the three other fan paints, 50 ultra containers, and 240,000 crystals for 5990 Tankoins as part of the fourth {GAME}Sport 2021 series tournament.\nThe paints from the bundle remain in the player's garages forever.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

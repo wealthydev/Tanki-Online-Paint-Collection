@@ -1,0 +1,27 @@
+{
+  "name": "Fuchsia",
+  "source": "wiki",
+  "page": "/Fuchsia",
+  "type": "Garage",
+  "price": {
+    "amount": 10,
+    "currency": "Crystals",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": null,
+  "description": "If a tank needs to be camouflaged against the background of vegetation, then it is better to use this paint. The standard green paint is more of a tribute to tradition and copes with this task worse.\nSee also: Paints",
+  "interestingFacts": [
+    "The paint was added to the game on June 2, 2023.",
+    "This paint was only used by helpers in the Party event for {GAME}'s Birthday in 2023. Killing one of these helpers wearing this paint earned the player ultra containers.",
+    "Later, the paint could be obtained upon reaching a certain level in the “Summer eSports Tank Fund”, where in order to participate it was necessary to purchase a special offer.",
+    "Before update #752 the paint was called «Mono Fuchsia», after which its name changed and it began to be sold for crystals."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10",
+    "Garage categorization": "◆ Common"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10\nGarage categorization:◆ Common\nGarage description\nIf a tank needs to be camouflaged against the background of vegetation, then it is better to use this paint. The standard green paint is more of a tribute to tradition and copes with this task worse.\nSee also: Paints\nInteresting facts\nThe paint was added to the game on June 2, 2023.\nThis paint was only used by helpers in the Party event for {GAME}'s Birthday in 2023. Killing one of these helpers wearing this paint earned the player ultra containers.\nLater, the paint could be obtained upon reaching a certain level in the “Summer eSports Tank Fund”, where in order to participate it was necessary to purchase a special offer.\nBefore update #752 the paint was called «Mono Fuchsia», after which its name changed and it began to be sold for crystals.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

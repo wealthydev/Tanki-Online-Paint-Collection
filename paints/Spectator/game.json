@@ -1,0 +1,24 @@
+{
+  "name": "Spectator",
+  "rawName": "Spectator",
+  "item": "920004703612",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is issued to members of the Rent-a-spec helper group and V-LOG helpers. It shows that its owner is a real master of shooting and montage.",
+  "paint": {
+    "id": "500333050",
+    "version": "1775743169552",
+    "animated": false
+  },
+  "preview": {
+    "id": "500333051",
+    "version": "1581391708414"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

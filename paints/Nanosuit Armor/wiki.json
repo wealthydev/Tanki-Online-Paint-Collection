@@ -1,0 +1,25 @@
+{
+  "name": "Nanosuit Armor",
+  "source": "wiki",
+  "page": "/Nanosuit_Armor",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "During production, this paint was originally called, \"That paint with slithering black and gray textures that looks really cool\". But due to character limit restrictions in the game, the devs had to settle for something a bit simpler. Pity. It would've been an awesome name.",
+  "interestingFacts": [
+    "The paint could be received as a reward for completing the challenges of the challenge (09/01/2019 - 09/29/2019) with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nDuring production, this paint was originally called, \"That paint with slithering black and gray textures that looks really cool\". But due to character limit restrictions in the game, the devs had to settle for something a bit simpler. Pity. It would've been an awesome name.\nSee also: Paints\nInteresting facts\nThe paint could be received as a reward for completing the challenges of the challenge (09/01/2019 - 09/29/2019) with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

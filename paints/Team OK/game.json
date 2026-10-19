@@ -1,0 +1,24 @@
+{
+  "name": "Team OK",
+  "rawName": "Team OK",
+  "item": "920009100331",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is for the participants of the «{GAME} Battle: OK vs VK» event. Destroy as many enemy tanks as you can with this paint equipped, lead Odnoklassniki to victory and win cool prizes!",
+  "paint": {
+    "id": "500414400",
+    "version": "1775743168474",
+    "animated": false
+  },
+  "preview": {
+    "id": "500414401",
+    "version": "1581391631446"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

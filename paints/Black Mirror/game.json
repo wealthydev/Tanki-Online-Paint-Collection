@@ -1,0 +1,24 @@
+{
+  "name": "Black Mirror",
+  "rawName": "Black Mirror",
+  "item": "1931009773537",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1656415097858",
+    "version": "1775743170059",
+    "animated": false
+  },
+  "preview": {
+    "id": "1656415097447",
+    "version": "1656415097640"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

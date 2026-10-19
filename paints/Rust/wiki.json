@@ -1,0 +1,27 @@
+{
+  "name": "Rust",
+  "source": "wiki",
+  "page": "/Rust",
+  "type": "Tankoin",
+  "price": {
+    "amount": 1000,
+    "currency": "Rubies",
+    "text": "1 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Fool your enemies into thinking that your tank is a corroded wreck - weak and defenseless. Then, when they move in for the kill, give them a nasty surprise!",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "The source of this paint's brilliant orange color is Iron Oxide, the same compound that gives the planet Mars its distinctive hue."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "1 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:1 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nFool your enemies into thinking that your tank is a corroded wreck - weak and defenseless. Then, when they move in for the kill, give them a nasty surprise!\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nThe source of this paint's brilliant orange color is Iron Oxide, the same compound that gives the planet Mars its distinctive hue.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

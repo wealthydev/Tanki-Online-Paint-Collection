@@ -1,0 +1,28 @@
+{
+  "name": "Liana",
+  "rawName": "Liana",
+  "item": "920009601263",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 15000
+  },
+  "owned": false,
+  "description": "This paint is a natural wonder. And unlike many other \"living\" colors, this one moves due to the rare species of lianas that coat the tank. The homeland of this rare plant is Eastern Laos.",
+  "paint": {
+    "id": "1551269031669",
+    "version": "1697183401385",
+    "animated": true
+  },
+  "preview": {
+    "id": "1551269007841",
+    "version": "1581391374966"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lord",
+  "rawName": "Lord",
+  "item": "920004703730",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint that can only be found in the Garage of one particular tanker. ",
+  "paint": {
+    "id": "5006953",
+    "version": "1775743169364",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006950",
+    "version": "1581391405044"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

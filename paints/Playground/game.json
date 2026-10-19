@@ -1,0 +1,24 @@
+{
+  "name": "Playground",
+  "rawName": "Playground",
+  "item": "920009600880",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "It's all fun and games until someone's tank gets barbecued. This joyous paint reminds your enemies that you're here to have fun... and to toast them... which is part of the fun.",
+  "paint": {
+    "id": "1548237744115",
+    "version": "1775743169700",
+    "animated": false
+  },
+  "preview": {
+    "id": "1548237918588",
+    "version": "1581391542996"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wonder fish",
+  "rawName": "Wonder fish",
+  "item": "920009603228",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This is what fish scales look like after they've been stained by oil spills in the ocean. A nice effect, but so unfortunate. Wear this paint to show that you support the fight for a cleaner planet.",
+  "paint": {
+    "id": "1559202564133",
+    "version": "1775743170653",
+    "animated": false
+  },
+  "preview": {
+    "id": "1559203005038",
+    "version": "1581391375999"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

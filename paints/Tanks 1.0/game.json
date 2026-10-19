@@ -1,0 +1,24 @@
+{
+  "name": "Tanks 1.0",
+  "rawName": "Tanks 1.0",
+  "item": "920009617354",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Admit it. You've got tank pyjamas. You do. And now, your tank can too. Awesome for those cold winter nights when you wanna snuggle up under a quilt with your tank and watch the V-LOG. Also comes in an animated version.",
+  "paint": {
+    "id": "1567067482115",
+    "version": "1775743169588",
+    "animated": false
+  },
+  "preview": {
+    "id": "1567067482133",
+    "version": "1581391336203"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

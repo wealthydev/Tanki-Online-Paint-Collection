@@ -1,0 +1,25 @@
+{
+  "name": "Far North",
+  "rawName": "Far North",
+  "item": "920009601463",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A pattern that is very hard to see in nature. This is what the horizon looks like in the North Pole during a couple of days in early spring.",
+  "paint": {
+    "id": "1553589358517",
+    "version": "1697183401534",
+    "animated": true
+  },
+  "preview": {
+    "id": "1553589211234",
+    "version": "1581391580046"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

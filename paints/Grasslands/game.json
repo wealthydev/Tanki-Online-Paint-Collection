@@ -1,0 +1,27 @@
+{
+  "name": "Grasslands",
+  "rawName": "Grasslands",
+  "item": "920005376824",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 40000
+  },
+  "owned": false,
+  "description": "Perfect for stealth approaches in areas characterized by a composition of grasses, herbs, and shrubs. Especially effective in autumn.",
+  "paint": {
+    "id": "500368909",
+    "version": "1775743169215",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368904",
+    "version": "1581391510224"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

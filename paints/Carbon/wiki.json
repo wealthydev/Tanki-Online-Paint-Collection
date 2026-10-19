@@ -1,0 +1,25 @@
+{
+  "name": "Carbon",
+  "source": "wiki",
+  "page": "/Carbon",
+  "type": "Garage",
+  "price": {
+    "amount": 30000,
+    "currency": "Crystals",
+    "text": "30 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A combination of high-tech carbon fiber and high-resistance paint. Includes a special substance meant for disrupting enemy sighting systems, even though this is prohibited by the Tank Movement Inspection Directorate.",
+  "interestingFacts": [
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "30 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:30 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA combination of high-tech carbon fiber and high-resistance paint. Includes a special substance meant for disrupting enemy sighting systems, even though this is prohibited by the Tank Movement Inspection Directorate.\nSee also: Paints\nInteresting facts\nLegacy paint description:\nA paint that provides an effective defense against Smoky and somewhat reduces the damage inflicted by Twins and Shaft. Good for mid to long-range battles. Gives the tank a sports car look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,5292 @@
+{
+ "count": 660,
+ "notParsed": [
+  "/Football_Frenzy",
+  "/Desert",
+  "/Youtuber_TO",
+  "/Modules",
+  "/Paints_Before_the_Rebalance"
+ ],
+ "paints": [
+  {
+   "name": "450 Nanometers",
+   "folder": "450 Nanometers",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Abstract Lines",
+   "folder": "Abstract Lines",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Acid",
+   "folder": "Acid",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Active Viewer",
+   "folder": "Active Viewer",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Adam and Eve",
+   "folder": "Adam and Eve",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Adversity",
+   "folder": "Adversity",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Aero",
+   "folder": "Aero",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Parkour"
+  },
+  {
+   "name": "Africa",
+   "folder": "Africa",
+   "rarity": "Rare",
+   "price": 400000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Afterburner",
+   "folder": "Afterburner",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Alien",
+   "folder": "Alien",
+   "rarity": "Rare",
+   "price": 150000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Alien Abduction",
+   "folder": "Alien Abduction",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Alien Chainmail",
+   "folder": "Alien Chainmail",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Alien Nebula",
+   "folder": "Alien Nebula",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Alien Regeneration",
+   "folder": "Alien Regeneration",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Alien Skin",
+   "folder": "Alien Skin",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "All the Goodies",
+   "folder": "All the Goodies",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "All You Need Is...",
+   "folder": "All You Need Is",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Alligator",
+   "folder": "Alligator",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Alloy",
+   "folder": "Alloy",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Amber",
+   "folder": "Amber",
+   "rarity": "Epic",
+   "price": 3000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Ancient dragon",
+   "folder": "Ancient dragon",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "And Roll",
+   "folder": "And Roll",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Andromeda",
+   "folder": "Andromeda",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Antisystem",
+   "folder": "Antisystem",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Apple",
+   "folder": "Apple",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Aquamarine",
+   "folder": "Aquamarine",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Arachnid",
+   "folder": "Arachnid",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Aramid",
+   "folder": "Aramid",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Area 52",
+   "folder": "Area 52",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Armor Blocks",
+   "folder": "Armor Blocks",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "ATB",
+   "folder": "ATB",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Atmospheric Conditions",
+   "folder": "Atmospheric Conditions",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Atom",
+   "folder": "Atom",
+   "rarity": "Rare",
+   "price": 150000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Aurora",
+   "folder": "Aurora",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Aurora (2)",
+   "folder": "Aurora (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Avant-garde",
+   "folder": "Avant-garde",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Azure",
+   "folder": "Azure",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Babushka's Quilt",
+   "folder": "Babushka's Quilt",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Babushka's Sofa",
+   "folder": "Babushka's Sofa",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Badger-badger",
+   "folder": "Badger-badger",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Bandits",
+   "folder": "Bandits",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Bundle"
+  },
+  {
+   "name": "Banguins",
+   "folder": "Banguins",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Barbed Wire",
+   "folder": "Barbed Wire",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Barber Shop",
+   "folder": "Barber Shop",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Barricade tape",
+   "folder": "Barricade tape",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Battle Axes",
+   "folder": "Battle Axes",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Battle Axes (2)",
+   "folder": "Battle Axes (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Battleship",
+   "folder": "Battleship",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Baubles Galore",
+   "folder": "Baubles Galore",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "BBQ",
+   "folder": "BBQ",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Beach",
+   "folder": "Beach",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Bears",
+   "folder": "Bears",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Beating Hearts",
+   "folder": "Beating Hearts",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Beholder",
+   "folder": "Beholder",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Best Helper 2016",
+   "folder": "Best Helper 2016",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper 2017",
+   "folder": "Best Helper 2017",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2018",
+   "folder": "Best Helper of 2018",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2019",
+   "folder": "Best Helper of 2019",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2020",
+   "folder": "Best Helper of 2020",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2021",
+   "folder": "Best Helper of 2021",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2022",
+   "folder": "Best Helper of 2022",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2023",
+   "folder": "Best Helper of 2023",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2024",
+   "folder": "Best Helper of 2024",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Best Helper of 2025",
+   "folder": "Best Helper of 2025",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "BigTanks",
+   "folder": "BigTanks",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Birdwatcher",
+   "folder": "Birdwatcher",
+   "rarity": "Epic",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Birthday Hat",
+   "folder": "Birthday Hat",
+   "rarity": "Special",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Black",
+   "folder": "Black",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Black Mirror",
+   "folder": "Black Mirror",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Black Ruby",
+   "folder": "Black Ruby",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Special offer"
+  },
+  {
+   "name": "Black Sea",
+   "folder": "Black Sea",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Blacksmith",
+   "folder": "Blacksmith",
+   "rarity": "Rare",
+   "price": 225000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Blanket",
+   "folder": "Blanket",
+   "rarity": "Epic",
+   "price": null,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Blaze",
+   "folder": "Blaze",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Blue",
+   "folder": "Blue",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Blue lilac",
+   "folder": "Blue lilac",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Blue Marmalade",
+   "folder": "Blue Marmalade",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Blue planet",
+   "folder": "Blue planet",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Blue Square",
+   "folder": "Blue Square",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Blueness",
+   "folder": "Blueness",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Bounty hunter",
+   "folder": "Bounty hunter",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Breeze",
+   "folder": "Breeze",
+   "rarity": "Epic",
+   "price": 7000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Bronze",
+   "folder": "Bronze",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Bronze Armor",
+   "folder": "Bronze Armor",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Ultracontainer"
+  },
+  {
+   "name": "Bubble Gum",
+   "folder": "Bubble Gum",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Buckwheat",
+   "folder": "Buckwheat",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Bulls",
+   "folder": "Bulls",
+   "rarity": "Special",
+   "price": 999,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Bulls (2)",
+   "folder": "Bulls (2)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Bunny",
+   "folder": "Bunny",
+   "rarity": "Legendary",
+   "price": 14000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Burst of Light",
+   "folder": "Burst of Light",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Busted",
+   "folder": "Busted",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cake",
+   "folder": "Cake",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Calm",
+   "folder": "Calm",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Campfire",
+   "folder": "Campfire",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Can't Stop (2)",
+   "folder": "Can't Stop (2)",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Canyon Hero",
+   "folder": "Canyon Hero",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cap",
+   "folder": "Cap",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Carbon",
+   "folder": "Carbon",
+   "rarity": "Rare",
+   "price": 30000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Carbon Stars",
+   "folder": "Carbon Stars",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Carnage",
+   "folder": "Carnage",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Cartridge",
+   "folder": "Cartridge",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Cathode Ray Tube",
+   "folder": "Cathode Ray Tube",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cedar",
+   "folder": "Cedar",
+   "rarity": "Uncommon",
+   "price": 5500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Chainmail",
+   "folder": "Chainmail",
+   "rarity": "Rare",
+   "price": 35000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Champion",
+   "folder": "Champion",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Charred",
+   "folder": "Charred",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Chemical Reaction",
+   "folder": "Chemical Reaction",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cherry",
+   "folder": "Cherry",
+   "rarity": "Uncommon",
+   "price": 50000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Chill bro!",
+   "folder": "Chill bro!",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Chill vibe",
+   "folder": "Chill vibe",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Chocolatank",
+   "folder": "Chocolatank",
+   "rarity": "Special",
+   "price": 2000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Christmas Eve",
+   "folder": "Christmas Eve",
+   "rarity": "Epic",
+   "price": null,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Citrus",
+   "folder": "Citrus",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Tankoins",
+   "type": "Bundle"
+  },
+  {
+   "name": "City Dweller",
+   "folder": "City Dweller",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Clay",
+   "folder": "Clay",
+   "rarity": "Uncommon",
+   "price": 10000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Cold",
+   "folder": "Cold",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Condensed Milk",
+   "folder": "Condensed Milk",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Confetti",
+   "folder": "Confetti",
+   "rarity": "Uncommon",
+   "price": 13000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Constellation",
+   "folder": "Constellation",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Coral",
+   "folder": "Coral",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Corrosion",
+   "folder": "Corrosion",
+   "rarity": "Uncommon",
+   "price": 12000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Cosmic Blast",
+   "folder": "Cosmic Blast",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Craft Scissors",
+   "folder": "Craft Scissors",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Creative Engineer",
+   "folder": "Creative Engineer",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Crimson",
+   "folder": "Crimson",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Tankoins",
+   "type": "Bundle"
+  },
+  {
+   "name": "Crop Circles",
+   "folder": "Crop Circles",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Crusher",
+   "folder": "Crusher",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cryo",
+   "folder": "Cryo",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Cucurbita Pepo",
+   "folder": "Cucurbita Pepo",
+   "rarity": "Legendary",
+   "price": 14000,
+   "currency": "Rubies",
+   "type": "Container"
+  },
+  {
+   "name": "Cuties",
+   "folder": "Cuties",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Cyber Shuriken",
+   "folder": "Cyber Shuriken",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Cyberpunk",
+   "folder": "Cyberpunk",
+   "rarity": "Legendary",
+   "price": 19000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Cyborg",
+   "folder": "Cyborg",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Darts",
+   "folder": "Darts",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Dead",
+   "folder": "Dead",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Deep blue pixel",
+   "folder": "Deep blue pixel",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Default",
+   "folder": "Default",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Demolisher",
+   "folder": "Demolisher",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Demolisher 2.0",
+   "folder": "Demolisher 2.0",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Designer Vibe",
+   "folder": "Designer Vibe",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Developers 2K22",
+   "folder": "Developers 2K22",
+   "rarity": "Special",
+   "price": 2000,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Deviants",
+   "folder": "Deviants",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Deviants (2)",
+   "folder": "Deviants (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Devine",
+   "folder": "Devine",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Devine (2)",
+   "folder": "Devine (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Diamond",
+   "folder": "Diamond",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Diamonds",
+   "folder": "Diamonds",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Diamonds (2)",
+   "folder": "Diamonds (2)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Diamonds (3)",
+   "folder": "Diamonds (3)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Diamonds (4)",
+   "folder": "Diamonds (4)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Digital",
+   "folder": "Digital",
+   "rarity": "Uncommon",
+   "price": 14000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Digital Borealis",
+   "folder": "Digital Borealis",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Dirty",
+   "folder": "Dirty",
+   "rarity": "Uncommon",
+   "price": 3500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Disco",
+   "folder": "Disco",
+   "rarity": "Rare",
+   "price": 100000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Disco 2.0",
+   "folder": "Disco 2.0",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Domino",
+   "folder": "Domino",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Dragon",
+   "folder": "Dragon",
+   "rarity": "Rare",
+   "price": 50000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Drive",
+   "folder": "Drive",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Drought",
+   "folder": "Drought",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Ducks",
+   "folder": "Ducks",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "E236",
+   "folder": "E236",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Eagle",
+   "folder": "Eagle",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Parkour"
+  },
+  {
+   "name": "Eagle eye",
+   "folder": "Eagle eye",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Earthling",
+   "folder": "Earthling",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Easter",
+   "folder": "Easter",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Easter Egg",
+   "folder": "Easter Egg",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Ecofriendly",
+   "folder": "Ecofriendly",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Electra",
+   "folder": "Electra",
+   "rarity": "Rare",
+   "price": 50000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Electric Sheep",
+   "folder": "Electric Sheep",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Electrohive",
+   "folder": "Electrohive",
+   "rarity": "Legendary",
+   "price": 14000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Emerald",
+   "folder": "Emerald",
+   "rarity": "Rare",
+   "price": 370000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Engineer",
+   "folder": "Engineer",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Eruption",
+   "folder": "Eruption",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Eternity",
+   "folder": "Eternity",
+   "rarity": "Epic",
+   "price": 5000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Eternity (2)",
+   "folder": "Eternity (2)",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Fall leaves",
+   "folder": "Fall leaves",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Falling leaves",
+   "folder": "Falling leaves",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Fan",
+   "folder": "Fan",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Far North",
+   "folder": "Far North",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Feathers",
+   "folder": "Feathers",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Feechki",
+   "folder": "Feechki",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Fidget toy",
+   "folder": "Fidget toy",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Fire Dragon",
+   "folder": "Fire Dragon",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Fire golem",
+   "folder": "Fire golem",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Fire of Valor",
+   "folder": "Fire of Valor",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "First Kiss",
+   "folder": "First Kiss",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "First Love",
+   "folder": "First Love",
+   "rarity": "Rare",
+   "price": 110000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Flame",
+   "folder": "Flame",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Flame 2.0",
+   "folder": "Flame 2.0",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Flash",
+   "folder": "Flash",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Flora",
+   "folder": "Flora",
+   "rarity": "Uncommon",
+   "price": 1000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Flow",
+   "folder": "Flow",
+   "rarity": "Legendary",
+   "price": 14000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Flowing Metal",
+   "folder": "Flowing Metal",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Flywheel",
+   "folder": "Flywheel",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "For Developers",
+   "folder": "For Developers",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Developers (2)",
+   "folder": "For Developers (2)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Developers (3)",
+   "folder": "For Developers (3)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Developers (4)",
+   "folder": "For Developers (4)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Developers (5)",
+   "folder": "For Developers (5)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Developers (6)",
+   "folder": "For Developers (6)",
+   "rarity": "Special",
+   "price": 300,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "For Players",
+   "folder": "For Players",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Players (2)",
+   "folder": "For Players (2)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Players (3)",
+   "folder": "For Players (3)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Players (4)",
+   "folder": "For Players (4)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Players (5)",
+   "folder": "For Players (5)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "For Players (6)",
+   "folder": "For Players (6)",
+   "rarity": "Special",
+   "price": 300,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Forester",
+   "folder": "Forester",
+   "rarity": "Uncommon",
+   "price": 2500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Fracture",
+   "folder": "Fracture",
+   "rarity": "Uncommon",
+   "price": 30000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Fragment",
+   "folder": "Fragment",
+   "rarity": "Special",
+   "price": 900,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Frenzy",
+   "folder": "Frenzy",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Frenzy (2)",
+   "folder": "Frenzy (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Fried egg",
+   "folder": "Fried egg",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Frigid Coat",
+   "folder": "Frigid Coat",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Frost",
+   "folder": "Frost",
+   "rarity": "Epic",
+   "price": 650000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Fuchsia",
+   "folder": "Fuchsia",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Funky Medicine",
+   "folder": "Funky Medicine",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Galacticus",
+   "folder": "Galacticus",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Galaxian Explosion",
+   "folder": "Galaxian Explosion",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Galaxy",
+   "folder": "Galaxy",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gamepad",
+   "folder": "Gamepad",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gamer",
+   "folder": "Gamer",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gears",
+   "folder": "Gears",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gemetric Blue",
+   "folder": "Gemetric Blue",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gentleman",
+   "folder": "Gentleman",
+   "rarity": "Common",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Ghost",
+   "folder": "Ghost",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Gift wrap",
+   "folder": "Gift wrap",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Ginga",
+   "folder": "Ginga",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gingerbread",
+   "folder": "Gingerbread",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Gladiator",
+   "folder": "Gladiator",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Glam Croc",
+   "folder": "Glam Croc",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Glide",
+   "folder": "Glide",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Parkour"
+  },
+  {
+   "name": "Glitch",
+   "folder": "Glitch",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Gloom",
+   "folder": "Gloom",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Gloss",
+   "folder": "Gloss",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Glow",
+   "folder": "Glow",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Go Pro",
+   "folder": "Go Pro",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Gold",
+   "folder": "Gold",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Gold alloy",
+   "folder": "Gold alloy",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Gold digger",
+   "folder": "Gold digger",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Golden Gears",
+   "folder": "Golden Gears",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Golden Star",
+   "folder": "Golden Star",
+   "rarity": "Epic",
+   "price": 750000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Goliafffffff",
+   "folder": "Goliafffffff",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Graffiti",
+   "folder": "Graffiti",
+   "rarity": "Rare",
+   "price": 250000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Grasslands",
+   "folder": "Grasslands",
+   "rarity": "Uncommon",
+   "price": 40000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Green",
+   "folder": "Green",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Green Quads",
+   "folder": "Green Quads",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Green retinue",
+   "folder": "Green retinue",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Garage"
+  },
+  {
+   "name": "Green Zircon",
+   "folder": "Green Zircon",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Griller",
+   "folder": "Griller",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Groovy Neon",
+   "folder": "Groovy Neon",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Guardians Advanced",
+   "folder": "Guardians Advanced",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Gucciflage",
+   "folder": "Gucciflage",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Guerrilla",
+   "folder": "Guerrilla",
+   "rarity": "Uncommon",
+   "price": 4000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Halloween",
+   "folder": "Halloween",
+   "rarity": "Epic",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Hallucination",
+   "folder": "Hallucination",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Hand Sanitizer",
+   "folder": "Hand Sanitizer",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Harlequin",
+   "folder": "Harlequin",
+   "rarity": "Rare",
+   "price": 40000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Hazels Panzerwerke",
+   "folder": "Hazels Panzerwerke",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Head Ripper",
+   "folder": "Head Ripper",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Heart of Steel",
+   "folder": "Heart of Steel",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Helios",
+   "folder": "Helios",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Helper",
+   "folder": "Helper",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Hive",
+   "folder": "Hive",
+   "rarity": "Rare",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Hohloma",
+   "folder": "Hohloma",
+   "rarity": "Rare",
+   "price": 300000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Holi",
+   "folder": "Holi",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Holiday",
+   "folder": "Holiday",
+   "rarity": "Special",
+   "price": null,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Holiday Lights",
+   "folder": "Holiday Lights",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Holo",
+   "folder": "Holo",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Homies",
+   "folder": "Homies",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Honor",
+   "folder": "Honor",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Horror",
+   "folder": "Horror",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Houston {GAME}n",
+   "folder": "Houston {GAME}n",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Hypercube",
+   "folder": "Hypercube",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Ice Flurry",
+   "folder": "Ice Flurry",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Immunes",
+   "folder": "Immunes",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Impulse",
+   "folder": "Impulse",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "In Love",
+   "folder": "In Love",
+   "rarity": "Rare",
+   "price": 55000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Inferno",
+   "folder": "Inferno",
+   "rarity": "Rare",
+   "price": 440000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Integrated circuit",
+   "folder": "Integrated circuit",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "International",
+   "folder": "International",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Invader",
+   "folder": "Invader",
+   "rarity": "Rare",
+   "price": 50000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Irbis",
+   "folder": "Irbis",
+   "rarity": "Rare",
+   "price": 400000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Jade",
+   "folder": "Jade",
+   "rarity": "Uncommon",
+   "price": 30000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Jade Scales",
+   "folder": "Jade Scales",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Jaguar",
+   "folder": "Jaguar",
+   "rarity": "Rare",
+   "price": 300000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Jeans",
+   "folder": "Jeans",
+   "rarity": "Rare",
+   "price": 90000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "JERRYYY21",
+   "folder": "JERRYYY21",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "JMPR",
+   "folder": "JMPR",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Jolly Season",
+   "folder": "Jolly Season",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Joy",
+   "folder": "Joy",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "KALASH86RUS",
+   "folder": "KALASH86RUS",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Kaleidoscope",
+   "folder": "Kaleidoscope",
+   "rarity": "Rare",
+   "price": 130000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "KAN",
+   "folder": "KAN",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Kapuljat",
+   "folder": "Kapuljat",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Kasim",
+   "folder": "Kasim",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Katakana",
+   "folder": "Katakana",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Knockout",
+   "folder": "Knockout",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Kungur Ice Cave",
+   "folder": "Kungur Ice Cave",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Lady",
+   "folder": "Lady",
+   "rarity": "Common",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Lannies",
+   "folder": "Lannies",
+   "rarity": "Common",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Lava",
+   "folder": "Lava",
+   "rarity": "Rare",
+   "price": 50000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Lava Lamp",
+   "folder": "Lava Lamp",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lavanda",
+   "folder": "Lavanda",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Lazurite",
+   "folder": "Lazurite",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Tankoins",
+   "type": "Bundle"
+  },
+  {
+   "name": "Lead",
+   "folder": "Lead",
+   "rarity": "Rare",
+   "price": 25000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "LEDs",
+   "folder": "LEDs",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Leprechaun Brotherhood",
+   "folder": "Leprechaun Brotherhood",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Garage"
+  },
+  {
+   "name": "Liana",
+   "folder": "Liana",
+   "rarity": "Legendary",
+   "price": 15000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Lifesaver",
+   "folder": "Lifesaver",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Light organ",
+   "folder": "Light organ",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lightning Storm",
+   "folder": "Lightning Storm",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lilac Petals",
+   "folder": "Lilac Petals",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lime",
+   "folder": "Lime",
+   "rarity": "Epic",
+   "price": 4000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Lime Burst",
+   "folder": "Lime Burst",
+   "rarity": "Epic",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Lions",
+   "folder": "Lions",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Liquid Metal",
+   "folder": "Liquid Metal",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Living Armor",
+   "folder": "Living Armor",
+   "rarity": "Legendary",
+   "price": 18000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Llama {GAME}ni",
+   "folder": "Llama {GAME}ni",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Loam",
+   "folder": "Loam",
+   "rarity": "Uncommon",
+   "price": 6500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Log cabin",
+   "folder": "Log cabin",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "LOL",
+   "folder": "LOL",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lollipop",
+   "folder": "Lollipop",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Lord",
+   "folder": "Lord",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Special"
+  },
+  {
+   "name": "Lotus",
+   "folder": "Lotus",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Lovesick",
+   "folder": "Lovesick",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Lovesick (2)",
+   "folder": "Lovesick (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Lovesick (3)",
+   "folder": "Lovesick (3)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Lovesick (4)",
+   "folder": "Lovesick (4)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Loving Camo",
+   "folder": "Loving Camo",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Lucky 7",
+   "folder": "Lucky 7",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Lucky Coin",
+   "folder": "Lucky Coin",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Lumberjack",
+   "folder": "Lumberjack",
+   "rarity": "Rare",
+   "price": 160000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Lunar Soil",
+   "folder": "Lunar Soil",
+   "rarity": "Epic",
+   "price": 3000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Magic Circles",
+   "folder": "Magic Circles",
+   "rarity": "Legendary",
+   "price": 17000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Magma",
+   "folder": "Magma",
+   "rarity": "Uncommon",
+   "price": 10000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Magnolia",
+   "folder": "Magnolia",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Marine",
+   "folder": "Marine",
+   "rarity": "Uncommon",
+   "price": 1500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Maroon",
+   "folder": "Maroon",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Mars",
+   "folder": "Mars",
+   "rarity": "Uncommon",
+   "price": 45000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Mary",
+   "folder": "Mary",
+   "rarity": "Rare",
+   "price": 100000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Masquerade",
+   "folder": "Masquerade",
+   "rarity": "Epic",
+   "price": null,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Master of Parkour",
+   "folder": "Master of Parkour",
+   "rarity": "Special",
+   "price": 1000,
+   "currency": "Crystals",
+   "type": "Award"
+  },
+  {
+   "name": "Master of Parkour 2016",
+   "folder": "Master of Parkour 2016",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Master of Parkour 2017",
+   "folder": "Master of Parkour 2017",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Master of Parkour 2019",
+   "folder": "Master of Parkour 2019",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Masters of Parkour 2020",
+   "folder": "Masters of Parkour 2020",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Masters of Parkour 2023",
+   "folder": "Masters of Parkour 2023",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Rubies",
+   "type": "Award"
+  },
+  {
+   "name": "Masters of Parkour 2026",
+   "folder": "Masters of Parkour 2026",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Rubies",
+   "type": "Award"
+  },
+  {
+   "name": "Matrix",
+   "folder": "Matrix",
+   "rarity": "Legendary",
+   "price": 18000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Megapolis",
+   "folder": "Megapolis",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Memento mei",
+   "folder": "Memento mei",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Merciful",
+   "folder": "Merciful",
+   "rarity": "Special",
+   "price": 999,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Metallic",
+   "folder": "Metallic",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Meteor Shower",
+   "folder": "Meteor Shower",
+   "rarity": "Legendary",
+   "price": 13000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Miami Beach",
+   "folder": "Miami Beach",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Microbiology",
+   "folder": "Microbiology",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Microchip",
+   "folder": "Microchip",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Miner (Paint)",
+   "folder": "Miner (Paint)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Miniature Masonry",
+   "folder": "Miniature Masonry",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Mint",
+   "folder": "Mint",
+   "rarity": "Epic",
+   "price": 3000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Mint Candy",
+   "folder": "Mint Candy",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Monet",
+   "folder": "Monet",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Monochrome",
+   "folder": "Monochrome",
+   "rarity": "Legendary",
+   "price": 12000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Monolith",
+   "folder": "Monolith",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Moonwalker",
+   "folder": "Moonwalker",
+   "rarity": "Epic",
+   "price": 3000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Mosaic",
+   "folder": "Mosaic",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Moss",
+   "folder": "Moss",
+   "rarity": "Uncommon",
+   "price": 70000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Mount Fuji",
+   "folder": "Mount Fuji",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Mr. Smiley",
+   "folder": "Mr. Smiley",
+   "rarity": "Special",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Mucus",
+   "folder": "Mucus",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Mustard",
+   "folder": "Mustard",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Nano",
+   "folder": "Nano",
+   "rarity": "Rare",
+   "price": 350000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "NanoHUD",
+   "folder": "NanoHUD",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Nanosuit Armor",
+   "folder": "Nanosuit Armor",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Needle",
+   "folder": "Needle",
+   "rarity": "Uncommon",
+   "price": 60000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Neon",
+   "folder": "Neon",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Neon Geometry",
+   "folder": "Neon Geometry",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Neural network",
+   "folder": "Neural network",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Neuron",
+   "folder": "Neuron",
+   "rarity": "Epic",
+   "price": 4000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "New Camouflage",
+   "folder": "New Camouflage",
+   "rarity": "Special",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "New Year 2017",
+   "folder": "New Year 2017",
+   "rarity": "Special",
+   "price": 150000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "New Year Gift",
+   "folder": "New Year Gift",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Nickel",
+   "folder": "Nickel",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Night",
+   "folder": "Night",
+   "rarity": "Rare",
+   "price": 35000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Night City",
+   "folder": "Night City",
+   "rarity": "Legendary",
+   "price": 14000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Nightmare",
+   "folder": "Nightmare",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "NON STOP",
+   "folder": "NON STOP",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Northern Lights",
+   "folder": "Northern Lights",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Nostalgia",
+   "folder": "Nostalgia",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Not a Lantern",
+   "folder": "Not a Lantern",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Nuclear Sun",
+   "folder": "Nuclear Sun",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Oasis",
+   "folder": "Oasis",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Obsidian",
+   "folder": "Obsidian",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Oceania",
+   "folder": "Oceania",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Off-road vehicle",
+   "folder": "Off-road vehicle",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Offensive",
+   "folder": "Offensive",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Office",
+   "folder": "Office",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Onyx",
+   "folder": "Onyx",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Parkour"
+  },
+  {
+   "name": "Orange",
+   "folder": "Orange",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Orange urchin",
+   "folder": "Orange urchin",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Oriental Glam",
+   "folder": "Oriental Glam",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Bundle"
+  },
+  {
+   "name": "Packed Stocking",
+   "folder": "Packed Stocking",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Paisley Flame",
+   "folder": "Paisley Flame",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Paisley Ice",
+   "folder": "Paisley Ice",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Pajamas",
+   "folder": "Pajamas",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Pastila",
+   "folder": "Pastila",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "PCB",
+   "folder": "PCB",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Peace, Work, May!",
+   "folder": "Peace, Work, May!",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Peaks",
+   "folder": "Peaks",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Pegasus",
+   "folder": "Pegasus",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Penguins",
+   "folder": "Penguins",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Penguins (2)",
+   "folder": "Penguins (2)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Pepega",
+   "folder": "Pepega",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Pepega (2)",
+   "folder": "Pepega (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Pepega (3)",
+   "folder": "Pepega (3)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Peppers",
+   "folder": "Peppers",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Phantom",
+   "folder": "Phantom",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Phoenix",
+   "folder": "Phoenix",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Parkour"
+  },
+  {
+   "name": "Photon",
+   "folder": "Photon",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Picasso",
+   "folder": "Picasso",
+   "rarity": "Uncommon",
+   "price": 65000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Picnic",
+   "folder": "Picnic",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Pink Elephant",
+   "folder": "Pink Elephant",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Pixel",
+   "folder": "Pixel",
+   "rarity": "Uncommon",
+   "price": 25000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Pixel Heart",
+   "folder": "Pixel Heart",
+   "rarity": "Rare",
+   "price": 30000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Pixel Plasma",
+   "folder": "Pixel Plasma",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Plasma",
+   "folder": "Plasma",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Tankoins",
+   "type": "Bundle"
+  },
+  {
+   "name": "Play-Doh",
+   "folder": "Play-Doh",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Playground",
+   "folder": "Playground",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Special"
+  },
+  {
+   "name": "Pop Art",
+   "folder": "Pop Art",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "POP IT",
+   "folder": "POP IT",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Potter",
+   "folder": "Potter",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Precious Studs",
+   "folder": "Precious Studs",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Premium paint",
+   "folder": "Premium paint",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Prestigio",
+   "folder": "Prestigio",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Prism",
+   "folder": "Prism",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Prodigi",
+   "folder": "Prodigi",
+   "rarity": "Uncommon",
+   "price": 55000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Prodigy 2.0",
+   "folder": "Prodigy 2.0",
+   "rarity": "Legendary",
+   "price": 10000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Pulsar",
+   "folder": "Pulsar",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Pumpkin Puree",
+   "folder": "Pumpkin Puree",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Pumpkins",
+   "folder": "Pumpkins",
+   "rarity": "Special",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Punishment",
+   "folder": "Punishment",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Puzzles",
+   "folder": "Puzzles",
+   "rarity": "Special",
+   "price": 900,
+   "currency": "Rubies",
+   "type": "Bundle"
+  },
+  {
+   "name": "Python",
+   "folder": "Python",
+   "rarity": "Rare",
+   "price": 100000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Quantum Camo",
+   "folder": "Quantum Camo",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Question",
+   "folder": "Question",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Quirky",
+   "folder": "Quirky",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Raccoon",
+   "folder": "Raccoon",
+   "rarity": "Rare",
+   "price": 210000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Radar",
+   "folder": "Radar",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Radioactive Jelly",
+   "folder": "Radioactive Jelly",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Rare Easter Egg",
+   "folder": "Rare Easter Egg",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Recruit (Paint)",
+   "folder": "Recruit (Paint)",
+   "rarity": "Special",
+   "price": 390,
+   "currency": "Tankoins",
+   "type": "Garage"
+  },
+  {
+   "name": "Red",
+   "folder": "Red",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Red Marks",
+   "folder": "Red Marks",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Red Marmalade",
+   "folder": "Red Marmalade",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Red Notice",
+   "folder": "Red Notice",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Red Notice (2)",
+   "folder": "Red Notice (2)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Red Notice (3)",
+   "folder": "Red Notice (3)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Red Notice (4)",
+   "folder": "Red Notice (4)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Red Notice (5)",
+   "folder": "Red Notice (5)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Red planet",
+   "folder": "Red planet",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Red smoke",
+   "folder": "Red smoke",
+   "rarity": "Legendary",
+   "price": 19990,
+   "currency": "Rubies",
+   "type": "Bundle"
+  },
+  {
+   "name": "Red Suit",
+   "folder": "Red Suit",
+   "rarity": "Epic",
+   "price": 5000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Red Urban",
+   "folder": "Red Urban",
+   "rarity": "Uncommon",
+   "price": 75000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Reddit",
+   "folder": "Reddit",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Reporter",
+   "folder": "Reporter",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Retina",
+   "folder": "Retina",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Retired Bots",
+   "folder": "Retired Bots",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Retrowave",
+   "folder": "Retrowave",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Revenge",
+   "folder": "Revenge",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Revolutionary",
+   "folder": "Revolutionary",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Rhino",
+   "folder": "Rhino",
+   "rarity": "Rare",
+   "price": 37000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Ripple",
+   "folder": "Ripple",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Rock",
+   "folder": "Rock",
+   "rarity": "Uncommon",
+   "price": 15000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Roger",
+   "folder": "Roger",
+   "rarity": "Rare",
+   "price": 80000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Ruby",
+   "folder": "Ruby",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Runes",
+   "folder": "Runes",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Rust",
+   "folder": "Rust",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Rustle",
+   "folder": "Rustle",
+   "rarity": "Uncommon",
+   "price": 35000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "S-N-E-G",
+   "folder": "S-N-E-G",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Safari",
+   "folder": "Safari",
+   "rarity": "Rare",
+   "price": 75000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sahara",
+   "folder": "Sahara",
+   "rarity": "Rare",
+   "price": 60000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sakura",
+   "folder": "Sakura",
+   "rarity": "Rare",
+   "price": 180000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Samba",
+   "folder": "Samba",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Sandstone",
+   "folder": "Sandstone",
+   "rarity": "Uncommon",
+   "price": 6000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Santa Claus",
+   "folder": "Santa Claus",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Sapphire",
+   "folder": "Sapphire",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Savanna",
+   "folder": "Savanna",
+   "rarity": "Uncommon",
+   "price": 8000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Scandinavia",
+   "folder": "Scandinavia",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Scarier Things",
+   "folder": "Scarier Things",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Secret of the Aliens",
+   "folder": "Secret of the Aliens",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Secret Sauce",
+   "folder": "Secret Sauce",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Sennaar",
+   "folder": "Sennaar",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Seventies Fun",
+   "folder": "Seventies Fun",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Shamrock Squad",
+   "folder": "Shamrock Squad",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Garage"
+  },
+  {
+   "name": "Sheriffs",
+   "folder": "Sheriffs",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Shredded",
+   "folder": "Shredded",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Shrek Lovers",
+   "folder": "Shrek Lovers",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Siberian Tiger",
+   "folder": "Siberian Tiger",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Sight",
+   "folder": "Sight",
+   "rarity": "Epic",
+   "price": null,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Sillicate",
+   "folder": "Sillicate",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Silver",
+   "folder": "Silver",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Silver Bricks",
+   "folder": "Silver Bricks",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Singapore",
+   "folder": "Singapore",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Singularity",
+   "folder": "Singularity",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Skomorokh",
+   "folder": "Skomorokh",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Sky",
+   "folder": "Sky",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Skyfall",
+   "folder": "Skyfall",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Smoke Screen",
+   "folder": "Smoke Screen",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Snowflake",
+   "folder": "Snowflake",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Snowman (paint)",
+   "folder": "Snowman (paint)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Snowy Surprise",
+   "folder": "Snowy Surprise",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Soda",
+   "folder": "Soda",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Soft Flowers",
+   "folder": "Soft Flowers",
+   "rarity": "Rare",
+   "price": 60000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sonar",
+   "folder": "Sonar",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Souls",
+   "folder": "Souls",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Space",
+   "folder": "Space",
+   "rarity": "Rare",
+   "price": 180000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Space-time",
+   "folder": "Space-time",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Spangles",
+   "folder": "Spangles",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Spark",
+   "folder": "Spark",
+   "rarity": "Rare",
+   "price": 200000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sparks",
+   "folder": "Sparks",
+   "rarity": "Legendary",
+   "price": 7000,
+   "currency": "Rubies",
+   "type": "Container"
+  },
+  {
+   "name": "Spectator",
+   "folder": "Spectator",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Helper"
+  },
+  {
+   "name": "Spectrum",
+   "folder": "Spectrum",
+   "rarity": "Legendary",
+   "price": 16000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Speeding Star",
+   "folder": "Speeding Star",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Spinner",
+   "folder": "Spinner",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Spirit",
+   "folder": "Spirit",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Spirit (2)",
+   "folder": "Spirit (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Spirit (3)",
+   "folder": "Spirit (3)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Spirit of Brazil",
+   "folder": "Spirit of Brazil",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Special"
+  },
+  {
+   "name": "Spirit of LATAM",
+   "folder": "Spirit of LATAM",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Special"
+  },
+  {
+   "name": "Spreading Fast",
+   "folder": "Spreading Fast",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Spring",
+   "folder": "Spring",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Spring bouquet",
+   "folder": "Spring bouquet",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Squid Fingers",
+   "folder": "Squid Fingers",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Star",
+   "folder": "Star",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Staries",
+   "folder": "Staries",
+   "rarity": "Common",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Stars and Flames",
+   "folder": "Stars and Flames",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Steak",
+   "folder": "Steak",
+   "rarity": "Epic",
+   "price": 1000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Steam",
+   "folder": "Steam",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Steel Micro-fibers",
+   "folder": "Steel Micro-fibers",
+   "rarity": "Epic",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Stepbrothers",
+   "folder": "Stepbrothers",
+   "rarity": "Special",
+   "price": 999,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Stepbrothers (2)",
+   "folder": "Stepbrothers (2)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Storm",
+   "folder": "Storm",
+   "rarity": "Uncommon",
+   "price": 3000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Storm (2)",
+   "folder": "Storm (2)",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Story",
+   "folder": "Story",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Strawberry",
+   "folder": "Strawberry",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Stylish Tanker",
+   "folder": "Stylish Tanker",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Sudoku",
+   "folder": "Sudoku",
+   "rarity": "Epic",
+   "price": 300,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Sun",
+   "folder": "Sun",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Sunset Camouflage",
+   "folder": "Sunset Camouflage",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Surf",
+   "folder": "Surf",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Survivor",
+   "folder": "Survivor",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Swamp",
+   "folder": "Swamp",
+   "rarity": "Uncommon",
+   "price": 2000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Swash",
+   "folder": "Swash",
+   "rarity": "Uncommon",
+   "price": 11000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sweater",
+   "folder": "Sweater",
+   "rarity": "Rare",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Sweet Gift",
+   "folder": "Sweet Gift",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Sweet trick",
+   "folder": "Sweet trick",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Symbiote",
+   "folder": "Symbiote",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Synergy",
+   "folder": "Synergy",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Synesthesia",
+   "folder": "Synesthesia",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Synth-pop",
+   "folder": "Synth-pop",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Taiga",
+   "folder": "Taiga",
+   "rarity": "Uncommon",
+   "price": 9000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Tank-Noir",
+   "folder": "Tank-Noir",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "{GAME} in Moscow",
+   "folder": "{GAME} in Moscow",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "{GAME_NAME} turns 13!",
+   "folder": "{GAME_NAME} turns 13!",
+   "rarity": "Special",
+   "price": 19900,
+   "currency": "Tankoins",
+   "type": "Shop"
+  },
+  {
+   "name": "{GAME} Trip 2019",
+   "folder": "{GAME} Trip 2019",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "{GAME}'s Sun",
+   "folder": "{GAME}'s Sun",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "{GAME}tty",
+   "folder": "{GAME}tty",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Tankoin Tank",
+   "folder": "Tankoin Tank",
+   "rarity": "Legendary",
+   "price": 100000,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Tanks 1.0",
+   "folder": "Tanks 1.0",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Tanks 2.0",
+   "folder": "Tanks 2.0",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Tarantula",
+   "folder": "Tarantula",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Target",
+   "folder": "Target",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Targies",
+   "folder": "Targies",
+   "rarity": "Common",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Taspens",
+   "folder": "Taspens",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team International",
+   "folder": "Team International",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Team OK",
+   "folder": "Team OK",
+   "rarity": "Special",
+   "price": 1000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers",
+   "folder": "Team Pointers",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers (2)",
+   "folder": "Team Pointers (2)",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers (3)",
+   "folder": "Team Pointers (3)",
+   "rarity": "Special",
+   "price": 999,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers (4)",
+   "folder": "Team Pointers (4)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers (5)",
+   "folder": "Team Pointers (5)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team Pointers (6)",
+   "folder": "Team Pointers (6)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Team Russia",
+   "folder": "Team Russia",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Team VK",
+   "folder": "Team VK",
+   "rarity": "Special",
+   "price": 1000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "TeamP",
+   "folder": "TeamP",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "TeamP (2)",
+   "folder": "TeamP (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Tectonic plates",
+   "folder": "Tectonic plates",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Tempest",
+   "folder": "Tempest",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Tentacles",
+   "folder": "Tentacles",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Tesseract Camo",
+   "folder": "Tesseract Camo",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Tetris",
+   "folder": "Tetris",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Thankos",
+   "folder": "Thankos",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Thankos' Armor",
+   "folder": "Thankos' Armor",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "The Dreamers",
+   "folder": "The Dreamers",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "The Elves",
+   "folder": "The Elves",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "The Game 2020",
+   "folder": "The Game 2020",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "The Snowman",
+   "folder": "The Snowman",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Thug",
+   "folder": "Thug",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Missions"
+  },
+  {
+   "name": "Thunderball",
+   "folder": "Thunderball",
+   "rarity": "Epic",
+   "price": 400,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Tic-tac-toe",
+   "folder": "Tic-tac-toe",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Tiger",
+   "folder": "Tiger",
+   "rarity": "Rare",
+   "price": 500000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Timber Camo",
+   "folder": "Timber Camo",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Top Class",
+   "folder": "Top Class",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Award"
+  },
+  {
+   "name": "Top25OrNothing",
+   "folder": "Top25OrNothing",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Tote bag",
+   "folder": "Tote bag",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Touch of chill",
+   "folder": "Touch of chill",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Toxic",
+   "folder": "Toxic",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Toxic (2)",
+   "folder": "Toxic (2)",
+   "rarity": "Special",
+   "price": 5990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Traceur",
+   "folder": "Traceur",
+   "rarity": "Special",
+   "price": 50,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Trapped Inside",
+   "folder": "Trapped Inside",
+   "rarity": "Legendary",
+   "price": 16000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Tropical Foliage",
+   "folder": "Tropical Foliage",
+   "rarity": "Epic",
+   "price": 120000,
+   "currency": "Crystals",
+   "type": "Container"
+  },
+  {
+   "name": "Tropics",
+   "folder": "Tropics",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Troublemakers",
+   "folder": "Troublemakers",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Tundra",
+   "folder": "Tundra",
+   "rarity": "Uncommon",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Turbo",
+   "folder": "Turbo",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "UFO",
+   "folder": "UFO",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Undead",
+   "folder": "Undead",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Under the Tree",
+   "folder": "Under the Tree",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Undervalued",
+   "folder": "Undervalued",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Undervalued (2)",
+   "folder": "Undervalued (2)",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Urban",
+   "folder": "Urban",
+   "rarity": "Uncommon",
+   "price": 7500,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Valour",
+   "folder": "Valour",
+   "rarity": "Legendary",
+   "price": 30000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Vampire",
+   "folder": "Vampire",
+   "rarity": "Special",
+   "price": 10,
+   "currency": "Tankoins",
+   "type": "War"
+  },
+  {
+   "name": "Vanadium",
+   "folder": "Vanadium",
+   "rarity": "Epic",
+   "price": 2000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Vavilon",
+   "folder": "Vavilon",
+   "rarity": "Special",
+   "price": 5000,
+   "currency": "Crystals",
+   "type": "Event"
+  },
+  {
+   "name": "Vector",
+   "folder": "Vector",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Vega",
+   "folder": "Vega",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Vertigo",
+   "folder": "Vertigo",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Veteran",
+   "folder": "Veteran",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "eSports"
+  },
+  {
+   "name": "Violet",
+   "folder": "Violet",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Virus",
+   "folder": "Virus",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Viscum",
+   "folder": "Viscum",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Event"
+  },
+  {
+   "name": "Visual Disruptor",
+   "folder": "Visual Disruptor",
+   "rarity": "Legendary",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Vortex",
+   "folder": "Vortex",
+   "rarity": "Uncommon",
+   "price": 13000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Waider",
+   "folder": "Waider",
+   "rarity": "Special",
+   "price": 990,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Walk of Fame",
+   "folder": "Walk of Fame",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "War Winner",
+   "folder": "War Winner",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "War. DE",
+   "folder": "War. DE",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "War. EN",
+   "folder": "War. EN",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "War. PL",
+   "folder": "War. PL",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "War. RU",
+   "folder": "War. RU",
+   "rarity": "Special",
+   "price": 100,
+   "currency": "Crystals",
+   "type": "War"
+  },
+  {
+   "name": "Watercolor",
+   "folder": "Watercolor",
+   "rarity": "Epic",
+   "price": 4000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Watermelon",
+   "folder": "Watermelon",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "White",
+   "folder": "White",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "White planet",
+   "folder": "White planet",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "White Towers",
+   "folder": "White Towers",
+   "rarity": "Special",
+   "price": 2990,
+   "currency": "Rubies",
+   "type": "Event"
+  },
+  {
+   "name": "Wildstyle",
+   "folder": "Wildstyle",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Winter",
+   "folder": "Winter",
+   "rarity": "Uncommon",
+   "price": 7000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Wolves",
+   "folder": "Wolves",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "War"
+  },
+  {
+   "name": "Wonder fish",
+   "folder": "Wonder fish",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "Wonderbird",
+   "folder": "Wonderbird",
+   "rarity": "Epic",
+   "price": null,
+   "currency": null,
+   "type": "Container"
+  },
+  {
+   "name": "X Noir",
+   "folder": "X Noir",
+   "rarity": "Legendary",
+   "price": 11000,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Yellow",
+   "folder": "Yellow",
+   "rarity": "Common",
+   "price": 10,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Yellow Bug",
+   "folder": "Yellow Bug",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Usdbundle"
+  },
+  {
+   "name": "Yin & Yang",
+   "folder": "Yin & Yang",
+   "rarity": "Special",
+   "price": null,
+   "currency": null,
+   "type": "Conflict"
+  },
+  {
+   "name": "Youtubers 2K22",
+   "folder": "Youtubers 2K22",
+   "rarity": "Special",
+   "price": 2000,
+   "currency": "Tankoins",
+   "type": "Event"
+  },
+  {
+   "name": "Zeus",
+   "folder": "Zeus",
+   "rarity": "Rare",
+   "price": 500000,
+   "currency": "Crystals",
+   "type": "Garage"
+  },
+  {
+   "name": "Zigzag",
+   "folder": "Zigzag",
+   "rarity": "Epic",
+   "price": 500,
+   "currency": "Rubies",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Zombie",
+   "folder": "Zombie",
+   "rarity": "Epic",
+   "price": 5000,
+   "currency": "Tankoins",
+   "type": "Tankoin"
+  },
+  {
+   "name": "Zombies",
+   "folder": "Zombies",
+   "rarity": "Special",
+   "price": 700,
+   "currency": "Tankoins",
+   "type": "Event"
+  }
+ ]
+}

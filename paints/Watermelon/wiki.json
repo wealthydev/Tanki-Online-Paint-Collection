@@ -1,0 +1,27 @@
+{
+  "name": "Watermelon",
+  "source": "wiki",
+  "page": "/Watermelon",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Sometimes, simple works best. This bright red paint sports the classic {GAME_NAME} logo, creating a striking visual statement.",
+  "interestingFacts": [
+    "Paint appeared on July 2nd, 2019.",
+    "The paint could be received as a reward for reaching the paid Tier 4 of the July 2019 Challenge.",
+    "Watermelon was added to the possible rewards pool of containers with the release of the September 2019 challenge."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nSometimes, simple works best. This bright red paint sports the classic {GAME_NAME} logo, creating a striking visual statement.\nSee also: Paints\nInteresting facts\nPaint appeared on July 2nd, 2019.\nThe paint could be received as a reward for reaching the paid Tier 4 of the July 2019 Challenge.\nWatermelon was added to the possible rewards pool of containers with the release of the September 2019 challenge.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

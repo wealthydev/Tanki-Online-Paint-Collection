@@ -1,0 +1,26 @@
+{
+  "name": "Bounty hunter",
+  "source": "wiki",
+  "page": "/Bounty_hunter",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint appeared on October 31st, 2020.",
+    "The paint could have been obtained by completing a special mission \"Attack on the Dead. Day 1\" from the \"Attack on the Dead\" event, which was to kill the player wearing the Dead paint in DM matchmaking battles within 12 hrs."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint appeared on October 31st, 2020.\nThe paint could have been obtained by completing a special mission \"Attack on the Dead. Day 1\" from the \"Attack on the Dead\" event, which was to kill the player wearing the Dead paint in DM matchmaking battles within 12 hrs.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

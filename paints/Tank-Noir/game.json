@@ -1,0 +1,24 @@
+{
+  "name": "Tank-Noir",
+  "rawName": "Tank-Noir",
+  "item": "1931009779359",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "It's not hard to guess that the founders of this racing team were fans of Hollywood crime dramas of the 40s and 50s. The famous British atelier was responsible for the design of tank cars and gave them a stylish interior and elegant curves. The glossy black color gives it a sense of belonging to the aesthetic retro classics, and also emphasizes the nobility of its owners. The team members have steel character and do not forgive themselves for defeat, so enemies should not forget that the next race can turn into a nightmare for them!",
+  "paint": {
+    "id": "1676450061232",
+    "version": "1775743169983",
+    "animated": false
+  },
+  "preview": {
+    "id": "1676450060759",
+    "version": "1676450060951"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Rock",
+  "rawName": "Rock",
+  "item": "920004703614",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 15000
+  },
+  "owned": false,
+  "description": "The armored plates called \"The Rock\" are mined from huge rock formations, using an ancient Egyptian technology. Dry pegs are hammered into the rock, then soaked with water till they swell, breaking the rock into smooth blocks of stone. This camouflage is the definition of \"hand-made\".",
+  "paint": {
+    "id": "5006359",
+    "version": "1775743169811",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006342",
+    "version": "1581391589421"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

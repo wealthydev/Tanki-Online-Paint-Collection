@@ -1,0 +1,27 @@
+{
+  "name": "Wonder fish",
+  "source": "wiki",
+  "page": "/Wonder_fish",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This is what fish scales look like after they've been stained by oil spills in the ocean. A nice effect, but so unfortunate. Wear this paint to show that you support the fight for a cleaner planet.",
+  "interestingFacts": [
+    "Paint appeared on June 2nd, 2019.",
+    "The paint could be received as a reward for reaching the paid Tier 44 of the June 2019 Challenge.",
+    "Wonder Fish was added to the possible rewards pool of containers with the release of the July 2019 challenge."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis is what fish scales look like after they've been stained by oil spills in the ocean. A nice effect, but so unfortunate. Wear this paint to show that you support the fight for a cleaner planet.\nSee also: Paints\nInteresting facts\nPaint appeared on June 2nd, 2019.\nThe paint could be received as a reward for reaching the paid Tier 44 of the June 2019 Challenge.\nWonder Fish was added to the possible rewards pool of containers with the release of the July 2019 challenge.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

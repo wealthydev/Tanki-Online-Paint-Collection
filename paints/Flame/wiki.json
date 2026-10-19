@@ -1,0 +1,25 @@
+{
+  "name": "Flame",
+  "source": "wiki",
+  "page": "/Flame",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint for Administrators.",
+  "interestingFacts": [
+    "The author of the paint is JVdragobomba."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint for Administrators.\nSee also: Paints\nInteresting facts\nThe author of the paint is JVdragobomba.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

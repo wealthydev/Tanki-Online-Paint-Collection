@@ -1,0 +1,24 @@
+{
+  "name": "Sky",
+  "rawName": "Sky",
+  "item": "920008030011",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint for those tankers whose head is literally always up in the clouds. It is temporarily awarded to players who are participating in the Parkour Survival Tournament after having passed the qualifying stages. The winners of the tournament will get to keep the paint.",
+  "paint": {
+    "id": "500407500",
+    "version": "1775743169879",
+    "animated": false
+  },
+  "preview": {
+    "id": "500407501",
+    "version": "1581391728100"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Synergy",
+  "rawName": "Synergy",
+  "item": "920009180238",
+  "rarity": "SPECIAL",
+  "minRank": 11,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Buy this paint and become clan Synergy fan in the Clan Championship X finals.\n\nImportant! After purchasing this paint the 3 remaining fan paints will become unavailable for purchase in the Shop.",
+  "paint": {
+    "id": "1510735542008",
+    "version": "1775743168083",
+    "animated": false
+  },
+  "preview": {
+    "id": "1510735542009",
+    "version": "1581391496684"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

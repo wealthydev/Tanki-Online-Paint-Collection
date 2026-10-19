@@ -1,0 +1,27 @@
+{
+  "name": "War. EN",
+  "source": "wiki",
+  "page": "/War._EN",
+  "type": "War",
+  "price": {
+    "amount": 100,
+    "currency": "Crystals",
+    "text": "100"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint was made specifically for the global event «{GAME_NAME} War». Purchase the paint of the English community and lead it to victory! Capture territories, devise strategies, and conquer the world!",
+  "interestingFacts": [
+    "Paint appeared in the game on February 21st, 2018.",
+    "This paint was a part of the special event {GAME_NAME} War.",
+    "This was a temporary paint. It was removed from all garages after the event was over."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "100",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:100\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint was made specifically for the global event «{GAME_NAME} War». Purchase the paint of the English community and lead it to victory! Capture territories, devise strategies, and conquer the world!\nSee also: Paints\nInteresting facts\nPaint appeared in the game on February 21st, 2018.\nThis paint was a part of the special event {GAME_NAME} War.\nThis was a temporary paint. It was removed from all garages after the event was over.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

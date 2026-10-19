@@ -1,0 +1,26 @@
+{
+  "name": "Spirit of Brazil",
+  "source": "wiki",
+  "page": "/Spirit_of_Brazil",
+  "type": "Special",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This unique paint was created in honor of the Brazilian community in {GAME_NAME}. It is given exclusively to members of that localization.",
+  "interestingFacts": [
+    "The appeared on April 16th, 2020.",
+    "This paint was given to all those the migrated from the Spanish and Brazilian servers."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Special",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Special\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis unique paint was created in honor of the Brazilian community in {GAME_NAME}. It is given exclusively to members of that localization.\nSee also: Paints\nInteresting facts\nThe appeared on April 16th, 2020.\nThis paint was given to all those the migrated from the Spanish and Brazilian servers.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

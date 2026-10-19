@@ -1,0 +1,24 @@
+{
+  "name": "Immunes",
+  "rawName": "Immunes",
+  "item": "1931009779055",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "«Immunes» faction! The main task is to save the world from the new secret virus. With the help of a special antidote potion, created according to the old man recipe of our grandmothers, neutralize the «Zombies» hoard by curing them! The fate of humanity rests on your shoulders!",
+  "paint": {
+    "id": "1669096524773",
+    "version": "1775743169281",
+    "animated": false
+  },
+  "preview": {
+    "id": "1669096524295",
+    "version": "1669096524509"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

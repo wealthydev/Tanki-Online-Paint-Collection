@@ -1,0 +1,27 @@
+{
+  "name": "Eternity",
+  "rawName": "Eternity",
+  "item": "920004704579",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 5000
+  },
+  "owned": false,
+  "description": "An extremely rare paint that is perfectly suited for mid-range combat. Having it equipped will make your tank look like a real rock star.",
+  "paint": {
+    "id": "500341251",
+    "version": "1775743169094",
+    "animated": false
+  },
+  "preview": {
+    "id": "500341250",
+    "version": "1585112311217"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

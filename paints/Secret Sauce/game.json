@@ -1,0 +1,25 @@
+{
+  "name": "Secret sauce",
+  "rawName": "Secret sauce",
+  "item": "920009595705",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Mayo, mustard and wasabi — it's a recipe of a dinner you'll never forget. The spice in the dishes will make your hatred for the enemies burn much, much stronger.",
+  "paint": {
+    "id": "1526549297162",
+    "version": "1697183401495",
+    "animated": true
+  },
+  "preview": {
+    "id": "1526550999860",
+    "version": "1581391612896"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

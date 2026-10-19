@@ -1,0 +1,25 @@
+{
+  "name": "Radar",
+  "rawName": "Radar",
+  "item": "920009613063",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was originally created with the intent of having a radar that drivers can see no matter where they look. Unfortunately, it didn't quite work as planned. But on the flip-side, the paint now has a hypnotic effect on whoever looks at it. \"You are a toaster. Listen to me... YOU are a toaster\"",
+  "paint": {
+    "id": "1565244995509",
+    "version": "1697183401369",
+    "animated": true
+  },
+  "preview": {
+    "id": "1565244962803",
+    "version": "1581391752587"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Lady",
+  "rawName": "Lady",
+  "item": "920009601164",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "(temporary paint)\n\nWearing this paint shows your allegiance to the FEMALE camp in the «Gender War». When purchasing this paint, you will be participating in a star battle against the male camp in {GAME_NAME}. The strongest side will win!\n\nIMPORTANT! This paint is temporary. It will be removed from all Garages at the end of the «Gender War».",
+  "paint": {
+    "id": "1550564315872",
+    "version": "1775743168330",
+    "animated": false
+  },
+  "preview": {
+    "id": "1550564392826",
+    "version": "1581391623350"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

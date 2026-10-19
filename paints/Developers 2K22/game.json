@@ -1,0 +1,24 @@
+{
+  "name": "Developers 2K22",
+  "rawName": "Developers 2K22",
+  "item": "931009771300",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1652269301606",
+    "version": "1775743169035",
+    "animated": false
+  },
+  "preview": {
+    "id": "1652269301160",
+    "version": "1652269301337"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lava",
+  "source": "wiki",
+  "page": "/Lava",
+  "type": "Garage",
+  "price": {
+    "amount": 50000,
+    "currency": "Crystals",
+    "text": "50 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "An experimental color first tested during the local conflict in East Africa. According to military psychologists, this specific pattern resembling a divine fire will trigger a sense of panic within enemies.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Lava was worth 1,500 crystals and could be bought from Master Corporal.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "50 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:50 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nAn experimental color first tested during the local conflict in East Africa. According to military psychologists, this specific pattern resembling a divine fire will trigger a sense of panic within enemies.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Lava was worth 1,500 crystals and could be bought from Master Corporal.\nLegacy paint description:\nA fiery paint that somewhat weakens the frost and damage effect of Freeze. Works well in short-range battles and makes your tank stand out more.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

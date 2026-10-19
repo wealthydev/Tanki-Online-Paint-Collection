@@ -1,0 +1,24 @@
+{
+  "name": "New Year 2017",
+  "rawName": "New Year 2017",
+  "item": "920005755020",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Wear this holiday paint to wrap yourself up as a marvellous gift for your arena buddies. Then when they get close enough, shout \"SURPRISE\" and punch a hole right through their hull!",
+  "paint": {
+    "id": "500372367",
+    "version": "1775743168448",
+    "animated": false
+  },
+  "preview": {
+    "id": "500372368",
+    "version": "1581391635400"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Honor",
+  "rawName": "Honor",
+  "item": "920009601210",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Before creating this paint, we asked for the opinion of 2000 veteran warriors. Our question was, \"What's the most importing thing in life?\" They all had the same answer. \"HONOR!\" they roared in one voice.",
+  "paint": {
+    "id": "1550653444507",
+    "version": "1697183401442",
+    "animated": true
+  },
+  "preview": {
+    "id": "1550654768912",
+    "version": "1581391602044"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

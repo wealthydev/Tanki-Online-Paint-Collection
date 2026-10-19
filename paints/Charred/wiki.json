@@ -1,0 +1,25 @@
+{
+  "name": "Charred",
+  "source": "wiki",
+  "page": "/Charred",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "They say an image is worth a thousand words. This paint sends a clear message to your enemies. It tells them, \"This is what you'll look like when I'm done roasting you\".",
+  "interestingFacts": [
+    "This paint is available to obtain from the July 2019 challenge."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThey say an image is worth a thousand words. This paint sends a clear message to your enemies. It tells them, \"This is what you'll look like when I'm done roasting you\".\nSee also: Paints\nInteresting facts\nThis paint is available to obtain from the July 2019 challenge.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

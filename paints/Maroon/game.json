@@ -1,0 +1,27 @@
+{
+  "name": "Maroon",
+  "rawName": "Maroon",
+  "item": "920004703972",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "The embodiment of rage and courage. It also has the practical application of being able to hide any traces of enemy blood that inevitably appear on the hull, no matter how careful you are.",
+  "paint": {
+    "id": "58828",
+    "version": "1775743169775",
+    "animated": false
+  },
+  "preview": {
+    "id": "58902",
+    "version": "1707988379994"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lady",
+  "source": "wiki",
+  "page": "/Lady",
+  "type": "War",
+  "price": {
+    "amount": 5000,
+    "currency": "Crystals",
+    "text": "5 000"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": "n/a",
+  "description": "Wearing this paint shows your allegiance to the FEMALE camp in the «Gender War». When purchasing this paint, you will be participating in a star battle against the male camp in {GAME_NAME}. The strongest side will win!",
+  "interestingFacts": [
+    "The paint was released on March 1st, 2019.",
+    "This was a temporary paint. It was removed from all garages after the event was over."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "5 000",
+    "Garage categorization": "◆ Common",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:5 000\nGarage categorization:◆ Common\nContainer rarity:n/a\nGarage description\nWearing this paint shows your allegiance to the FEMALE camp in the «Gender War». When purchasing this paint, you will be participating in a star battle against the male camp in {GAME_NAME}. The strongest side will win!\nSee also: Paints\nInteresting facts\nThe paint was released on March 1st, 2019.\nThis was a temporary paint. It was removed from all garages after the event was over.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

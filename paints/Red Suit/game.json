@@ -1,0 +1,27 @@
+{
+  "name": "Red Suit",
+  "rawName": "Red Suit",
+  "item": "920004704578",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 5000
+  },
+  "owned": false,
+  "description": "\"You may be wondering, why the red suit? Well that's so bad guys can't see me bleed!\"\n\nA unique paint that could only be purchased between February 19 and March 4, 2016.",
+  "paint": {
+    "id": "500354667",
+    "version": "1775743168143",
+    "animated": false
+  },
+  "preview": {
+    "id": "500354668",
+    "version": "1581391355747"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

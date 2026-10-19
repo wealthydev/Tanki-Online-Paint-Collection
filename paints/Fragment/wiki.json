@@ -1,0 +1,26 @@
+{
+  "name": "Fragment",
+  "source": "wiki",
+  "page": "/Fragment",
+  "type": "Tankoin",
+  "price": {
+    "amount": 900,
+    "currency": "Tankoins",
+    "text": "900"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "They say that real collectors are interested not in the things themselves, but rather in their essence and the idea. Likewise, the tankers participating in the \"Assemble a Tank\" event show their interest and riskiness in finding the necessary parts. Assembling a tank is not easy. but really, really hard!",
+  "interestingFacts": [
+    "The paint was added to the game on September 1, 2023.",
+    "The paint was sold in the game from September 1 to September 18, 2023 in the Pass special offer in the Assemble a Tank event."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "900",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:900\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThey say that real collectors are interested not in the things themselves, but rather in their essence and the idea. Likewise, the tankers participating in the \"Assemble a Tank\" event show their interest and riskiness in finding the necessary parts. Assembling a tank is not easy. but really, really hard!\nSee also: Paints\nInteresting facts\nThe paint was added to the game on September 1, 2023.\nThe paint was sold in the game from September 1 to September 18, 2023 in the Pass special offer in the Assemble a Tank event.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

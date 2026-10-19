@@ -1,0 +1,28 @@
+{
+  "name": "Cake",
+  "source": "wiki",
+  "page": "/Cake",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint appeared on June 13th, 2020.",
+    "This paint was used by the game helpers along with the BBQ and Soda paints, on special accounts during {GAME_NAME}'s birthday event in June 2020.",
+    "This paint was added to containers on February 5th, 2021.",
+    "Not to be confused with \"Piece of cake,\" the phrase that you say after winning a 1v4 XP match"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint appeared on June 13th, 2020.\nThis paint was used by the game helpers along with the BBQ and Soda paints, on special accounts during {GAME_NAME}'s birthday event in June 2020.\nThis paint was added to containers on February 5th, 2021.\nNot to be confused with \"Piece of cake,\" the phrase that you say after winning a 1v4 XP match\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Runes",
+  "rawName": "Runes",
+  "item": "920009598291",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Very unlikely, that somebody will decipher the message within the runes on this paint. You can always try, but be careful, the battle goes on.",
+  "paint": {
+    "id": "1537777223975",
+    "version": "1697183401486",
+    "animated": true
+  },
+  "preview": {
+    "id": "1537778011642",
+    "version": "1581391564150"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

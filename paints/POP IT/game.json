@@ -1,0 +1,24 @@
+{
+  "name": "POP IT",
+  "rawName": "POP IT",
+  "item": "921009738090",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1622055184776",
+    "version": "1775743169720",
+    "animated": false
+  },
+  "preview": {
+    "id": "1622055170345",
+    "version": "1622102948999"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

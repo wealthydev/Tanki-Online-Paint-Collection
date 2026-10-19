@@ -1,0 +1,27 @@
+{
+  "name": "Phantom",
+  "rawName": "Phantom",
+  "item": "920009365541",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "The hypnotizing power of the paint is rumored to be the only thing that can stop an Isida train and freeze in place an aiming Shaft. Use with extra caution.",
+  "paint": {
+    "id": "1516883264872",
+    "version": "1775743169670",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264873",
+    "version": "1581391675553"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

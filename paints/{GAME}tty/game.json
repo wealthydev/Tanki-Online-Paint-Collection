@@ -1,0 +1,24 @@
+{
+  "name": "{GAME}tty",
+  "rawName": "{GAME}tty",
+  "item": "1931009779358",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The name of this racing team emphasizes the independent and self-sufficient nature of its founder family, the biggest patrons of cat shelters. Their tank cars are distinguished by gracefulness, elegance and devilish attractiveness! \nAs suited representatives of the feline family, the racers of this team are the most maneuverable and are able to fit into any turn without difficulty. Like the wild ancestors of cats, the desire to dominate and snatch victory like prey from the clutches of an opponent, is bubbling in the blood of the participants of this team.\n{GAME}tty are invincible predators on the battlefield.",
+  "paint": {
+    "id": "1676450030143",
+    "version": "1775743169989",
+    "animated": false
+  },
+  "preview": {
+    "id": "1676450029586",
+    "version": "1676450029776"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

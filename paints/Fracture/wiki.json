@@ -1,0 +1,27 @@
+{
+  "name": "Fracture",
+  "source": "wiki",
+  "page": "/Fracture",
+  "type": "Garage",
+  "price": {
+    "amount": 30000,
+    "currency": "Crystals",
+    "text": "30 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "An experimental camouflage developed for combat in tropical climates.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Fracture was worth 42,500 crystals and could be bought from  Warrant Officer 5",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "30 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:30 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nAn experimental camouflage developed for combat in tropical climates.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Fracture was worth 42,500 crystals and could be bought from  Warrant Officer 5\nLegacy paint description:\nA paint with decent protection against Railgun, and which slightly decreases damage from Vulcan and Smoky. Will come in handy at long ranges. With it your tank will look like the work of art.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

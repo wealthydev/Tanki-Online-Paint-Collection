@@ -1,0 +1,28 @@
+{
+  "name": "Funky Medicine",
+  "source": "wiki",
+  "page": "/Funky_Medicine",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "Paint appeared on February 1st, 2020.",
+    "'The paint was obtainable by reaching the 33rd tier of the February 2020 challenge A.",
+    "This paint was added to containers on February 5th, 2021.",
+    "If a battle lasts more than four hours while using Funky Medicine, contact a tank mechanic immediately."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nPaint appeared on February 1st, 2020.\n'The paint was obtainable by reaching the 33rd tier of the February 2020 challenge A.\nThis paint was added to containers on February 5th, 2021.\nIf a battle lasts more than four hours while using Funky Medicine, contact a tank mechanic immediately.\nGarage preview\nLast Edit: Jemcool 9/28/2025"
+}

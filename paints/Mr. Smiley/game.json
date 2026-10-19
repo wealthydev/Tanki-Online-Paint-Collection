@@ -1,0 +1,24 @@
+{
+  "name": "Mr. Smiley",
+  "rawName": "Mr. Smiley",
+  "item": "920006440672",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint for the tanker who believes that laughs, fun and pranks should happen every day, not just once a year.",
+  "paint": {
+    "id": "500383759",
+    "version": "1775743168049",
+    "animated": false
+  },
+  "preview": {
+    "id": "500383760",
+    "version": "1581391361493"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

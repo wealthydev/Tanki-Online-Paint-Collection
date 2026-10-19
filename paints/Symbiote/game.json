@@ -1,0 +1,25 @@
+{
+  "name": "Symbiote",
+  "rawName": "Symbiote",
+  "item": "920009598660",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "«We will blow up your turret, and then your tracks, and then rip off your paint right off your tank. You will become a turretless, trackless, paintless...» (c) Owner of the paint",
+  "paint": {
+    "id": "1538560655315",
+    "version": "1697183401483",
+    "animated": true
+  },
+  "preview": {
+    "id": "1538560635194",
+    "version": "1581391482172"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

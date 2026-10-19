@@ -1,0 +1,24 @@
+{
+  "name": "Reporter",
+  "rawName": "Reporter",
+  "item": "920004704335",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for the «{GAME_NAME} Wiki» editors. ",
+  "paint": {
+    "id": "5007151",
+    "version": "1775743169797",
+    "animated": false
+  },
+  "preview": {
+    "id": "5007150",
+    "version": "1581391615232"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

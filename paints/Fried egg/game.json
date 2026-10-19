@@ -1,0 +1,25 @@
+{
+  "name": "Fried egg",
+  "rawName": "Fried egg",
+  "item": "921009758958",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1633434077754",
+    "version": "1697183401373",
+    "animated": true
+  },
+  "preview": {
+    "id": "1633434073816",
+    "version": "1633516284743"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

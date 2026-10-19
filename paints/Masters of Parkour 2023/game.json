@@ -1,0 +1,24 @@
+{
+  "name": "Masters of Parkour 2023",
+  "rawName": "Masters of Parkour 2023",
+  "item": "1931009779623",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is the prize for the «Masters of Parkour» contest that took place in 2023. ",
+  "paint": {
+    "id": "1680089680739",
+    "version": "1775743169413",
+    "animated": false
+  },
+  "preview": {
+    "id": "1680089680212",
+    "version": "1680089680438"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

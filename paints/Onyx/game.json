@@ -1,0 +1,24 @@
+{
+  "name": "Onyx",
+  "rawName": "Onyx",
+  "item": "921009702845",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint given exclusively to Gold level members of the game's Parkour Club Support Programme. The name and the colors of the paint indicate what its users can do: soar in the sky like eagles, presenting themselves stylishly at the same time.",
+  "paint": {
+    "id": "1605711883213",
+    "version": "1775743169549",
+    "animated": false
+  },
+  "preview": {
+    "id": "1605711882936",
+    "version": "1605711883048"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

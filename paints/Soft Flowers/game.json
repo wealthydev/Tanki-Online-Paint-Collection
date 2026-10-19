@@ -1,0 +1,27 @@
+{
+  "name": "Soft Flowers",
+  "rawName": "Soft Flowers",
+  "item": "920004826765",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 60000
+  },
+  "owned": true,
+  "description": "A beautiful floral pattern ideal for special occasions. It is gently applied to the tank in several layers. This paint is perfect for when elegance and class take priority.",
+  "paint": {
+    "id": "500362860",
+    "version": "1775743169887",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362852",
+    "version": "1581391427788"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

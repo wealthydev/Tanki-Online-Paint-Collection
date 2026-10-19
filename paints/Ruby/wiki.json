@@ -1,0 +1,26 @@
+{
+  "name": "Ruby",
+  "source": "wiki",
+  "page": "/Ruby",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint for Forum Moderators.",
+  "interestingFacts": [
+    "Paint appeared on August 13, 2013 (update 178).",
+    "The author of the paint is balion1."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint for Forum Moderators.\nSee also: Paints\nInteresting facts\nPaint appeared on August 13, 2013 (update 178).\nThe author of the paint is balion1.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

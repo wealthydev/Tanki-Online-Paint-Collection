@@ -1,0 +1,27 @@
+{
+  "name": "Sight",
+  "source": "wiki",
+  "page": "/Sight",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": "Crystals",
+    "text": ""
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was added to the game on December 1st, 2021.",
+    "This paint could have been unlocked at Tier 11 of the December A Challenge in 2021.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was added to the game on December 1st, 2021.\nThis paint could have been unlocked at Tier 11 of the December A Challenge in 2021.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

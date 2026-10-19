@@ -1,0 +1,24 @@
+{
+  "name": "Pegasus",
+  "rawName": "Pegasus",
+  "item": "920005083020",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "In August 2016, a contest was held to find a name for the paint of the official Brazilian Parkour team. The name Pegasus was chosen by 4 different players, who shared the main prize. This paint is unique and may only be used by the official Parkour team of the BR community.",
+  "paint": {
+    "id": "500365601",
+    "version": "1775743169655",
+    "animated": false
+  },
+  "preview": {
+    "id": "500365600",
+    "version": "1581391674984"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

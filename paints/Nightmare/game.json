@@ -1,0 +1,25 @@
+{
+  "name": "Nightmare",
+  "rawName": "Nightmare",
+  "item": "920008994081",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Few dare to approach these tanks, but those who conquer the chilling horror of a thousand faces screaming in eternal agony will know no fear. You will become Nightmare incarnate. Rumors say that every kill made with paint will add one more howling soul.",
+  "paint": {
+    "id": "500413400",
+    "version": "1697183401455",
+    "animated": true
+  },
+  "preview": {
+    "id": "500414605",
+    "version": "1581391518684"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

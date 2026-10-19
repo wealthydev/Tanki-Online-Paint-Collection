@@ -1,0 +1,27 @@
+{
+  "name": "Sweater",
+  "rawName": "Sweater",
+  "item": "920004826763",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 120000
+  },
+  "owned": false,
+  "description": "A tribute to your babushka's sweater-making skills. The paint will give you a feeling of happiness and will keep you warm during winter nights.",
+  "paint": {
+    "id": "500362862",
+    "version": "1775743169952",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362854",
+    "version": "1581391386874"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

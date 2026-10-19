@@ -1,0 +1,24 @@
+{
+  "name": "Chocolatank",
+  "rawName": "Chocolatank",
+  "item": "920004106860",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Easter is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: With this paint, your tank will look delicious, but will still be pretty hard — biting it will likely result in loss of teeth.",
+  "paint": {
+    "id": "500356201",
+    "version": "1775743168147",
+    "animated": false
+  },
+  "preview": {
+    "id": "500356202",
+    "version": "1581391437945"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

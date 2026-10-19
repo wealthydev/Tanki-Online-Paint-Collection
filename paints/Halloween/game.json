@@ -1,0 +1,24 @@
+{
+  "name": "Halloween",
+  "rawName": "Halloween",
+  "item": "920005371061",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "When the ghouls and ghosts come out to play, wear this paint and party with them!",
+  "paint": {
+    "id": "500368750",
+    "version": "1775743168158",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368751",
+    "version": "1581391636095"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

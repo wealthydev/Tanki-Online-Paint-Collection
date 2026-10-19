@@ -1,0 +1,24 @@
+{
+  "name": "Earth",
+  "rawName": "Earth",
+  "item": "920009606353",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "One of three paints created for the WAR for Space event in July.\n\nThis paint is modeled after planet Earth, with its lush forests, roaring oceans, imposing mountains and expansive deserts. Even if we colonize other planets in the future, this is the one we'll always call home.",
+  "paint": {
+    "id": "1561697364758",
+    "version": "1775743168601",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561697512830",
+    "version": "1581391630212"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

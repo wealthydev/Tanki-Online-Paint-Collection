@@ -1,0 +1,25 @@
+{
+  "name": "Under the Tree",
+  "rawName": "Under the Tree",
+  "item": "920009647327",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1574947064968",
+    "version": "1697183401556",
+    "animated": true
+  },
+  "preview": {
+    "id": "1574948199067",
+    "version": "1581391697678"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Fall leaves",
+  "rawName": "Fall leaves",
+  "item": "920009597141",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Maple leaves, which make up this paint, will forever keep their beautiful shape and inspire a wonderful mood within you. Any time of the year your tank will be golden, and the paint also makes a perfect forest camouflage.",
+  "paint": {
+    "id": "1534407338060",
+    "version": "1697183401439",
+    "animated": true
+  },
+  "preview": {
+    "id": "1534407495275",
+    "version": "1581391335095"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pulsar",
+  "source": "wiki",
+  "page": "/Pulsar",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Imagine your wildest dream, as enemy fire turns into stars and the shape of bullets extends into bright colors, pulsating to the beat of the explosions around you. This is Pulsar.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nImagine your wildest dream, as enemy fire turns into stars and the shape of bullets extends into bright colors, pulsating to the beat of the explosions around you. This is Pulsar.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

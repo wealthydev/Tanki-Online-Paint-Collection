@@ -1,0 +1,24 @@
+{
+  "name": "Gagarin's Mount",
+  "rawName": "Gagarin's Mount",
+  "item": "920006502632",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is a lovingly-crafted replica of the shuttle that carried the legendary cosmonaut Yuri Gagarin on his historical space voyage.",
+  "paint": {
+    "id": "500384808",
+    "version": "1775743168117",
+    "animated": false
+  },
+  "preview": {
+    "id": "500384809",
+    "version": "1581391322885"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

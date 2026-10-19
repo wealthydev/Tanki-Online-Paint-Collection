@@ -1,0 +1,26 @@
+{
+  "name": "Confetti",
+  "source": "wiki",
+  "page": "/Confetti",
+  "type": "Garage",
+  "price": {
+    "amount": 13000,
+    "currency": "Crystals",
+    "text": "13 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Getting married? Commemorating an anniversary? Throwing a party to celebrate your enemy biting the dust? Confetti is the paint for you. A Cake paint was originally planned, but the icing kept falling off, so it was deemed impractical.",
+  "interestingFacts": [
+    "Paint appeared on August 12, 2016.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "13 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:13 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nGetting married? Commemorating an anniversary? Throwing a party to celebrate your enemy biting the dust? Confetti is the paint for you. A Cake paint was originally planned, but the icing kept falling off, so it was deemed impractical.\nSee also: Paints\nInteresting facts\nPaint appeared on August 12, 2016.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Carnage",
+  "rawName": "Carnage",
+  "item": "931009762759",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament.",
+  "paint": {
+    "id": "1638340452969",
+    "version": "1775743170044",
+    "animated": false
+  },
+  "preview": {
+    "id": "1638340448879",
+    "version": "1638345661251"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

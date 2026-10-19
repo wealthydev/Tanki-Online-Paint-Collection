@@ -1,0 +1,25 @@
+{
+  "name": "Beating Hearts",
+  "rawName": "Beating Hearts",
+  "item": "920009400455",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "When the heat of battle is closing in around you, and there is time only for one thing, what will you choose — to kill or to protect?",
+  "paint": {
+    "id": "1517919499337",
+    "version": "1697183401527",
+    "animated": true
+  },
+  "preview": {
+    "id": "1518513652002",
+    "version": "1581391304428"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

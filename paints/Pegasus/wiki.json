@@ -1,0 +1,28 @@
+{
+  "name": "Pegasus",
+  "source": "wiki",
+  "page": "/Pegasus",
+  "type": "Award",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "In August 2016, a contest was held to find a name for the paint of the official Brazilian Parkour team. The name Pegasus was chosen by 4 different players, who shared the main prize. This paint is unique and may only be used by the official Parkour team of the BR community.",
+  "interestingFacts": [
+    "The paint was available in the BR community and was obtained by the winners of a parkour event.",
+    "The parkour team that obtained the paint was \"Lendas do Parkour\".",
+    "The paint was removed after the discontinuing of the brazil servers.",
+    "The paint has been awarded to the winners of the Helpers vs. Helpers 2025 tournament. They got to keep the paint for a month."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Award",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Award\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nIn August 2016, a contest was held to find a name for the paint of the official Brazilian Parkour team. The name Pegasus was chosen by 4 different players, who shared the main prize. This paint is unique and may only be used by the official Parkour team of the BR community.\nSee also: Paints\nInteresting facts\nThe paint was available in the BR community and was obtained by the winners of a parkour event.\nThe parkour team that obtained the paint was \"Lendas do Parkour\".\nThe paint was removed after the discontinuing of the brazil servers.\nThe paint has been awarded to the winners of the Helpers vs. Helpers 2025 tournament. They got to keep the paint for a month.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Vanadium",
+  "rawName": "Vanadium",
+  "item": "920007005068",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": false,
+  "description": "A coating of Vanadium for your tank. Besides its appealing silver gray texture, this paint is highly sought due to the scarcity of its primary component.",
+  "paint": {
+    "id": "500391211",
+    "version": "1775743170579",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391204",
+    "version": "1581391557661"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

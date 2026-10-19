@@ -1,0 +1,27 @@
+{
+  "name": "Revenge",
+  "source": "wiki",
+  "page": "/Revenge",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints.",
+  "interestingFacts": [
+    "The paint was available for purchase from March 12 to March 16, 2021, for 10 tankoins as part of the first {GAME}Sport 2021 series tournament.",
+    "The paints will be removed before the playoffs of the next tournament, however for the next tournament we will have the same paints but with names of other teams so if you like any of the paints, you will be able to get them again.",
+    "The team has ended up on the first place in the {GAME}Sport Season 1 tournament."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nPurchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. The paint will be removed from your Garage before the playoffs of the next tournament. Important! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase from March 12 to March 16, 2021, for 10 tankoins as part of the first {GAME}Sport 2021 series tournament.\nThe paints will be removed before the playoffs of the next tournament, however for the next tournament we will have the same paints but with names of other teams so if you like any of the paints, you will be able to get them again.\nThe team has ended up on the first place in the {GAME}Sport Season 1 tournament.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

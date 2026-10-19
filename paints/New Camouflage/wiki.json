@@ -1,0 +1,25 @@
+{
+  "name": "New Camouflage",
+  "source": "wiki",
+  "page": "/New_Camouflage",
+  "type": "Event",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is for tankers who love the camouflage look but would like to give it an unconventional twist.",
+  "interestingFacts": [
+    "This paint was available in the garage during the 2017 May Holidays celebrations"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "120 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:120 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is for tankers who love the camouflage look but would like to give it an unconventional twist.\nSee also: Paints\nInteresting facts\nThis paint was available in the garage during the 2017 May Holidays celebrations\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

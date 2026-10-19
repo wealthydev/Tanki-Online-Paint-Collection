@@ -1,0 +1,29 @@
+{
+  "name": "Black Sea",
+  "source": "wiki",
+  "page": "/Black_Sea",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint appeared on June 25th, 2021.",
+    "This paint was only obtainable for 11 days from the \"Dark Matter\" bundle for UFO Day celebrations.",
+    "It was added to ultra containers on July 9th, 2021.",
+    "Unfortunately, the scintillating woven kevlar on this paint is still in the research and development phase, and so offers no bulletproof benefits. Other than distracting your enemy with its stunning beauty, of course.",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint appeared on June 25th, 2021.\nThis paint was only obtainable for 11 days from the \"Dark Matter\" bundle for UFO Day celebrations.\nIt was added to ultra containers on July 9th, 2021.\nUnfortunately, the scintillating woven kevlar on this paint is still in the research and development phase, and so offers no bulletproof benefits. Other than distracting your enemy with its stunning beauty, of course.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

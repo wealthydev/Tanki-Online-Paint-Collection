@@ -1,0 +1,25 @@
+{
+  "name": "Condensed Milk",
+  "source": "wiki",
+  "page": "/Condensed_Milk",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A fondly remembered treat from childhood will make every victory taste extra sweet. Open the can and celebrate with your team!",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA fondly remembered treat from childhood will make every victory taste extra sweet. Open the can and celebrate with your team!\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

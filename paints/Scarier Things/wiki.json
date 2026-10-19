@@ -1,0 +1,26 @@
+{
+  "name": "Scarier Things",
+  "source": "wiki",
+  "page": "/Scarier_Things",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint could be received as a reward for reaching the paid Tier 4 of the October 2019 Challenge.",
+    "Scarier Things was added to the possible rewards pool of containers with the release of November 2019 Challenge."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint could be received as a reward for reaching the paid Tier 4 of the October 2019 Challenge.\nScarier Things was added to the possible rewards pool of containers with the release of November 2019 Challenge.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

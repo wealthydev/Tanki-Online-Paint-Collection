@@ -1,0 +1,25 @@
+{
+  "name": "Lotus",
+  "source": "wiki",
+  "page": "/Lotus",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint is a shining flower gliding on the surface of a calm moonlight. Helps chase away bad thoughts and recover after a stressful battle.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint is a shining flower gliding on the surface of a calm moonlight. Helps chase away bad thoughts and recover after a stressful battle.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

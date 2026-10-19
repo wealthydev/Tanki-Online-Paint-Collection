@@ -1,0 +1,27 @@
+{
+  "name": "Lava",
+  "rawName": "Lava",
+  "item": "920004704337",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 50000
+  },
+  "owned": true,
+  "description": "An experimental color, first tested during the local conflict in East Africa. According to military psychologists, this specific pattern resembling a divine fire will trigger a sense of panic within enemies.",
+  "paint": {
+    "id": "58819",
+    "version": "1775743169335",
+    "animated": false
+  },
+  "preview": {
+    "id": "58893",
+    "version": "1581391545786"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Nano",
+  "rawName": "Nano",
+  "item": "920004703851",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 350000
+  },
+  "owned": false,
+  "description": "A thick layer of nanoporolon is applied to the tank from a small jar with an even smaller brush. It is a long process, but the result pleases the eye. According to military specialists, this has been the most successful attempt at adapting nanotechnology to tanks.",
+  "paint": {
+    "id": "500309254",
+    "version": "1775743169492",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309261",
+    "version": "1581391682495"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

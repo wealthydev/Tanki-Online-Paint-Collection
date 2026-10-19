@@ -1,0 +1,25 @@
+{
+  "name": "Not a Lantern",
+  "source": "wiki",
+  "page": "/Not_a_lantern",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Despite its unique color scheme, this paint has absolutely nothing to do with lanterns and superheroes. And if you wear it, you're guaranteed to be much cooler than any movie about such topics.",
+  "interestingFacts": [
+    "The paint could have been received by completing the challenges of the September 2019 challenge with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nDespite its unique color scheme, this paint has absolutely nothing to do with lanterns and superheroes. And if you wear it, you're guaranteed to be much cooler than any movie about such topics.\nSee also: Paints\nInteresting facts\nThe paint could have been received by completing the challenges of the September 2019 challenge with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

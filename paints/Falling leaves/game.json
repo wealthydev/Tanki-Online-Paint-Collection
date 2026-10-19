@@ -1,0 +1,24 @@
+{
+  "name": "Falling leaves",
+  "rawName": "Falling leaves",
+  "item": "921009758815",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1632928935999",
+    "version": "1775743169105",
+    "animated": false
+  },
+  "preview": {
+    "id": "1632928935564",
+    "version": "1632928935736"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

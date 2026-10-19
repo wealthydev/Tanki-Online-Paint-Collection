@@ -1,0 +1,24 @@
+{
+  "name": "Master of Parkour",
+  "rawName": "Master of Parkour",
+  "item": "920004704695",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is needed for taking part in the Masters of Parkour contest. More information can be found <a href=\"http://{GAME}online.com/en/2015/08/masters-of-parkour-2015/\" target=\"_blank\"><u>here</u></a>.",
+  "paint": {
+    "id": "500271651",
+    "version": "1775743169403",
+    "animated": false
+  },
+  "preview": {
+    "id": "500271650",
+    "version": "1581391616277"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

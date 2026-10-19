@@ -1,0 +1,25 @@
+{
+  "name": "War. The Winner",
+  "rawName": "War. The Winner",
+  "item": "920009465641",
+  "rarity": "SPECIAL",
+  "minRank": 8,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The paint for the steel-bound and unyielding winners of the \"War\", whose triumph marks the first victory in the global event.",
+  "paint": {
+    "id": "1520404787000",
+    "version": "1697183401494",
+    "animated": true
+  },
+  "preview": {
+    "id": "1518436909928",
+    "version": "1581391731002"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

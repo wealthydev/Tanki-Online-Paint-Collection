@@ -1,0 +1,27 @@
+{
+  "name": "Red",
+  "rawName": "Red",
+  "item": "1931009779880",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "A paint for tankers whose priority is teamwork. It's the best way to conceal your allies and attract all enemy fire to yourself. The bright red color doesn't leave enemies a choice and enrages them.",
+  "paint": {
+    "id": "1685024396659",
+    "version": "1775743169468",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024396204",
+    "version": "1707988458940"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

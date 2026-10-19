@@ -1,0 +1,24 @@
+{
+  "name": "Aramid",
+  "rawName": "Aramid",
+  "item": "920004704458",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was designed specifically for those who are responsible for organizing cybersport tournaments and streaming battles. Therefore, the engineers were given a truly challenging task — to create not a mechanical protection but a reliable shield deflecting various seductions and temptations that would guarantee equity and fairness. Aramid has exactly these properties. The owner of this paint is an example of justice and the source of supreme wisdom.",
+  "paint": {
+    "id": "500142401",
+    "version": "1775743169001",
+    "animated": false
+  },
+  "preview": {
+    "id": "500142404",
+    "version": "1581391633563"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

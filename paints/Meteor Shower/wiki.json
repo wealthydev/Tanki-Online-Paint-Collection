@@ -1,0 +1,26 @@
+{
+  "name": "Meteor Shower",
+  "source": "wiki",
+  "page": "/Meteor_Shower",
+  "type": "Tankoin",
+  "price": {
+    "amount": 13000,
+    "currency": "Rubies",
+    "text": "13 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Do you like watching the stars fall? Specifically for you, we've made a paint full of stars! Looks especially impressive on the night maps, and when other tankers will gather all around you amidst the battle, don't be surprised. They are making wishes.",
+  "interestingFacts": [
+    "The paint was added to the containers on August 10, 2018.",
+    "Legends say that wearing this paint will help you earn more stars in challenges, and maybe even help you catch meteor golds. Are they true? Only one way to find out..."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "13 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:13 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nDo you like watching the stars fall? Specifically for you, we've made a paint full of stars! Looks especially impressive on the night maps, and when other tankers will gather all around you amidst the battle, don't be surprised. They are making wishes.\nSee also: Paints\nInteresting facts\nThe paint was added to the containers on August 10, 2018.\nLegends say that wearing this paint will help you earn more stars in challenges, and maybe even help you catch meteor golds. Are they true? Only one way to find out...\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

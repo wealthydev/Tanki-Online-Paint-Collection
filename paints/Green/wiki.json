@@ -1,0 +1,25 @@
+{
+  "name": "Green",
+  "source": "wiki",
+  "page": "/Green",
+  "type": "Garage",
+  "price": {
+    "amount": 10,
+    "currency": "Crystals",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": null,
+  "description": "A tribute to the tradition of the classic tank, this simple color, so beloved by designers all over the world, has become a standard paint for factory models. This legendary color has true connoisseurs returning to it, having tried everything in the world.",
+  "interestingFacts": [
+    "This paint is given to the player upon choice during registration.",
+    "This paint is intended for new players and is used to decorate items in the garage."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10",
+    "Garage categorization": "◆ Common"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10\nGarage categorization:◆ Common\nGarage description\nA tribute to the tradition of the classic tank, this simple color, so beloved by designers all over the world, has become a standard paint for factory models. This legendary color has true connoisseurs returning to it, having tried everything in the world.\nSee also: Paints\nInteresting facts\nThis paint is given to the player upon choice during registration.\nThis paint is intended for new players and is used to decorate items in the garage.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

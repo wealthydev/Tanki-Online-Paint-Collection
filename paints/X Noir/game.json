@@ -1,0 +1,28 @@
+{
+  "name": "X Noir",
+  "rawName": "X Noir",
+  "item": "3000017176179",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 11000
+  },
+  "owned": false,
+  "description": "A birthday-themed tribute to the 1944–54 Film Noir era. This animated paint evokes the gritty and brooding setting of those old detective movies. It makes a clear statement, \"Don't mess with me... you wouldn't like it\".",
+  "paint": {
+    "id": "1559125239995",
+    "version": "1697183401551",
+    "animated": true
+  },
+  "preview": {
+    "id": "1559125197692",
+    "version": "1581391487549"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

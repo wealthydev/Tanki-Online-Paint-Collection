@@ -1,0 +1,24 @@
+{
+  "name": "Youtuber TO",
+  "rawName": "Youtuber TO",
+  "item": "920004704577",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Rare paint given only to the true masters of {GAME} Youtube.\n\nThe paint is given to channel authors who participate in Youtuber TO program and whose channels have 20 thousand subscribers or more.",
+  "paint": {
+    "id": "500358150",
+    "version": "1775743168962",
+    "animated": false
+  },
+  "preview": {
+    "id": "500358151",
+    "version": "1581391708601"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

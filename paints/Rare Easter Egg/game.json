@@ -1,0 +1,24 @@
+{
+  "name": "Rare Easter Egg",
+  "rawName": "Rare Easter Egg",
+  "item": "920009663111",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "If you have it, you are the owner of the rarest Easter egg in {GAME_NAME}. Congratulations!",
+  "paint": {
+    "id": "1586327196815",
+    "version": "1775743169769",
+    "animated": false
+  },
+  "preview": {
+    "id": "1586327388673",
+    "version": "1586329075159"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

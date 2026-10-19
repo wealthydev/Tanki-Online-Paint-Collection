@@ -1,0 +1,27 @@
+{
+  "name": "Winter",
+  "rawName": "Winter",
+  "item": "920004704212",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 7000
+  },
+  "owned": true,
+  "description": "This paint was specially developed for battle on snow-covered land. It was originally intended to include a snow shovel, but the finance department didn't approve the extra cost.",
+  "paint": {
+    "id": "5001794",
+    "version": "1775743170649",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001792",
+    "version": "1581391580266"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

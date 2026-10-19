@@ -1,0 +1,24 @@
+{
+  "name": "Log cabin",
+  "rawName": "Log cabin",
+  "item": "921009758816",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1632929015420",
+    "version": "1775743169358",
+    "animated": false
+  },
+  "preview": {
+    "id": "1632929014916",
+    "version": "1632929015110"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

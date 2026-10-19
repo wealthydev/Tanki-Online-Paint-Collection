@@ -1,0 +1,24 @@
+{
+  "name": "Lifesaver",
+  "rawName": "Lifesaver",
+  "item": "920009615938",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Are your teammates symbolically drowning in enemy fire? Now you can save them... symbolically. Dive to the rescue with this paint, and become the hero.",
+  "paint": {
+    "id": "1567053030660",
+    "version": "1775743169576",
+    "animated": false
+  },
+  "preview": {
+    "id": "1567053030661",
+    "version": "1581391627006"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

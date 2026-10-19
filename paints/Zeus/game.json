@@ -1,0 +1,27 @@
+{
+  "name": "Zeus",
+  "rawName": "Zeus",
+  "item": "920004704334",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 500000
+  },
+  "owned": true,
+  "description": "Fashioned after the Greek god known for his love of thunderbolts, this paint will signal to your enemies that you're a force not to be taken lightly.",
+  "paint": {
+    "id": "5008988",
+    "version": "1775743170704",
+    "animated": false
+  },
+  "preview": {
+    "id": "5008985",
+    "version": "1581391733797"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

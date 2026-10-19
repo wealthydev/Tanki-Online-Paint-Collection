@@ -1,0 +1,25 @@
+{
+  "name": "Golden Gears",
+  "source": "wiki",
+  "page": "/Golden_Gears",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Ready to show off your status in battle? This animated paint consists of an electron-generated damask coating, and solid gold wrench-and-gear motifs. Show your enemies that you're superior to them in every way, and then rub it in their faces.",
+  "interestingFacts": [
+    "The paint was available for purchase in the May kit for $59.90 from May 1 to May 13, 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nReady to show off your status in battle? This animated paint consists of an electron-generated damask coating, and solid gold wrench-and-gear motifs. Show your enemies that you're superior to them in every way, and then rub it in their faces.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in the May kit for $59.90 from May 1 to May 13, 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

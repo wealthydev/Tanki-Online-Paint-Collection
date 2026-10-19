@@ -1,0 +1,26 @@
+{
+  "name": "Sweater",
+  "source": "wiki",
+  "page": "/Sweater",
+  "type": "Garage",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A tribute to your babushka's sweater-making skills. This paint will give you a feeling of happiness and will keep you warm during winter nights.",
+  "interestingFacts": [
+    "The paint was the holiday paint for the 2014-2015 New Year's celebrations.",
+    "Paint appeared to be sold in the garage on August 12, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "120 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:120 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA tribute to your babushka's sweater-making skills. This paint will give you a feeling of happiness and will keep you warm during winter nights.\nSee also: Paints\nInteresting facts\nThe paint was the holiday paint for the 2014-2015 New Year's celebrations.\nPaint appeared to be sold in the garage on August 12, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

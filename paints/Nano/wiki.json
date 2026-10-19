@@ -1,0 +1,28 @@
+{
+  "name": "Nano",
+  "source": "wiki",
+  "page": "/Nano",
+  "type": "Garage",
+  "price": {
+    "amount": 350000,
+    "currency": "Crystals",
+    "text": "350 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A thick layer of nanoporolon is applied to the tank from a small jar with an even smaller brush. It is a long process, but the result pleases the eye. According to military specialists, this has been the most successful attempt at adapting nanotechnology to tanks.",
+  "interestingFacts": [
+    "Paint first appeared on January 30, 2015.",
+    "Prior to the Paint Separation Update, Nano was worth 231,000 crystals and could be bought from the rank of Marshal.",
+    "When designing this paint, engineers hoped that by creating the coating from a hive of tiny self-repairing robots, they could increase the durability of the tank. Unfortunately, a bug in the programming caused the robots to fight and dismantle each other, leaving the paint with nothing but a useless, but still very pretty, honeycomb structure.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "350 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:350 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA thick layer of nanoporolon is applied to the tank from a small jar with an even smaller brush. It is a long process, but the result pleases the eye. According to military specialists, this has been the most successful attempt at adapting nanotechnology to tanks.\nSee also: Paints\nInteresting facts\nPaint first appeared on January 30, 2015.\nPrior to the Paint Separation Update, Nano was worth 231,000 crystals and could be bought from the rank of Marshal.\nWhen designing this paint, engineers hoped that by creating the coating from a hive of tiny self-repairing robots, they could increase the durability of the tank. Unfortunately, a bug in the programming caused the robots to fight and dismantle each other, leaving the paint with nothing but a useless, but still very pretty, honeycomb structure.\nLegacy paint description:\nA versatile paint protecting against Firebird, Hammer, Ricochet and Smoky. Will increase your chance of survival at close and medium ranges. Covers a battle machine with bright high-tech texture.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

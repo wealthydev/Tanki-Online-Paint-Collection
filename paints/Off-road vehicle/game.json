@@ -1,0 +1,24 @@
+{
+  "name": "Off-road vehicle",
+  "rawName": "Off-road vehicle",
+  "item": "921009681196",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1593170738484",
+    "version": "1775743169542",
+    "animated": false
+  },
+  "preview": {
+    "id": "1593170738114",
+    "version": "1593171677187"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

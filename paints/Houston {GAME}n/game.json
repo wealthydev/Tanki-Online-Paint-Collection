@@ -1,0 +1,24 @@
+{
+  "name": "Houston {GAME}n",
+  "rawName": "Houston {GAME}n",
+  "item": "1931009779355",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "At a time when our spaceships are travelling through the universe, a new star has lit up in the racing tank building — Houston {GAME}n. The members of this team are progressive thinkers of their time, who know a lot about technologies of the future. High-speed cars that withstand the effects of extra high and cryogenic temperatures can bring a triumphant victory to their owners. \nThanks to innovative ideas and an extraordinary approach, the creators of this racing team have formed the following motto: \"Houston, we have no problems.\"",
+  "paint": {
+    "id": "1676449914405",
+    "version": "1775743169976",
+    "animated": false
+  },
+  "preview": {
+    "id": "1676449913934",
+    "version": "1676449914126"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Sunset camouflage",
+  "rawName": "Sunset camouflage",
+  "item": "920006240691",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special kind of camouflage inspired by the colors of the sunset. The wise warrior will use this camouflage with the setting sun at his/her back. The resulting blend of colors will confuse opponents and grant the warrior an invaluable advantage.",
+  "paint": {
+    "id": "500381252",
+    "version": "1775743168322",
+    "animated": false
+  },
+  "preview": {
+    "id": "500381253",
+    "version": "1581391538410"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

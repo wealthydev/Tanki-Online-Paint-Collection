@@ -1,0 +1,24 @@
+{
+  "name": "Snowflake",
+  "rawName": "Snowflake",
+  "item": "920005868360",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is manufactured by a special production facility hidden deep in the arctic tundra, using a patented snow harvesting system that results in sheets of rigid, thinly-layered snow. These layers are then processed to enhance the unique refractive index of each snow flake, making for a stunning visual effect of rare beauty.",
+  "paint": {
+    "id": "500376751",
+    "version": "1775743169519",
+    "animated": false
+  },
+  "preview": {
+    "id": "500376750",
+    "version": "1581391649124"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

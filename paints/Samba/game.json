@@ -1,0 +1,24 @@
+{
+  "name": "Samba",
+  "rawName": "Samba",
+  "item": "920006240693",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "For those who love Carnival, this paint its ideal to enjoy with friends and to show yourself off to your enemies meanwhile you are killing it inside the maps.",
+  "paint": {
+    "id": "500381260",
+    "version": "1775743168075",
+    "animated": false
+  },
+  "preview": {
+    "id": "500381261",
+    "version": "1581391726436"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

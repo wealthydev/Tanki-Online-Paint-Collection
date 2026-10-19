@@ -1,0 +1,24 @@
+{
+  "name": "Sapphire",
+  "rawName": "Sapphire",
+  "item": "1931009802181",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The paint is created from some of the rarest and most precious stones. During its creation, the masters forge the best properties of sapphire into it. According to the legend, Sapphire brings luck, wealth, and success in battles to its owners. Some superstitious people also believe in its protective properties — ability to resist spells, the evil eye, and enemy curses. Many dream of this paint, but only the best and the most talented testers who have made a significant contribution in finding and fixing bugs deserve to get it.",
+  "paint": {
+    "id": "1703082387791",
+    "version": "1775743169839",
+    "animated": false
+  },
+  "preview": {
+    "id": "1703082387298",
+    "version": "1703082387490"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Tentacles",
+  "rawName": "Tentacles",
+  "item": "920009597020",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Octopuses are wonderful creatures. They can change their skin color, adjusting to the surroundings, and disappear into a cloud of black ink leaving the puzzled enemies behind. Some even say you can make a tank pet out of an octopus. Would you?",
+  "paint": {
+    "id": "1533632034391",
+    "version": "1697183401544",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533632588560",
+    "version": "1581391509105"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

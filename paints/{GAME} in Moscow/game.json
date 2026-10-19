@@ -1,0 +1,24 @@
+{
+  "name": "{GAME} in Moscow",
+  "rawName": "{GAME} in Moscow",
+  "item": "920008214541",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was added to the game especially for the «{GAME} in the City» event that took place in Moscow on September 9th, 2017. The paint was also part of the special «{GAME} in Moscow» pack.",
+  "paint": {
+    "id": "500408751",
+    "version": "1775743168582",
+    "animated": false
+  },
+  "preview": {
+    "id": "500408750",
+    "version": "1581391620353"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

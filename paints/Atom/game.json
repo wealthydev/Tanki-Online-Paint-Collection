@@ -1,0 +1,27 @@
+{
+  "name": "Atom",
+  "rawName": "Atom",
+  "item": "920004703855",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 150000
+  },
+  "owned": false,
+  "description": "A protective cover for tanks guarding nuclear research centers. The cover is so high-tech  that it is able to withstand a direct nuclear charge hit. Unfortunately, while the paint will be untouched, the tank beneath it will still evaporate.",
+  "paint": {
+    "id": "500309250",
+    "version": "1775743168812",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309257",
+    "version": "1581391634642"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

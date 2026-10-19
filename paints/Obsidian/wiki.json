@@ -1,0 +1,25 @@
+{
+  "name": "Obsidian",
+  "source": "wiki",
+  "page": "/Obsidian",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Obsidian is a volcanic glass created by nature itself. Rock formation of stunning beauty is used in jewelry and even tank decoration.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (05/01/2019 - 05/29/2019) with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nObsidian is a volcanic glass created by nature itself. Rock formation of stunning beauty is used in jewelry and even tank decoration.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (05/01/2019 - 05/29/2019) with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

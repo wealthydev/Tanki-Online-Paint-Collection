@@ -1,0 +1,27 @@
+{
+  "name": "Forester",
+  "source": "wiki",
+  "page": "/Forester",
+  "type": "Garage",
+  "price": {
+    "amount": 2500,
+    "currency": "Crystals",
+    "text": "2 500"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This is one of two paints specifically designed for ground operations in a mid-latitude climate. According to reports from the independent organization \"True Camouflage\", a tank wearing this particular combination of light and dark green, is less likely to be detected in such regions.",
+  "interestingFacts": [
+    "Forester was one of the first paints introduced to the garage. Originally, it had no protection and was a popular paint for many of the major Russian clans before the rebalance in 2012.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "2 500",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:2 500\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis is one of two paints specifically designed for ground operations in a mid-latitude climate. According to reports from the independent organization \"True Camouflage\", a tank wearing this particular combination of light and dark green, is less likely to be detected in such regions.\nSee also: Paints\nInteresting facts\nForester was one of the first paints introduced to the garage. Originally, it had no protection and was a popular paint for many of the major Russian clans before the rebalance in 2012.\nLegacy paint description:\nA paint that protects your tank from some of the damage dealt by Railgun. Helps with long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

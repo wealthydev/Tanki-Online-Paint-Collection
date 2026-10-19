@@ -1,0 +1,26 @@
+{
+  "name": "Barbed Wire",
+  "source": "wiki",
+  "page": "/Barbed_Wire",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This spiky paint will protect your gear from unwanted visitors, while you're recovering your tank's strength after another round of tiresome battles.",
+  "interestingFacts": [
+    "This paint was added into the game on 30th October 2018, as part of the 2018 Halloween celebrations. Simultaneously it was added to Containers permanently.",
+    "Barbed Wire was given to all players who got 700 or more Stars during the Star Hunt event that took place October 30 - November 5, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis spiky paint will protect your gear from unwanted visitors, while you're recovering your tank's strength after another round of tiresome battles.\nSee also: Paints\nInteresting facts\nThis paint was added into the game on 30th October 2018, as part of the 2018 Halloween celebrations. Simultaneously it was added to Containers permanently.\nBarbed Wire was given to all players who got 700 or more Stars during the Star Hunt event that took place October 30 - November 5, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Strawberry",
+  "source": "wiki",
+  "page": "/Strawberry",
+  "type": "Tankoin",
+  "price": {
+    "amount": 2000,
+    "currency": "Rubies",
+    "text": "2 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Tantalize your enemies with the aroma, bright red color, juicy texture, and sweetness of your strawberry tank. And then, when they move closer to have a bite, give them a taste of your bullets.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "2 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:2 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nTantalize your enemies with the aroma, bright red color, juicy texture, and sweetness of your strawberry tank. And then, when they move closer to have a bite, give them a taste of your bullets.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

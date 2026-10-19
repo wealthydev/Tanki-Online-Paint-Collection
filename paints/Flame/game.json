@@ -1,0 +1,24 @@
+{
+  "name": "Flame",
+  "rawName": "Flame",
+  "item": "920004703977",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for administrators.",
+  "paint": {
+    "id": "50118265",
+    "version": "1775743169114",
+    "animated": false
+  },
+  "preview": {
+    "id": "50118266",
+    "version": "1581391511059"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

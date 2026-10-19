@@ -1,0 +1,24 @@
+{
+  "name": "Gift wrap",
+  "rawName": "Gift wrap",
+  "item": "920009603229",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Did you actually just gift wrap your whole tank? Seriously? Ok buddy, you've got WAAAAY to much time on your hands.",
+  "paint": {
+    "id": "1559202546899",
+    "version": "1775743169166",
+    "animated": false
+  },
+  "preview": {
+    "id": "1559202968758",
+    "version": "1581391518836"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

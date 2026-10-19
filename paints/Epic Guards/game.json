@@ -1,0 +1,24 @@
+{
+  "name": "Epic Guards",
+  "rawName": "Epic Guards",
+  "item": "920000554071",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Add this paint to your garage to become an official fan of Epic Guards in the finals of Star Series Season 4. More information on what you can get from it can be found <a href=\"http://{GAME}online.com/en/2015/07/star-series-finals-event/\" target =\"_blank\"><u>here</u></a>.",
+  "paint": {
+    "id": "500327406",
+    "version": "1775743168501",
+    "animated": false
+  },
+  "preview": {
+    "id": "500327410",
+    "version": "1581391614952"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

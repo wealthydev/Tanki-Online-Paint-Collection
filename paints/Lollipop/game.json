@@ -1,0 +1,27 @@
+{
+  "name": "Lollipop",
+  "rawName": "Lollipop",
+  "item": "920009365535",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "The paint for tankers with a sweet tooth. Cotton candy, marshmallow, and colorful lollipops will always brighten your mood!",
+  "paint": {
+    "id": "1516883264868",
+    "version": "1775743169361",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264869",
+    "version": "1581391561800"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

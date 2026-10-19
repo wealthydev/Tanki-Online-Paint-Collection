@@ -1,0 +1,27 @@
+{
+  "name": "Hive",
+  "source": "wiki",
+  "page": "/Hive",
+  "type": "Garage",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Originally intended as a paint with active offensive properties, \"Hive\" was supposed to be enriched with special anti-tank bees. However, this plan was dropped due to numerous protests from animal-friendly organizations. As a result, the paint now only retains its color and texture.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Hive was worth 159,000 crystals and could be bought from the rank of Lieutenant General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "120 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:120 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nOriginally intended as a paint with active offensive properties, \"Hive\" was supposed to be enriched with special anti-tank bees. However, this plan was dropped due to numerous protests from animal-friendly organizations. As a result, the paint now only retains its color and texture.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Hive was worth 159,000 crystals and could be bought from the rank of Lieutenant General.\nLegacy paint description:\nA paint that protects incredibly well from enemy Vulcans, Ricochets and Freezes. Will make it much easier to survive combat at close and mid ranges. Covers your tank in a cute geometric pattern.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

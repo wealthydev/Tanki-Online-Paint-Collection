@@ -1,0 +1,27 @@
+{
+  "name": "Steel Micro-fibers",
+  "source": "wiki",
+  "page": "/Steel_Micro-fibers",
+  "type": "Container",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours in the battlefield.",
+  "interestingFacts": [
+    "The paint was available for purchase during the 2017 Iron Days celebrations for 120,000 crystals from February 23 to February 27, 2017.",
+    "This paint was added to containers on February 5th, 2021.",
+    "Though the outer surface of this paint may be orange with rust, the oxidation protects the strong and flexible steel within."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "120 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:120 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours in the battlefield.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase during the 2017 Iron Days celebrations for 120,000 crystals from February 23 to February 27, 2017.\nThis paint was added to containers on February 5th, 2021.\nThough the outer surface of this paint may be orange with rust, the oxidation protects the strong and flexible steel within.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

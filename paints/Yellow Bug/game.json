@@ -1,0 +1,25 @@
+{
+  "name": "Yellow Bug",
+  "rawName": "Yellow Bug",
+  "item": "920009600630",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Sometimes, great things lie hidden in the most humble and unpretentious things. This paint is for tankers who are just waiting to unlock their potential — to transform... into an unbeatable battle machine, just like that old, yellow bug in the scrapyard.",
+  "paint": {
+    "id": "1544530310552",
+    "version": "1697183401545",
+    "animated": true
+  },
+  "preview": {
+    "id": "1544530411868",
+    "version": "1581391371733"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

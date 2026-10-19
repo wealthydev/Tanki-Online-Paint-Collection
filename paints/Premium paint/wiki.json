@@ -1,0 +1,29 @@
+{
+  "name": "Premium paint",
+  "source": "wiki",
+  "page": "/Premium_paint",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "Paint appeared in the game on October 21, 2015.",
+    "Prior to the Paint Separation Update, the paint had the protection of 15% from all types of damage. Premium account no longer gives protection from damage.",
+    "In the period from December 25, 2015, to January 11, 2016, the paint had a special New Year's design.",
+    "On January 21st, 2022, the premium paint was no longer a perk of the premium pass and has been added to containers under the epic category.",
+    "Old Garage-description:  \"A special paint. It is only issued to tankers that have a Premium Account. It is a paint with a unique design is an excellent choice for those who at all costs strive to achieve the maximum in the game.\""
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nPaint appeared in the game on October 21, 2015.\nPrior to the Paint Separation Update, the paint had the protection of 15% from all types of damage. Premium account no longer gives protection from damage.\nIn the period from December 25, 2015, to January 11, 2016, the paint had a special New Year's design.\nOn January 21st, 2022, the premium paint was no longer a perk of the premium pass and has been added to containers under the epic category.\nOld Garage-description:  \"A special paint. It is only issued to tankers that have a Premium Account. It is a paint with a unique design is an excellent choice for those who at all costs strive to achieve the maximum in the game.\"\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Veteran",
+  "rawName": "Veteran",
+  "item": "920004703734",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A bonus paint awarded to well-known participants in the cybersport movement.",
+  "paint": {
+    "id": "500133152",
+    "version": "1775743170593",
+    "animated": false
+  },
+  "preview": {
+    "id": "500133156",
+    "version": "1581391436448"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

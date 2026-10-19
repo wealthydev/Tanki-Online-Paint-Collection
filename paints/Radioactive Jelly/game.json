@@ -1,0 +1,25 @@
+{
+  "name": "Radioactive jelly",
+  "rawName": "Radioactive jelly",
+  "item": "920009597013",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is almost safe for its owner, since its layed on top of a thick lead undercover, but a good side-effect is you can terrify your enemies with just a brief appearance on the battlefield. Not everyone will dare to approach such tank, and if they do, they better be ready for the radioactive outcome.",
+  "paint": {
+    "id": "1533631904512",
+    "version": "1697183401366",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533632435731",
+    "version": "1581391322275"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

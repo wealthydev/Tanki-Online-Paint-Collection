@@ -1,0 +1,26 @@
+{
+  "name": "Ancient dragon",
+  "source": "wiki",
+  "page": "/Ancient_dragon",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "\"This armor is tougher than iron. No blade will pierce it!\" So thought one ancient dragon, just before getting pierced by a huge arrow.",
+  "interestingFacts": [
+    "'This paint could have been unlocked as part of the paid fourth Battle Pass at Tier 11 of Challenges.",
+    "Legends say that he who guesses the age of the dragon guesses the secrets of the universe."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\n\"This armor is tougher than iron. No blade will pierce it!\" So thought one ancient dragon, just before getting pierced by a huge arrow.\nSee also: Paints\nInteresting facts\n'This paint could have been unlocked as part of the paid fourth Battle Pass at Tier 11 of Challenges.\nLegends say that he who guesses the age of the dragon guesses the secrets of the universe.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

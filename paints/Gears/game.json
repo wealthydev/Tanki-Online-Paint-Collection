@@ -1,0 +1,25 @@
+{
+  "name": "Gears",
+  "rawName": "Gears",
+  "item": "920009597015",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Gears on your tank launch a perpetual motion machine, which means you can now reach the maximum effeciency in battles with the minimal resource waste. The effect wasn't proven yet though.",
+  "paint": {
+    "id": "1533631856257",
+    "version": "1697183401433",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533632478322",
+    "version": "1581391680698"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

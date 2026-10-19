@@ -1,0 +1,29 @@
+{
+  "name": "Canyon Hero",
+  "source": "wiki",
+  "page": "/Canyon_Hero",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "The rarest of paints, made in collaboration with CANYON company. A great choice for all true gamers!",
+  "interestingFacts": [
+    "The paint could be obtained from containers, as well as with the activation of promotional codes attached to the products of the Canyon brand.",
+    "Paint stays in the garages of the owners forever.",
+    "Paint appeared in the game on May 17, 2018, as part of the \" Promotion with CANYON \" program.",
+    "Paint was given to the winners of the {GAME} Craft contest in 2018.",
+    "The paint was removed from containers early to mid-2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThe rarest of paints, made in collaboration with CANYON company. A great choice for all true gamers!\nSee also: Paints\nInteresting facts\nThe paint could be obtained from containers, as well as with the activation of promotional codes attached to the products of the Canyon brand.\nPaint stays in the garages of the owners forever.\nPaint appeared in the game on May 17, 2018, as part of the \" Promotion with CANYON \" program.\nPaint was given to the winners of the {GAME} Craft contest in 2018.\nThe paint was removed from containers early to mid-2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

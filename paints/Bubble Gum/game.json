@@ -1,0 +1,25 @@
+{
+  "name": "Bubble gum",
+  "rawName": "Bubble gum",
+  "item": "920009601711",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint appeared by chance. Mechanics of a workshop before enter to work were sticking gum on the tank in front of the workshop. Over time, the entire hull was covered with a thick layer of chewing gum. And after the tank was brought in and it warmed up, the coating had an interesting visual effect.",
+  "paint": {
+    "id": "1556526987750",
+    "version": "1697183401466",
+    "animated": true
+  },
+  "preview": {
+    "id": "1556278032918",
+    "version": "1581391644220"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

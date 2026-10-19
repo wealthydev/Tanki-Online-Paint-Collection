@@ -1,0 +1,25 @@
+{
+  "name": "Megapolis",
+  "source": "wiki",
+  "page": "/Megapolis",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint will hide your tank among the tourist streets of Shanghai, Tokyo and Las Vegas, thanks to bright colors and sharp lines designed to make your opponents mass-produce envy.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint will hide your tank among the tourist streets of Shanghai, Tokyo and Las Vegas, thanks to bright colors and sharp lines designed to make your opponents mass-produce envy.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

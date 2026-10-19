@@ -1,0 +1,26 @@
+{
+  "name": "Eagle",
+  "source": "wiki",
+  "page": "/Eagle",
+  "type": "Parkour",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time.",
+  "interestingFacts": [
+    "Paint appeared on November 20, 2020.",
+    "The only team who owned this paint was (PTT) Polish {GAME} Tutorials. However, this paint was removed after the Polish locale was disbanded."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Parkour",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Parkour\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time.\nSee also: Paints\nInteresting facts\nPaint appeared on November 20, 2020.\nThe only team who owned this paint was (PTT) Polish {GAME} Tutorials. However, this paint was removed after the Polish locale was disbanded.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

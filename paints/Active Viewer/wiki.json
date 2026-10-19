@@ -1,0 +1,28 @@
+{
+  "name": "Active Viewer",
+  "source": "wiki",
+  "page": "/Active_Viewer",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was first announced in the {GAME_NAME} V-LOG: Episode 549, 4th of June, 2026.",
+    "To receive the special animated Active Viewer paint, players were required to participate in the first season of the {GAME_NAME} V-LOG quiz and achieve the maximum possible score without making any mistakes.",
+    "Exactly nine accounts achieved the maximum possible score and were awarded the special \"Active Viewer\" animated paint",
+    "It is still possible to earn the active viewer paint! In the second season of the {GAME} Quiz, there are 10 active viewer paints that will be drawn among the participants with the highest scores at the end of the season."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was first announced in the {GAME_NAME} V-LOG: Episode 549, 4th of June, 2026.\nTo receive the special animated Active Viewer paint, players were required to participate in the first season of the {GAME_NAME} V-LOG quiz and achieve the maximum possible score without making any mistakes.\nExactly nine accounts achieved the maximum possible score and were awarded the special \"Active Viewer\" animated paint\nIt is still possible to earn the active viewer paint! In the second season of the {GAME} Quiz, there are 10 active viewer paints that will be drawn among the participants with the highest scores at the end of the season.\nGarage preview\nLast Edit: Heatw4ve 6/12/2026"
+}

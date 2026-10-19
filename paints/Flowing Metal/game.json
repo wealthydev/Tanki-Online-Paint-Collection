@@ -1,0 +1,25 @@
+{
+  "name": "Flowing Metal",
+  "rawName": "Flowing Metal",
+  "item": "920009661133",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1582720253822",
+    "version": "1697183401538",
+    "animated": true
+  },
+  "preview": {
+    "id": "1582720253794",
+    "version": "1582730553335"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

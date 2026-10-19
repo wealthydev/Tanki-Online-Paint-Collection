@@ -1,0 +1,24 @@
+{
+  "name": "Phoenix",
+  "rawName": "Phoenix",
+  "item": "920004911970",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner’s tank if its not fed a regular dose of concentrated adrenaline.",
+  "paint": {
+    "id": "500363751",
+    "version": "1775743169674",
+    "animated": false
+  },
+  "preview": {
+    "id": "500363750",
+    "version": "1581391557791"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

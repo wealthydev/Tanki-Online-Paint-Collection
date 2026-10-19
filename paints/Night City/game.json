@@ -1,0 +1,28 @@
+{
+  "name": "Night City",
+  "rawName": "Night City",
+  "item": "920009618397",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1567585007589",
+    "version": "1697183401440",
+    "animated": true
+  },
+  "preview": {
+    "id": "1567586486799",
+    "version": "1581391488293"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

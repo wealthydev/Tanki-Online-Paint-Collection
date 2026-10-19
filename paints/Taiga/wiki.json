@@ -1,0 +1,28 @@
+{
+  "name": "Taiga",
+  "source": "wiki",
+  "page": "/Taiga",
+  "type": "Garage",
+  "price": {
+    "amount": 9000,
+    "currency": "Crystals",
+    "text": "9 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "The \"Taiga\" camouflage paint masks the tank so well in thick vegetation, that you could probably sneak up on a moose with your tank.",
+  "interestingFacts": [
+    "Paint appeared on August 26, 2010.",
+    "Prior to the Paint Separation Update, Taiga's price was 210,000 crystals and could be bought from General onwards.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "9 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:9 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThe \"Taiga\" camouflage paint masks the tank so well in thick vegetation, that you could probably sneak up on a moose with your tank.\nSee also: Paints\nInteresting facts\nPaint appeared on August 26, 2010.\nPrior to the Paint Separation Update, Taiga's price was 210,000 crystals and could be bought from General onwards.\nLegacy paint description:\nAn all-around paint that offers solid protection against Firebird, Twins, Isida and Ricochet. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

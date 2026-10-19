@@ -1,0 +1,25 @@
+{
+  "name": "Tic-tac-toe",
+  "rawName": "Tic-tac-toe",
+  "item": "920009598860",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Don't be surprised, if during a heated battle someone will invite you to play Tic-tac-toe. You're probably facing a professional, who left plenty of opponents defeated in the dust.",
+  "paint": {
+    "id": "1539594422082",
+    "version": "1697183401503",
+    "animated": true
+  },
+  "preview": {
+    "id": "1539595002512",
+    "version": "1581391392891"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

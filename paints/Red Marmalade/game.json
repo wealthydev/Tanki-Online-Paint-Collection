@@ -1,0 +1,24 @@
+{
+  "name": "Red marmalade",
+  "rawName": "Red marmalade",
+  "item": "920009600930",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This texture was created by a group of people obsessed with healthy eating. Their reasoning: \"You can own it but you can't eat it, so it can't make you fat.\"",
+  "paint": {
+    "id": "1548916833913",
+    "version": "1775743169781",
+    "animated": false
+  },
+  "preview": {
+    "id": "1548916833921",
+    "version": "1581391433129"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Acid",
+  "rawName": "Acid",
+  "item": "920004704333",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to winners of the «Major Rankings III» tournament.",
+  "paint": {
+    "id": "5008800",
+    "version": "1775743168751",
+    "animated": false
+  },
+  "preview": {
+    "id": "5008801",
+    "version": "1581391532898"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

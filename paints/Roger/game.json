@@ -1,0 +1,27 @@
+{
+  "name": "Roger",
+  "rawName": "Roger",
+  "item": "920004703496",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 80000
+  },
+  "owned": false,
+  "description": "The fearsome skull and bones motif popularized by the blood-thirsty pirates of the seven seas.",
+  "paint": {
+    "id": "5001737",
+    "version": "1775743169814",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001738",
+    "version": "1581391754156"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

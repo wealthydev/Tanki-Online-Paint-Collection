@@ -1,0 +1,28 @@
+{
+  "name": "Matrix",
+  "rawName": "Matrix",
+  "item": "920009365553",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 18000
+  },
+  "owned": false,
+  "description": "\"スプーンを試したり曲げたりしないでください。 それ無理。 代わりに、真実を実現しようとするだけです。\nどのような真実？\nスプーンはありません。\nスプーンはありませんか？\nそれから、あなたが曲がるスプーンではないことがわかります。それは自分だけです。\"",
+  "paint": {
+    "id": "1516883264841",
+    "version": "1697183401406",
+    "animated": true
+  },
+  "preview": {
+    "id": "1516960006898",
+    "version": "1581391462636"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

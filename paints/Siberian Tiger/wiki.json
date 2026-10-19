@@ -1,0 +1,26 @@
+{
+  "name": "Siberian Tiger",
+  "source": "wiki",
+  "page": "/Siberian_Tiger",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Luxurious paint, which defines its owner as a true, savage predator. According to worldwide numbers in 2015, there're only 500 Siberian tigers left. Let's up the number!",
+  "interestingFacts": [
+    "Paint was added to containers on May 18, 2018.",
+    "Diminishing predator populations can seriously harm ecosystems! Keep an eye on conservation and anti-poaching efforts."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nLuxurious paint, which defines its owner as a true, savage predator. According to worldwide numbers in 2015, there're only 500 Siberian tigers left. Let's up the number!\nSee also: Paints\nInteresting facts\nPaint was added to containers on May 18, 2018.\nDiminishing predator populations can seriously harm ecosystems! Keep an eye on conservation and anti-poaching efforts.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

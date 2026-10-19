@@ -1,0 +1,27 @@
+{
+  "name": "NanoHUD",
+  "source": "wiki",
+  "page": "/NanoHUD",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "They say that this paint occasionally plays the sound of alarm signals when a nuclear bomb is around. However, it is not clear if the paint also notifies you about Wasp's bombs, as none of those small tanks dare to get near a tank with this paint equipped. After the experiments, this paint went on sale.",
+  "interestingFacts": [
+    "This paint was added to the game on April 16th, 2020.",
+    "This paint could have been unlocked at Tier 33 of the April 2020 Challenge B.",
+    "With update 640, released March 19, 2021, NanoHUD received a unique Garage description."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThey say that this paint occasionally plays the sound of alarm signals when a nuclear bomb is around. However, it is not clear if the paint also notifies you about Wasp's bombs, as none of those small tanks dare to get near a tank with this paint equipped. After the experiments, this paint went on sale.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on April 16th, 2020.\nThis paint could have been unlocked at Tier 33 of the April 2020 Challenge B.\nWith update 640, released March 19, 2021, NanoHUD received a unique Garage description.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Play-Doh",
+  "rawName": "Play-Doh",
+  "item": "920009365542",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "Take a box of colorful modeling clay, mix it together and gaze upon curious patterns. Just don't mix it too well, or you'll be left with a sludge of gray.",
+  "paint": {
+    "id": "1516883264866",
+    "version": "1775743169705",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264867",
+    "version": "1581391445963"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

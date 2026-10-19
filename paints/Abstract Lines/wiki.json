@@ -1,0 +1,27 @@
+{
+  "name": "Abstract Lines",
+  "source": "wiki",
+  "page": "/Abstract_Lines",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Turn your imagination on, and you see a startling pattern of lines that catches any curious eye.",
+  "interestingFacts": [
+    "This paint was added into the game on May 18th, 2018 along 11 other container paints.",
+    "This paint can be unlocked by opening Containers.",
+    "On April 10th, 2020, the paint was added to the garage for tankoins."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nTurn your imagination on, and you see a startling pattern of lines that catches any curious eye.\nSee also: Paints\nInteresting facts\nThis paint was added into the game on May 18th, 2018 along 11 other container paints.\nThis paint can be unlocked by opening Containers.\nOn April 10th, 2020, the paint was added to the garage for tankoins.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Horror",
+  "source": "wiki",
+  "page": "/Horror",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on October 28th, 2022.",
+    "Horror could have been obtained during The «Trick-or-Treat» mini-game. [1]"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on October 28th, 2022.\nHorror could have been obtained during The «Trick-or-Treat» mini-game. [1]\nGarage preview\nLast Edit: HelpersBot 5/21/2024\n↑ https://en.{GAME}forum.com/topic/396023-the-«trick-or-treat»-mini-game/"
+}

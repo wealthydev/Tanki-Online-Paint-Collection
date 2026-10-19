@@ -1,0 +1,27 @@
+{
+  "name": "Inferno",
+  "rawName": "Inferno",
+  "item": "920004704332",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 440000
+  },
+  "owned": false,
+  "description": "The \"Inferno\" paint is delivered via shady means to the black market of China's glass-blowing workshops. According to the producers themselves, its defiant appearance symbolizes strength, courage, luck and longevity. An excellent paint for a fierce attacker.",
+  "paint": {
+    "id": "5009000",
+    "version": "1775743169288",
+    "animated": false
+  },
+  "preview": {
+    "id": "5008987",
+    "version": "1581391452985"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

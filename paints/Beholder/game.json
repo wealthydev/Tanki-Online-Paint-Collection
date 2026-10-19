@@ -1,0 +1,25 @@
+{
+  "name": "Beholder",
+  "rawName": "Beholder",
+  "item": "920009596801",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was inspired by nightmares from the designer's childhood after seeing a very disturbing monster in an old computer game.",
+  "paint": {
+    "id": "1530524776517",
+    "version": "1697183401346",
+    "animated": true
+  },
+  "preview": {
+    "id": "1530525237675",
+    "version": "1581391533591"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Wildstyle",
+  "rawName": "Wildstyle",
+  "item": "921009747843",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1627479385356",
+    "version": "1775743170644",
+    "animated": false
+  },
+  "preview": {
+    "id": "1627479060001",
+    "version": "1627540201863"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mary",
+  "rawName": "Mary",
+  "item": "920004704210",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 100000
+  },
+  "owned": true,
+  "description": "Covered with bloody red stains, this paint is meant to inflict horror upon the enemy. However, highly experienced tankers will probably notice that what looks like blood is actually tomato juice. No wonder the paint is called \"Mary\".",
+  "paint": {
+    "id": "5006186",
+    "version": "1775743169396",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006174",
+    "version": "1581391714597"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

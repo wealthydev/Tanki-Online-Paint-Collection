@@ -1,0 +1,24 @@
+{
+  "name": "Secret of the aliens",
+  "rawName": "Secret of the aliens",
+  "item": "920008536134",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint reflects the suspicious alien object recovered from a crash several years ago at one of the tank polygons. The Object is coated in an unknown material — a molecular structure that couldn't be identified or recreated.",
+  "paint": {
+    "id": "500410263",
+    "version": "1775743168529",
+    "animated": false
+  },
+  "preview": {
+    "id": "500410264",
+    "version": "1581391380231"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Hypercube",
+  "source": "wiki",
+  "page": "/Hypercube",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Enter the 4th dimension as time itself bends to show the tankers around you how 2 points form a line, 4 lines form a square, 6 squares a cube, and 8 cubes form a mind blown by the Tesseract.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nEnter the 4th dimension as time itself bends to show the tankers around you how 2 points form a line, 4 lines form a square, 6 squares a cube, and 8 cubes form a mind blown by the Tesseract.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

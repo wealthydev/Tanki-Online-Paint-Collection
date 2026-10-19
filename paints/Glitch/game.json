@@ -1,0 +1,27 @@
+{
+  "name": "Glitch",
+  "rawName": "Glitch",
+  "item": "920007005062",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": false,
+  "description": "This paint gives your tank a glitched look. Use this to confuse your enemies and then take advantage of their puzzled reaction to make your kill.",
+  "paint": {
+    "id": "500391209",
+    "version": "1775743169181",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391200",
+    "version": "1581391620202"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

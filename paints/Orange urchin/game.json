@@ -1,0 +1,24 @@
+{
+  "name": "Orange urchin",
+  "rawName": "Orange urchin",
+  "item": "920009656660",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Urchin shells made of calcium carbonate are the basis of this paint. On one hand, it gives a camouflage effect on the battlefield and on the other hand, your opponents will be hypnotized due to the association with the meditative sounds of waves.",
+  "paint": {
+    "id": "1580119859253",
+    "version": "1775743169558",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580120152973",
+    "version": "1581391514401"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

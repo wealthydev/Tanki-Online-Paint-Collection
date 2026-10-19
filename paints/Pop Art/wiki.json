@@ -1,0 +1,25 @@
+{
+  "name": "Pop Art",
+  "source": "wiki",
+  "page": "/Pop_Art",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "We hear that texture for this paint was done by Andy Worhol himself, and as soon as you paint your tank it instantly becomes a new art piece. Recommended for fans of ultraviolet and soda drinks!",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nWe hear that texture for this paint was done by Andy Worhol himself, and as soon as you paint your tank it instantly becomes a new art piece. Recommended for fans of ultraviolet and soda drinks!\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

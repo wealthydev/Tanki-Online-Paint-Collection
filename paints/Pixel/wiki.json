@@ -1,0 +1,27 @@
+{
+  "name": "Pixel",
+  "source": "wiki",
+  "page": "/Pixel",
+  "type": "Garage",
+  "price": {
+    "amount": 25000,
+    "currency": "Crystals",
+    "text": "25 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "In a battlefield made of pixels, a paint made of pixels offers the perfect camouflage for melting into the background. No dead pixels on this one!",
+  "interestingFacts": [
+    "Paint first appeared on January 30, 2015.",
+    "Prior to the Paint Separation Update, Pixel was worth 29 000 crystals and could be bought from Warrant Officer 3.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "25 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:25 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nIn a battlefield made of pixels, a paint made of pixels offers the perfect camouflage for melting into the background. No dead pixels on this one!\nSee also: Paints\nInteresting facts\nPaint first appeared on January 30, 2015.\nPrior to the Paint Separation Update, Pixel was worth 29 000 crystals and could be bought from Warrant Officer 3.\nLegacy paint description:\nThis paint gives you good protection from Hammer and slightly decreases the damage you tank from Smoky. Will be quite useful at medium ranges. Covers your tank in a fun pixel pattern.'\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

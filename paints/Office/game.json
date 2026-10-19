@@ -1,0 +1,24 @@
+{
+  "name": "Office",
+  "rawName": "Office",
+  "item": "1931010009990",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Dress code: checked. Combat readiness: checked. Time to show who the best employee around here really is!",
+  "paint": {
+    "id": "1782835827498",
+    "version": "1782835873233",
+    "animated": false
+  },
+  "preview": {
+    "id": "1782835827242",
+    "version": "1782835827493"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

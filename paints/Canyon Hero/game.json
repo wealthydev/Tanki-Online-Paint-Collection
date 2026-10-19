@@ -1,0 +1,25 @@
+{
+  "name": "Canyon Hero",
+  "rawName": "Canyon Hero",
+  "item": "920009570587",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The rarest of paints, made in collaboration with CANYON company. A great choice for all true gamers!",
+  "paint": {
+    "id": "1524731143230",
+    "version": "1697183401493",
+    "animated": true
+  },
+  "preview": {
+    "id": "1524731220538",
+    "version": "1581391478550"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

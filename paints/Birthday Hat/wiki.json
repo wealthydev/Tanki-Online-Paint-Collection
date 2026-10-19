@@ -1,0 +1,28 @@
+{
+  "name": "Birthday Hat",
+  "source": "wiki",
+  "page": "/Birthday_Hat",
+  "type": "Event",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint was to celebrate the 1st Anniversary of {GAME} LATAM, equip your tank to have fun at this party while destroying your enemies.",
+  "interestingFacts": [
+    "The paint appeared on April 28, 2017, and sold in the garage for 120 000 crystals.",
+    "This paint was available only in the Spanish and Brazilian communities.",
+    "This paint was created to celebrate the day of {GAME}'s first birthday in the LATAM community to commemorate the day the game was released for the Spanish and Brazilian communities.",
+    "The paint is now only available to those players who purchased the paint and whose game accounts were transferred from the Spanish and Brazilian servers to the European one during the migration on April 16, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "120 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:120 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint was to celebrate the 1st Anniversary of {GAME} LATAM, equip your tank to have fun at this party while destroying your enemies.\nSee also: Paints\nInteresting facts\nThe paint appeared on April 28, 2017, and sold in the garage for 120 000 crystals.\nThis paint was available only in the Spanish and Brazilian communities.\nThis paint was created to celebrate the day of {GAME}'s first birthday in the LATAM community to commemorate the day the game was released for the Spanish and Brazilian communities.\nThe paint is now only available to those players who purchased the paint and whose game accounts were transferred from the Spanish and Brazilian servers to the European one during the migration on April 16, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

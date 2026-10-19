@@ -1,0 +1,27 @@
+{
+  "name": "Irbis",
+  "source": "wiki",
+  "page": "/Irbis",
+  "type": "Garage",
+  "price": {
+    "amount": 400000,
+    "currency": "Crystals",
+    "text": "400 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "One of the most mysterious felines, the Irbis is also known as the \"snow leopard\". After a series of high-risk expeditions and fifteen accidents, our researchers managed to restrain a snow leopard long enough to copy its coat and create the \"Irbis\" paint. The paint contains the DNA of a snow leopard, which makes it absolutely unique and to some extent even environmentally friendly.",
+  "interestingFacts": [
+    "Paint first appeared on September 22, 2011.",
+    "Prior to the Paint Separation Update, Irbis was worth 143,500 crystals and could be bought from the rank of Major General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "400 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:400 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nOne of the most mysterious felines, the Irbis is also known as the \"snow leopard\". After a series of high-risk expeditions and fifteen accidents, our researchers managed to restrain a snow leopard long enough to copy its coat and create the \"Irbis\" paint. The paint contains the DNA of a snow leopard, which makes it absolutely unique and to some extent even environmentally friendly.\nSee also: Paints\nInteresting facts\nPaint first appeared on September 22, 2011.\nPrior to the Paint Separation Update, Irbis was worth 143,500 crystals and could be bought from the rank of Major General.\nLegacy paint description:\nA paint that provides exceptional protection against Isida and Ricochet. Good for short to mid-range battles. It will make your tank look like snow cat.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Penguins",
+  "rawName": "Penguins",
+  "item": "921009721508",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. \nThe paint will be removed from your Garage before the playoffs of the next tournament.\nImportant! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints.",
+  "paint": {
+    "id": "1615398743661",
+    "version": "1775743169999",
+    "animated": false
+  },
+  "preview": {
+    "id": "1615398743394",
+    "version": "1615398743512"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "New Camouflage",
+  "rawName": "New Camouflage",
+  "item": "920006703620",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is for tankers who love the camouflage look, but would like to give it an unconventional twist.",
+  "paint": {
+    "id": "500390016",
+    "version": "1775743168436",
+    "animated": false
+  },
+  "preview": {
+    "id": "500390017",
+    "version": "1581391625180"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

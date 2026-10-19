@@ -1,0 +1,24 @@
+{
+  "name": "The Snowman",
+  "rawName": "The Snowman",
+  "item": "920009648085",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The paint is for players who are joining the Snowman's faction in the global event \"War. Stolen Christmas\".",
+  "paint": {
+    "id": "1575280482907",
+    "version": "1775743168693",
+    "animated": false
+  },
+  "preview": {
+    "id": "1575279517566",
+    "version": "1581391406750"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

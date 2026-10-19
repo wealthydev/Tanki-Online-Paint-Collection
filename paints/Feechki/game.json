@@ -1,0 +1,24 @@
+{
+  "name": "Feechki",
+  "rawName": "Feechki",
+  "item": "921009721509",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. \nThe paint will be removed from your Garage before the playoffs of the next tournament.\nImportant! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints.",
+  "paint": {
+    "id": "1615398821446",
+    "version": "1775743169996",
+    "animated": false
+  },
+  "preview": {
+    "id": "1615398821169",
+    "version": "1615398821284"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

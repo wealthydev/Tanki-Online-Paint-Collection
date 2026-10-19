@@ -1,0 +1,24 @@
+{
+  "name": "War Winner",
+  "rawName": "War Winner",
+  "item": "920009649924",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is given to the winners of the global «War» event. Actions in the «War» happen on the {GAME} world map. The owner of this paint is a very active tanker who is a good team player and knows how to apply good tactics.\n\nThe winner's paint is temporary. With the start of the next War with the map-voting system, it will be removed from the accounts of the current owners.",
+  "paint": {
+    "id": "1576757111570",
+    "version": "1775743168696",
+    "animated": false
+  },
+  "preview": {
+    "id": "1576757003084",
+    "version": "1581391720099"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

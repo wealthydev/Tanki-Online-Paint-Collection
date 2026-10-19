@@ -1,0 +1,27 @@
+{
+  "name": "Condensed milk",
+  "rawName": "Condensed milk",
+  "item": "920009595697",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "A fondly remembered treat from childhood will make every victory taste extra sweet. Open the can and celebrate with your team!",
+  "paint": {
+    "id": "1526550367077",
+    "version": "1775743168974",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550971658",
+    "version": "1581391445832"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

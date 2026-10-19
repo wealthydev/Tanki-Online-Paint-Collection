@@ -1,0 +1,27 @@
+{
+  "name": "Lead",
+  "rawName": "Lead",
+  "item": "920004704330",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 25000
+  },
+  "owned": true,
+  "description": "Lead has long been known for its protection against radiation. This lead-infused paint takes advantage of these properties.",
+  "paint": {
+    "id": "5010677",
+    "version": "1775743169340",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010676",
+    "version": "1581391690687"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

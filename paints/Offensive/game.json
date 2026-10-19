@@ -1,0 +1,24 @@
+{
+  "name": "Offensive",
+  "rawName": "Offensive",
+  "item": "920009674718",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint expresses your strategic and tactical approach in the game. Your opponents will respect you and will definitely think twice before attacking. Your attacks will become wild.",
+  "paint": {
+    "id": "1590346585269",
+    "version": "1775743169545",
+    "animated": false
+  },
+  "preview": {
+    "id": "1590346585268",
+    "version": "1590350118774"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

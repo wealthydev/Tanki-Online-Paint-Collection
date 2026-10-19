@@ -1,0 +1,27 @@
+{
+  "name": "Breeze",
+  "rawName": "Breeze",
+  "item": "920009596453",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 7000
+  },
+  "owned": false,
+  "description": "A distinctive sign of the most courageous fighters in advance squads. An award for those who pave the way to uncertainty.",
+  "paint": {
+    "id": "1528945858015",
+    "version": "1775743168897",
+    "animated": false
+  },
+  "preview": {
+    "id": "1528892853722",
+    "version": "1581391729628"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

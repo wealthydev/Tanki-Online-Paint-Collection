@@ -1,0 +1,27 @@
+{
+  "name": "Lotus",
+  "rawName": "Lotus",
+  "item": "920009365536",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "This paint is a shining flower gliding on the surface of a calm moonlight. Helps chase away bad thoughts and recover after a stressful battle.",
+  "paint": {
+    "id": "1516883264878",
+    "version": "1775743169367",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264879",
+    "version": "1581391349333"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

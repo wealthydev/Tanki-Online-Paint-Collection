@@ -1,0 +1,24 @@
+{
+  "name": "For developers",
+  "rawName": "For developers",
+  "item": "920000755590",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is for those who believes that developers will win in the «Developers vs Players» battle.",
+  "paint": {
+    "id": "50116448",
+    "version": "1775743169031",
+    "animated": false
+  },
+  "preview": {
+    "id": "50116447",
+    "version": "1581391465049"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

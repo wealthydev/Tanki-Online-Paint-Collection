@@ -1,0 +1,26 @@
+{
+  "name": "Dirty",
+  "source": "wiki",
+  "page": "/Dirty",
+  "type": "Garage",
+  "price": {
+    "amount": 3500,
+    "currency": "Crystals",
+    "text": "3 500"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This was originally intended as the third paint designed for ground operations in a mid-latitude climate. However, the military later decided not to include it in the standard package, after repeated attempts by staff cleaners to remove the painted mud texture from the cover.",
+  "interestingFacts": [
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "3 500",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:3 500\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis was originally intended as the third paint designed for ground operations in a mid-latitude climate. However, the military later decided not to include it in the standard package, after repeated attempts by staff cleaners to remove the painted mud texture from the cover.\nSee also: Paints\nInteresting facts\nLegacy paint description:\nA paint that works well against snipers. It gives some protection against Railgun and does well against Shaft. It is a must-have for long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Squid Fingers",
+  "rawName": "Squid Fingers",
+  "item": "920009621498",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1569902702635",
+    "version": "1775743168910",
+    "animated": false
+  },
+  "preview": {
+    "id": "1569902741915",
+    "version": "1581391736034"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

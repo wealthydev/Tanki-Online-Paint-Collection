@@ -1,0 +1,27 @@
+{
+  "name": "Emerald",
+  "rawName": "Emerald",
+  "item": "920004704331",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 370000
+  },
+  "owned": true,
+  "description": "The researchers at the paint laboratory \"Style and Grill\" have long worked on a paint that would retain the classic green tone of a tank, while at the same time emphasizing the high status of its owner. The result is the \"Emerald\" paint, which appears to be illuminated from within.",
+  "paint": {
+    "id": "5008989",
+    "version": "1775743169085",
+    "animated": false
+  },
+  "preview": {
+    "id": "5008986",
+    "version": "1581391511591"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

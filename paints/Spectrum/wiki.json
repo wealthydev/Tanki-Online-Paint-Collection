@@ -1,0 +1,26 @@
+{
+  "name": "Spectrum",
+  "source": "wiki",
+  "page": "/Spectrum",
+  "type": "Tankoin",
+  "price": {
+    "amount": 16000,
+    "currency": "Rubies",
+    "text": "16 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green... wait, Blu... wait... red color. Oh for the love of!... Yellow! AAA! Purple! That's it, I'm done, write this description yourself.",
+  "interestingFacts": [
+    "The paint was available for purchase in a special offer from October 24 to November 28, 2017.",
+    "Regrettably, this paint does not also equip you with the Spectrum module. They go great together if you happen to have one, though!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "16 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:16 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint has been developed using the latest in quantum research technologies, which allow for probability effects to be applied to a macroworld. The first thought of the creators was to finally do the Schrodinger's cat experiment, but it was blocked by animal rights activists. So instead, they made this paint. If you don't mind all of the complex mathematics and scientific research, it's just a monochromatic paint of a green... wait, Blu... wait... red color. Oh for the love of!... Yellow! AAA! Purple! That's it, I'm done, write this description yourself.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a special offer from October 24 to November 28, 2017.\nRegrettably, this paint does not also equip you with the Spectrum module. They go great together if you happen to have one, though!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

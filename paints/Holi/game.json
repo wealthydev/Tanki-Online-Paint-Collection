@@ -1,0 +1,25 @@
+{
+  "name": "Holi",
+  "rawName": "Holi",
+  "item": "920009601261",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Historians can't seem to agree on the origins of this holiday. Shiva, Kama, Krishna, Vishnu... But what really matters is that this holiday brings people joy... and paints.",
+  "paint": {
+    "id": "1551268821516",
+    "version": "1697183401504",
+    "animated": true
+  },
+  "preview": {
+    "id": "1551268788827",
+    "version": "1581391745576"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

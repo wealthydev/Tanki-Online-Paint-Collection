@@ -1,0 +1,24 @@
+{
+  "name": "Guardians Advanced",
+  "rawName": "Guardians Advanced",
+  "item": "1931009779040",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1667978871498",
+    "version": "1775743170093",
+    "animated": false
+  },
+  "preview": {
+    "id": "1667978871084",
+    "version": "1667978871273"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

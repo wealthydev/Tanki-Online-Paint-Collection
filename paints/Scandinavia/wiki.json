@@ -1,0 +1,27 @@
+{
+  "name": "Scandinavia",
+  "source": "wiki",
+  "page": "/Scandinavia",
+  "type": "Tankoin",
+  "price": {
+    "amount": 1000,
+    "currency": "Rubies",
+    "text": "1 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint dresses up your tank in a warm woolen coating with a typical Scandinavian pattern. It should keep you cozy as far as the Arctic circle.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "Prior to the addition of Tankoins in the game, Scandinavia was featured in the shop for 7.99 EUR."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "1 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:1 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint dresses up your tank in a warm woolen coating with a typical Scandinavian pattern. It should keep you cozy as far as the Arctic circle.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nPrior to the addition of Tankoins in the game, Scandinavia was featured in the shop for 7.99 EUR.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

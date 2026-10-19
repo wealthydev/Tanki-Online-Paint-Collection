@@ -1,0 +1,27 @@
+{
+  "name": "Disco",
+  "rawName": "Disco",
+  "item": "920004959631",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 100000
+  },
+  "owned": false,
+  "description": "Capture the musical vibe and disco beat of your bullets thumping at a steady rhythm against your enemy's armor. Combine with Twins for that perfect disco feel.",
+  "paint": {
+    "id": "500364203",
+    "version": "1775743169045",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364212",
+    "version": "1581391379395"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

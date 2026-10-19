@@ -1,0 +1,28 @@
+{
+  "name": "Tundra",
+  "source": "wiki",
+  "page": "/Tundra",
+  "type": "Garage",
+  "price": {
+    "amount": 5000,
+    "currency": "Crystals",
+    "text": "5 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Gives your tank an intimidating, battle-hardened look. Nobody will dare mess with you.",
+  "interestingFacts": [
+    "Tundra was one of the original paints in the game, along with the other basic paints, Digital, Electra, Jaguar, and a few others. It was second highest in popularity only behind Digital, for its relatively cheap price of 3000 (pre-rebalance) crystals, and high protection against both Smoky and Railgun.",
+    "Prior to the Paint Separation Update, Tundra was worth 35,500 crystals and was purchasable at the rank of Warrant Officer 4.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "5 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:5 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nGives your tank an intimidating, battle-hardened look. Nobody will dare mess with you.\nSee also: Paints\nInteresting facts\nTundra was one of the original paints in the game, along with the other basic paints, Digital, Electra, Jaguar, and a few others. It was second highest in popularity only behind Digital, for its relatively cheap price of 3000 (pre-rebalance) crystals, and high protection against both Smoky and Railgun.\nPrior to the Paint Separation Update, Tundra was worth 35,500 crystals and was purchasable at the rank of Warrant Officer 4.\nLegacy paint description:\nA paint that somewhat protects against Smoky, but does a much better against Railgun. Essential in long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

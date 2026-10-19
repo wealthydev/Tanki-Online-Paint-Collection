@@ -1,0 +1,24 @@
+{
+  "name": "Eagle",
+  "rawName": "Eagle",
+  "item": "921009702844",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint prepared especially for representatives of the Polish community on the stage of professional parkour. The colors and name have been chosen to reflect what the members of this team can do in the game: soar in the sky like eagles while presenting themselves stylishly at the same time.",
+  "paint": {
+    "id": "1605711835220",
+    "version": "1775743169061",
+    "animated": false
+  },
+  "preview": {
+    "id": "1605711834922",
+    "version": "1605711835059"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lead",
+  "source": "wiki",
+  "page": "/Lead",
+  "type": "Garage",
+  "price": {
+    "amount": 25000,
+    "currency": "Crystals",
+    "text": "25 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Lead has long been known for its protection against radiation, this was known in the twentieth century. This lead-infused paint takes advantage of these properties.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Lead was worth 2,000 crystals and could be bought from Sergeant.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "25 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:25 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nLead has long been known for its protection against radiation, this was known in the twentieth century. This lead-infused paint takes advantage of these properties.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Lead was worth 2,000 crystals and could be bought from Sergeant.\nLegacy paint description:\nThe first paint that provides good protection against the accurate shots of Shaft. Good for long-range battles. Covers your tank in a lovely green pattern.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

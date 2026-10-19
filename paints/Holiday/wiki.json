@@ -1,0 +1,29 @@
+{
+  "name": "Holiday",
+  "source": "wiki",
+  "page": "/Holiday",
+  "type": "Garage",
+  "price": {
+    "amount": null,
+    "currency": "Crystals",
+    "text": "0"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day, it is simply a gray and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically.",
+  "interestingFacts": [
+    "Holiday paint is issued for free to all the players who register in the game.",
+    "During celebrations in TO, the appearance of this paint is often changed by the developers for the duration of the festivities - and thus the name. You can view a complete list of its past textures here.",
+    "Prior to October 16th, 2018, the default appearance of this paint was slightly different from what it now is.",
+    "Due to its cheapness, availability, and easily accessible paint like this one. This is often required to be equipped in media contests such as Video of the Week - to prevent older content from being used.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "0",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:0\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day, it is simply a gray and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically.\nSee also: Paints\nInteresting facts\nHoliday paint is issued for free to all the players who register in the game.\nDuring celebrations in TO, the appearance of this paint is often changed by the developers for the duration of the festivities - and thus the name. You can view a complete list of its past textures here.\nPrior to October 16th, 2018, the default appearance of this paint was slightly different from what it now is.\nDue to its cheapness, availability, and easily accessible paint like this one. This is often required to be equipped in media contests such as Video of the Week - to prevent older content from being used.\nLegacy paint description:\nA unique and \"smart\" paint that can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

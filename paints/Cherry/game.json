@@ -1,0 +1,27 @@
+{
+  "name": "Cherry",
+  "rawName": "Cherry",
+  "item": "920004703611",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 50000
+  },
+  "owned": false,
+  "description": "A highly specialized camouflage for forester tanks tasked with protecting groves of rare mahogany from poachers. ",
+  "paint": {
+    "id": "500313715",
+    "version": "1775743168945",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313703",
+    "version": "1581391580681"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

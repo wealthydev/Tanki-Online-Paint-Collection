@@ -1,0 +1,25 @@
+{
+  "name": "Ripple",
+  "source": "wiki",
+  "page": "/Ripple",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "As toxic colors drip into the pattern you become fazed out of battles, as enemy tanks suddenly find you behind and blasting them with fire. Captivating.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nAs toxic colors drip into the pattern you become fazed out of battles, as enemy tanks suddenly find you behind and blasting them with fire. Captivating.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

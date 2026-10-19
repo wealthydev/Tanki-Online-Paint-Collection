@@ -1,0 +1,26 @@
+{
+  "name": "Steam",
+  "source": "wiki",
+  "page": "/Steam",
+  "type": "Usdbundle",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Steam",
+  "interestingFacts": [
+    "This paint is a part of the first {GAME_NAME} DLC, or downloadable content, initiated for Steam {GAME}. The DLC was launched on the 30th of May 2017 and has no expiration date. However, it is no longer available.",
+    "This paint was only obtainable from purchasing the Steam DLC bundle for 24.99 USD."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Usdbundle",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Usdbundle\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nSteam\nSee also: Paints\nInteresting facts\nThis paint is a part of the first {GAME_NAME} DLC, or downloadable content, initiated for Steam {GAME}. The DLC was launched on the 30th of May 2017 and has no expiration date. However, it is no longer available.\nThis paint was only obtainable from purchasing the Steam DLC bundle for 24.99 USD.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

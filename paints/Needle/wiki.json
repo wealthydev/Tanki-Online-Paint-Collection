@@ -1,0 +1,27 @@
+{
+  "name": "Needle",
+  "source": "wiki",
+  "page": "/Needle",
+  "type": "Garage",
+  "price": {
+    "amount": 60000,
+    "currency": "Crystals",
+    "text": "60 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Using spruce from sustainable-only areas, the \"Needle\" paint is prepared using 25 square meters of spruce, cut down and shredded into miniature wooden needles, and bound together using a special type of resin.",
+  "interestingFacts": [
+    "Paint first appeared on September 22, 2011.",
+    "Prior to the Paint Separation Update, Needle was worth 210,000 crystals and could be bought from the rank of Fieldmarshal.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "60 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:60 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nUsing spruce from sustainable-only areas, the \"Needle\" paint is prepared using 25 square meters of spruce, cut down and shredded into miniature wooden needles, and bound together using a special type of resin.\nSee also: Paints\nInteresting facts\nPaint first appeared on September 22, 2011.\nPrior to the Paint Separation Update, Needle was worth 210,000 crystals and could be bought from the rank of Fieldmarshal.\nLegacy paint description:\nA paint that offers decent protection against Smoky and somewhat reduces the damage inflicted by Ricochet and Shaft. Good for mid to long-range battles. Allows the tank good camouflage while in coniferous forests.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

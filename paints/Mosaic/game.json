@@ -1,0 +1,25 @@
+{
+  "name": "Mosaic",
+  "rawName": "Mosaic",
+  "item": "920009365554",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Want to control your enemies like puppets? Equip this paint and capture their attention with the hypnotizing pattern of a moving mosaic! What's left is to destroy them.  ",
+  "paint": {
+    "id": "1516959884165",
+    "version": "1697183401459",
+    "animated": true
+  },
+  "preview": {
+    "id": "1516960016459",
+    "version": "1581391611938"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

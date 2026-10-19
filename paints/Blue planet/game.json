@@ -1,0 +1,24 @@
+{
+  "name": "Blue planet",
+  "rawName": "Blue planet",
+  "item": "920009610629",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is modeled after planet Earth, with its lush forests, roaring oceans, imposing mountains and expansive deserts. Even if we colonize other planets in the future, this is the one we'll always call home.",
+  "paint": {
+    "id": "1564483948733",
+    "version": "1775743169065",
+    "animated": false
+  },
+  "preview": {
+    "id": "1564477071592",
+    "version": "1581391583719"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

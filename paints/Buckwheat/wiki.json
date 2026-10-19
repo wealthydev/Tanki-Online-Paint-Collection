@@ -1,0 +1,27 @@
+{
+  "name": "Buckwheat",
+  "source": "wiki",
+  "page": "/Buckwheat",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was added on April 14th, 2020.",
+    "The paint could have been obtained by completing a special mission \"Extended\" from the Lockdown 2.0 event, which was to get 200 000 score points in matchmaking battles within 17 days.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was added on April 14th, 2020.\nThe paint could have been obtained by completing a special mission \"Extended\" from the Lockdown 2.0 event, which was to get 200 000 score points in matchmaking battles within 17 days.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

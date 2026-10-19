@@ -1,0 +1,27 @@
+{
+  "name": "Fuchsia",
+  "rawName": "Fuchsia",
+  "item": "1931009779877",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "According to rumors, this paint has been developed for battles in flower fields. No one knows where to find such fields, but the idea of their existence is fascinating. Having no practical usage, this paint symbolizes a dream.",
+  "paint": {
+    "id": "1685024297780",
+    "version": "1775743169460",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024297324",
+    "version": "1707988311925"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Invader",
+  "source": "wiki",
+  "page": "/Invader",
+  "type": "Garage",
+  "price": {
+    "amount": 50000,
+    "currency": "Crystals",
+    "text": "50 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "This paint was developed in collaboration with a community of experts on the eight-bit gaming console era. It uses an army of eight-bit aliens to mask your tank and will mark you as a true connoisseur of video games.",
+  "interestingFacts": [
+    "Paint first appeared on February 6, 2015.",
+    "Prior to the Paint Separation Update, Invader could be bought for 2,000 crystals from the rank of Sergeant.",
+    "Your enemies come in peace...and leave in pieces.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "50 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:50 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThis paint was developed in collaboration with a community of experts on the eight-bit gaming console era. It uses an army of eight-bit aliens to mask your tank and will mark you as a true connoisseur of video games.\nSee also: Paints\nInteresting facts\nPaint first appeared on February 6, 2015.\nPrior to the Paint Separation Update, Invader could be bought for 2,000 crystals from the rank of Sergeant.\nYour enemies come in peace...and leave in pieces.\nLegacy paint description:\nA paint with decent protection against Vulcan. Will come in handy at medium ranges. With it, everybody will know that you are a real fan of video games.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

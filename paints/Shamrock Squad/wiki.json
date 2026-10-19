@@ -1,0 +1,26 @@
+{
+  "name": "Shamrock Squad",
+  "source": "wiki",
+  "page": "/Shamrock_Squad",
+  "type": "Garage",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Shamrock squad — a group of the bravest warriors, who fight for gold and freedom. There is a goblin-scout among the squad, whose tricky tricks and accuracy help the team avoid traps and deal big damage to the enemy. Earned golden coins are used to upgrade tanks and create new battle augments. The team is supported by a dwarf-engineer and a young elf-sniper, equipped with upgraded Shaft, who are ready for anything to catch the victory!",
+  "interestingFacts": [
+    "This paint was added to the game on March 17, 2023.",
+    "The paint was sold in the game from the 17th to 28th of March, 2023 in the \"Lucky coin\" special offer during the \"Gold rush\" event."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "700",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:700\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nShamrock squad — a group of the bravest warriors, who fight for gold and freedom. There is a goblin-scout among the squad, whose tricky tricks and accuracy help the team avoid traps and deal big damage to the enemy. Earned golden coins are used to upgrade tanks and create new battle augments. The team is supported by a dwarf-engineer and a young elf-sniper, equipped with upgraded Shaft, who are ready for anything to catch the victory!\nSee also: Paints\nInteresting facts\nThis paint was added to the game on March 17, 2023.\nThe paint was sold in the game from the 17th to 28th of March, 2023 in the \"Lucky coin\" special offer during the \"Gold rush\" event.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

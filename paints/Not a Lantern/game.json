@@ -1,0 +1,25 @@
+{
+  "name": "Not a lantern",
+  "rawName": "Not a lantern",
+  "item": "920009618069",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Despite its unique color scheme, this paint has absolutely nothing to do with lanterns and superheroes. And if you wear it, you're guaranteed to be much cooler than any movie about such topics.",
+  "paint": {
+    "id": "1567073273568",
+    "version": "1697183401403",
+    "animated": true
+  },
+  "preview": {
+    "id": "1567073273570",
+    "version": "1581391554196"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

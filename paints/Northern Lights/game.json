@@ -1,0 +1,25 @@
+{
+  "name": "Northern Lights",
+  "rawName": "Northern Lights",
+  "item": "920009600936",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This peculiar paint is obtained by taking gaseous particles obtained from the Earth's atmosphere and bombarding them with charged particles released from the sun's atmosphere. The result is reminiscent of the Aurora Borealis, also known as \"Northern Lights\".",
+  "paint": {
+    "id": "1556528908961",
+    "version": "1697183401393",
+    "animated": true
+  },
+  "preview": {
+    "id": "1548917190122",
+    "version": "1581391669849"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

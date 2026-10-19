@@ -1,0 +1,25 @@
+{
+  "name": "Peaks",
+  "source": "wiki",
+  "page": "/Peaks",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint even looks dangerously! With black, oozing poison thorns turn your enemies to run in fear and breathe new confidence into your team.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint even looks dangerously! With black, oozing poison thorns turn your enemies to run in fear and breathe new confidence into your team.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Marine",
+  "rawName": "Marine",
+  "item": "920004703971",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 1500
+  },
+  "owned": false,
+  "description": "Due to its high resistance to prolonged contact with salty water, smart tankers use this colour to paint their tanks from the inside, using it as a large barrel for salting cucumbers during winter time.",
+  "paint": {
+    "id": "5000256",
+    "version": "1775743169387",
+    "animated": false
+  },
+  "preview": {
+    "id": "5000271",
+    "version": "1581391597189"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Chocolatank",
+  "source": "wiki",
+  "page": "/Chocolatank",
+  "type": "Event",
+  "price": {
+    "amount": 2000,
+    "currency": "Crystals",
+    "text": "2 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Easter is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: with this paint, your tank will look delicious, but will still be pretty hard - biting it will likely result in loss of teeth.",
+  "interestingFacts": [
+    "This paint was only available in the Brazilian and Spanish servers.",
+    "Paint appeared on March 27, 2016.",
+    "This paint accompanied the Easter celebrations on the Brazilian and Spanish servers.",
+    "The paint is now only available to those players who purchased the paint and whose game accounts were transferred from the Spanish and Brazilian servers to the European one during the migration on April 16, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "2 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:2 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nEaster is so much sweeter with chocolate. Now, you can carry it with you into the battlefield with this chocolate-themed paint for your tank. Warning: with this paint, your tank will look delicious, but will still be pretty hard - biting it will likely result in loss of teeth.\nSee also: Paints\nInteresting facts\nThis paint was only available in the Brazilian and Spanish servers.\nPaint appeared on March 27, 2016.\nThis paint accompanied the Easter celebrations on the Brazilian and Spanish servers.\nThe paint is now only available to those players who purchased the paint and whose game accounts were transferred from the Spanish and Brazilian servers to the European one during the migration on April 16, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

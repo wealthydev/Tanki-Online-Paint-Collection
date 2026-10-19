@@ -1,0 +1,24 @@
+{
+  "name": "For players",
+  "rawName": "For players",
+  "item": "920000755591",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is for those who believes that players will win in the «Developers vs Players» battle.",
+  "paint": {
+    "id": "50116449",
+    "version": "1775743169708",
+    "animated": false
+  },
+  "preview": {
+    "id": "50116446",
+    "version": "1581391392993"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

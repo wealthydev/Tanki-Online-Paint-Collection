@@ -1,0 +1,28 @@
+{
+  "name": "Monochrome",
+  "rawName": "Monochrome",
+  "item": "920009610624",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 12000
+  },
+  "owned": false,
+  "description": "Contrary to what most people think, \"Monochrome\" does not mean \"Black and White\". Actually, it means \"various shades of a single color\". Then again, probably the only thing you care about is that the paint looks cool, right?",
+  "paint": {
+    "id": "1564476233772",
+    "version": "1697183401393",
+    "animated": true
+  },
+  "preview": {
+    "id": "1564476233786",
+    "version": "1581391400154"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

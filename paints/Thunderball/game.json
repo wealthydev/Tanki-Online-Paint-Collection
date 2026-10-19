@@ -1,0 +1,27 @@
+{
+  "name": "Thunderball",
+  "rawName": "Thunderball",
+  "item": "920009595693",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "A very rare and dangerous phenomenon, unpredictable in its trajectory and deadliest effect.",
+  "paint": {
+    "id": "1526549618968",
+    "version": "1775743170254",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550782987",
+    "version": "1581391361672"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

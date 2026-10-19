@@ -1,0 +1,25 @@
+{
+  "name": "Monet",
+  "source": "wiki",
+  "page": "/Monet",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint was inspired by a little-known painting of the famous French artists Édouard Manet and Claude Monet. Researches say for a long time the artists would debate who will have their last name on the painting. Flipping a coin solved it.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint was inspired by a little-known painting of the famous French artists Édouard Manet and Claude Monet. Researches say for a long time the artists would debate who will have their last name on the painting. Flipping a coin solved it.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

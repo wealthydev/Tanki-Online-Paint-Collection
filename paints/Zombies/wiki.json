@@ -1,0 +1,24 @@
+{
+  "name": "Zombies",
+  "source": "wiki",
+  "page": "/Zombies",
+  "type": "Event",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": null,
+  "description": "«Zombies» faction! The main task is to survive! Intimidate your opponents with your appearance, infect them with the secret virus developed in {GAME}'s laboratory, and bring your army of the walking dead to victory!",
+  "interestingFacts": [
+    "The paint was available only during the \"Loss of control\" event that was happening from the 16th of December, 2022 till the 9th of January, 2023."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "700",
+    "Garage categorization": "◆ Special"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:700\nGarage categorization:◆ Special\nGarage description\n«Zombies» faction! The main task is to survive! Intimidate your opponents with your appearance, infect them with the secret virus developed in {GAME}'s laboratory, and bring your army of the walking dead to victory!\nSee also: Paints\nInteresting facts\nThe paint was available only during the \"Loss of control\" event that was happening from the 16th of December, 2022 till the 9th of January, 2023.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

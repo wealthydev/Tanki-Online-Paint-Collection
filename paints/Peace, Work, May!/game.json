@@ -1,0 +1,24 @@
+{
+  "name": "Peace, Work, May!",
+  "rawName": "Peace, Work, May!",
+  "item": "921009734906",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1619620774739",
+    "version": "1775743169649",
+    "animated": false
+  },
+  "preview": {
+    "id": "1619620774348",
+    "version": "1619620774514"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

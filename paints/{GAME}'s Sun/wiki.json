@@ -1,0 +1,26 @@
+{
+  "name": "{GAME}'s Sun",
+  "source": "wiki",
+  "page": "/{GAME}%27s_Sun",
+  "type": "Tankoin",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "The founders of the {GAME}'s Sun team successfully worked on the creation of eco-friendly tank cars. Flexible solar panels were used to equip the eco-model. Tests of the upgraded tank took place not only on impassable sections of the landfill, but also on public highways. Thanks to the public's trust, the team has been replenished with new participants who successfully apply non-standard methods not only in environmental tank construction, but also in the fight against competitors. Not even a solar storm can match the power of this team.\nSee also: Paints",
+  "interestingFacts": [
+    "This paint was added to the game on february 24th, 2023.",
+    "{GAME}’s Sun could have been obtained during The «Rally Tankcar» Event."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "700",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:700\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThe founders of the {GAME}'s Sun team successfully worked on the creation of eco-friendly tank cars. Flexible solar panels were used to equip the eco-model. Tests of the upgraded tank took place not only on impassable sections of the landfill, but also on public highways. Thanks to the public's trust, the team has been replenished with new participants who successfully apply non-standard methods not only in environmental tank construction, but also in the fight against competitors. Not even a solar storm can match the power of this team.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on february 24th, 2023.\n{GAME}’s Sun could have been obtained during The «Rally Tankcar» Event.\nGarage preview\nLast Edit: Sabry 7/3/2026"
+}

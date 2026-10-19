@@ -1,0 +1,27 @@
+{
+  "name": "Mars",
+  "rawName": "Mars",
+  "item": "920004703856",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 45000
+  },
+  "owned": false,
+  "description": "According to rumors, this cover was developed for space landing divisions, intended for lightning fast missions to save Mars from alien invaders. The paint was eventually sold to raise funds for a mission that would send a tank division to Mars. ",
+  "paint": {
+    "id": "500309253",
+    "version": "1775743169392",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309260",
+    "version": "1581391340518"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

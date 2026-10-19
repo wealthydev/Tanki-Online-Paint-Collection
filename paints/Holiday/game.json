@@ -1,0 +1,24 @@
+{
+  "name": "Holiday",
+  "rawName": "Holiday",
+  "item": "920004703610",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": true,
+  "description": "A unique and \"smart\" paint that  can change its appearance depending on the occasion. On a regular day it is simply a black and white, checkered texture. But when a holiday kicks in, its appearance changes dramatically. ",
+  "paint": {
+    "id": "500413650",
+    "version": "1775743168165",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006951",
+    "version": "1581391417348"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

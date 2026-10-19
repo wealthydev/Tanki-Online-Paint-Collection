@@ -1,0 +1,24 @@
+{
+  "name": "Team International",
+  "rawName": "Team International",
+  "item": "920004008401",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This is the paint of a tanker who supported the team of English and German female tankers during the Spring Showdown battle. It was only available for purchase on March 7th and 8th, 2016.",
+  "paint": {
+    "id": "500355359",
+    "version": "1775743167983",
+    "animated": false
+  },
+  "preview": {
+    "id": "500355364",
+    "version": "1581391384960"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "{GAME}’s Sun",
+  "rawName": "{GAME}’s Sun",
+  "item": "1931009779357",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The founders of the {GAME}'s Sun team successfully worked on the creation of eco-friendly tank cars. Flexible solar panels were used to equip the eco-model. Tests of the upgraded tank took place not only on impassable sections of the landfill, but also on public highways. Thanks to the public's trust, the team has been replenished with new participants who successfully apply non-standard methods not only in environmental tank construction, but also in the fight against competitors. Not even a solar storm can match the power of this team.",
+  "paint": {
+    "id": "1676449997956",
+    "version": "1775743169986",
+    "animated": false
+  },
+  "preview": {
+    "id": "1676449997490",
+    "version": "1676449997679"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

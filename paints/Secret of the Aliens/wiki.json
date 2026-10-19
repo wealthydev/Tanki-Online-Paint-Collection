@@ -1,0 +1,25 @@
+{
+  "name": "Secret of the Aliens",
+  "source": "wiki",
+  "page": "/Secret_of_the_Aliens",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint reflects the suspicious alien object recovered from a crash several years ago at one of the tank polygons. The Object is coated in an unknown material — a molecular structure that couldn't be identified or recreated.",
+  "interestingFacts": [
+    "The paint was available for purchase in a special offer during the 2017 Tanker's Day celebrations - from September 9 to September 11, 2017, for 24.99 USD."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint reflects the suspicious alien object recovered from a crash several years ago at one of the tank polygons. The Object is coated in an unknown material — a molecular structure that couldn't be identified or recreated.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a special offer during the 2017 Tanker's Day celebrations - from September 9 to September 11, 2017, for 24.99 USD.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

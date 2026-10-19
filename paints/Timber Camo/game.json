@@ -1,0 +1,24 @@
+{
+  "name": "Timber camo",
+  "rawName": "Timber camo",
+  "item": "920009600933",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "High-tech wood-based camouflage for forest and jungle operations. Just keep it away from the barbecues.",
+  "paint": {
+    "id": "1548916993130",
+    "version": "1775743170262",
+    "animated": false
+  },
+  "preview": {
+    "id": "1548916993131",
+    "version": "1581391579885"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

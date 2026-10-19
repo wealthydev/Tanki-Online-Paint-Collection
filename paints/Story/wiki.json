@@ -1,0 +1,25 @@
+{
+  "name": "Story",
+  "source": "wiki",
+  "page": "/Story",
+  "type": "Usdbundle",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "The story behind this paint is a very weird one. There was once an eccentric artist who was commissioned to create a special paint for {GAME_NAME}'s 10th birthday celebration. She tried and tried, but none of the designs she created were to her liking. So instead, she started writing. Soon she had created a really cool paint description, which inspired her to create this cool paint. Unfortunately, by the time she was done painting, her dog had eaten her manuscript, and she had completely forgotten what she had written about. So, what the original description was, we'll never know.",
+  "interestingFacts": [
+    "The paint was available for purchase in the {GAME} fund set from June 1 to June 29, 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Usdbundle",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Usdbundle\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThe story behind this paint is a very weird one. There was once an eccentric artist who was commissioned to create a special paint for {GAME_NAME}'s 10th birthday celebration. She tried and tried, but none of the designs she created were to her liking. So instead, she started writing. Soon she had created a really cool paint description, which inspired her to create this cool paint. Unfortunately, by the time she was done painting, her dog had eaten her manuscript, and she had completely forgotten what she had written about. So, what the original description was, we'll never know.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in the {GAME} fund set from June 1 to June 29, 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Team Pointers (3)",
+  "source": "wiki",
+  "page": "/Team_Pointers_(3)",
+  "type": "Event",
+  "price": {
+    "amount": 999,
+    "currency": "Tankoins",
+    "text": "999"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament.",
+  "interestingFacts": [
+    "The paint was available for purchase from September 11 to September 21, 2021, for 999 tankoins as part of the third {GAME}Sport 2021 series tournament.",
+    "The paints will remain in the player's garages forever.",
+    "Team Pointers ended up on the first place of the {GAME}Sport Season 3 tournament."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "999",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:999\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nPurchase this paint to become a fan of this clan and support it in the playoff stage of the tournament.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase from September 11 to September 21, 2021, for 999 tankoins as part of the third {GAME}Sport 2021 series tournament.\nThe paints will remain in the player's garages forever.\nTeam Pointers ended up on the first place of the {GAME}Sport Season 3 tournament.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Calm",
+  "source": "wiki",
+  "page": "/Calm",
+  "type": "Garage",
+  "price": {
+    "amount": 10,
+    "currency": "Crystals",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": null,
+  "description": "Specialized paint for traversing small rivers. It has a hydrophobic coating that quickly deals with moisture on the hull. It does not protect against salt water.",
+  "interestingFacts": [
+    "The paint is given to the player upon registration."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10",
+    "Garage categorization": "◆ Common"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10\nGarage categorization:◆ Common\nGarage description\nSpecialized paint for traversing small rivers. It has a hydrophobic coating that quickly deals with moisture on the hull. It does not protect against salt water.\nSee also: Paints\nInteresting facts\nThe paint is given to the player upon registration.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

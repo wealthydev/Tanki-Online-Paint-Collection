@@ -1,0 +1,25 @@
+{
+  "name": "Thankos' Armor",
+  "rawName": "Thankos' Armor",
+  "item": "920009601781",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This is the main reward in the \"War of Super Powers\". The owners of this paint made a real feat, collecting all 6 crystals of power.",
+  "paint": {
+    "id": "1557737278440",
+    "version": "1697183401480",
+    "animated": true
+  },
+  "preview": {
+    "id": "1557735521793",
+    "version": "1581391326450"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

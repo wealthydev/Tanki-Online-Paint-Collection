@@ -1,0 +1,27 @@
+{
+  "name": "Aquamarine",
+  "rawName": "Aquamarine",
+  "item": "1931009779873",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "Paint of the Coast Guard tanks. Most shipping containers are easiest to move by waterways, and when there is a big cargo, there is a big robber.",
+  "paint": {
+    "id": "1685024131317",
+    "version": "1775743169448",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024130861",
+    "version": "1707988165681"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

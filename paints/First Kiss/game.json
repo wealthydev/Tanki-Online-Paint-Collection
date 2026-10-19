@@ -1,0 +1,25 @@
+{
+  "name": "First kiss",
+  "rawName": "First kiss",
+  "item": "920009601120",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa, mwa. The memories of a first love last forever.",
+  "paint": {
+    "id": "1549889711731",
+    "version": "1697183401387",
+    "animated": true
+  },
+  "preview": {
+    "id": "1549889478629",
+    "version": "1581391411855"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Mars",
+  "source": "wiki",
+  "page": "/Mars",
+  "type": "Garage",
+  "price": {
+    "amount": 45000,
+    "currency": "Crystals",
+    "text": "45 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "According to rumors, this cover was developed for space landing divisions, intended for lightning-fast missions to save Mars from alien invaders. The paint was eventually sold to raise funds for a mission that would send a tank division to Mars.",
+  "interestingFacts": [
+    "Paint first appeared on January 30, 2015.",
+    "Prior to the Paint Separation Update, Mars was worth 143,500 crystals and could be bought from the rank of Major General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "45 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:45 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nAccording to rumors, this cover was developed for space landing divisions, intended for lightning-fast missions to save Mars from alien invaders. The paint was eventually sold to raise funds for a mission that would send a tank division to Mars.\nSee also: Paints\nInteresting facts\nPaint first appeared on January 30, 2015.\nPrior to the Paint Separation Update, Mars was worth 143,500 crystals and could be bought from the rank of Major General.\nLegacy paint description:\nThis paint provides decent protection from Hammer, Isida and Firebird. Excellent choice for close combat. With it equipped, your tank armor looks like the surface of a distant planet.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

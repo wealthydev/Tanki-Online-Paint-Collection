@@ -1,0 +1,24 @@
+{
+  "name": "Prism",
+  "rawName": "Prism",
+  "item": "920009546364",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to winners of the «Major Rankings II» tournament.",
+  "paint": {
+    "id": "1523608808152",
+    "version": "1775743165795",
+    "animated": false
+  },
+  "preview": {
+    "id": "1523609143455",
+    "version": "1581391378014"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

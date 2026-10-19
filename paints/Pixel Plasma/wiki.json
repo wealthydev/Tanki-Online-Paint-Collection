@@ -1,0 +1,29 @@
+{
+  "name": "Pixel Plasma",
+  "source": "wiki",
+  "page": "/Pixel_Plasma",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint was made from the smallest atomic pixels. Take a good look and you will see that it achieves a certain color that the opponent can hardly see with the naked eye. They say that this paint can change its properties without anybody noticing.",
+  "interestingFacts": [
+    "This paint was added to the game on May 16th, 2020.",
+    "This paint could have been unlocked at Tier 45 of the May 2020 Challenge B.",
+    "This paint was added to containers on February 5th, 2021.",
+    "With update 640, released March 19, 2021, Pixel Plasma received a unique Garage description.",
+    "Though this paint may shock you with a bit of static electricity thanks to the plasma generators inside, it unfortunately won't do anything other than look nice on the battlefield."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint was made from the smallest atomic pixels. Take a good look and you will see that it achieves a certain color that the opponent can hardly see with the naked eye. They say that this paint can change its properties without anybody noticing.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on May 16th, 2020.\nThis paint could have been unlocked at Tier 45 of the May 2020 Challenge B.\nThis paint was added to containers on February 5th, 2021.\nWith update 640, released March 19, 2021, Pixel Plasma received a unique Garage description.\nThough this paint may shock you with a bit of static electricity thanks to the plasma generators inside, it unfortunately won't do anything other than look nice on the battlefield.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

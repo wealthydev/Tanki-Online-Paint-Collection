@@ -1,0 +1,24 @@
+{
+  "name": "Wild Jungle",
+  "rawName": "Wild Jungle",
+  "item": "920008536133",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "With this paint you can disappear into the forest and gain the strength of a tiger, the stealth of a panther, and the boldness of a hyena. ",
+  "paint": {
+    "id": "500410261",
+    "version": "1775743168525",
+    "animated": false
+  },
+  "preview": {
+    "id": "500410262",
+    "version": "1581391634504"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

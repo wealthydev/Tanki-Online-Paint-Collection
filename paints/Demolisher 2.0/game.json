@@ -1,0 +1,25 @@
+{
+  "name": "Demolisher 2.0",
+  "rawName": "Demolisher 2.0",
+  "item": "920009610627",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special animated paint reserved exclusively for the heroes of the Demolition WAR. It is only awarded to those tankers who completed all of the missions in the WAR, thus destroying the threat of the evil corporation AZAZACORP.",
+  "paint": {
+    "id": "1564482974492",
+    "version": "1697183401434",
+    "animated": true
+  },
+  "preview": {
+    "id": "1564477071356",
+    "version": "1581391504281"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Retina",
+  "rawName": "Retina",
+  "item": "920007231181",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This special paint is a replica of the lively color combination that can be found on a human retina. If started at directly, it can have a rather disorienting effect.",
+  "paint": {
+    "id": "500394100",
+    "version": "1775743168553",
+    "animated": false
+  },
+  "preview": {
+    "id": "500394101",
+    "version": "1581391633225"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

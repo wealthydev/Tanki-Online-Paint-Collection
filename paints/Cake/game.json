@@ -1,0 +1,24 @@
+{
+  "name": "Cake",
+  "rawName": "Cake",
+  "item": "920009678473",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1591431521936",
+    "version": "1775743168907",
+    "animated": false
+  },
+  "preview": {
+    "id": "1591431571293",
+    "version": "1591432183762"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Lunar Soil",
+  "rawName": "Lunar Soil",
+  "item": "920007005374",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 3000
+  },
+  "owned": false,
+  "description": "Since the reintroduction of «Space Mode», there has been a renewed enthusiasm for space trinkets and memorabilia. As a result, a group of rogue scientists, have created this paint using lunar sand smuggled from the moon.",
+  "paint": {
+    "id": "500391215",
+    "version": "1775743169381",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391206",
+    "version": "1581391337498"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

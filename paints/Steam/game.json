@@ -1,0 +1,24 @@
+{
+  "name": "Steam",
+  "rawName": "Steam",
+  "item": "920007135671",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Steam",
+  "paint": {
+    "id": "500392051",
+    "version": "1775743169926",
+    "animated": false
+  },
+  "preview": {
+    "id": "500392050",
+    "version": "1581391401161"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

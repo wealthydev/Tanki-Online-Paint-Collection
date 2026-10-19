@@ -1,0 +1,28 @@
+{
+  "name": "Lord",
+  "source": "wiki",
+  "page": "/Lord",
+  "type": "Special",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A special paint that can only be found in the Garage of one particular tanker.  The overlord does not exist officially. It is not in the databases and catalogs of components for tanks. But there are rumors that the paint kit released in a single copy is not fiction, but reality! Some even claim that they personally saw an ominously black tank that instills terror in their enemies. But where to find it is unknown ...",
+  "interestingFacts": [
+    "This paint is the exclusive property of the player sidlob, who is the co-founder of the game. He received this paint as a gift on his birthday in 2010 from the administration because he helped {GAME_NAME} with legal issues at the beginning of the project.",
+    "This account cannot be found in ratings because its profile is hidden.",
+    "The same tanker has a special spectrum module called \"Lord\" with the protection of  50% of all turrets and mines.",
+    "Prior to the separation of paints and protections (07/14/2016), the paint had 30% protection against all turrets and mines."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Special",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Special\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA special paint that can only be found in the Garage of one particular tanker.  The overlord does not exist officially. It is not in the databases and catalogs of components for tanks. But there are rumors that the paint kit released in a single copy is not fiction, but reality! Some even claim that they personally saw an ominously black tank that instills terror in their enemies. But where to find it is unknown ...\nSee also: Paints\nInteresting facts\nThis paint is the exclusive property of the player sidlob, who is the co-founder of the game. He received this paint as a gift on his birthday in 2010 from the administration because he helped {GAME_NAME} with legal issues at the beginning of the project.\nThis account cannot be found in ratings because its profile is hidden.\nThe same tanker has a special spectrum module called \"Lord\" with the protection of  50% of all turrets and mines.\nPrior to the separation of paints and protections (07/14/2016), the paint had 30% protection against all turrets and mines.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

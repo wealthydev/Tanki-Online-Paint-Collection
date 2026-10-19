@@ -1,0 +1,27 @@
+{
+  "name": "Winter",
+  "source": "wiki",
+  "page": "/Winter",
+  "type": "Garage",
+  "price": {
+    "amount": 7000,
+    "currency": "Crystals",
+    "text": "7 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This paint was specially developed for battle on snow-covered land. It was originally intended to include a snow shovel, but the finance department didn't approve the extra cost.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Winter's price was 102,500 crystals and was obtainable at the rank of Lieutenant Colonel.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "7 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:7 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis paint was specially developed for battle on snow-covered land. It was originally intended to include a snow shovel, but the finance department didn't approve the extra cost.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Winter's price was 102,500 crystals and was obtainable at the rank of Lieutenant Colonel.\nLegacy paint description:\nAn all-around paint that gives minimal protection against Firebird and Railgun, average protection against Thunder, and great protection against Shaft. Works well at any range. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

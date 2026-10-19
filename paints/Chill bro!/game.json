@@ -1,0 +1,24 @@
+{
+  "name": "Chill bro!",
+  "rawName": "Chill bro!",
+  "item": "920007987681",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint for the tanker who's cool regardless of the season. Try this one out with a Freeze and Mammoth combo to get a distinct \"ice-age\" look.",
+  "paint": {
+    "id": "500406108",
+    "version": "1775743169276",
+    "animated": false
+  },
+  "preview": {
+    "id": "500406109",
+    "version": "1581391648784"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

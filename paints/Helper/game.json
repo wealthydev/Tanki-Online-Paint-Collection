@@ -1,0 +1,24 @@
+{
+  "name": "Helper",
+  "rawName": "Helper",
+  "item": "920004704571",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint awarded to the best helpers of the month.",
+  "paint": {
+    "id": "500156202",
+    "version": "1775743169244",
+    "animated": false
+  },
+  "preview": {
+    "id": "500156203",
+    "version": "1581391302271"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

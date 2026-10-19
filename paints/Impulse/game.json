@@ -1,0 +1,24 @@
+{
+  "name": "Impulse",
+  "rawName": "Impulse",
+  "item": "920006398341",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to winners of the «Major Rankings I» tournament.",
+  "paint": {
+    "id": "500383401",
+    "version": "1775743169285",
+    "animated": false
+  },
+  "preview": {
+    "id": "500383400",
+    "version": "1581391467985"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Devine",
+  "source": "wiki",
+  "page": "/Devine",
+  "type": "Event",
+  "price": {
+    "amount": 5990,
+    "currency": "Tankoins",
+    "text": "5 990"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was added into the game on the 15th of November, 2022.",
+    "The paint was being sold in the game from the 15th of November till the 18th of December, 2022 in the special offer for the \"Winter Major 2022\" tournament."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "5 990",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:5 990\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was added into the game on the 15th of November, 2022.\nThe paint was being sold in the game from the 15th of November till the 18th of December, 2022 in the special offer for the \"Winter Major 2022\" tournament.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

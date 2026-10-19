@@ -1,0 +1,27 @@
+{
+  "name": "Alien",
+  "rawName": "Alien",
+  "item": "920004704214",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 150000
+  },
+  "owned": true,
+  "description": "Rumor has it that this camouflage is a replica of the cover of an alien ship that was knocked down in the last century by the forces of [WARNING: This information is classified — Further inquiries on the matter will be met with deadly force.]",
+  "paint": {
+    "id": "5001774",
+    "version": "1775743168771",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001790",
+    "version": "1581391421990"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

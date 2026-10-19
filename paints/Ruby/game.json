@@ -1,0 +1,24 @@
+{
+  "name": "Ruby",
+  "rawName": "Ruby",
+  "item": "920004704456",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for forum moderators. ",
+  "paint": {
+    "id": "500142402",
+    "version": "1775743169439",
+    "animated": false
+  },
+  "preview": {
+    "id": "500142405",
+    "version": "1581391667461"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

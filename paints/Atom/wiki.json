@@ -1,0 +1,28 @@
+{
+  "name": "Atom",
+  "source": "wiki",
+  "page": "/Atom",
+  "type": "Garage",
+  "price": {
+    "amount": 150000,
+    "currency": "Crystals",
+    "text": "150 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A protective cover for tanks guarding nuclear research centers. The cover is so high-tech that it is able to withstand a direct nuclear charge hit. Unfortunately, while the paint will be untouched, the tank beneath it will still evaporate.",
+  "interestingFacts": [
+    "Paint first appeared on January 30, 2015.",
+    "Prior to the Paint Separation Update, Atom was worth 138,000 crystals and could be bought from the rank of Colonel.",
+    "On the 10th of April 2020, Atom's unlock rank was lowered from First Sergeant to Recruit.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "150 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:150 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA protective cover for tanks guarding nuclear research centers. The cover is so high-tech that it is able to withstand a direct nuclear charge hit. Unfortunately, while the paint will be untouched, the tank beneath it will still evaporate.\nSee also: Paints\nInteresting facts\nPaint first appeared on January 30, 2015.\nPrior to the Paint Separation Update, Atom was worth 138,000 crystals and could be bought from the rank of Colonel.\nOn the 10th of April 2020, Atom's unlock rank was lowered from First Sergeant to Recruit.\nLegacy paint description:\nA paint with good protection against Firebird, Freeze, Hammer and Twins. Will help you stay in one piece in those close-range fights. Gives your tank a bright white and blue techy look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

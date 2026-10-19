@@ -1,0 +1,24 @@
+{
+  "name": "Gloss",
+  "rawName": "Gloss",
+  "item": "1931009802575",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1713322582016",
+    "version": "1775743169916",
+    "animated": false
+  },
+  "preview": {
+    "id": "1713322581507",
+    "version": "1713322581700"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

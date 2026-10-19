@@ -1,0 +1,27 @@
+{
+  "name": "Moonwalker",
+  "source": "wiki",
+  "page": "/Moonwalker",
+  "type": "Container",
+  "price": {
+    "amount": 3000,
+    "currency": "Crystals",
+    "text": "3 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This unique paint was created especially for the \"Farewell to Moon Silence\" event. It was available in the shop until October 10th, 2013. For those who purchased it in that time, in memory of this map, the paint remains in their garage forever.",
+  "interestingFacts": [
+    "This paint can be obtained out of a container.",
+    "Prior to the Paint Separation Update, the paint had 22% protection from Ricochet.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "3 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:3 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis unique paint was created especially for the \"Farewell to Moon Silence\" event. It was available in the shop until October 10th, 2013. For those who purchased it in that time, in memory of this map, the paint remains in their garage forever.\nSee also: Paints\nInteresting facts\nThis paint can be obtained out of a container.\nPrior to the Paint Separation Update, the paint had 22% protection from Ricochet.\nLegacy paint description:\nA rare paint that could have been bought only during the Farewell to Moon Silence event from October 2 to 10, 2013. This paint will serve the owner as a reminder of the great map.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

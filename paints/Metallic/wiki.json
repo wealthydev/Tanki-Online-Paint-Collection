@@ -1,0 +1,26 @@
+{
+  "name": "Metallic",
+  "source": "wiki",
+  "page": "/Metallic",
+  "type": "Garage",
+  "price": {
+    "amount": 10,
+    "currency": "Crystals",
+    "text": "10"
+  },
+  "garageCategorization": "Common",
+  "containerRarity": "n/a",
+  "description": "There is the misconception that this paint is intended as a replacement for varnished surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices.",
+  "interestingFacts": [
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10",
+    "Garage categorization": "◆ Common",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10\nGarage categorization:◆ Common\nContainer rarity:n/a\nGarage description\nThere is the misconception that this paint is intended as a replacement for varnished surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices.\nSee also: Paints\nInteresting facts\nLegacy paint description:\nA paint that offers some protection against the devastating Thunder explosions. Good for mid-range battles. Sports a stylish metallic texture.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

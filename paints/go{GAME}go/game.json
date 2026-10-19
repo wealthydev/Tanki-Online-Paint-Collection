@@ -1,0 +1,24 @@
+{
+  "name": "go{GAME}go",
+  "rawName": "go{GAME}go",
+  "item": "920005821640",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "",
+  "paint": {
+    "id": "56059",
+    "version": "1775743168878",
+    "animated": false
+  },
+  "preview": {
+    "id": "500392850",
+    "version": "1581391350075"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

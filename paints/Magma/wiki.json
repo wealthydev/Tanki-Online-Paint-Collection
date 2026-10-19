@@ -1,0 +1,28 @@
+{
+  "name": "Magma",
+  "source": "wiki",
+  "page": "/Magma",
+  "type": "Garage",
+  "price": {
+    "amount": 10000,
+    "currency": "Crystals",
+    "text": "10 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This paint is often used on tanks equipped with flamethrowers. It gives the impression that lava is flowing through the tank itself, terrorizing the opposition.",
+  "interestingFacts": [
+    "Paint appeared on January 30, 2015.",
+    "Prior to the Paint Separation Update, Magma was worth 3,000 crystals and could be bought from  Master Sergeant",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "10 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:10 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis paint is often used on tanks equipped with flamethrowers. It gives the impression that lava is flowing through the tank itself, terrorizing the opposition.\nSee also: Paints\nInteresting facts\nPaint appeared on January 30, 2015.\nPrior to the Paint Separation Update, Magma was worth 3,000 crystals and could be bought from  Master Sergeant\nLegacy paint description:\nThe first available paint with Hammer protection. Will come in handy at close ranges. Gives your tank a truly brutal look.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

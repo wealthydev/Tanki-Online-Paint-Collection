@@ -1,0 +1,27 @@
+{
+  "name": "Safari",
+  "rawName": "Safari",
+  "item": "920004704095",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 75000
+  },
+  "owned": true,
+  "description": "Designed by those who love the thrill of the safari, this paint masks the tank as an innocuous zebra, which makes it perfect for hunting African predators, as well as naive tankers.",
+  "paint": {
+    "id": "5001722",
+    "version": "1775743170700",
+    "animated": false
+  },
+  "preview": {
+    "id": "5001759",
+    "version": "1581391389646"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

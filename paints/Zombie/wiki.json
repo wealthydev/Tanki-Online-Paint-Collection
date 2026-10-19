@@ -1,0 +1,26 @@
+{
+  "name": "Zombie",
+  "source": "wiki",
+  "page": "/Zombie",
+  "type": "Tankoin",
+  "price": {
+    "amount": 5000,
+    "currency": "Tankoins",
+    "text": "5 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Let your enemies burn you, freeze you, rip you to bits and fill your hull with bullets. With this paint, you'll make them understand that they can't kill what's already dead... and no matter what they do, you'll keep coming back!",
+  "interestingFacts": [
+    "The paint was available for purchase in a special offer from October 24 to November 1, 2016 (the Halloween 2016 celebrations).",
+    "The bundle cost was 5.99 USD and contained an extra 15 000 crystals, 7x days of Premium and 15x of each supply except Gold Boxes and batteries."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "5 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:5 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nLet your enemies burn you, freeze you, rip you to bits and fill your hull with bullets. With this paint, you'll make them understand that they can't kill what's already dead... and no matter what they do, you'll keep coming back!\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a special offer from October 24 to November 1, 2016 (the Halloween 2016 celebrations).\nThe bundle cost was 5.99 USD and contained an extra 15 000 crystals, 7x days of Premium and 15x of each supply except Gold Boxes and batteries.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

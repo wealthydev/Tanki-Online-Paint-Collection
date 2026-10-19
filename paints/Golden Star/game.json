@@ -1,0 +1,27 @@
+{
+  "name": "Golden Star",
+  "rawName": "Golden Star",
+  "item": "920004826760",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 750000
+  },
+  "owned": false,
+  "description": "Gold plating dusted with diamond filings. This coating can only be afforded by the wealthiest tankers.",
+  "paint": {
+    "id": "500362865",
+    "version": "1775743169191",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362857",
+    "version": "1581391694401"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

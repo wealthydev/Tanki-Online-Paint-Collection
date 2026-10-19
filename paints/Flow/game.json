@@ -1,0 +1,28 @@
+{
+  "name": "Flow",
+  "rawName": "Flow",
+  "item": "920007533971",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "A legendary animated tank coating - the first of its kind.\n\nUltra-compact tesla-generators cause energy to flow along the tank's body, surrounding it with a moving field of unstable particles that swirls around the tank in hypnotic, swaying patterns.\n\nThis special paint was originally named \"XF-245RD\". However, it was soon nicknamed \"Flow\", not just because of its flowing patterns, but because the tankers who use it personify the deadly calm and crushing power of flowing water.",
+  "paint": {
+    "id": "500396350",
+    "version": "1697183401483",
+    "animated": true
+  },
+  "preview": {
+    "id": "500396352",
+    "version": "1581391754947"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Battleship",
+  "rawName": "Battleship",
+  "item": "920009675331",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1590383481049",
+    "version": "1775743168845",
+    "animated": false
+  },
+  "preview": {
+    "id": "1590383481047",
+    "version": "1590384880433"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

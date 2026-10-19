@@ -1,0 +1,24 @@
+{
+  "name": "Targies",
+  "rawName": "Targies",
+  "item": "920009601443",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Targies are big, flying lizards with fire-breathing abilities. Thankfully this paint is purely cosmetic and does not give its wearer any of those properties.\n\nThis is a temporary paint. It will be removed from all garages on April 29th.",
+  "paint": {
+    "id": "1553513839011",
+    "version": "1775743168705",
+    "animated": false
+  },
+  "preview": {
+    "id": "1553513681232",
+    "version": "1581391431623"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

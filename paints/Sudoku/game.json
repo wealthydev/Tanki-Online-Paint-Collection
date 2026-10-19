@@ -1,0 +1,27 @@
+{
+  "name": "Sudoku",
+  "rawName": "Sudoku",
+  "item": "920009365548",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "To solve this puzzle you need patience, a sharp mind and ability to think logically. If you bring all three to the battlefield wearing this paint, the enemies won't solve you.",
+  "paint": {
+    "id": "1516883264856",
+    "version": "1775743169939",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264857",
+    "version": "1581391632391"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

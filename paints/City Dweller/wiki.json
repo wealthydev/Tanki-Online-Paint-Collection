@@ -1,0 +1,26 @@
+{
+  "name": "City Dweller",
+  "source": "wiki",
+  "page": "/City_Dweller",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Equipping this paint lets your enemies know that you are a respectable city-dwelling tanker who cares about traffic management and makes use of public transport... before politely blowing up their tank as a gentle reminder that they should use public transport next time.",
+  "interestingFacts": [
+    "This paint was added to the game on March 6th, 2020.",
+    "This paint was available by completing a special mission, earning 15 000 experience points in any matchmaking mode or map between March 6th-10th."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nEquipping this paint lets your enemies know that you are a respectable city-dwelling tanker who cares about traffic management and makes use of public transport... before politely blowing up their tank as a gentle reminder that they should use public transport next time.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on March 6th, 2020.\nThis paint was available by completing a special mission, earning 15 000 experience points in any matchmaking mode or map between March 6th-10th.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

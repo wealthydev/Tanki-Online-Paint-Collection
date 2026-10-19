@@ -1,0 +1,26 @@
+{
+  "name": "Marine",
+  "source": "wiki",
+  "page": "/Marine",
+  "type": "Garage",
+  "price": {
+    "amount": 1500,
+    "currency": "Crystals",
+    "text": "1 500"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Due to its high resistance to prolonged contact with salty water, smart tankers use this color to paint their tanks from the inside, using it as a large barrel for salting cucumbers during wintertime.",
+  "interestingFacts": [
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "1 500",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:1 500\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nDue to its high resistance to prolonged contact with salty water, smart tankers use this color to paint their tanks from the inside, using it as a large barrel for salting cucumbers during wintertime.\nSee also: Paints\nInteresting facts\nLegacy paint description:\nThis paint gives your tank basic defense against Firebird and is good for short-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

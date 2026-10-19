@@ -1,0 +1,26 @@
+{
+  "name": "Lime Burst",
+  "source": "wiki",
+  "page": "/Lime_Burst",
+  "type": "Container",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A festive paint with a refreshing design, literally oozing freshness. Tanks coated in this paint will have a curiously acidic taste with a hint of lime. Few can resist the temptation to taste it.",
+  "interestingFacts": [
+    "This paint was available in the garage during the 2017 March Holidays celebrations for 120,000 crystals on March 8, 2017.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "120 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:120 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA festive paint with a refreshing design, literally oozing freshness. Tanks coated in this paint will have a curiously acidic taste with a hint of lime. Few can resist the temptation to taste it.\nSee also: Paints\nInteresting facts\nThis paint was available in the garage during the 2017 March Holidays celebrations for 120,000 crystals on March 8, 2017.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

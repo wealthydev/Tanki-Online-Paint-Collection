@@ -1,0 +1,25 @@
+{
+  "name": "Synth-pop",
+  "rawName": "Synth-pop",
+  "item": "920009597333",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint for true music fans, especially for those who like electronic music. You will have better experience \"listening\" to this paint on analogue devices, dust off your tape deck and get ready for battle!",
+  "paint": {
+    "id": "1536219753125",
+    "version": "1697183401538",
+    "animated": true
+  },
+  "preview": {
+    "id": "1536220141526",
+    "version": "1581391623990"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

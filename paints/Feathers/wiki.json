@@ -1,0 +1,25 @@
+{
+  "name": "Feathers",
+  "source": "wiki",
+  "page": "/Feathers",
+  "type": "Tankoin",
+  "price": {
+    "amount": 500,
+    "currency": "Rubies",
+    "text": "500"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Art critics debated for a long time the meaning behind this pattern. Some clearly see the end of the world, when others — serenity. Truth is, the artist just randomly dropped his paints on the frame",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "500",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:500\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nArt critics debated for a long time the meaning behind this pattern. Some clearly see the end of the world, when others — serenity. Truth is, the artist just randomly dropped his paints on the frame\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

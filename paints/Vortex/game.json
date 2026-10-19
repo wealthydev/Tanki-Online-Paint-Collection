@@ -1,0 +1,27 @@
+{
+  "name": "Vortex",
+  "rawName": "Vortex",
+  "item": "920004704457",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 13000
+  },
+  "owned": false,
+  "description": "Details about the inspiration behind this paint are regrettably sparse. The designer simply disappeared one day while having a leisurely stroll by the sea. Theorists blame sea monsters.",
+  "paint": {
+    "id": "500313725",
+    "version": "1775743170611",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313712",
+    "version": "1581391699446"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

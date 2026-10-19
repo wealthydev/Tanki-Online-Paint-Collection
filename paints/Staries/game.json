@@ -1,0 +1,24 @@
+{
+  "name": "Staries",
+  "rawName": "Staries",
+  "item": "920009601442",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Nobility, justice, honor and courage are the main qualities of the Staries faction. Let your conscious guide you in battle and you will surely collect many stars.\n\nThis is a temporary paint. It will be removed from all garages on April 29th.",
+  "paint": {
+    "id": "1553513804738",
+    "version": "1775743168703",
+    "animated": false
+  },
+  "preview": {
+    "id": "1553513655735",
+    "version": "1581391421470"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

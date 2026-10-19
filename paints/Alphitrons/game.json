@@ -1,0 +1,24 @@
+{
+  "name": "Alphitrons",
+  "rawName": "Alphitrons",
+  "item": "1931010009892",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1779888338743",
+    "version": "1780465726865",
+    "animated": false
+  },
+  "preview": {
+    "id": "1779888338481",
+    "version": "1779888338737"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

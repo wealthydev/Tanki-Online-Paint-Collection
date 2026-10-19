@@ -1,0 +1,25 @@
+{
+  "name": "Bronze armor",
+  "rawName": "Bronze armor",
+  "item": "921009752845",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1630335709728",
+    "version": "1697183401391",
+    "animated": true
+  },
+  "preview": {
+    "id": "1630335709372",
+    "version": "1630335709508"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

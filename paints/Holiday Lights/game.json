@@ -1,0 +1,25 @@
+{
+  "name": "Holiday lights",
+  "rawName": "Holiday lights",
+  "item": "920009276281",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Holiday preparations are a special task for real tankers. Try decorating a tree when you have metal tracks and you'll wrap yourself in holiday lights with sparkles! Those who go into battle equipped with colorful lights are the most feared on the battlefield. Or so we are told. ",
+  "paint": {
+    "id": "1513586718183",
+    "version": "1697183401431",
+    "animated": true
+  },
+  "preview": {
+    "id": "1513673227075",
+    "version": "1581391342659"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

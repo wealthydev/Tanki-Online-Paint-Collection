@@ -1,0 +1,24 @@
+{
+  "name": "Citrus",
+  "rawName": "Citrus",
+  "item": "1931009779049",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1668601365913",
+    "version": "1775743168955",
+    "animated": false
+  },
+  "preview": {
+    "id": "1668601365496",
+    "version": "1668601365685"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

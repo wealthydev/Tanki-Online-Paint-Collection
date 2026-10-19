@@ -1,0 +1,25 @@
+{
+  "name": "Magnolia",
+  "rawName": "Magnolia",
+  "item": "920009570585",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Roll into battle with your tank disguised in everblooming flowers and watch the paint suddenly turn into a spot on camouflage.",
+  "paint": {
+    "id": "1524730815677",
+    "version": "1697183401487",
+    "animated": true
+  },
+  "preview": {
+    "id": "1524731293898",
+    "version": "1581391596959"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

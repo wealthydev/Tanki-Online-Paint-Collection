@@ -1,0 +1,28 @@
+{
+  "name": "Cyberpunk",
+  "rawName": "Cyberpunk",
+  "item": "920009600934",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 19000
+  },
+  "owned": false,
+  "description": "Shiny technology meets gritty metal in a paint dedicated to those who love to roam in cities of neon and chrome. ",
+  "paint": {
+    "id": "1556531404825",
+    "version": "1697183401359",
+    "animated": true
+  },
+  "preview": {
+    "id": "1548917098379",
+    "version": "1581391491901"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

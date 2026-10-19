@@ -1,0 +1,27 @@
+{
+  "name": "In Love",
+  "source": "wiki",
+  "page": "/In_Love",
+  "type": "Garage",
+  "price": {
+    "amount": 55000,
+    "currency": "Crystals",
+    "text": "55 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Designed for the sophisticated and romantic ones, this paint will satisfy your desire for aesthetically pleasing military attributes. It will also earn you a few valuable seconds by fascinating your enemy with the extravagant looks of your tank, covered in red hearts.",
+  "interestingFacts": [
+    "The paint received a new design on 2015 Valentine's Day.",
+    "The previous version of the paint is now sold under the name First Love.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "55 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:55 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nDesigned for the sophisticated and romantic ones, this paint will satisfy your desire for aesthetically pleasing military attributes. It will also earn you a few valuable seconds by fascinating your enemy with the extravagant looks of your tank, covered in red hearts.\nSee also: Paints\nInteresting facts\nThe paint received a new design on 2015 Valentine's Day.\nThe previous version of the paint is now sold under the name First Love.\nLegacy paint description:\nA paint that performs decently against Isida, Freeze and Ricochet. Good for short to mid-range battles. The right choice if you want to go romantic all the way.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

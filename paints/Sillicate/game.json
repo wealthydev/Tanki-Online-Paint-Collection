@@ -1,0 +1,27 @@
+{
+  "name": "Sillicate",
+  "rawName": "Sillicate",
+  "item": "920009365547",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "Thin molecular-level connections form a strong material, used to make the most powerful tanks and their armor.",
+  "paint": {
+    "id": "1516883264858",
+    "version": "1775743169865",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264859",
+    "version": "1581391399753"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

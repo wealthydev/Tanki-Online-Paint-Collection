@@ -1,0 +1,27 @@
+{
+  "name": "Rust",
+  "rawName": "Rust",
+  "item": "920007005372",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "Fool your enemies into thinking that your tank is a corroded wreck — weak and defenseless. Then, when they move in for the kill, give them a nasty surprise!",
+  "paint": {
+    "id": "500391212",
+    "version": "1775743169329",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391201",
+    "version": "1581391664329"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Immunes",
+  "source": "wiki",
+  "page": "/Immunes",
+  "type": "Event",
+  "price": {
+    "amount": 700,
+    "currency": "Tankoins",
+    "text": "700"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": null,
+  "description": "«Immunes» faction! The main task is to save the world from the new secret virus. With the help of a special antidote potion, created according to the old man recipe of our grandmothers, neutralize the Zombies hoard by curing them! The fate of humanity rests on your shoulders!",
+  "interestingFacts": [
+    "The paint was available only during the \"Loss of control\" event that was happening from the 16th of December, 2022 till the 9th of January, 2023."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "700",
+    "Garage categorization": "◆ Special"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:700\nGarage categorization:◆ Special\nGarage description\n«Immunes» faction! The main task is to save the world from the new secret virus. With the help of a special antidote potion, created according to the old man recipe of our grandmothers, neutralize the Zombies hoard by curing them! The fate of humanity rests on your shoulders!\nSee also: Paints\nInteresting facts\nThe paint was available only during the \"Loss of control\" event that was happening from the 16th of December, 2022 till the 9th of January, 2023.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

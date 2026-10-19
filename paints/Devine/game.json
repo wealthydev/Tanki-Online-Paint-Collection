@@ -1,0 +1,24 @@
+{
+  "name": "Devine",
+  "rawName": "Devine",
+  "item": "1931009779035",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1667978597615",
+    "version": "1775743170087",
+    "animated": false
+  },
+  "preview": {
+    "id": "1667978597200",
+    "version": "1667978597389"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

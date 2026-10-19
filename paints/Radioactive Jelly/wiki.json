@@ -1,0 +1,25 @@
+{
+  "name": "Radioactive Jelly",
+  "source": "wiki",
+  "page": "/Radioactive_Jelly",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint is almost safe for its owner, since its layed on top of a thick lead undercover, but a good side-effect is you can terrify your enemies with just a brief appearance on the battlefield. Not everyone will dare to approach such tank, and if they do, they better be ready for the radioactive outcome.",
+  "interestingFacts": [
+    "Paint appeared on August 10, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint is almost safe for its owner, since its layed on top of a thick lead undercover, but a good side-effect is you can terrify your enemies with just a brief appearance on the battlefield. Not everyone will dare to approach such tank, and if they do, they better be ready for the radioactive outcome.\nSee also: Paints\nInteresting facts\nPaint appeared on August 10, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

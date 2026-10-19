@@ -1,0 +1,25 @@
+{
+  "name": "Constellation",
+  "rawName": "Constellation",
+  "item": "920009675330",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The original idea was to show only one constellation on this color. A lot of tankers were interviewed to define the most popular constellation. In the end it was decided to let one constellation emerge after the other to meet everyone's wishes. Did you find your favorite constellation?",
+  "paint": {
+    "id": "1590383481042",
+    "version": "1697183401489",
+    "animated": true
+  },
+  "preview": {
+    "id": "1590383481030",
+    "version": "1590383943231"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

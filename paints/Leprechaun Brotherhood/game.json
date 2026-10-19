@@ -1,0 +1,24 @@
+{
+  "name": "Leprechaun brotherhood",
+  "rawName": "Leprechaun brotherhood",
+  "item": "1931009779476",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Leprechaun brotherhood — a mysterious group of master-wizards who can neatly handle gold and gems better than anyone else. Their magic is known for its power and unusual abilities that they use in battles.\n\nThere is a leprechaun-wizard in the brotherhood who has magical powers and can bring an army of gold golems to a battlefield to attack an opponent. There is also an alchemist-dwarf, whose knowledge of chemistry let them create potions and elixirs to boost combart abilities of the team.",
+  "paint": {
+    "id": "1678356051835",
+    "version": "1775743169199",
+    "animated": false
+  },
+  "preview": {
+    "id": "1678356051370",
+    "version": "1678356051559"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

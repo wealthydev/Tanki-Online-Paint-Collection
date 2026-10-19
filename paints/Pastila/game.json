@@ -1,0 +1,25 @@
+{
+  "name": "Pastila",
+  "rawName": "Pastila",
+  "item": "920009596354",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is actually made from pastila sweets with bits of of mermelade inside. Boosts your battle spirit, and in between matches invites you for a tea break with dessert.",
+  "paint": {
+    "id": "1527685975659",
+    "version": "1697183401414",
+    "animated": true
+  },
+  "preview": {
+    "id": "1527932699147",
+    "version": "1581391434432"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Impulse",
+  "source": "wiki",
+  "page": "/Impulse",
+  "type": "eSports",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to winners of the «Major Rankings I» tournament.",
+  "interestingFacts": [
+    "The paint was first issued to the winners of the 2nd season of the Masters of the sword tournament:\nMay 26, 2017 - to winners of the Tandem and Trio categories;\nMay 30, 2017 - to the winner of the Solo category;\nMay 31, 2017 - to the winner of the Clans category (Major League).",
+    "Players who receive this paint will also receive a unique Spectrum B module with  20% protection against all turrets and mines.",
+    "The paint was given to the winners of {GAME}Sport Season 1 - Revenge.",
+    "The paint was given to the winners of Major Rankings I - Diamonds & team defeats.",
+    "May 26, 2017 - to winners of the Tandem and Trio categories;",
+    "May 30, 2017 - to the winner of the Solo category;",
+    "May 31, 2017 - to the winner of the Clans category (Major League)."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "eSports",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:eSports\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nExclusive paint awarded to players who have achieved great victories in eSports. This paint is given to winners of the «Major Rankings I» tournament.\nSee also: Paints\nInteresting facts\nThe paint was first issued to the winners of the 2nd season of the Masters of the sword tournament:\nMay 26, 2017 - to winners of the Tandem and Trio categories;\nMay 30, 2017 - to the winner of the Solo category;\nMay 31, 2017 - to the winner of the Clans category (Major League).\nPlayers who receive this paint will also receive a unique Spectrum B module with  20% protection against all turrets and mines.\nThe paint was given to the winners of {GAME}Sport Season 1 - Revenge.\nThe paint was given to the winners of Major Rankings I - Diamonds & team defeats.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

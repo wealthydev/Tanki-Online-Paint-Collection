@@ -1,0 +1,27 @@
+{
+  "name": "Pulsar",
+  "rawName": "Pulsar",
+  "item": "920009365545",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "Imagine your wildest dream, as enemy fire turns into stars and the shape of bullets extends into bright colors, pulsating to the beat of the explosions around you. This is Pulsar.",
+  "paint": {
+    "id": "1516883264854",
+    "version": "1775743169743",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264855",
+    "version": "1581391639146"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

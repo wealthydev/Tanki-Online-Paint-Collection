@@ -1,0 +1,25 @@
+{
+  "name": "Tessaract Camo",
+  "rawName": "Tessaract Camo",
+  "item": "920009600620",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A visually disruptive, animated camouflage assembled from nano neon tubes. The overlapping animated patterns together with the black and blue combination unsettles the enemy's vision, reducing the likelihood of getting a direct hit.",
+  "paint": {
+    "id": "1544517461688",
+    "version": "1697183401400",
+    "animated": true
+  },
+  "preview": {
+    "id": "1544518297899",
+    "version": "1581391503136"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

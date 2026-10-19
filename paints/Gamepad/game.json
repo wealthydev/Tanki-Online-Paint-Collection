@@ -1,0 +1,24 @@
+{
+  "name": "Gamepad",
+  "rawName": "Gamepad",
+  "item": "921009710983",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1608911922017",
+    "version": "1775743169148",
+    "animated": false
+  },
+  "preview": {
+    "id": "1608911874898",
+    "version": "1608792448741"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

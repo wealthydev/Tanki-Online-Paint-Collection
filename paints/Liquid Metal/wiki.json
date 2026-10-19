@@ -1,0 +1,26 @@
+{
+  "name": "Liquid Metal",
+  "source": "wiki",
+  "page": "/Liquid_Metal",
+  "type": "Tankoin",
+  "price": {
+    "amount": 1000,
+    "currency": "Rubies",
+    "text": "1 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "The application of this paint requires the steady hand of a master craftsman. A special silver alloy is prepared according to a secret formula and heated to an optimum temperature for the perfect consistency. The master craftsman then pours it onto the tank's surface and blows onto the liquid allow to spread it evenly over the surface, creating a thin, consistent, and beautiful coating.",
+  "interestingFacts": [
+    "Paint appeared on September 13, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "1 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:1 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThe application of this paint requires the steady hand of a master craftsman. A special silver alloy is prepared according to a secret formula and heated to an optimum temperature for the perfect consistency. The master craftsman then pours it onto the tank's surface and blows onto the liquid allow to spread it evenly over the surface, creating a thin, consistent, and beautiful coating.\nSee also: Paints\nInteresting facts\nPaint appeared on September 13, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

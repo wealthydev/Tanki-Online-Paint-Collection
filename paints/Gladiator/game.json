@@ -1,0 +1,24 @@
+{
+  "name": "Gladiator",
+  "rawName": "Gladiator",
+  "item": "920004703858",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to players who reached the «Legends Stage» in a Major tournament.",
+  "paint": {
+    "id": "500133150",
+    "version": "1775743169173",
+    "animated": false
+  },
+  "preview": {
+    "id": "500133155",
+    "version": "1581391476040"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

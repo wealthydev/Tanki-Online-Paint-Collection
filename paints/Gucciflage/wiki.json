@@ -1,0 +1,25 @@
+{
+  "name": "Gucciflage",
+  "source": "wiki",
+  "page": "/Gucciflage",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "The most fashionable camouflage in the game. It provides a perfect combination of hiding techniques and new trends from the spring-summer collection. Create a stylish look and take a selfie on your favorite map!",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThe most fashionable camouflage in the game. It provides a perfect combination of hiding techniques and new trends from the spring-summer collection. Create a stylish look and take a selfie on your favorite map!\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

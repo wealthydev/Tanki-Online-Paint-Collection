@@ -1,0 +1,27 @@
+{
+  "name": "Vanadium",
+  "source": "wiki",
+  "page": "/Vanadium",
+  "type": "Tankoin",
+  "price": {
+    "amount": 2000,
+    "currency": "Rubies",
+    "text": "2 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A coating of Vanadium for your tank. Besides its appealing silver-gray texture, this paint is highly sought due to the scarcity of its main component.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "Prior to the Tankoin update, Vanadium was featured in the shop for 29.99 EUR."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "2 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:2 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA coating of Vanadium for your tank. Besides its appealing silver-gray texture, this paint is highly sought due to the scarcity of its main component.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nPrior to the Tankoin update, Vanadium was featured in the shop for 29.99 EUR.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

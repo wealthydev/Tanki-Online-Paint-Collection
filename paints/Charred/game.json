@@ -1,0 +1,24 @@
+{
+  "name": "Charred",
+  "rawName": "Charred",
+  "item": "920009605677",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "They say an image is worth a thousand words. This paint sends a clear message to your enemies. It tells them, \"This is what you'll look like when I'm done roasting you\".",
+  "paint": {
+    "id": "1561638195645",
+    "version": "1775743168942",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561639193594",
+    "version": "1581391478692"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

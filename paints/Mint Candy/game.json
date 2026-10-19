@@ -1,0 +1,24 @@
+{
+  "name": "Mint Candy",
+  "rawName": "Mint Candy",
+  "item": "931009761273",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1637681384631",
+    "version": "1775743169436",
+    "animated": false
+  },
+  "preview": {
+    "id": "1637681380268",
+    "version": "1637731531923"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

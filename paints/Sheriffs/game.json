@@ -1,0 +1,24 @@
+{
+  "name": "Sheriffs",
+  "rawName": "Sheriffs",
+  "item": "1931009801642",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1695669459097",
+    "version": "1775743170638",
+    "animated": false
+  },
+  "preview": {
+    "id": "1695669458613",
+    "version": "1695669458806"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

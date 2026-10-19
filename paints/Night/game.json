@@ -1,0 +1,27 @@
+{
+  "name": "Night",
+  "rawName": "Night",
+  "item": "920004826767",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 35000
+  },
+  "owned": false,
+  "description": "An ideal paint for night time operations. You will become a nightmare, an embodiment of horror, flying on the wings of the night.",
+  "paint": {
+    "id": "500362858",
+    "version": "1775743169525",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362850",
+    "version": "1581391317315"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

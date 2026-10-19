@@ -1,0 +1,24 @@
+{
+  "name": "Aero",
+  "rawName": "Aero",
+  "item": "920004704694",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is awarded to teams in the International Community for outstanding performance in Parkour. It may only be worn by the craziest daredevils, and due to the highly volatile nature of its particles, it will abandon the owner’s tank if its not fed a regular dose of concentrated adrenaline.",
+  "paint": {
+    "id": "500270450",
+    "version": "1775743168757",
+    "animated": false
+  },
+  "preview": {
+    "id": "500270451",
+    "version": "1585658640675"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

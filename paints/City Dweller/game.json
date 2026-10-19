@@ -1,0 +1,24 @@
+{
+  "name": "City Dweller",
+  "rawName": "City Dweller",
+  "item": "920009661354",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Equipping this paint lets your enemies know that you are a respectable city-dwelling tanker who cares about traffic management and makes use of public transport... before politely blowing up their tank as a gentle reminder that they should use public transport next time.",
+  "paint": {
+    "id": "1583216649127",
+    "version": "1775743169662",
+    "animated": false
+  },
+  "preview": {
+    "id": "1583216649136",
+    "version": "1583216698547"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

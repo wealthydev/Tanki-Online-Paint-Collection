@@ -1,0 +1,27 @@
+{
+  "name": "Apple",
+  "rawName": "Apple",
+  "item": "1931009779872",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "If a tank needs to be camouflaged against the background of vegetation, then it is better to use this paint. The standard green paint is more of a tribute to tradition and copes with this task worse.",
+  "paint": {
+    "id": "1685024059458",
+    "version": "1775743169445",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024058999",
+    "version": "1707988059249"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

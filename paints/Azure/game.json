@@ -1,0 +1,27 @@
+{
+  "name": "Azure",
+  "rawName": "Azure",
+  "item": "920009365530",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "Tanks in this paint will look stunning on the azure beaches of France, in turquoise\nwaters of the ocean around the Maldives, or on the edge of the world in New Zealand. No matter where you go, remarkable vacation guaranteed!",
+  "paint": {
+    "id": "1516883264880",
+    "version": "1775743168829",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264881",
+    "version": "1581391678039"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

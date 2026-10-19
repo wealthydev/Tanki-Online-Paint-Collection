@@ -1,0 +1,27 @@
+{
+  "name": "Zombie",
+  "rawName": "Zombie",
+  "item": "920005371060",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 5000
+  },
+  "owned": false,
+  "description": "Let your enemies burn you, freeze you, rip you to bits and fill your hull with bullets. With this paint, you'll make them understand that they can't kill what's already dead... and no matter what they do, you'll keep coming back!",
+  "paint": {
+    "id": "500368752",
+    "version": "1775743168162",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368753",
+    "version": "1581391661752"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

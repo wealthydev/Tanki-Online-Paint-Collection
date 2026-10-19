@@ -1,0 +1,28 @@
+{
+  "name": "Meteor shower",
+  "rawName": "Meteor shower",
+  "item": "920009597017",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 13000
+  },
+  "owned": false,
+  "description": "Do you like watching the stars fall? Specifically for you we've made a paint full of stars! Looks especially impressive on the night maps, and when other tankers will gather all around you amidst battle, don't be surprised. They are making wishes.",
+  "paint": {
+    "id": "1533632245125",
+    "version": "1697183401363",
+    "animated": true
+  },
+  "preview": {
+    "id": "1533632516034",
+    "version": "1581391371088"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

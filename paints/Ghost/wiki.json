@@ -1,0 +1,26 @@
+{
+  "name": "Ghost",
+  "source": "wiki",
+  "page": "/Ghost",
+  "type": "War",
+  "price": {
+    "amount": 10,
+    "currency": "Tankoins",
+    "text": "10"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint was created as part of the Evil War event and was removed from the players' garages after it ended.",
+    "The paint was obtained to keep forever by completing the special mission “Evil War” and winning the war in the period from October 25 to November 1, 2019."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "10",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:10\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint was created as part of the Evil War event and was removed from the players' garages after it ended.\nThe paint was obtained to keep forever by completing the special mission “Evil War” and winning the war in the period from October 25 to November 1, 2019.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

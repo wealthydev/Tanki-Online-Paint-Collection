@@ -1,0 +1,27 @@
+{
+  "name": "Magnolia",
+  "source": "wiki",
+  "page": "/Magnolia",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Roll into battle with your tank disguised in everblooming flowers and watch the paint suddenly turn into a spot on camouflage",
+  "interestingFacts": [
+    "The paint was available for purchase in a special offer from April 29 to May 10, 2018",
+    "This paint was part of a special Shop offer during the 2018 May Holidays celebrations.",
+    "Also an excellent pattern for picnic blankets."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nRoll into battle with your tank disguised in everblooming flowers and watch the paint suddenly turn into a spot on camouflage\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a special offer from April 29 to May 10, 2018\nThis paint was part of a special Shop offer during the 2018 May Holidays celebrations.\nAlso an excellent pattern for picnic blankets.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

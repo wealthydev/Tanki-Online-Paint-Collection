@@ -1,0 +1,25 @@
+{
+  "name": "Alien Regeneration",
+  "rawName": "Alien Regeneration",
+  "item": "920009605682",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This special paint was been injected with a cosmetically-restorative chemical developed by alien technology. Scratches and dents will appear on your tank as you take damage, but they will appear to mysteriously repair themselves, leaving your enemies confused and creeped out.",
+  "paint": {
+    "id": "1561642918949",
+    "version": "1697183401391",
+    "animated": true
+  },
+  "preview": {
+    "id": "1561645397555",
+    "version": "1581391726326"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

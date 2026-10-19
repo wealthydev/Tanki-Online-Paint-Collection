@@ -1,0 +1,27 @@
+{
+  "name": "Night",
+  "source": "wiki",
+  "page": "/Night",
+  "type": "Garage",
+  "price": {
+    "amount": 35000,
+    "currency": "Crystals",
+    "text": "35 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "An ideal paint for nighttime operations. You will become a nightmare, an embodiment of horror, flying on the wings of the night.",
+  "interestingFacts": [
+    "The paint first appeared on October 31, 2014, as a holiday paint for Halloween.",
+    "Returned on sale July 21, 2016.",
+    "Skilled users of this paint can echolocate in dark maps to reveal enemy locations."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "35 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:35 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nAn ideal paint for nighttime operations. You will become a nightmare, an embodiment of horror, flying on the wings of the night.\nSee also: Paints\nInteresting facts\nThe paint first appeared on October 31, 2014, as a holiday paint for Halloween.\nReturned on sale July 21, 2016.\nSkilled users of this paint can echolocate in dark maps to reveal enemy locations.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

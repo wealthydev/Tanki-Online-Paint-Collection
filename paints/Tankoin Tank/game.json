@@ -1,0 +1,28 @@
+{
+  "name": "Tankoin Tank",
+  "rawName": "Tankoin Tank",
+  "item": "920009626662",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "COIN",
+    "amount": 100000
+  },
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1572424935170",
+    "version": "1697183401427",
+    "animated": true
+  },
+  "preview": {
+    "id": "1572424907830",
+    "version": "1581391729030"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

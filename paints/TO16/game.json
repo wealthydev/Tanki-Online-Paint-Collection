@@ -1,0 +1,24 @@
+{
+  "name": "TO16",
+  "rawName": "TO16",
+  "item": "1931010008177",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1747730315736",
+    "version": "1775743170515",
+    "animated": false
+  },
+  "preview": {
+    "id": "1747730315482",
+    "version": "1747730315734"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

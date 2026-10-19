@@ -1,0 +1,27 @@
+{
+  "name": "Galaxy",
+  "source": "wiki",
+  "page": "/Galaxy",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "If you gaze into this paint long enough, you can see a cat flying through space on a slice of pizza.",
+  "interestingFacts": [
+    "This paint was available in the Shop as part of a special package during the Cosmonautics Day 2018 celebrations from 13 to 16 April 2018.",
+    "Other than Monochrome (sometimes), this is the darkest-colored paint in the game.",
+    "The paint was offered in a special bundle with 20 energy, 10 ultra containers, and 10 coinboxes for 1690 tankoins from April 12-30, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nIf you gaze into this paint long enough, you can see a cat flying through space on a slice of pizza.\nSee also: Paints\nInteresting facts\nThis paint was available in the Shop as part of a special package during the Cosmonautics Day 2018 celebrations from 13 to 16 April 2018.\nOther than Monochrome (sometimes), this is the darkest-colored paint in the game.\nThe paint was offered in a special bundle with 20 energy, 10 ultra containers, and 10 coinboxes for 1690 tankoins from April 12-30, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

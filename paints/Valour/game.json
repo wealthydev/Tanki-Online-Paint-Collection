@@ -1,0 +1,28 @@
+{
+  "name": "Valour",
+  "rawName": "Valour",
+  "item": "920009596451",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 30000
+  },
+  "owned": false,
+  "description": "This paint is given to best fighters in the front line. Show to grandkids your battle-worn tank, covered with this paint and tell them how you battled in 2018, they will be proud of their grandparent!  ",
+  "paint": {
+    "id": "1528893105653",
+    "version": "1697183401553",
+    "animated": true
+  },
+  "preview": {
+    "id": "1528892991264",
+    "version": "1581391366641"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Gladiator",
+  "source": "wiki",
+  "page": "/Gladiator",
+  "type": "eSports",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Exclusive paint awarded to players who have achieved great victories in eSports. This paint is given to players who reached the «Legends Stage» in a Major tournament.",
+  "interestingFacts": [
+    "The paint appeared in the game on June 18, 2013 (Update #163).",
+    "Initially, the paint did not have any protection.",
+    "The paint was previously given to the prize-winners of the {GAME_NAME} Fighting (TOF) tournaments.",
+    "Until 3 June 2014, the paint had the following protections: Twins — 25%;Railgun — 20%;Thunder — 20%;Firebird — 20%.",
+    "With the transition of eSports to StarLadder, the paint was given out to all participants of the Star Series and lost its protection.",
+    "On January 11, 2016, the paint was removed from the garages from all participants of the Star Series.",
+    "On June 4, 2016, paint was given to the winners of the tournament Masters of the Sword.",
+    "At the end of May 2017, the paint was given to the winners of the second season of the tournament \"Masters of the Sword\":\nPlaces 1-8 in the CLANS (Major League) category;\nSecond place in categories: SOLO, TANDEM, and TRIO.",
+    "The paint can be obtained by placing in places 16-9 in one of the eSports Major tournaments.",
+    "Places 1-8 in the CLANS (Major League) category;",
+    "Second place in categories: SOLO, TANDEM, and TRIO."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "eSports",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:eSports\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nExclusive paint awarded to players who have achieved great victories in eSports. This paint is given to players who reached the «Legends Stage» in a Major tournament.\nSee also: Paints\nInteresting facts\nThe paint appeared in the game on June 18, 2013 (Update #163).\nInitially, the paint did not have any protection.\nThe paint was previously given to the prize-winners of the {GAME_NAME} Fighting (TOF) tournaments.\nUntil 3 June 2014, the paint had the following protections: Twins — 25%;Railgun — 20%;Thunder — 20%;Firebird — 20%.\nWith the transition of eSports to StarLadder, the paint was given out to all participants of the Star Series and lost its protection.\nOn January 11, 2016, the paint was removed from the garages from all participants of the Star Series.\nOn June 4, 2016, paint was given to the winners of the tournament Masters of the Sword.\nAt the end of May 2017, the paint was given to the winners of the second season of the tournament \"Masters of the Sword\":\nPlaces 1-8 in the CLANS (Major League) category;\nSecond place in categories: SOLO, TANDEM, and TRIO.\nThe paint can be obtained by placing in places 16-9 in one of the eSports Major tournaments.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

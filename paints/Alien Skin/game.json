@@ -1,0 +1,25 @@
+{
+  "name": "Alien Skin",
+  "rawName": "Alien Skin",
+  "item": "920009607038",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Straight out of {GAME_NAME}'s secret bunker in the quiet town of Chernushka, Russia, this paint was developed from skin graft samples extracted from an alien. It is said that the alien used mind control powers to manipulate its way into {GAME_NAME}'s office. Now it works there as an employee. It is virually undistinguishable from a regular human being. It's only striking characteristic is its shaved head, which acts as a solar panel.",
+  "paint": {
+    "id": "1561715725483",
+    "version": "1697183401479",
+    "animated": true
+  },
+  "preview": {
+    "id": "1561716001422",
+    "version": "1581391308859"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

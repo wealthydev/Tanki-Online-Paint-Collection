@@ -1,0 +1,26 @@
+{
+  "name": "KALASH86RUS",
+  "source": "wiki",
+  "page": "/KALASH86RUS",
+  "type": "Event",
+  "price": {
+    "amount": 100,
+    "currency": "Crystals",
+    "text": "100"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A paint for fans of KALASH86RUS during the competition \"Battle of the Consultants\"",
+  "interestingFacts": [
+    "Released on November 16th, 2012 for the competition \"Battle of the Consultants\"",
+    "The paint was removed from the game after the event concluded."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "100",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:100\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA paint for fans of KALASH86RUS during the competition \"Battle of the Consultants\"\nSee also: Paints\nInteresting facts\nReleased on November 16th, 2012 for the competition \"Battle of the Consultants\"\nThe paint was removed from the game after the event concluded.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

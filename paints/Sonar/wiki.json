@@ -1,0 +1,28 @@
+{
+  "name": "Sonar",
+  "source": "wiki",
+  "page": "/Sonar",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on September 1st, 2020.",
+    "This paint could have been unlocked at Tier 7 of the September 2020 Challenge A.",
+    "This paint was added to containers on February 5th, 2021.",
+    "Taking inspiration from Hornet's scout radar, this paint's appearance evokes a sense of heightened spatial awareness in the tankers who wear it."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on September 1st, 2020.\nThis paint could have been unlocked at Tier 7 of the September 2020 Challenge A.\nThis paint was added to containers on February 5th, 2021.\nTaking inspiration from Hornet's scout radar, this paint's appearance evokes a sense of heightened spatial awareness in the tankers who wear it.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

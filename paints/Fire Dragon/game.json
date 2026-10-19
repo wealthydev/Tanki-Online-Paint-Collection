@@ -1,0 +1,27 @@
+{
+  "name": "Fire dragon",
+  "rawName": "Fire dragon",
+  "item": "920009595691",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 400
+  },
+  "owned": false,
+  "description": "Dragon and fire — two symbols, inspiring fear and awe. Fire is danger, destroying everything in its path. Dragon — legendary beast, terrifying in its power.",
+  "paint": {
+    "id": "1526549595960",
+    "version": "1775743169108",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550746380",
+    "version": "1581391424216"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

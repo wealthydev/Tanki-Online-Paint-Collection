@@ -1,0 +1,27 @@
+{
+  "name": "Calm",
+  "rawName": "Calm",
+  "item": "920004704213",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "Specialized paint for traversing small rivers. It has a hydrophobic coating that quickly deals with moisture on the hull. It does not protect against salt water.",
+  "paint": {
+    "id": "1707227969060",
+    "version": "1775743168913",
+    "animated": false
+  },
+  "preview": {
+    "id": "1707227968556",
+    "version": "1707988260514"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

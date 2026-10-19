@@ -1,0 +1,25 @@
+{
+  "name": "Play-Doh",
+  "source": "wiki",
+  "page": "/Play-Doh",
+  "type": "Tankoin",
+  "price": {
+    "amount": 300,
+    "currency": "Rubies",
+    "text": "300"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Take a box of colorful modeling clay, mix it together and gaze upon curious patterns. Just don't mix it too well, or you'll be left with a sludge of gray.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "300",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:300\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nTake a box of colorful modeling clay, mix it together and gaze upon curious patterns. Just don't mix it too well, or you'll be left with a sludge of gray.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

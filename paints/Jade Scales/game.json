@@ -1,0 +1,24 @@
+{
+  "name": "Jade Scales",
+  "rawName": "Jade Scales",
+  "item": "920009605681",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was inspired by oriental stories of a mysterious dragon whose skin is said to be encrusted with fine specks of jade.",
+  "paint": {
+    "id": "1561638641227",
+    "version": "1775743169306",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561639283309",
+    "version": "1581391683230"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

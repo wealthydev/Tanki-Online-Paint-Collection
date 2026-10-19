@@ -1,0 +1,27 @@
+{
+  "name": "Swamp",
+  "source": "wiki",
+  "page": "/Swamp",
+  "type": "Garage",
+  "price": {
+    "amount": 2000,
+    "currency": "Crystals",
+    "text": "2 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This paint was created after a tank battalion leader accidentally fell asleep, and drove his comrades into a swamp, where a secret operation for training saboteur frogs was being conducted.",
+  "interestingFacts": [
+    "Though a bit smelly, this paint does offer decent camouflage in forested areas.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "2 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:2 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis paint was created after a tank battalion leader accidentally fell asleep, and drove his comrades into a swamp, where a secret operation for training saboteur frogs was being conducted.\nSee also: Paints\nInteresting facts\nThough a bit smelly, this paint does offer decent camouflage in forested areas.\nLegacy paint description:\nA paint that offers decent protection against Twins. Can be real asset in mid-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

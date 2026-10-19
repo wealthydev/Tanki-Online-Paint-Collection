@@ -1,0 +1,24 @@
+{
+  "name": "The Game 2020",
+  "rawName": "The Game 2020",
+  "item": "920009658851",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was created specifically for the winners of the quiz «THE GAME 2020». Owners of this paint are smart and observant, and possess the cerebral skills required to solve the most tricky puzzles, complex ciphers and hidden meanings.",
+  "paint": {
+    "id": "1580899380361",
+    "version": "1775743169144",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580899444241",
+    "version": "1581391315819"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

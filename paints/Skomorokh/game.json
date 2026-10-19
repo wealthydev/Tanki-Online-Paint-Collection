@@ -1,0 +1,24 @@
+{
+  "name": "Skomorokh",
+  "rawName": "Skomorokh",
+  "item": "921009725832",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Skomorokh - an inveterate prankster who fools everyone around. Since ancient times, he entertained people at courtyard with jokes, poems and fairy tales. Is there any special purpose behind it? Maybe it's not that important. An epic paint for those who don't take things too seriously. ",
+  "paint": {
+    "id": "1616582455689",
+    "version": "1775743169876",
+    "animated": false
+  },
+  "preview": {
+    "id": "1616582451289",
+    "version": "1616643341710"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Sandstone",
+  "rawName": "Sandstone",
+  "item": "920004703617",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 6000
+  },
+  "owned": false,
+  "description": "The paint combines the masking properties of sand, with wind-tempered stone. The \"Sandstone\" set comes bundled with bathing trunks or bikini of choice, sunglasses and a parasol.",
+  "paint": {
+    "id": "5006358",
+    "version": "1775743169833",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006343",
+    "version": "1581391364888"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

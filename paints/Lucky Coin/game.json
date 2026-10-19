@@ -1,0 +1,24 @@
+{
+  "name": "Lucky Coin",
+  "rawName": "Lucky Coin",
+  "item": "931009769038",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1647260217453",
+    "version": "1775743169376",
+    "animated": false
+  },
+  "preview": {
+    "id": "1647260217093",
+    "version": "1647260217252"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

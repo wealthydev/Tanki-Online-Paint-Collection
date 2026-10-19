@@ -1,0 +1,28 @@
+{
+  "name": "Living Armor",
+  "source": "wiki",
+  "page": "/Living_Armor",
+  "type": "Tankoin",
+  "price": {
+    "amount": 18000,
+    "currency": "Rubies",
+    "text": "18 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on November 2nd, 2019.",
+    "This paint could have been unlocked at Tier 43 of the November Challenge.",
+    "This paint was added to containers on February 5th, 2021.",
+    "The pattern on this paint is rumored to be a distant, much more mysterious relative of Spinner."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "18 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:18 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on November 2nd, 2019.\nThis paint could have been unlocked at Tier 43 of the November Challenge.\nThis paint was added to containers on February 5th, 2021.\nThe pattern on this paint is rumored to be a distant, much more mysterious relative of Spinner.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

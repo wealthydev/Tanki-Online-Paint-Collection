@@ -1,0 +1,24 @@
+{
+  "name": "Banguins",
+  "rawName": "Banguins",
+  "item": "921009739296",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Purchase this paint to become a fan of this clan and support it in the playoff stage of the tournament. \nThe paint will be removed from your Garage before the playoffs of the next tournament.\nImportant! Upon purchasing this paint, you will no longer be able to purchase the other three fan paints.",
+  "paint": {
+    "id": "1622629896569",
+    "version": "1775743170010",
+    "animated": false
+  },
+  "preview": {
+    "id": "1622629896306",
+    "version": "1622629896411"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

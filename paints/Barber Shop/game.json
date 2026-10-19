@@ -1,0 +1,27 @@
+{
+  "name": "Barber Shop",
+  "rawName": "Barber Shop",
+  "item": "920007005066",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 2000
+  },
+  "owned": false,
+  "description": "A paint for the tanker who values personal grooming and battle skills equally. The paint also gives your tank a soft scent of delicate talcum powder.",
+  "paint": {
+    "id": "500391214",
+    "version": "1775743168838",
+    "animated": false
+  },
+  "preview": {
+    "id": "500391203",
+    "version": "1581391415680"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Savanna",
+  "rawName": "Savanna",
+  "item": "920004703970",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 8000
+  },
+  "owned": false,
+  "description": "Perfect for hiding among thick foliage such as jungle environments. Careful though... gorillas are known to use leaves for \"cleaning\" purposes.",
+  "paint": {
+    "id": "5000257",
+    "version": "1775743169845",
+    "animated": false
+  },
+  "preview": {
+    "id": "5000272",
+    "version": "1581391538030"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cryo",
+  "rawName": "Сryo",
+  "item": "920009600901",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This coating was originally intended to protect against the effects of Firebird by using a periodic cooling mechanism. Unfortunately, when actually tested in a real battle, the mechanism malfunctioned and kept freezing the tank every few seconds, turning it into a very cold sitting duck. That said, the paint still looks cool, so its creators decided to dump the cooling mechanism and keep the paint exclusively for cosmetic purposes.",
+  "paint": {
+    "id": "1548248287559",
+    "version": "1697183401524",
+    "animated": true
+  },
+  "preview": {
+    "id": "1548250085968",
+    "version": "1581391698423"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Jade",
+  "source": "wiki",
+  "page": "/Jade",
+  "type": "Garage",
+  "price": {
+    "amount": 30000,
+    "currency": "Crystals",
+    "text": "30 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "A spray from a rare brown jade. Beautiful, perfect for camouflage, and ecologically friendly.",
+  "interestingFacts": [
+    "Paint first appeared on September 22, 2011.",
+    "Prior to the Paint Separation Update, Jade was worth 159,000 crystals and could be bought from the rank of Lieutenant General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "30 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:30 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nA spray from a rare brown jade. Beautiful, perfect for camouflage, and ecologically friendly.\nSee also: Paints\nInteresting facts\nPaint first appeared on September 22, 2011.\nPrior to the Paint Separation Update, Jade was worth 159,000 crystals and could be bought from the rank of Lieutenant General.\nLegacy paint description:\nA paint that provides some of the best protection against Shaft and also somewhat lessens the damage done by Smoky, Hammer and Thunder. Works well at any range and gives your tank a mineral look.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Moss",
+  "rawName": "Moss",
+  "item": "920004959721",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 70000
+  },
+  "owned": false,
+  "description": "Blend in with the forest environment when stalking your enemies. But remember, moss does not usually move, nor does it fire at tanks, so doing any of those things might draw attention to your presence.",
+  "paint": {
+    "id": "500364207",
+    "version": "1775743169486",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364216",
+    "version": "1581391408946"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

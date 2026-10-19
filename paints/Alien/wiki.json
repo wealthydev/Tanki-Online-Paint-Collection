@@ -1,0 +1,27 @@
+{
+  "name": "Alien",
+  "source": "wiki",
+  "page": "/Alien",
+  "type": "Garage",
+  "price": {
+    "amount": 150000,
+    "currency": "Crystals",
+    "text": "150 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Rumor has it that this camouflage is a replica of the cover of an alien ship that was knocked down in the last century by the forces of <WARNING: This information is classified — Further inquiries on the matter will be met with deadly force.>",
+  "interestingFacts": [
+    "On the 10th of April 2020, Alien's unlock rank was lowered from First Sergeant to Recruit.",
+    "⌿⟒⍀⊑⏃⌿⌇ ⊬⍜⎍ ⏃⍀⟒ ⏁⊑⟒ ⏃⌰⟟⟒⋏, ⏃⋏⎅ ⏁⊑⟒ ⌰⟟⏁⏁⌰⟒ ☌⍀⟒⟒⋏ ⋔⏃⋏ ⟟⌇ ⏁⊑⟒ ⍜⋏⟒ ⍙⊑⍜ ⏃☊⏁⎍⏃⌰⌰⊬ ⍜⌿⟒⍀⏃⏁⟒⌇ ⊬⍜⎍⍀ ⏁⏃⋏☍",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "150 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:150 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nRumor has it that this camouflage is a replica of the cover of an alien ship that was knocked down in the last century by the forces of <WARNING: This information is classified — Further inquiries on the matter will be met with deadly force.>\nSee also: Paints\nInteresting facts\nOn the 10th of April 2020, Alien's unlock rank was lowered from First Sergeant to Recruit.\n⌿⟒⍀⊑⏃⌿⌇ ⊬⍜⎍ ⏃⍀⟒ ⏁⊑⟒ ⏃⌰⟟⟒⋏, ⏃⋏⎅ ⏁⊑⟒ ⌰⟟⏁⏁⌰⟒ ☌⍀⟒⟒⋏ ⋔⏃⋏ ⟟⌇ ⏁⊑⟒ ⍜⋏⟒ ⍙⊑⍜ ⏃☊⏁⎍⏃⌰⌰⊬ ⍜⌿⟒⍀⏃⏁⟒⌇ ⊬⍜⎍⍀ ⏁⏃⋏☍\nLegacy paint description:\nA paint that protects from Isida beams and slightly reduces the damage inflicted by Thunder and Freeze. Useful in short to mid range battles. Has a dark black/red texture.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

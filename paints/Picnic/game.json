@@ -1,0 +1,24 @@
+{
+  "name": "Picnic",
+  "rawName": "Picnic",
+  "item": "920009597230",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "How wonderful it is to go to a park, lay down the blanket, put down the dishes and desserts. Make a peanut butter jelly sandwich, and change the engine oil... What a sight!",
+  "paint": {
+    "id": "1535007054266",
+    "version": "1775743169993",
+    "animated": false
+  },
+  "preview": {
+    "id": "1535007054274",
+    "version": "1581391337396"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

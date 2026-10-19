@@ -1,0 +1,24 @@
+{
+  "name": "Event Recyclable 1",
+  "rawName": "Event Recyclable 1",
+  "item": "920004703738",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Event Recyclable",
+  "paint": {
+    "id": "500355361",
+    "version": "1775743167993",
+    "animated": false
+  },
+  "preview": {
+    "id": "500355365",
+    "version": "1581391581558"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

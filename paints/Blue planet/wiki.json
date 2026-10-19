@@ -1,0 +1,28 @@
+{
+  "name": "Blue planet",
+  "source": "wiki",
+  "page": "/Blue_planet",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint is modeled after planet Earth, with its lush forests, roaring oceans, imposing mountains, and expansive deserts. Even if we colonize other planets in the future, this is the one we'll always call home.",
+  "interestingFacts": [
+    "One of three colors created for the July event \"War for Space\".",
+    "Paint could be received as a reward for completing the challenges of the challenge (08/01/2019 - 08/29/2019) with a Battle Pass.",
+    "The paint was also named Earth.",
+    "If the artist who designed this paint had a bit more time to craft it, he probably would have included some happy little trees."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint is modeled after planet Earth, with its lush forests, roaring oceans, imposing mountains, and expansive deserts. Even if we colonize other planets in the future, this is the one we'll always call home.\nSee also: Paints\nInteresting facts\nOne of three colors created for the July event \"War for Space\".\nPaint could be received as a reward for completing the challenges of the challenge (08/01/2019 - 08/29/2019) with a Battle Pass.\nThe paint was also named Earth.\nIf the artist who designed this paint had a bit more time to craft it, he probably would have included some happy little trees.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

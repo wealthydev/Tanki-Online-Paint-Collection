@@ -1,0 +1,26 @@
+{
+  "name": "Prodigy 2.0",
+  "source": "wiki",
+  "page": "/Prodigy_2.0",
+  "type": "Tankoin",
+  "price": {
+    "amount": 10000,
+    "currency": "Rubies",
+    "text": "10 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Classic paint \"Prodigi\" wasn't fit for the prairie regions — the static texture of the paint drew attention to the tank. To solve this problem, a new, animated version of the paint was developed.",
+  "interestingFacts": [
+    "This paint was available in the Shop as part of a special package during the Iron Days 2018 celebrations from 24 to February 26, 2018.",
+    "This paint offers excellent camouflage in tall grasslands, where you will look like no more than a rustle of stems in wind. Also blends in well inside military wardrobes."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "10 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:10 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nClassic paint \"Prodigi\" wasn't fit for the prairie regions — the static texture of the paint drew attention to the tank. To solve this problem, a new, animated version of the paint was developed.\nSee also: Paints\nInteresting facts\nThis paint was available in the Shop as part of a special package during the Iron Days 2018 celebrations from 24 to February 26, 2018.\nThis paint offers excellent camouflage in tall grasslands, where you will look like no more than a rustle of stems in wind. Also blends in well inside military wardrobes.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

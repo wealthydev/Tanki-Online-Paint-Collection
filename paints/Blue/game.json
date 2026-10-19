@@ -1,0 +1,27 @@
+{
+  "name": "Blue",
+  "rawName": "Blue",
+  "item": "1931009779875",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": false,
+  "description": "This paint was added to the official list in memory of a failed project - the development of an amphibious tank codenamed \"Catfish\". Designers were planning on giving the \"Catfish\" the ability to move beneath the waters of shallow rivers, allowing it to take position behind enemy lines. The blue color would have been perfect for camouflage.",
+  "paint": {
+    "id": "1685024219199",
+    "version": "1775743169454",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685024218743",
+    "version": "1707988236118"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Blacksmith",
+  "rawName": "Blacksmith",
+  "item": "920004704338",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 225000
+  },
+  "owned": false,
+  "description": "A tribute to the master craftsmen who shape steel into works of deadly art in the blistering heat of the forge.",
+  "paint": {
+    "id": "500313714",
+    "version": "1775743168881",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313702",
+    "version": "1581391503449"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

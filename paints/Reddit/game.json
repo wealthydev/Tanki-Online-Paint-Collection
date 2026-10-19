@@ -1,0 +1,24 @@
+{
+  "name": "Reddit",
+  "rawName": "Reddit",
+  "item": "1931009801972",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "You can obtain this paint by subscribing to {GAME_NAME} on Reddit. Thanks for your support!",
+  "paint": {
+    "id": "1700053745278",
+    "version": "1775743169790",
+    "animated": false
+  },
+  "preview": {
+    "id": "1700053744767",
+    "version": "1700053744979"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

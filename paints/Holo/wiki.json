@@ -1,0 +1,26 @@
+{
+  "name": "Holo",
+  "source": "wiki",
+  "page": "/Holo",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This holo-projector could project any image. But its flash drive has malfunctioned, so it's stuck showing the same image over and over again.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (03/02/2019 - 03/29/2019) with a battle pass.",
+    "Contrary to what the name sounds like, your tank is still very much full of HP and supplies."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis holo-projector could project any image. But its flash drive has malfunctioned, so it's stuck showing the same image over and over again.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (03/02/2019 - 03/29/2019) with a battle pass.\nContrary to what the name sounds like, your tank is still very much full of HP and supplies.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

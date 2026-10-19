@@ -1,0 +1,28 @@
+{
+  "name": "Adam and Eve",
+  "source": "wiki",
+  "page": "/Adam_and_Eve",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "This paint was added to the game on November 2nd, 2019.",
+    "This paint could have been unlocked at Tier 28 of November 2019 Challenge.",
+    "On November 15th, 2019, the paint was redone.",
+    "On April 29th, 2020, it was added to containers."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThis paint was added to the game on November 2nd, 2019.\nThis paint could have been unlocked at Tier 28 of November 2019 Challenge.\nOn November 15th, 2019, the paint was redone.\nOn April 29th, 2020, it was added to containers.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

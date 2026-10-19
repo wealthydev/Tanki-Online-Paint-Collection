@@ -1,0 +1,25 @@
+{
+  "name": "Vertigo",
+  "rawName": "Vertigo",
+  "item": "920009365555",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "It's better not to look at this paint for too long, since the combination of rotating lines and geometrical shapes may strike you off balance. You've been warned!",
+  "paint": {
+    "id": "1516959754358",
+    "version": "1697183401526",
+    "animated": true
+  },
+  "preview": {
+    "id": "1516960021131",
+    "version": "1581391365611"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "New Year 2017",
+  "source": "wiki",
+  "page": "/New_Year_2017",
+  "type": "Event",
+  "price": {
+    "amount": 150000,
+    "currency": "Crystals",
+    "text": "150 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours on the battlefield.",
+  "interestingFacts": [
+    "The paint was available for purchase for 150,000 crystals from December 24, 2016, until January 9, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "150 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:150 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA coating assembled out of steel micro-fibers, which give it a rugged and weathered look. Ideal for the warrior who has spent countless hours on the battlefield.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase for 150,000 crystals from December 24, 2016, until January 9, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

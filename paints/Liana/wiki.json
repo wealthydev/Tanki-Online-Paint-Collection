@@ -1,0 +1,28 @@
+{
+  "name": "Liana",
+  "source": "wiki",
+  "page": "/Liana",
+  "type": "Tankoin",
+  "price": {
+    "amount": 15000,
+    "currency": "Rubies",
+    "text": "15 000"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint is a natural wonder. And unlike many other \"living\" colors, this one moves due to the rare species of lianas that coat the tank. The homeland of this rare plant in Eastern Laos.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass.",
+    "Paint can also be obtained from a container.",
+    "During the Ultra Weekend July 30th to August 2nd 2021, this paint could be obtained from a bundle in the shop.",
+    "If you concentrate, you can direct your vines to ensnare nearby enemies. Or at least, that's what it looks like."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "15 000",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:15 000\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint is a natural wonder. And unlike many other \"living\" colors, this one moves due to the rare species of lianas that coat the tank. The homeland of this rare plant in Eastern Laos.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (02/01/2019 - 03/01/2019) with a battle pass.\nPaint can also be obtained from a container.\nDuring the Ultra Weekend July 30th to August 2nd 2021, this paint could be obtained from a bundle in the shop.\nIf you concentrate, you can direct your vines to ensnare nearby enemies. Or at least, that's what it looks like.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

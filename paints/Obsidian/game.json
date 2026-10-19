@@ -1,0 +1,24 @@
+{
+  "name": "Obsidian",
+  "rawName": "Obsidian",
+  "item": "920009601652",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Obsidian is a volcanic glass created by nature itself. Rock formation of stunning beauty is used in jewelry and even tank decoration.",
+  "paint": {
+    "id": "1556169642383",
+    "version": "1775743169537",
+    "animated": false
+  },
+  "preview": {
+    "id": "1556170279591",
+    "version": "1581391457055"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

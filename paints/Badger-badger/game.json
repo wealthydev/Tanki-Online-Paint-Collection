@@ -1,0 +1,25 @@
+{
+  "name": "Badger-badger",
+  "rawName": "Badger-badger",
+  "item": "920009610625",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint has nothing to do with badgers. That is, unless you're old enough to remember a certain Flash video featuring a particularly catchy (and eventually very annoying) song about badgers and mushrooms. Look it up. You're welcome.",
+  "paint": {
+    "id": "1564476936860",
+    "version": "1697183401519",
+    "animated": true
+  },
+  "preview": {
+    "id": "1564476936864",
+    "version": "1581391547238"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

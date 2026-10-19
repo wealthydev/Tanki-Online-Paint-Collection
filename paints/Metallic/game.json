@@ -1,0 +1,27 @@
+{
+  "name": "Metallic",
+  "rawName": "Metallic",
+  "item": "920004703975",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "There is the misconception that this paint is intended as a replacement for varnishing surfaces. In reality, the reflective nature of this paint is intended to interfere with tracking and radar devices.",
+  "paint": {
+    "id": "58825",
+    "version": "1775743169714",
+    "animated": false
+  },
+  "preview": {
+    "id": "58899",
+    "version": "1707988407527"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

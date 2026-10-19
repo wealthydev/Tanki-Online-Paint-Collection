@@ -1,0 +1,27 @@
+{
+  "name": "Africa",
+  "rawName": "Africa",
+  "item": "920004704692",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 400000
+  },
+  "owned": true,
+  "description": "This paint features traditional African patterns used by African shamans with the belief that it can protect tanks from harm.",
+  "paint": {
+    "id": "500313713",
+    "version": "1775743168761",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313701",
+    "version": "1581391388697"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

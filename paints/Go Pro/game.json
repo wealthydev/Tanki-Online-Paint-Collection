@@ -1,0 +1,24 @@
+{
+  "name": "Go Pro",
+  "rawName": "Go Pro",
+  "item": "920009652016",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Buy this paint and become a fan of Clan \"Go Pro\" in the Clan Championship XII playoffs.\n\nImportant! Upon purchasing this paint, the other three fan paints will become unavailable.",
+  "paint": {
+    "id": "1577177910685",
+    "version": "1775743169184",
+    "animated": false
+  },
+  "preview": {
+    "id": "1577177737087",
+    "version": "1581391737660"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Griller",
+  "rawName": "Griller",
+  "item": "920009626656",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1572428111343",
+    "version": "1775743169229",
+    "animated": false
+  },
+  "preview": {
+    "id": "1572427085838",
+    "version": "1581391437262"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

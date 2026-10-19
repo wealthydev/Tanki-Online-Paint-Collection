@@ -1,0 +1,27 @@
+{
+  "name": "Stained glass",
+  "rawName": "Stained glass",
+  "item": "920009595699",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "Hundreds of colorful pieces of glass form a gorgeous painting that sends sunrays flying through your favorite summer map.",
+  "paint": {
+    "id": "1526550456973",
+    "version": "1775743170602",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526551026994",
+    "version": "1581391756272"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

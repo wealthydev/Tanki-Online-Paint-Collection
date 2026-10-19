@@ -1,0 +1,24 @@
+{
+  "name": "Pumpkins",
+  "rawName": "Pumpkins",
+  "item": "920009107052",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The moon is full and bright, the dead are seen, it's the pumpkin season — it's Halloween! Available only during the holiday celebrations for Halloween 2017.",
+  "paint": {
+    "id": "500413650",
+    "version": "1775743168165",
+    "animated": false
+  },
+  "preview": {
+    "id": "500414750",
+    "version": "1581391400809"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

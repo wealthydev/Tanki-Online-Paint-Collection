@@ -1,0 +1,24 @@
+{
+  "name": "Coffin lid",
+  "rawName": "Coffin lid",
+  "item": "1931010010401",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1791893235125",
+    "version": "1791893241541",
+    "animated": false
+  },
+  "preview": {
+    "id": "1791893234865",
+    "version": "1791893235122"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

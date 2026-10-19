@@ -1,0 +1,27 @@
+{
+  "name": "Drought",
+  "source": "wiki",
+  "page": "/Drought",
+  "type": "Tankoin",
+  "price": {
+    "amount": 2000,
+    "currency": "Rubies",
+    "text": "2 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "The Drought paint gives your enemies a preview of the desolation and destruction you will bring into the arena. Nothing survives the Drought... and nothing survives you.",
+  "interestingFacts": [
+    "Paint appeared on September 13, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "You're gonna need a bigger water bottle."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "2 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:2 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThe Drought paint gives your enemies a preview of the desolation and destruction you will bring into the arena. Nothing survives the Drought... and nothing survives you.\nSee also: Paints\nInteresting facts\nPaint appeared on September 13, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nYou're gonna need a bigger water bottle.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

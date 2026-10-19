@@ -1,0 +1,25 @@
+{
+  "name": "Lilac Petals",
+  "source": "wiki",
+  "page": "/Lilac_Petals",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This vivid paint represents the fiery valor inside a tanker's heart. It reminds opponents that this tanker will fight on till the very end, even when cornered, overwhelmed, and down to the last bullet.",
+  "interestingFacts": [
+    "This paint was available in the shop as part of a special bundle during the 2017 Women's Day celebrations on March 8, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis vivid paint represents the fiery valor inside a tanker's heart. It reminds opponents that this tanker will fight on till the very end, even when cornered, overwhelmed, and down to the last bullet.\nSee also: Paints\nInteresting facts\nThis paint was available in the shop as part of a special bundle during the 2017 Women's Day celebrations on March 8, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

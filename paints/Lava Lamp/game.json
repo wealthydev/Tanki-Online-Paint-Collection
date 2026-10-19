@@ -1,0 +1,25 @@
+{
+  "name": "Lava Lamp",
+  "rawName": "Lava Lamp",
+  "item": "920009600631",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is infused with a liquifying element that makes it twist and swirl in a hypnotic motion. The movement resembles that of the wax mixture inside a lava lamp.",
+  "paint": {
+    "id": "1544523822275",
+    "version": "1697183401467",
+    "animated": true
+  },
+  "preview": {
+    "id": "1544524927960",
+    "version": "1581391732707"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

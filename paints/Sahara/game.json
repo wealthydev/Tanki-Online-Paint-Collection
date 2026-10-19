@@ -1,0 +1,27 @@
+{
+  "name": "Sahara",
+  "rawName": "Sahara",
+  "item": "920004959841",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 60000
+  },
+  "owned": true,
+  "description": "Become one with the mystical Sahara desert. Your tank will take on the appearance of a great sand dune, intimidating your enemies, reminding them that nothing survives the all-consuming power of the great desert.",
+  "paint": {
+    "id": "500364208",
+    "version": "1775743169826",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364217",
+    "version": "1581391343177"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

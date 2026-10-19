@@ -1,0 +1,24 @@
+{
+  "name": "White planet",
+  "rawName": "White planet",
+  "item": "920009611366",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Second planet from the Sun, Venus would be a rather unpleasant place to live. With surface temperatures hot enough to melt lead, Venus is pretty much the equivalent of hell.",
+  "paint": {
+    "id": "1564486675927",
+    "version": "1775743170588",
+    "animated": false
+  },
+  "preview": {
+    "id": "1564486675930",
+    "version": "1581391498585"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

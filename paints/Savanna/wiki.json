@@ -1,0 +1,28 @@
+{
+  "name": "Savanna",
+  "source": "wiki",
+  "page": "/Savanna",
+  "type": "Garage",
+  "price": {
+    "amount": 8000,
+    "currency": "Crystals",
+    "text": "8 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "Perfect for hiding among thick foliage such as jungle environments. Careful though... gorillas are known to use leaves for \"cleaning\" purposes.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Savanna was worth 129,000 crystals and was obtainable at the rank of Brigadier.",
+    "Savana's garage description was also changed on July 14, 2016 to reflect the Paint Separation Update.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "8 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:8 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nPerfect for hiding among thick foliage such as jungle environments. Careful though... gorillas are known to use leaves for \"cleaning\" purposes.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Savanna was worth 129,000 crystals and was obtainable at the rank of Brigadier.\nSavana's garage description was also changed on July 14, 2016 to reflect the Paint Separation Update.\nLegacy paint description:\nA paint that works well against Smoky and provides good protection against Railgun and Ricochet. Works well with mid to long-range battles. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

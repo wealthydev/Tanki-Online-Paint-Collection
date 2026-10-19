@@ -1,0 +1,25 @@
+{
+  "name": "Touch of chill",
+  "rawName": "Touch of chill",
+  "item": "920009600750",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "If you're the kind of tanker who remains cool and relaxed even in the most heated of battles, this animated paint is for you. It tells your enemies that nothing can unsettle you. You remain calm as a snowflake and deadly as a blizzard.",
+  "paint": {
+    "id": "1545326731277",
+    "version": "1697183401435",
+    "animated": true
+  },
+  "preview": {
+    "id": "1545325324592",
+    "version": "1581391431953"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

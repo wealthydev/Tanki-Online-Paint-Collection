@@ -1,0 +1,27 @@
+{
+  "name": "Raccoon",
+  "rawName": "Raccoon",
+  "item": "920004704691",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 210000
+  },
+  "owned": false,
+  "description": "This paint is one of three mandatory possessions for all members of the Worldwide Racoon Club. The jacket and the tie are only awarded after the initiate has achieved the status of \"Cute Racoon\". It's serious business.",
+  "paint": {
+    "id": "500313722",
+    "version": "1775743169763",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313950",
+    "version": "1581391409243"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alien abduction",
+  "rawName": "Alien abduction",
+  "item": "920009601560",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "After having been abducted by aliens, a patient began to draw peculiar designs. Every day the design was new, but the colors and style were the same. In an attempt to understand the phenomenon, scientists turned these designs into an animation.\n\nWas this an abduction, or just inspiration? We'll never know.",
+  "paint": {
+    "id": "1554960364038",
+    "version": "1697183401522",
+    "animated": true
+  },
+  "preview": {
+    "id": "1554962811961",
+    "version": "1581391709835"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

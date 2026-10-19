@@ -1,0 +1,24 @@
+{
+  "name": "New Year Gift",
+  "rawName": "New Year Gift",
+  "item": "920009276300",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "How to warm the heart of every grumpy tanker? With a holiday gift and a newly wrapped tank under the tree! The paint is designed for New Year 2018 celebrations.",
+  "paint": {
+    "id": "1513667057599",
+    "version": "1775743168456",
+    "animated": false
+  },
+  "preview": {
+    "id": "1513667249220",
+    "version": "1581391561249"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

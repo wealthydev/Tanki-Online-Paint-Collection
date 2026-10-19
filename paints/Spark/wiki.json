@@ -1,0 +1,27 @@
+{
+  "name": "Spark",
+  "source": "wiki",
+  "page": "/Spark",
+  "type": "Garage",
+  "price": {
+    "amount": 200000,
+    "currency": "Crystals",
+    "text": "200 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Fairy lights, stage lights, music of the spheres - this paint can be described using many words, but none of them can ever fully describe it. The \"Spark\" paint is chosen by those tankers for whom the tank is not only a battle machine, but also a means of expression.",
+  "interestingFacts": [
+    "Paint appeared on July 29, 2010.",
+    "Prior to the Paint Separation Update, Spark was worth 79,500 crystals and could be bought from the rank of Captain.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "200 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:200 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nFairy lights, stage lights, music of the spheres - this paint can be described using many words, but none of them can ever fully describe it. The \"Spark\" paint is chosen by those tankers for whom the tank is not only a battle machine, but also a means of expression.\nSee also: Paints\nInteresting facts\nPaint appeared on July 29, 2010.\nPrior to the Paint Separation Update, Spark was worth 79,500 crystals and could be bought from the rank of Captain.\nLegacy paint description:\nA paint that offers average protection against Firebird and Twins, and a solid defence against Ricochet. Good for close to mid-range battles. It will embellish your tank with sparks.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

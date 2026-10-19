@@ -1,0 +1,24 @@
+{
+  "name": "Venus",
+  "rawName": "Venus",
+  "item": "920009606352",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "One of three paints created for the WAR for Space event in July.\n\nSecond planet from the Sun, Venus would be a rather unpleasant place to live. With surface temperatures hot enough to melt lead, Venus is pretty much the equivalent of hell.",
+  "paint": {
+    "id": "1561697330121",
+    "version": "1775743168614",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561697446692",
+    "version": "1581391614200"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

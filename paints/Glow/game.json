@@ -1,0 +1,25 @@
+{
+  "name": "Glow",
+  "rawName": "Glow",
+  "item": "921009744320",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": true,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1625640483394",
+    "version": "1697183401450",
+    "animated": true
+  },
+  "preview": {
+    "id": "1625640483031",
+    "version": "1625640483162"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

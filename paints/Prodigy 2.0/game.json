@@ -1,0 +1,28 @@
+{
+  "name": "Prodigy 2.0",
+  "rawName": "Prodigy 2.0",
+  "item": "920009431051",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 10000
+  },
+  "owned": false,
+  "description": "Classic paint \"Prodigy\" wasn't fit for the prairie regions — the static texture of the paint drew attention to the tank. To solve this problem, a new, animated version of the paint was developed.",
+  "paint": {
+    "id": "1519200811356",
+    "version": "1697183401511",
+    "animated": true
+  },
+  "preview": {
+    "id": "1519213534691",
+    "version": "1581391714860"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

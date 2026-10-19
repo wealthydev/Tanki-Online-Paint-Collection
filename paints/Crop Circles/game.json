@@ -1,0 +1,24 @@
+{
+  "name": "Crop Circles",
+  "rawName": "Crop Circles",
+  "item": "920009607037",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Is there intelligent life out there? Has it visited our planet? Some say that the mysterious \"Crop Circles\" that seem to appear overnight in various parts of the world, are a coded message from our interstellar cousins. The only thing we really know for sure, is that they look super slick on your tank.",
+  "paint": {
+    "id": "1561706282952",
+    "version": "1775743168595",
+    "animated": false
+  },
+  "preview": {
+    "id": "1561706329889",
+    "version": "1581391492652"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

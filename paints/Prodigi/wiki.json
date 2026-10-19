@@ -1,0 +1,27 @@
+{
+  "name": "Prodigi",
+  "source": "wiki",
+  "page": "/Prodigi",
+  "type": "Garage",
+  "price": {
+    "amount": 55000,
+    "currency": "Crystals",
+    "text": "55 000"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "An enhanced digital paint with a pattern that is intended to distract and disorient your enemy, making them more likely to miss when firing at you.",
+  "interestingFacts": [
+    "Paint first appeared on August 26, 2010.",
+    "Prior to the Paint Separation Update, Prodigi was worth 192,500 crystals and could be bought from the rank of Marshal.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "55 000",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:55 000\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nAn enhanced digital paint with a pattern that is intended to distract and disorient your enemy, making them more likely to miss when firing at you.\nSee also: Paints\nInteresting facts\nPaint first appeared on August 26, 2010.\nPrior to the Paint Separation Update, Prodigi was worth 192,500 crystals and could be bought from the rank of Marshal.\nLegacy paint description:\nA universal paint that provides protection from Firebird, Railgun, Thunder and Shaft. Works well at any range and masks your tank by giving it a minimalist pattern.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

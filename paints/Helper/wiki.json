@@ -1,0 +1,30 @@
+{
+  "name": "Helper",
+  "source": "wiki",
+  "page": "/Helper",
+  "type": "Award",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A unique paint that protects its owner from all types of weapons. It is only issued to the best helpers of the project. For them, {GAME_NAME} is more than just a game.",
+  "interestingFacts": [
+    "Paint appeared on November 7, 2013.",
+    "The helpers who receive this paint also receive a unique Spectrum B module with  20% protection against all turrets and mines.",
+    "With the release of new protective paints on January 29 and February 6, 2015, the paint acquired protection from Hammer, Vulcan, and Mines.",
+    "Before the separation of paints and protections (07/14/2016), the paint had the protection of 18% from all turrets and mines.",
+    "Paint is given to the best helpers of the month.",
+    "Paint will be available in administration assistants' garages as long as they remain on the list of the best helper."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Award",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Award\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA unique paint that protects its owner from all types of weapons. It is only issued to the best helpers of the project. For them, {GAME_NAME} is more than just a game.\nSee also: Paints\nInteresting facts\nPaint appeared on November 7, 2013.\nThe helpers who receive this paint also receive a unique Spectrum B module with  20% protection against all turrets and mines.\nWith the release of new protective paints on January 29 and February 6, 2015, the paint acquired protection from Hammer, Vulcan, and Mines.\nBefore the separation of paints and protections (07/14/2016), the paint had the protection of 18% from all turrets and mines.\nPaint is given to the best helpers of the month.\nPaint will be available in administration assistants' garages as long as they remain on the list of the best helper.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

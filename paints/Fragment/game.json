@@ -1,0 +1,24 @@
+{
+  "name": "Fragment",
+  "rawName": "Fragment",
+  "item": "1931009801597",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "They say that real collectors are interested not in the things themselves, but rather in their essence and the idea. Likewise, the tankers participating in the \"Assemble a Tank\" event show their interest and riskiness in finding the necessary parts. Assembling a tank is not easy, but really, really hard!",
+  "paint": {
+    "id": "1693404723478",
+    "version": "1775743169128",
+    "animated": false
+  },
+  "preview": {
+    "id": "1693404723002",
+    "version": "1693404723194"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Master of Parkour 2016",
+  "rawName": "Master of Parkour 2016",
+  "item": "920005522441",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is the prize for the «Masters of Parkour» contest that took place in 2016.",
+  "paint": {
+    "id": "500370500",
+    "version": "1775743169406",
+    "animated": false
+  },
+  "preview": {
+    "id": "500370501",
+    "version": "1581391617750"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

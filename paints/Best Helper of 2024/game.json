@@ -1,0 +1,24 @@
+{
+  "name": "Best Helper of 2024",
+  "rawName": "Best Helper of 2024",
+  "item": "1931010007153",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint was created especially for the most active, diligent and hardworking helpers of 2024. These are those members of the helpers community who dedicated their whole year in helping other tankers and maintaining the order in the {GAME_NAME} community. The owners of this paint are a shining example of dedication and devotion, and they are truly worthy of the title \"Best Helper of the Year\".",
+  "paint": {
+    "id": "1734519495564",
+    "version": "1775743168875",
+    "animated": false
+  },
+  "preview": {
+    "id": "1734519495315",
+    "version": "1734519495563"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

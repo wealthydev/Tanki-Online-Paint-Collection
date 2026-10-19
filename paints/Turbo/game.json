@@ -1,0 +1,25 @@
+{
+  "name": "Turbo",
+  "rawName": "Turbo",
+  "item": "920009608639",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Speed through the arena like a blazing ball of fire. Let your enemies know that you're way too hot to handle.",
+  "paint": {
+    "id": "1563273676640",
+    "version": "1697183401454",
+    "animated": true
+  },
+  "preview": {
+    "id": "1563273664230",
+    "version": "1581391644306"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

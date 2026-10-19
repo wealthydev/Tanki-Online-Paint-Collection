@@ -1,0 +1,27 @@
+{
+  "name": "Lumberjack",
+  "rawName": "Lumberjack",
+  "item": "920004704690",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 160000
+  },
+  "owned": false,
+  "description": "A lumberjack's shirt represents strength and endurance to the hardships of manual labor. This paint borrows from that pattern to imbue the same values into the tank that wears it.",
+  "paint": {
+    "id": "500313721",
+    "version": "1775743169378",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313709",
+    "version": "1581391678743"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

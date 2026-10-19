@@ -1,0 +1,26 @@
+{
+  "name": "Eruption",
+  "source": "wiki",
+  "page": "/Eruption",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "Powerful explosion, black clouds of ash, rivers of searing lava, destroying everything in its path — this paint will make your tank a true disaster for your enemies.",
+  "interestingFacts": [
+    "Paint was added to containers on May 18, 2018.",
+    "If you put a magic ring on your barrel while wearing this paint, it'll make your tank invisible. Unfortunately, you'll also melt the ring and destroy it forever, but I suppose it'll be fun while it lasts."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nPowerful explosion, black clouds of ash, rivers of searing lava, destroying everything in its path — this paint will make your tank a true disaster for your enemies.\nSee also: Paints\nInteresting facts\nPaint was added to containers on May 18, 2018.\nIf you put a magic ring on your barrel while wearing this paint, it'll make your tank invisible. Unfortunately, you'll also melt the ring and destroy it forever, but I suppose it'll be fun while it lasts.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tarantula",
+  "rawName": "Tarantula",
+  "item": "920009601650",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Spidertank Spidertank\nDoes whatever a tanker can\nShoot a tank any size\nHave a friendship with all you guys\nLook out, here comes the Spidertank",
+  "paint": {
+    "id": "1556170083881",
+    "version": "1775743170240",
+    "animated": false
+  },
+  "preview": {
+    "id": "1556170535432",
+    "version": "1581391733144"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

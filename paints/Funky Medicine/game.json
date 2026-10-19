@@ -1,0 +1,25 @@
+{
+  "name": "Funky medicine",
+  "rawName": "Funky medicine",
+  "item": "920009656666",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Sometimes things go wrong even in pharmacy. In this case, an attempt to produce an exotic medicine for tankers failed. It was supposed to be in every supply box. But it suddenly turned pink...  After that, it was planned to be disposed, but someone came up with the idea to apply it to a tank. Looks pretty good too!",
+  "paint": {
+    "id": "1580126480800",
+    "version": "1697183401472",
+    "animated": true
+  },
+  "preview": {
+    "id": "1580126981170",
+    "version": "1581391508390"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

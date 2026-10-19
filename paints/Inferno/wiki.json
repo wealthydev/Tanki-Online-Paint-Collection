@@ -1,0 +1,27 @@
+{
+  "name": "Inferno",
+  "source": "wiki",
+  "page": "/Inferno",
+  "type": "Garage",
+  "price": {
+    "amount": 440000,
+    "currency": "Crystals",
+    "text": "440 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "The \"Inferno\" paint is delivered via shady means to the black market of China's glass-blowing workshops. According to the producers themselves, its defiant appearance symbolizes strength, courage, luck, and longevity. An excellent paint for a fierce attacker.",
+  "interestingFacts": [
+    "Paint first appeared on May 28, 2011.",
+    "Prior to the Paint Separation Update, Inferno was worth 159,000 crystals and could be bought from the rank of Lieutenant General.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "440 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:440 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThe \"Inferno\" paint is delivered via shady means to the black market of China's glass-blowing workshops. According to the producers themselves, its defiant appearance symbolizes strength, courage, luck, and longevity. An excellent paint for a fierce attacker.\nSee also: Paints\nInteresting facts\nPaint first appeared on May 28, 2011.\nPrior to the Paint Separation Update, Inferno was worth 159,000 crystals and could be bought from the rank of Lieutenant General.\nLegacy paint description:\nA paint that provides excellent protection against Firebird and Freeze, and somewhat lessens the damage done by Twins. Works well for short to mid-range battles. It will light your tank on fire, drawing the attention of all the players around you.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

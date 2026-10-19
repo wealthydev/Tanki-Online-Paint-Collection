@@ -1,0 +1,24 @@
+{
+  "name": "Chill vibe",
+  "rawName": "Chill vibe",
+  "item": "1931010008234",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1747935148615",
+    "version": "1775743169603",
+    "animated": false
+  },
+  "preview": {
+    "id": "1747935148349",
+    "version": "1747935148609"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

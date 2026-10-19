@@ -1,0 +1,24 @@
+{
+  "name": "TO14",
+  "rawName": "TO14",
+  "item": "1931009779871",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1685011599930",
+    "version": "1775743170505",
+    "animated": false
+  },
+  "preview": {
+    "id": "1685011599460",
+    "version": "1685011599652"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

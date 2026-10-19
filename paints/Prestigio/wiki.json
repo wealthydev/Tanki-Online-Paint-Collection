@@ -1,0 +1,27 @@
+{
+  "name": "Prestigio",
+  "source": "wiki",
+  "page": "/Prestigio",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "Legendary",
+  "description": "Every magic trick consists of three parts:\n\"The Bait\" — The magician shows you something ordinary. \"The Turn\" — The magician takes the ordinary something and makes it into something extraordinary. But every magic trick has a third part, the hardest part we call \"The Prestige\", which holds the secret behind the miracle.",
+  "interestingFacts": [
+    "This paint was part of a special promotion with the company, Prestigio. It was only obtainable after purchasing and registering a device from one of the specific stores.",
+    "Paint could have been obtained from containers, as well as taking part in the action with Prestigio.",
+    "Though it may not be possible to pull a rabbit out of a hat without some kind of trickery, it is possible to pull a wasp out of your garage. Voilà!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:Legendary\nGarage description\nEvery magic trick consists of three parts:\n\"The Bait\" — The magician shows you something ordinary. \"The Turn\" — The magician takes the ordinary something and makes it into something extraordinary. But every magic trick has a third part, the hardest part we call \"The Prestige\", which holds the secret behind the miracle.\nSee also: Paints\nInteresting facts\nThis paint was part of a special promotion with the company, Prestigio. It was only obtainable after purchasing and registering a device from one of the specific stores.\nPaint could have been obtained from containers, as well as taking part in the action with Prestigio.\nThough it may not be possible to pull a rabbit out of a hat without some kind of trickery, it is possible to pull a wasp out of your garage. Voilà!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

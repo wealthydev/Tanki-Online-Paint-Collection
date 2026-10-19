@@ -1,0 +1,25 @@
+{
+  "name": "Prestigio",
+  "rawName": "Prestigio",
+  "item": "920009596614",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Every magic trick consists of three parts:\n\"The Bait\" — The magician shows you something ordinary.\n\"The Turn\" — The magician takes the ordinary something and makes it into something extraordinary.\nBut every magic trick has a third part, the hardest part we call \"The Prestige\", which holds the secret behind the miracle.",
+  "paint": {
+    "id": "1529058853689",
+    "version": "1697183401555",
+    "animated": true
+  },
+  "preview": {
+    "id": "1529059131695",
+    "version": "1581391473947"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

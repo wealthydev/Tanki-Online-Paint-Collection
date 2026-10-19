@@ -1,0 +1,27 @@
+{
+  "name": "Rare Easter Egg",
+  "source": "wiki",
+  "page": "/Rare_Easter_Egg",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "If you have it, you are the owner of the rarest Easter egg in {GAME_NAME}. Congratulations!",
+  "interestingFacts": [
+    "The paint was added to the game on April 14th, 2020.",
+    "The paint could be obtained from a special mission \"Capture Easter eggs\" by scoring 25 goals in Matchmaking Rugby mode within seven days.",
+    "The paint was issued as the Holiday paint for the easter celebrations on March 26th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nIf you have it, you are the owner of the rarest Easter egg in {GAME_NAME}. Congratulations!\nSee also: Paints\nInteresting facts\nThe paint was added to the game on April 14th, 2020.\nThe paint could be obtained from a special mission \"Capture Easter eggs\" by scoring 25 goals in Matchmaking Rugby mode within seven days.\nThe paint was issued as the Holiday paint for the easter celebrations on March 26th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

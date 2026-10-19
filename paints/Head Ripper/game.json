@@ -1,0 +1,25 @@
+{
+  "name": "Head Ripper",
+  "rawName": "Head Ripper",
+  "item": "920009668728",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1588154718981",
+    "version": "1697183401521",
+    "animated": true
+  },
+  "preview": {
+    "id": "1588154718980",
+    "version": "1588157431321"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Liquid Metal",
+  "rawName": "Liquid Metal",
+  "item": "920004959691",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 1000
+  },
+  "owned": false,
+  "description": "Application of this paint requires the steady hand of a master craftsman. A special silver alloy is prepared according to a secret formula, and heated to an optimum temperature for the perfect consistency. The master craftsman then pours it onto the tank's surface and blows onto the liquid allow to spread it evenly over the surface, creating a thin, consistent, and beautiful coating.",
+  "paint": {
+    "id": "500364206",
+    "version": "1775743169349",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364215",
+    "version": "1581391663315"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

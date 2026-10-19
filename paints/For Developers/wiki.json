@@ -1,0 +1,26 @@
+{
+  "name": "For Developers",
+  "source": "wiki",
+  "page": "/For_Developers",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A paint that was created especially for the developers during the 1000 Footballer's Battle event.",
+  "interestingFacts": [
+    "Released on June 29, 2012 for the 1000 Footballer's Battle event.",
+    "The paint was removed from the game after the event concluded."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA paint that was created especially for the developers during the 1000 Footballer's Battle event.\nSee also: Paints\nInteresting facts\nReleased on June 29, 2012 for the 1000 Footballer's Battle event.\nThe paint was removed from the game after the event concluded.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Cedar",
+  "source": "wiki",
+  "page": "/Cedar",
+  "type": "Garage",
+  "price": {
+    "amount": 5500,
+    "currency": "Crystals",
+    "text": "5 500"
+  },
+  "garageCategorization": "Uncommon",
+  "containerRarity": "Rare",
+  "description": "This paint is composed of pounded pine cone flakes. It is environmentally friendly and comes with two bags of peeled pine nuts with every second canister of paint purchased.",
+  "interestingFacts": [
+    "Paint appeared on August 26, 2010.",
+    "Legacy paint description:",
+    "The paint was added to containers on January 14th, 2022."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "5 500",
+    "Garage categorization": "◆ Uncommon",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:5 500\nGarage categorization:◆ Uncommon\nContainer rarity:Rare\nGarage description\nThis paint is composed of pounded pine cone flakes. It is environmentally friendly and comes with two bags of peeled pine nuts with every second canister of paint purchased.\nSee also: Paints\nInteresting facts\nPaint appeared on August 26, 2010.\nLegacy paint description:\nA paint that somewhat reduces the damage inflicted by Smoky and Isida while doing much more to protect against Thunder explosions. Sports a natural masking texture that makes the tank harder to spot.\nThe paint was added to containers on January 14th, 2022.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

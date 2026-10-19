@@ -1,0 +1,27 @@
+{
+  "name": "Jeans",
+  "rawName": "Jeans",
+  "item": "920004959751",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 90000
+  },
+  "owned": false,
+  "description": "Jeans — the cool look that never goes out of fashion. With this paint, your tank will look great in any social setting, be it a chill-out session or an intense round of combat.",
+  "paint": {
+    "id": "500364204",
+    "version": "1775743169316",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364213",
+    "version": "1581391576160"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Electra",
+  "source": "wiki",
+  "page": "/Electra",
+  "type": "Garage",
+  "price": {
+    "amount": 50000,
+    "currency": "Crystals",
+    "text": "50 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "A shockingly beautiful paint that captures the elegance of an arc of electricity flying through the air.",
+  "interestingFacts": [
+    "This paint was released on July 29, 2010.",
+    "Prior to the Paint Separation Update, Electra was worth 59 500 crystals and could be bought from the rank of  Second Lieutenant."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "50 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:50 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nA shockingly beautiful paint that captures the elegance of an arc of electricity flying through the air.\nSee also: Paints\nInteresting facts\nThis paint was released on July 29, 2010.\nPrior to the Paint Separation Update, Electra was worth 59 500 crystals and could be bought from the rank of  Second Lieutenant.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

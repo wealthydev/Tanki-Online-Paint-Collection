@@ -1,0 +1,27 @@
+{
+  "name": "Jade",
+  "rawName": "Jade",
+  "item": "920004703739",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 30000
+  },
+  "owned": false,
+  "description": "A spray from a rare brown jade. Beautiful, perfect for camouflage, and ecologically friendly.",
+  "paint": {
+    "id": "5010505",
+    "version": "1775743169309",
+    "animated": false
+  },
+  "preview": {
+    "id": "5010490",
+    "version": "1581391440609"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

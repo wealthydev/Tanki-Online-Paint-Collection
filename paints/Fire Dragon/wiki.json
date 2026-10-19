@@ -1,0 +1,25 @@
+{
+  "name": "Fire Dragon",
+  "source": "wiki",
+  "page": "/Fire_Dragon",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Dragon and fire — two symbols, inspiring fear, and awe. Fire is danger, destroying everything in its path. Dragon — legendary beast, terrifying in its power.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nDragon and fire — two symbols, inspiring fear, and awe. Fire is danger, destroying everything in its path. Dragon — legendary beast, terrifying in its power.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Far North",
+  "source": "wiki",
+  "page": "/Far_North",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A pattern that is very hard to see in nature. This is what the horizon looks like in the North Pole during a couple of days in early spring.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (04/01/2019 - 04/29/2019) with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA pattern that is very hard to see in nature. This is what the horizon looks like in the North Pole during a couple of days in early spring.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (04/01/2019 - 04/29/2019) with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

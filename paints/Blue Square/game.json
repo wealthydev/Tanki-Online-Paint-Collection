@@ -1,0 +1,27 @@
+{
+  "name": "Blue square",
+  "rawName": "Blue square",
+  "item": "920009595687",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 300
+  },
+  "owned": false,
+  "description": "Ever heard of the legendary blue ball? And its magical properties? Trust us, a blue square is full of even more surprises.",
+  "paint": {
+    "id": "1526549459210",
+    "version": "1775743168894",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550626003",
+    "version": "1581391488746"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

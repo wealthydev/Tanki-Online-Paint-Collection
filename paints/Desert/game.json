@@ -1,0 +1,27 @@
+{
+  "name": "Desert",
+  "rawName": "Desert",
+  "item": "920004703859",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 4500
+  },
+  "owned": true,
+  "description": "A special paint ideal for desert operations. It is created by spraying crystalline powder extracted from a sandworm's teeth. To maintain its unique texture, this paint should not be washed.",
+  "paint": {
+    "id": "5000255",
+    "version": "1775743169019",
+    "animated": false
+  },
+  "preview": {
+    "id": "5000270",
+    "version": "1581391399667"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

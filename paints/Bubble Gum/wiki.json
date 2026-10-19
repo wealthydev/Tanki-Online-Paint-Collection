@@ -1,0 +1,25 @@
+{
+  "name": "Bubble Gum",
+  "source": "wiki",
+  "page": "/Bubble_Gum",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "This paint appeared by chance. Mechanics of a workshop before enter to work were sticking gum on the tank in front of the workshop. Over time, the entire hull was covered with a thick layer of chewing gum. And after the tank was brought in and it warmed up, the coating had an interesting visual effect.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (05/01/2019 - 05/29/2019) with a battle pass."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThis paint appeared by chance. Mechanics of a workshop before enter to work were sticking gum on the tank in front of the workshop. Over time, the entire hull was covered with a thick layer of chewing gum. And after the tank was brought in and it warmed up, the coating had an interesting visual effect.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (05/01/2019 - 05/29/2019) with a battle pass.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

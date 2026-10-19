@@ -1,0 +1,25 @@
+{
+  "name": "Mount Fuji",
+  "rawName": "Mount Fuji",
+  "item": "920009597143",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "For a long time this paint was known only as a top-secret project and was used only by the samurai tank forces, until they decided the paint instead should bring peace and quiet to other tankers too. Forget everyday worries and enjoy the living beauty of nature.",
+  "paint": {
+    "id": "1534407410057",
+    "version": "1697183401342",
+    "animated": true
+  },
+  "preview": {
+    "id": "1534407574752",
+    "version": "1581391626090"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Crusher",
+  "source": "wiki",
+  "page": "/Crusher",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Guess the riddle: big, green, and smashes everything. The correct answer is «Tulk» ... I mean «Hunk» ... I mean «Tank».",
+  "interestingFacts": [
+    "It was available in the game on January 5, 2019.",
+    "This paint was available to obtain from the War of Superpowers event in January 2019.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nGuess the riddle: big, green, and smashes everything. The correct answer is «Tulk» ... I mean «Hunk» ... I mean «Tank».\nSee also: Paints\nInteresting facts\nIt was available in the game on January 5, 2019.\nThis paint was available to obtain from the War of Superpowers event in January 2019.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

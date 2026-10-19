@@ -1,0 +1,25 @@
+{
+  "name": "LEDs",
+  "source": "wiki",
+  "page": "/LEDs",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "The owner of this paint is a welcome guest for any party or event, since their tank, decorated with flowing colorful lights, will shine like a strobe.",
+  "interestingFacts": [
+    "The paint was added to the containers on August 10, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nThe owner of this paint is a welcome guest for any party or event, since their tank, decorated with flowing colorful lights, will shine like a strobe.\nSee also: Paints\nInteresting facts\nThe paint was added to the containers on August 10, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

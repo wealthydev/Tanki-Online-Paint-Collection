@@ -1,0 +1,27 @@
+{
+  "name": "Clay",
+  "rawName": "Clay",
+  "item": "920004703615",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10000
+  },
+  "owned": false,
+  "description": "This paint was designed for sabotage operations in the marshland. The tanks wearing this paint were camouflaged so well that not even the leeches noticed them.",
+  "paint": {
+    "id": "5006370",
+    "version": "1775743168958",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006341",
+    "version": "1581391712987"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

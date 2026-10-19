@@ -1,0 +1,24 @@
+{
+  "name": "Puzzles",
+  "rawName": "Puzzles",
+  "item": "1931010008090",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Sometimes, the look won’t be complete without one key piece. Let this paint be that piece — bringing luck to \"Tankopoly\" event participants and uniting all the right fragments into one perfect whole.",
+  "paint": {
+    "id": "1747130541187",
+    "version": "1775743169582",
+    "animated": false
+  },
+  "preview": {
+    "id": "1747130540875",
+    "version": "1747130541178"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

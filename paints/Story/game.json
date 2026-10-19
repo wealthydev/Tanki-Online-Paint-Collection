@@ -1,0 +1,24 @@
+{
+  "name": "Story",
+  "rawName": "Story",
+  "item": "920009602487",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The story behind this paint is a very weird one. There was once an eccentric artist who was commissioned to create a special paint for {GAME_NAME}'s 10th birthday celebration. She tried and tried, but none of the designs she created were to her liking. So instead, she started writing. Soon she had created a really cool paint description, which inspired her to create this cool paint. Unfortunately, by the time she was done painting, her dog had eaten her manuscript, and she had completely forgotten what she had written about. So, what the original description was, we'll never know.",
+  "paint": {
+    "id": "1559047246317",
+    "version": "1775743168561",
+    "animated": false
+  },
+  "preview": {
+    "id": "1559047143196",
+    "version": "1581391381042"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

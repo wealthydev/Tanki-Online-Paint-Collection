@@ -1,0 +1,27 @@
+{
+  "name": "Playground",
+  "source": "wiki",
+  "page": "/Playground",
+  "type": "Special",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "It's all fun and games until someone's tank gets barbecued. This joyous paint reminds your enemies that you're here to have fun... and to toast them... which is the part of the fun.",
+  "interestingFacts": [
+    "The paint was announced and released on February 12th, 2019.",
+    "Paint was given to players who participated in the CBT of the PlayPark {GAME_HOST} version from December 12, 2018 - January 29, 2019.",
+    "The paint is found in some of the developers' accounts such as Kasim, and Opex-Rah."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Special",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Special\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nIt's all fun and games until someone's tank gets barbecued. This joyous paint reminds your enemies that you're here to have fun... and to toast them... which is the part of the fun.\nSee also: Paints\nInteresting facts\nThe paint was announced and released on February 12th, 2019.\nPaint was given to players who participated in the CBT of the PlayPark {GAME_HOST} version from December 12, 2018 - January 29, 2019.\nThe paint is found in some of the developers' accounts such as Kasim, and Opex-Rah.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Confetti",
+  "rawName": "Confetti",
+  "item": "920004959871",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 13000
+  },
+  "owned": true,
+  "description": "Getting married? Commemorating an anniversary? Throwing a party to celebrate your enemy biting the dust? Confetti is the paint for you. A Cake paint was originally planned, but the icing kept falling off, so it was deemed impractical.",
+  "paint": {
+    "id": "500364202",
+    "version": "1775743168978",
+    "animated": false
+  },
+  "preview": {
+    "id": "500364211",
+    "version": "1581391385230"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ancient dragon",
+  "rawName": "Ancient dragon",
+  "item": "920009601471",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "\"This armor is tougher than iron. No blade will pierce it!\" So thought one ancient dragon, just before getting pierced by a huge arrow.",
+  "paint": {
+    "id": "1553592879793",
+    "version": "1775743168786",
+    "animated": false
+  },
+  "preview": {
+    "id": "1553593771189",
+    "version": "1581391356305"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

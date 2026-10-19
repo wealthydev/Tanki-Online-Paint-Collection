@@ -1,0 +1,24 @@
+{
+  "name": "Master of Parkour 2019",
+  "rawName": "Master of Parkour 2019",
+  "item": "920009600910",
+  "rarity": "SPECIAL",
+  "minRank": 11,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This temporary paint has been added in the game for participants of the «Masters of Parkour 2019» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team.",
+  "paint": {
+    "id": "1548315828838",
+    "version": "1775743169409",
+    "animated": false
+  },
+  "preview": {
+    "id": "1548315749911",
+    "version": "1581391659088"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

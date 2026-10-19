@@ -1,0 +1,26 @@
+{
+  "name": "Thankos",
+  "source": "wiki",
+  "page": "/Thankos",
+  "type": "Usdbundle",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Great titan from {GAME_NAME} (not to be confused with the hull!). It would be great if this paint gave an overdrive “Click” that kills everyone on the map. But the paint does not give abilities.",
+  "interestingFacts": [
+    "The paint was available for purchase in a set of \"Power of Thankos\" for $59.90. From May 16 to May 29, 2019.",
+    "Contrary to what the paint's description claims, tankers wearing this paint, as with any other paint, do actually have the magical ability to kill all the tankers on the map. The ability is called \"git gud\" and can be activated by pointing your turret at enemies' hulls and shooting until they take enough damage to be destroyed. Wow!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Usdbundle",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Usdbundle\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nGreat titan from {GAME_NAME} (not to be confused with the hull!). It would be great if this paint gave an overdrive “Click” that kills everyone on the map. But the paint does not give abilities.\nSee also: Paints\nInteresting facts\nThe paint was available for purchase in a set of \"Power of Thankos\" for $59.90. From May 16 to May 29, 2019.\nContrary to what the paint's description claims, tankers wearing this paint, as with any other paint, do actually have the magical ability to kill all the tankers on the map. The ability is called \"git gud\" and can be activated by pointing your turret at enemies' hulls and shooting until they take enough damage to be destroyed. Wow!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

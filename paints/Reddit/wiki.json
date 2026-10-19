@@ -1,0 +1,26 @@
+{
+  "name": "Reddit",
+  "source": "wiki",
+  "page": "/Reddit",
+  "type": "Event",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "You can obtain this paint by subscribing to {GAME_NAME} on Reddit. Thanks for your support!",
+  "interestingFacts": [
+    "This paint was added to the game on November 23th, 2023.",
+    "This paint was given out for subscribing to {GAME_NAME} on Reddit. Thanks for your support!"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nYou can obtain this paint by subscribing to {GAME_NAME} on Reddit. Thanks for your support!\nSee also: Paints\nInteresting facts\nThis paint was added to the game on November 23th, 2023.\nThis paint was given out for subscribing to {GAME_NAME} on Reddit. Thanks for your support!\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

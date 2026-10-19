@@ -1,0 +1,25 @@
+{
+  "name": "Nanosuit Armor",
+  "rawName": "Nanosuit Armor",
+  "item": "920009618068",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "During production, this paint was originally called, \"That paint with slithering black and gray textures that looks really cool\". But due to character limit restrictions in the game, the devs had to settle for something a bit simpler. Pity. It would've been an awesome name.",
+  "paint": {
+    "id": "1567073221385",
+    "version": "1697183401367",
+    "animated": true
+  },
+  "preview": {
+    "id": "1567073221386",
+    "version": "1581391416617"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

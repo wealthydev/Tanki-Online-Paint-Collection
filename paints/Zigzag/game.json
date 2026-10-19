@@ -1,0 +1,27 @@
+{
+  "name": "Zigzag",
+  "rawName": "Zigzag",
+  "item": "920009365549",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "This paint is the result of the research by American graffitti artists. Paint your tank with it and disappear among the street art of the Big Apple. Though to make it happen you still need to get there, somehow...",
+  "paint": {
+    "id": "1516883264860",
+    "version": "1775743170710",
+    "animated": false
+  },
+  "preview": {
+    "id": "1516883264861",
+    "version": "1581391333628"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

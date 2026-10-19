@@ -1,0 +1,32 @@
+{
+  "name": "Eternity",
+  "source": "wiki",
+  "page": "/Eternity",
+  "type": "Tankoin",
+  "price": {
+    "amount": 5000,
+    "currency": "Rubies",
+    "text": "5 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "An extremely rare paint that is perfectly suited for mid-range combat. Having it equipped will make your tank look like a real rock star.",
+  "interestingFacts": [
+    "It was first available in the shop only on October 31st, 2015.",
+    "Old Price",
+    "From  Corporal to  Sergeant-Major - 50 000\nFrom  Warrant Officer 1 to  Warrant Officer 5 - 100 000\nFrom  Third Lieutenant to  Colonel - 250 000\nFrom  Brigadier to  Generalissimo - 500 000",
+    "From  Corporal to  Sergeant-Major - 50 000",
+    "From  Warrant Officer 1 to  Warrant Officer 5 - 100 000",
+    "From  Third Lieutenant to  Colonel - 250 000",
+    "From  Brigadier to  Generalissimo - 500 000",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "5 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:5 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nAn extremely rare paint that is perfectly suited for mid-range combat. Having it equipped will make your tank look like a real rock star.\nSee also: Paints\nInteresting facts\nIt was first available in the shop only on October 31st, 2015.\nOld Price\nFrom  Corporal to  Sergeant-Major - 50 000\nFrom  Warrant Officer 1 to  Warrant Officer 5 - 100 000\nFrom  Third Lieutenant to  Colonel - 250 000\nFrom  Brigadier to  Generalissimo - 500 000\nLegacy paint description:\nAn extremely rare paint which could only be purchased by players with an active Premium Account. Having it equipped will make your tank look like a real rock star.\nIt was available in the shop only on October 31st, 2015.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

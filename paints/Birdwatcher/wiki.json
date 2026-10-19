@@ -1,0 +1,26 @@
+{
+  "name": "Birdwatcher",
+  "source": "wiki",
+  "page": "/Birdwatcher",
+  "type": "Container",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "A special camouflage used by professional birdwatchers to remain undetected while observing some of the rarest bird species on the planet. This color combination will have no trouble keeping you hidden from the sight of your next victim in the arena.",
+  "interestingFacts": [
+    "This paint was available in the garage from June 2nd to June 7th, 2017 for 120,000 crystals.",
+    "This paint was added to containers on February 5th, 2021."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "120 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:120 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nA special camouflage used by professional birdwatchers to remain undetected while observing some of the rarest bird species on the planet. This color combination will have no trouble keeping you hidden from the sight of your next victim in the arena.\nSee also: Paints\nInteresting facts\nThis paint was available in the garage from June 2nd to June 7th, 2017 for 120,000 crystals.\nThis paint was added to containers on February 5th, 2021.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

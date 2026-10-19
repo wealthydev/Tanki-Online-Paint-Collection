@@ -1,0 +1,24 @@
+{
+  "name": "All you need is...",
+  "rawName": "All you need is...",
+  "item": "920006148423",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "As The Beatles used to sing in their famous song, \"All you need is love\"... and a fully armored tank equipped with your favorite turret to rip your enemies to bits.",
+  "paint": {
+    "id": "500380056",
+    "version": "1775743168628",
+    "animated": false
+  },
+  "preview": {
+    "id": "500380057",
+    "version": "1581391411669"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

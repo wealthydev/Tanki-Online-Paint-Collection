@@ -1,0 +1,24 @@
+{
+  "name": "Angels&Demons",
+  "rawName": "Angels&Demons",
+  "item": "920000554073",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Add this paint to your garage to become an official fan of Angels&Demons in the finals of Star Series Season 4. More information on what you can get from it can be found <a href=\"http://{GAME}online.com/en/2015/07/star-series-finals-event/\" target =\"_blank\"><u>here</u></a>.",
+  "paint": {
+    "id": "500327404",
+    "version": "1775743168494",
+    "animated": false
+  },
+  "preview": {
+    "id": "500327408",
+    "version": "1581391304613"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

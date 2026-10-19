@@ -1,0 +1,27 @@
+{
+  "name": "Fracture",
+  "rawName": "Fracture",
+  "item": "920004704453",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 30000
+  },
+  "owned": false,
+  "description": "An experimental camouflage, developed for combat in tropical climates. ",
+  "paint": {
+    "id": "500313716",
+    "version": "1775743169125",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313704",
+    "version": "1581391339565"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

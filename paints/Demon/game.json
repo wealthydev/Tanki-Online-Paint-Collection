@@ -1,0 +1,24 @@
+{
+  "name": "Demon",
+  "rawName": "Demon",
+  "item": "920004704574",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The most mysterious paint in the game!",
+  "paint": {
+    "id": "500155200",
+    "version": "1775743169013",
+    "animated": false
+  },
+  "preview": {
+    "id": "500155201",
+    "version": "1581391319437"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

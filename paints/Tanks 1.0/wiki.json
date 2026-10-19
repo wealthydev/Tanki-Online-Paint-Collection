@@ -1,0 +1,25 @@
+{
+  "name": "Tanks 1.0",
+  "source": "wiki",
+  "page": "/Tanks_1.0",
+  "type": "War",
+  "price": {
+    "amount": 10,
+    "currency": "Tankoins",
+    "text": "10"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "Admit it. You've got tank pajamas. You do. And now, your tank can too. Awesome for those cold winter nights when you wanna snuggle up under a quilt with your tank and watch the V-LOG. It also comes in an animated version.",
+  "interestingFacts": [
+    "Paint could have been received as a reward for the acquisition of a battle pass as part of the Tank War, or obtained temporarily for the duration of the event for a price of 10 Tankoins."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "War",
+    "Price": "10",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:War\nPrice:10\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nAdmit it. You've got tank pajamas. You do. And now, your tank can too. Awesome for those cold winter nights when you wanna snuggle up under a quilt with your tank and watch the V-LOG. It also comes in an animated version.\nSee also: Paints\nInteresting facts\nPaint could have been received as a reward for the acquisition of a battle pass as part of the Tank War, or obtained temporarily for the duration of the event for a price of 10 Tankoins.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

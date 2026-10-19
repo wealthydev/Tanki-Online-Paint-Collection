@@ -1,0 +1,25 @@
+{
+  "name": "Tanks 2.0",
+  "rawName": "Tanks 2.0",
+  "item": "920009617355",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The animated version of the 'Tanks 1.0\" paint. Because tank pyjamas are even cooler when the print is animated. You'll be the envy of the neighborhood. True story.",
+  "paint": {
+    "id": "1567067578051",
+    "version": "1697183401513",
+    "animated": true
+  },
+  "preview": {
+    "id": "1567067578053",
+    "version": "1581391311549"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

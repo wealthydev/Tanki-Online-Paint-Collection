@@ -1,0 +1,24 @@
+{
+  "name": "Lannies",
+  "rawName": "Lannies",
+  "item": "920009601441",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Everyone knows Lannies are rich. Wear this paint, ride into battle and pretty soon you'll be hearing, “DROPP GOLD PLZZZZZ !!!111!1\" \n\nThis is a temporary paint. It will be removed from all garages on April 29th.",
+  "paint": {
+    "id": "1553513759545",
+    "version": "1775743168700",
+    "animated": false
+  },
+  "preview": {
+    "id": "1553513618271",
+    "version": "1581391393376"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Chemical Reaction",
+  "rawName": "Chemical Reaction",
+  "item": "920009662890",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1585558824030",
+    "version": "1697183401398",
+    "animated": true
+  },
+  "preview": {
+    "id": "1585558824029",
+    "version": "1585568075167"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

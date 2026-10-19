@@ -1,0 +1,24 @@
+{
+  "name": "Shamrock squad",
+  "rawName": "Shamrock squad",
+  "item": "1931009779477",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Shamrock squad — a group of the bravest warriors, who fight for gold and freedom. There is a goblin-scout among the squad, whose tricky tricks and accuracy help the team avoid traps and deal big damage to the enemy.\n\nEarned golden coins are used to upgrade tanks and create new battle augments. The team is supported by a dwarf-engineer and a young elf-sniper, equipped with upgraded Shaft, who are ready for anything to catch the victory!",
+  "paint": {
+    "id": "1678356103039",
+    "version": "1775743169203",
+    "animated": false
+  },
+  "preview": {
+    "id": "1678356102566",
+    "version": "1678356102756"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

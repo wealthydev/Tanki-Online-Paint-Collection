@@ -1,0 +1,27 @@
+{
+  "name": "Red Urban",
+  "rawName": "Red Urban",
+  "item": "920005376823",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 75000
+  },
+  "owned": false,
+  "description": "A camouflage designed for combat in urban areas with predominantly red brick buildings.",
+  "paint": {
+    "id": "500368908",
+    "version": "1775743169787",
+    "animated": false
+  },
+  "preview": {
+    "id": "500368903",
+    "version": "1581391610418"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

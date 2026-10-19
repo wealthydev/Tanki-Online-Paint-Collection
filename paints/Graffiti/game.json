@@ -1,0 +1,27 @@
+{
+  "name": "Graffiti",
+  "rawName": "Graffiti",
+  "item": "920004704693",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 250000
+  },
+  "owned": false,
+  "description": "An interesting approach towards urban camouflage. Pretending to be a victim of street hooligans, your tank perfectly merges with the residential areas of concrete jungles.",
+  "paint": {
+    "id": "500313717",
+    "version": "1775743169212",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313705",
+    "version": "1581391649592"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

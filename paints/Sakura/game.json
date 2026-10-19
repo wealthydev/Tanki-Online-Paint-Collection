@@ -1,0 +1,27 @@
+{
+  "name": "Sakura",
+  "rawName": "Sakura",
+  "item": "920004704339",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 180000
+  },
+  "owned": false,
+  "description": "The parade paint for the samurai tank division. It brings inner harmony and infinite tranquility. Not even the sirens can disrupt the state of mind of the tanker whose tank is wearing this paint. ",
+  "paint": {
+    "id": "500313724",
+    "version": "1775743169830",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313711",
+    "version": "1581391460440"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

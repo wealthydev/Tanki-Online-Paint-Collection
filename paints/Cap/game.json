@@ -1,0 +1,24 @@
+{
+  "name": "Cap",
+  "rawName": "Cap",
+  "item": "920009601640",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Strong, handsome, noble — this is how the average owner of this paint looks. At least he would like to be.",
+  "paint": {
+    "id": "1556169277637",
+    "version": "1775743168927",
+    "animated": false
+  },
+  "preview": {
+    "id": "1556170390494",
+    "version": "1581391722216"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Neon",
+  "rawName": "Neon",
+  "item": "920008477291",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special paint for event helpers and contest organizers.",
+  "paint": {
+    "id": "500409900",
+    "version": "1775743169498",
+    "animated": false
+  },
+  "preview": {
+    "id": "500409901",
+    "version": "1581391576544"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

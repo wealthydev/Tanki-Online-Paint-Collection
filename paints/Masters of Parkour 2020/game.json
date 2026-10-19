@@ -1,0 +1,24 @@
+{
+  "name": "Masters of Parkour 2020",
+  "rawName": "Masters of Parkour 2020",
+  "item": "920009658849",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is the prize for the «Masters of Parkour» contest that took place in 2020. ",
+  "paint": {
+    "id": "1580898842154",
+    "version": "1775743169645",
+    "animated": false
+  },
+  "preview": {
+    "id": "1580898985330",
+    "version": "1581391511875"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Generic regular paint",
+  "rawName": "Generic regular paint",
+  "item": "1931010009749",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is made for those who love a spectacular game, precise calculation, and the pleasure of a beautiful victory. Stylish, bright, and striking. For tankers who turn every battle into a winning combination.\n",
+  "paint": {
+    "id": "1778664674272",
+    "version": "1780465726734",
+    "animated": false
+  },
+  "preview": {
+    "id": "1778664674006",
+    "version": "1778664674264"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Easter Egg",
+  "rawName": "Easter Egg",
+  "item": "920009663110",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "There are Easter eggs in many games. Our game is no exception.",
+  "paint": {
+    "id": "1586327017513",
+    "version": "1775743169069",
+    "animated": false
+  },
+  "preview": {
+    "id": "1586327360627",
+    "version": "1586329049696"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

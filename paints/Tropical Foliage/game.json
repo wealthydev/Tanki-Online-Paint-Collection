@@ -1,0 +1,24 @@
+{
+  "name": "Tropical Foliage",
+  "rawName": "Tropical Foliage",
+  "item": "920007987729",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A coating made out of patched foliage collected from a variety of tropical forests. These huge leaves are guaranteed to keep you cool under the hottest enemy fire.",
+  "paint": {
+    "id": "500406308",
+    "version": "1775743168514",
+    "animated": false
+  },
+  "preview": {
+    "id": "500406307",
+    "version": "1581391381859"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

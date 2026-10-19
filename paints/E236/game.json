@@ -1,0 +1,27 @@
+{
+  "name": "E236",
+  "rawName": "E236",
+  "item": "920009595685",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 500
+  },
+  "owned": false,
+  "description": "According to recent studies from the University of Almost Certain Data (UACD), this is exactly how ants' acid looks like under the microscope. Almost certainly.",
+  "paint": {
+    "id": "1526549412434",
+    "version": "1775743168748",
+    "animated": false
+  },
+  "preview": {
+    "id": "1526550580044",
+    "version": "1581391508561"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

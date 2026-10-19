@@ -1,0 +1,27 @@
+{
+  "name": "Hohloma",
+  "rawName": "Hohloma",
+  "item": "920004703732",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 300000
+  },
+  "owned": false,
+  "description": "A creation whose beauty recalls the skill of Russian artisans, working in tiny workshops with patience and dedication.",
+  "paint": {
+    "id": "5006153",
+    "version": "1775743169256",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006138",
+    "version": "1581391314668"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

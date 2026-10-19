@@ -1,0 +1,27 @@
+{
+  "name": "Tiger",
+  "rawName": "Tiger",
+  "item": "920004703733",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 500000
+  },
+  "owned": false,
+  "description": "This camouflage not only looks like a tiger's fur, but also feels soft and fluffy to the touch. It will also inspire you to achieve the eye of the tiger and terrorize your enemies.",
+  "paint": {
+    "id": "500309256",
+    "version": "1775743170257",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309263",
+    "version": "1581391474390"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

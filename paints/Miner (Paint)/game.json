@@ -1,0 +1,24 @@
+{
+  "name": "Miner",
+  "rawName": "Miner",
+  "item": "1931010009464",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Danger may lurk in every cell! This paint doesn't forgive accidental clicks — it's for those who see right through the field. Strict, expensive, and deadly dangerous. For elite players who prefer to take risks with style.",
+  "paint": {
+    "id": "1773147927198",
+    "version": "1773147940277",
+    "animated": false
+  },
+  "preview": {
+    "id": "1773147926980",
+    "version": "1773147927194"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

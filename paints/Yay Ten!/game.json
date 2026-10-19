@@ -1,0 +1,25 @@
+{
+  "name": "Yay Ten!",
+  "rawName": "Yay Ten!",
+  "item": "920009602488",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Celebrate ten years of {GAME_NAME} with this special animated birthday-themed paint. Raise a glass of fizzy soda and scream \"HAPPY BIRTHDAY {GAME_NAME}\" as you ride into battle with this cool new paint. Just make sure you don't spill that fizzy on your dashboard. That wouldn't end well.",
+  "paint": {
+    "id": "1559045338230",
+    "version": "1697183401421",
+    "animated": true
+  },
+  "preview": {
+    "id": "1559044699473",
+    "version": "1581391556406"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

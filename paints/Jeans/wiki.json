@@ -1,0 +1,25 @@
+{
+  "name": "Jeans",
+  "source": "wiki",
+  "page": "/Jeans",
+  "type": "Garage",
+  "price": {
+    "amount": 90000,
+    "currency": "Crystals",
+    "text": "90 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "Jeans — the cool look that never goes out of fashion. With this paint, your tank will look great in any social setting, be it a chill-out session or an intense round of combat.",
+  "interestingFacts": [
+    "Paint appeared on August 12, 2016."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "90 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:90 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nJeans — the cool look that never goes out of fashion. With this paint, your tank will look great in any social setting, be it a chill-out session or an intense round of combat.\nSee also: Paints\nInteresting facts\nPaint appeared on August 12, 2016.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

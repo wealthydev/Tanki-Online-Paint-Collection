@@ -1,0 +1,27 @@
+{
+  "name": "Lime",
+  "rawName": "Lime",
+  "item": "920004826768",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 4000
+  },
+  "owned": false,
+  "description": "A paint for the tanker who loves to party! This unique and rare paint comes with a mini-bar, stocked with a huge supply of limes, shakers, and partymakers, as well as an expert bartender, specialized in non-alcoholic cocktails and bottle juggling. Also, this paint's appearance changes slightly for every tank on which it is equipped.",
+  "paint": {
+    "id": "500362868",
+    "version": "1775743169346",
+    "animated": false
+  },
+  "preview": {
+    "id": "500362866",
+    "version": "1581391601851"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

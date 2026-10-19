@@ -1,0 +1,27 @@
+{
+  "name": "Green",
+  "rawName": "Green",
+  "item": "920004704099",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "A tribute to the tradition of the classic tank, this simple color, so beloved by designers all over the world, has become a standard paint for factory models. This legendary color has true connoisseurs returning to it, having tried everything in the world.",
+  "paint": {
+    "id": "56062",
+    "version": "1775743169221",
+    "animated": false
+  },
+  "preview": {
+    "id": "58887",
+    "version": "1707988356494"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

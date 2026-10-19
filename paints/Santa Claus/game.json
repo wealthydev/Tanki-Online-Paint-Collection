@@ -1,0 +1,24 @@
+{
+  "name": "Santa Claus",
+  "rawName": "Santa Claus",
+  "item": "920009648084",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "The paint is for players who are joining Santa's faction in the global event \"War. Stolen Christmas\".",
+  "paint": {
+    "id": "1575280443618",
+    "version": "1775743168689",
+    "animated": false
+  },
+  "preview": {
+    "id": "1575280516051",
+    "version": "1581391530349"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

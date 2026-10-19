@@ -1,0 +1,24 @@
+{
+  "name": "Ecofriendly",
+  "rawName": "Ecofriendly",
+  "item": "921009684084",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A chloroplast coating on the tank gives you advantage of using photosynthesis right on the surface of your armor. It compensates for the impact of tank emission on urban air pollution and thus makes your tank more eco-friendly. Moreover, you won't need to pay carbon tax.",
+  "paint": {
+    "id": "1595932268696",
+    "version": "1775743169075",
+    "animated": false
+  },
+  "preview": {
+    "id": "1595932251778",
+    "version": "1595932252726"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

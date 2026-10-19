@@ -1,0 +1,27 @@
+{
+  "name": "Mustard",
+  "rawName": "Mustard",
+  "item": "920004703974",
+  "rarity": "COMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 10
+  },
+  "owned": true,
+  "description": "A joke that went too far. This is, indeed, just mustard that covers the entire tank. Surprisingly, this color scheme turned out to be more effective in a desert than standard orange. Recommendations for working with that paint do not indicate that it should not be used for other purposes.",
+  "paint": {
+    "id": "1707227996669",
+    "version": "1775743169489",
+    "animated": false
+  },
+  "preview": {
+    "id": "1707227996161",
+    "version": "1707988427801"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

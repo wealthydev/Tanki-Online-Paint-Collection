@@ -1,0 +1,25 @@
+{
+  "name": "Bronze",
+  "rawName": "Bronze",
+  "item": "920004704215",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Unique paint with the addition of an alloy based on secret nano-ingredients. This paint can not be bought for any amount of money, it is given only to players who prove themselves in eSports battles, under signature.",
+  "paint": {
+    "id": "1543082489834",
+    "version": "1697183401437",
+    "animated": true
+  },
+  "preview": {
+    "id": "500133153",
+    "version": "1581391522553"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

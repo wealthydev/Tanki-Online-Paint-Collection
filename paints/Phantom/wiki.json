@@ -1,0 +1,25 @@
+{
+  "name": "Phantom",
+  "source": "wiki",
+  "page": "/Phantom",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "The hypnotizing power of the paint is rumored to be the only thing that can stop an Isida train and freeze in place an aiming Shaft. Use with extra caution.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThe hypnotizing power of the paint is rumored to be the only thing that can stop an Isida train and freeze in place an aiming Shaft. Use with extra caution.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

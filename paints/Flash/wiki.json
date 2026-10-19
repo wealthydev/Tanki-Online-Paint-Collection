@@ -1,0 +1,32 @@
+{
+  "name": "Flash",
+  "source": "wiki",
+  "page": "/Flash",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint appeared on December 2nd, 2020.",
+    "This paint could have been obtained by completing the super mission \"Nothing is Forgotten!\" which required to complete the special missions \"Hunter\", \"eSports Player\", \"Flag Stealer\", and \"Knight\". These missions were available from December 2 - December 7, 2020 except for \"Hunter\" and \"eSports Player\", which were available from December 4 - December 7, 2020.\n\"Hunter\": Destroy 300 tanks using the Hornet hull in Matchmaking battles (except for the Special mode)\n\"eSports Player\": Destroy 300 tanks using long-range turrets (Shaft, Gauss, Magnum, Railgun) in any matchmaking battles.\n\"Flag Stealer\": Capture 15 flags in CTF mode.\n\"Knight\": Earn 15,000 battle points in CTF mode.",
+    "Obtainable from December 2nd, 2 AM UTC till December 7th, 2 AM UTC.",
+    "The paint was created to commemorate the day that flash was discontinued.",
+    "\"Hunter\": Destroy 300 tanks using the Hornet hull in Matchmaking battles (except for the Special mode)",
+    "\"eSports Player\": Destroy 300 tanks using long-range turrets (Shaft, Gauss, Magnum, Railgun) in any matchmaking battles.",
+    "\"Flag Stealer\": Capture 15 flags in CTF mode.",
+    "\"Knight\": Earn 15,000 battle points in CTF mode."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nA regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint appeared on December 2nd, 2020.\nThis paint could have been obtained by completing the super mission \"Nothing is Forgotten!\" which required to complete the special missions \"Hunter\", \"eSports Player\", \"Flag Stealer\", and \"Knight\". These missions were available from December 2 - December 7, 2020 except for \"Hunter\" and \"eSports Player\", which were available from December 4 - December 7, 2020.\n\"Hunter\": Destroy 300 tanks using the Hornet hull in Matchmaking battles (except for the Special mode)\n\"eSports Player\": Destroy 300 tanks using long-range turrets (Shaft, Gauss, Magnum, Railgun) in any matchmaking battles.\n\"Flag Stealer\": Capture 15 flags in CTF mode.\n\"Knight\": Earn 15,000 battle points in CTF mode.\nObtainable from December 2nd, 2 AM UTC till December 7th, 2 AM UTC.\nThe paint was created to commemorate the day that flash was discontinued.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

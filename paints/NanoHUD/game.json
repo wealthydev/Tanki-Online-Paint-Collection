@@ -1,0 +1,25 @@
+{
+  "name": "NanoHUD",
+  "rawName": "NanoHUD",
+  "item": "920009662889",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "They say that this paint occasionally plays the sound of alarm signals when a nuclear bomb is around. However, it is not clear if the paint also notifies you about Wasp's bombs, as none of those small tanks dare to get near a tank with this paint equipped. After the experiments, this paint went on sale.",
+  "paint": {
+    "id": "1585558824028",
+    "version": "1697183401394",
+    "animated": true
+  },
+  "preview": {
+    "id": "1585558824027",
+    "version": "1585570005966"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

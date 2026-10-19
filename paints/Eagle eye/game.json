@@ -1,0 +1,24 @@
+{
+  "name": "Eagle eye",
+  "rawName": "Eagle eye",
+  "item": "921009687165",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "An eagle eye is second to none. It can spot even the slightest movement and can see its future prey at a distance of several thousand metres. This paint is made not only for elite snipers but also for those who have an \"eagle eye\" and always keeps a finger on the trigger.",
+  "paint": {
+    "id": "1598366419325",
+    "version": "1775743169058",
+    "animated": false
+  },
+  "preview": {
+    "id": "1598366414514",
+    "version": "1598438533283"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

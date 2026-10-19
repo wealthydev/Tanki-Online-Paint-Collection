@@ -1,0 +1,26 @@
+{
+  "name": "Steak",
+  "source": "wiki",
+  "page": "/Steak",
+  "type": "Tankoin",
+  "price": {
+    "amount": 1000,
+    "currency": "Rubies",
+    "text": "1 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint gives your tank a succulent look that just begs to be bitten. Expect to be chased around the arena by carnivores with Firebird, while vegans will want to punish you for your lack of sensitivity.",
+  "interestingFacts": [
+    "Paint appeared on May 18, 2017.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "1 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:1 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint gives your tank a succulent look that just begs to be bitten. Expect to be chased around the arena by carnivores with Firebird, while vegans will want to punish you for your lack of sensitivity.\nSee also: Paints\nInteresting facts\nPaint appeared on May 18, 2017.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

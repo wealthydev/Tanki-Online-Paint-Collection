@@ -1,0 +1,25 @@
+{
+  "name": "Spectator",
+  "source": "wiki",
+  "page": "/Spectator",
+  "type": "Helper",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is issued to the members of the {GAME_NAME} Spectator group and shows that the owner is a real master of shooting and montage.",
+  "interestingFacts": [
+    "The paint appeared in the game on September 10, 2015."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Helper",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Helper\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is issued to the members of the {GAME_NAME} Spectator group and shows that the owner is a real master of shooting and montage.\nSee also: Paints\nInteresting facts\nThe paint appeared in the game on September 10, 2015.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

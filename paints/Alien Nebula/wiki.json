@@ -1,0 +1,26 @@
+{
+  "name": "Alien Nebula",
+  "source": "wiki",
+  "page": "/Alien_Nebula",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "As our study into alien life forms continues, it has recently been discovered that alien craft is using a type of cloaking technology codenamed \"Alien Nebula\". This is what it looks like.",
+  "interestingFacts": [
+    "Paint could be received as a reward for completing the challenges of the challenge (07/02/2019 - 07/31/2019) with a battle pass.",
+    "Though the artist for this paint was unable to match the record shortcut distance of 12 parsecs, she did plunge through a strange nebula while flying the Kessel Run and was inspired by the experience to create this texture."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nAs our study into alien life forms continues, it has recently been discovered that alien craft is using a type of cloaking technology codenamed \"Alien Nebula\". This is what it looks like.\nSee also: Paints\nInteresting facts\nPaint could be received as a reward for completing the challenges of the challenge (07/02/2019 - 07/31/2019) with a battle pass.\nThough the artist for this paint was unable to match the record shortcut distance of 12 parsecs, she did plunge through a strange nebula while flying the Kessel Run and was inspired by the experience to create this texture.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

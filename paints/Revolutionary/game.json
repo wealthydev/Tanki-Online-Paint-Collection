@@ -1,0 +1,24 @@
+{
+  "name": "Revolutionary",
+  "rawName": "Revolutionary",
+  "item": "1931009801092",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1732028206927",
+    "version": "1775743170204",
+    "animated": false
+  },
+  "preview": {
+    "id": "1732028206723",
+    "version": "1732028206921"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

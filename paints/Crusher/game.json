@@ -1,0 +1,24 @@
+{
+  "name": "Crusher",
+  "rawName": "Crusher",
+  "item": "920009601651",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "Guess the riddle: big, green and smashes everything.\nThe correct answer is «Tulk» ... I mean «Hunk» ... I mean «Tank».",
+  "paint": {
+    "id": "1556169504163",
+    "version": "1775743168998",
+    "animated": false
+  },
+  "preview": {
+    "id": "1556170476619",
+    "version": "1581391519145"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

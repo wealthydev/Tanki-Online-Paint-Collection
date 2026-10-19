@@ -1,0 +1,25 @@
+{
+  "name": "Potter",
+  "source": "wiki",
+  "page": "/Potter",
+  "type": "Tankoin",
+  "price": {
+    "amount": 400,
+    "currency": "Rubies",
+    "text": "400"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "Once in a battle in Iran a tank flew straight into the pottery shop and next the utter distraction fell as pieces onto the tank. This improvised paint helped the tanker to win the battle and instantly became a hit.",
+  "interestingFacts": [
+    "Paint appeared on January 27, 2018."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "400",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:400\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nOnce in a battle in Iran a tank flew straight into the pottery shop and next the utter distraction fell as pieces onto the tank. This improvised paint helped the tanker to win the battle and instantly became a hit.\nSee also: Paints\nInteresting facts\nPaint appeared on January 27, 2018.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

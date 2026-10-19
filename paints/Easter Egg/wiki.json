@@ -1,0 +1,26 @@
+{
+  "name": "Easter Egg",
+  "source": "wiki",
+  "page": "/Easter_Egg",
+  "type": "Missions",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "There are Easter eggs in many games. Our game is no exception.",
+  "interestingFacts": [
+    "The paint was added to the game on April 12th, 2020.",
+    "The paint was obtained by completing a special mission \"Recharge yourself with Easter energy\" which was to collect 30 nuclear energy boxes in matchmaking battles within 8 days."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Missions",
+    "Price": "n/a",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Missions\nPrice:n/a\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThere are Easter eggs in many games. Our game is no exception.\nSee also: Paints\nInteresting facts\nThe paint was added to the game on April 12th, 2020.\nThe paint was obtained by completing a special mission \"Recharge yourself with Easter energy\" which was to collect 30 nuclear energy boxes in matchmaking battles within 8 days.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

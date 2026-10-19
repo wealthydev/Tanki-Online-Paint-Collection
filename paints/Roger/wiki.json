@@ -1,0 +1,26 @@
+{
+  "name": "Roger",
+  "source": "wiki",
+  "page": "/Roger",
+  "type": "Garage",
+  "price": {
+    "amount": 80000,
+    "currency": "Crystals",
+    "text": "80 000"
+  },
+  "garageCategorization": "Rare",
+  "containerRarity": "Rare",
+  "description": "The fearsome skull and bones motif popularized by the blood-thirsty pirates of the seven seas.",
+  "interestingFacts": [
+    "Prior to the Paint Separation Update, Roger was worth 42,500 crystals and could be bought from Warrant Officer 5.",
+    "Legacy paint description:"
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Garage",
+    "Price": "80 000",
+    "Garage categorization": "◆ Rare",
+    "Container rarity": "Rare"
+  },
+  "pageText": "Texture\nGeneral information\nType:Garage\nPrice:80 000\nGarage categorization:◆ Rare\nContainer rarity:Rare\nGarage description\nThe fearsome skull and bones motif popularized by the blood-thirsty pirates of the seven seas.\nSee also: Paints\nInteresting facts\nPrior to the Paint Separation Update, Roger was worth 42,500 crystals and could be bought from Warrant Officer 5.\nLegacy paint description:\nA paint that shields well against Twins. Also offers moderate protection against Firebird and Hammer. Good for short to mid-range battles. Covers your tank in skulls, making it stand out.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

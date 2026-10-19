@@ -1,0 +1,24 @@
+{
+  "name": "Birdwatcher",
+  "rawName": "Birdwatcher",
+  "item": "920007225462",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A special camouflage used by professional birdwatchers to remain undetected while observing some of the most rare bird species on the planet. This color combination will have no trouble keeping you hidden from the sight of your next victim in the arena.",
+  "paint": {
+    "id": "500394102",
+    "version": "1775743168557",
+    "animated": false
+  },
+  "preview": {
+    "id": "500394103",
+    "version": "1581391502489"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

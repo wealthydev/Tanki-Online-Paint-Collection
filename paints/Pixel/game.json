@@ -1,0 +1,27 @@
+{
+  "name": "Pixel",
+  "rawName": "Pixel",
+  "item": "920004703854",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 25000
+  },
+  "owned": true,
+  "description": "In a battlefield made of pixels, a paint made of pixels offers the perfect camouflage for melting into the background. No dead pixels on this one!",
+  "paint": {
+    "id": "500309255",
+    "version": "1775743169690",
+    "animated": false
+  },
+  "preview": {
+    "id": "500309262",
+    "version": "1581391701955"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

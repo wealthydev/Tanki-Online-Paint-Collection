@@ -1,0 +1,28 @@
+{
+  "name": "Bunny",
+  "rawName": "Bunny",
+  "item": "920009599283",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "This paint grants the owner the ability to notice even the tiniest details, and not even the smallest Wasp-o-Smoky will hide from its pearcing eyes. Use it for intended purposes only, and nobody will come even close to you.",
+  "paint": {
+    "id": "1540801317393",
+    "version": "1697183401500",
+    "animated": true
+  },
+  "preview": {
+    "id": "1540801572566",
+    "version": "1581391407545"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

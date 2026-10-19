@@ -1,0 +1,28 @@
+{
+  "name": "Electrohive",
+  "rawName": "Electrohive",
+  "item": "920009597332",
+  "rarity": "LEGENDARY",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "RUBY",
+    "amount": 14000
+  },
+  "owned": false,
+  "description": "Specially trained electronic bees took part in the construction of this paint, working on a vivid neon honey that they put into neon hive cells. And the taste is spectacular!",
+  "paint": {
+    "id": "1536219853491",
+    "version": "1697183401447",
+    "animated": true
+  },
+  "preview": {
+    "id": "1536220176790",
+    "version": "1581391308720"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Top Class",
+  "rawName": "Top Class",
+  "item": "920009385730",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint is made specifically for the \"Top Class\" parkour tournament. The owner of this paint is a parkour ace, who showed remarkable skills. The winners of the tournament will keep the paint forever.",
+  "paint": {
+    "id": "1517825165076",
+    "version": "1775743170520",
+    "animated": false
+  },
+  "preview": {
+    "id": "1517825275971",
+    "version": "1581391625056"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

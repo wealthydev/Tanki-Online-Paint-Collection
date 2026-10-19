@@ -1,0 +1,30 @@
+{
+  "name": "Master of Parkour",
+  "source": "wiki",
+  "page": "/Master_of_Parkour",
+  "type": "Award",
+  "price": {
+    "amount": 1000,
+    "currency": "Crystals",
+    "text": "1000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "This paint is needed for taking part in the Masters of Parkour contest. More information can be found here.",
+  "interestingFacts": [
+    "Paint appeared in the game on November 14, 2014.",
+    "Paint appears on sale only at the time of the next competition \"Masters of Parkour\" at a price of 1000 crystals and for players with the rank of  Warrant Officer 1 and above.",
+    "After the competition, paint is removed from all but the winners.",
+    "On August 27, 2015, with the launch of the “Masters of Parkour 2015” contest, the color of the texture of the paint was changed to orange. The paint was also removed from the previous winners.",
+    "Before the separation of paints and protections (07/14/2016), the paint had 30% protection against Railguns and 30% off mines.",
+    "Starting from the 2015 competition, the paint will remain in the garage with the winners forever, and a new paint will be released on new competitions."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Award",
+    "Price": "1000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Award\nPrice:1000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThis paint is needed for taking part in the Masters of Parkour contest. More information can be found here.\nSee also: Paints\nInteresting facts\nPaint appeared in the game on November 14, 2014.\nPaint appears on sale only at the time of the next competition \"Masters of Parkour\" at a price of 1000 crystals and for players with the rank of  Warrant Officer 1 and above.\nAfter the competition, paint is removed from all but the winners.\nOn August 27, 2015, with the launch of the “Masters of Parkour 2015” contest, the color of the texture of the paint was changed to orange. The paint was also removed from the previous winners.\nBefore the separation of paints and protections (07/14/2016), the paint had 30% protection against Railguns and 30% off mines.\nStarting from the 2015 competition, the paint will remain in the garage with the winners forever, and a new paint will be released on new competitions.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

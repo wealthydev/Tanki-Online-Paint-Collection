@@ -1,0 +1,24 @@
+{
+  "name": "Gemetric Blue",
+  "rawName": "Gemetric Blue",
+  "item": "920009662893",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1585558824038",
+    "version": "1775743169156",
+    "animated": false
+  },
+  "preview": {
+    "id": "1585558824037",
+    "version": "1585570022159"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

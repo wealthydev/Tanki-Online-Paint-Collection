@@ -1,0 +1,24 @@
+{
+  "name": "Masters of Parkour 2026",
+  "rawName": "Masters of Parkour 2026",
+  "item": "1931010010173",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This temporary paint has been added in the game for participants of the «Masters of Parkour 2026» contest. After the contest ends, the paint will disappear and will only remain in the garages of members from the winning team.",
+  "paint": {
+    "id": "1786001674262",
+    "version": "1786001685318",
+    "animated": false
+  },
+  "preview": {
+    "id": "1786001673998",
+    "version": "1786001674256"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

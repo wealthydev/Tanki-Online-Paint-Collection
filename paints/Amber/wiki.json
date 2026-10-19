@@ -1,0 +1,27 @@
+{
+  "name": "Amber",
+  "source": "wiki",
+  "page": "/Amber",
+  "type": "Tankoin",
+  "price": {
+    "amount": 3000,
+    "currency": "Rubies",
+    "text": "3 000"
+  },
+  "garageCategorization": "Epic",
+  "containerRarity": "Epic",
+  "description": "This paint is created using a very old technique. It involves extracting tree resin and working it at low pressure into thin sheets that are then hammered onto the tank. The end result is an aesthetically pleasing coating that gives the tank the distinct look of an amber gemstone.",
+  "interestingFacts": [
+    "Paint appeared on October 20, 2016.",
+    "The paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.",
+    "There are quite a few ancient bugs perfectly preserved within this paint."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Tankoin",
+    "Price": "3 000",
+    "Garage categorization": "◆ Epic",
+    "Container rarity": "Epic"
+  },
+  "pageText": "Texture\nGeneral information\nType:Tankoin\nPrice:3 000\nGarage categorization:◆ Epic\nContainer rarity:Epic\nGarage description\nThis paint is created using a very old technique. It involves extracting tree resin and working it at low pressure into thin sheets that are then hammered onto the tank. The end result is an aesthetically pleasing coating that gives the tank the distinct look of an amber gemstone.\nSee also: Paints\nInteresting facts\nPaint appeared on October 20, 2016.\nThe paint was first sold in the shop for USD currency then it was moved to be sold in the garage for tankoins on April 10th, 2020.\nThere are quite a few ancient bugs perfectly preserved within this paint.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

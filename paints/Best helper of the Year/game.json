@@ -1,0 +1,25 @@
+{
+  "name": "Best helper of the Year",
+  "rawName": "Best helper of the Year",
+  "item": "920009652610",
+  "rarity": "SPECIAL",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "This paint goes to the most active, hardworking and positive helpers of the year — those who have dedicated their whole year to helping fellow tankers and making the Community of {GAME_NAME} the best place to play. They are a shining example of dedication and selflessness, and truly deserve the honors and the title of «Best Helper of the Year».",
+  "paint": {
+    "id": "1577181809203",
+    "version": "1697183401381",
+    "animated": true
+  },
+  "preview": {
+    "id": "1577181045532",
+    "version": "1581391666725"
+  },
+  "files": [
+    "texture",
+    "frame",
+    "preview"
+  ]
+}

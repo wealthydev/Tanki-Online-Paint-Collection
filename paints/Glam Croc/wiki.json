@@ -1,0 +1,26 @@
+{
+  "name": "Glam Croc",
+  "source": "wiki",
+  "page": "/Glam_Croc",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "A paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "interestingFacts": [
+    "The paint could have been obtained by completing the challenge tasks in October 2019 with a Battle Pass.",
+    "This paint offers near-perfect camouflage on disco-themed maps."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nA paint with an animated pattern that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.\nSee also: Paints\nInteresting facts\nThe paint could have been obtained by completing the challenge tasks in October 2019 with a Battle Pass.\nThis paint offers near-perfect camouflage on disco-themed maps.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

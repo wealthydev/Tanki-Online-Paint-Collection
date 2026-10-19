@@ -1,0 +1,27 @@
+{
+  "name": "Loam",
+  "rawName": "Loam",
+  "item": "920004704092",
+  "rarity": "UNCOMMON",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 6500
+  },
+  "owned": false,
+  "description": "Nobody pays much attention to dirty vehicles. The \"Loam\" paint uses this psychological element to your tank's advantage by disguising it as a dirty piece of machinery. And once your enemy turns his back on you, that's when you strike!",
+  "paint": {
+    "id": "5006151",
+    "version": "1775743169354",
+    "animated": false
+  },
+  "preview": {
+    "id": "5006136",
+    "version": "1581391384528"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

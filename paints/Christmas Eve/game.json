@@ -1,0 +1,24 @@
+{
+  "name": "Christmas Eve",
+  "rawName": "Christmas Eve",
+  "item": "931009762777",
+  "rarity": "EPIC",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": null,
+  "owned": false,
+  "description": "A regular, non-animated paint that serves as an aesthetic coating for your tank. Its color scheme might potentially offer some camouflage benefits, but besides that, the paint does not offer any functional gameplay advantages.",
+  "paint": {
+    "id": "1638866569501",
+    "version": "1775743168952",
+    "animated": false
+  },
+  "preview": {
+    "id": "1638866569024",
+    "version": "1638866569272"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

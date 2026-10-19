@@ -1,0 +1,27 @@
+{
+  "name": "Rhino",
+  "rawName": "Rhino",
+  "item": "920004704451",
+  "rarity": "RARE",
+  "minRank": 1,
+  "maxRank": 31,
+  "price": {
+    "currency": "CRY",
+    "amount": 37000
+  },
+  "owned": false,
+  "description": "This cover acknowledges the fact that a true tanker doesn't need fancy colors or patterns. What's important is the strength of the shell.",
+  "paint": {
+    "id": "500313723",
+    "version": "1775743169805",
+    "animated": false
+  },
+  "preview": {
+    "id": "500313710",
+    "version": "1581391320974"
+  },
+  "files": [
+    "texture",
+    "preview"
+  ]
+}

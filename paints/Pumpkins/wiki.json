@@ -1,0 +1,25 @@
+{
+  "name": "Pumpkins",
+  "source": "wiki",
+  "page": "/Pumpkins",
+  "type": "Event",
+  "price": {
+    "amount": 120000,
+    "currency": "Crystals",
+    "text": "120 000"
+  },
+  "garageCategorization": "Special",
+  "containerRarity": "n/a",
+  "description": "The moon is full and bright, the dead are seen, it's the pumpkin season - it's Halloween! Available only during the holiday celebrations for Halloween 2017.",
+  "interestingFacts": [
+    "This paint was available in the garage during the 2017 Halloween celebrations from October 25 to November 6, 2017."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Event",
+    "Price": "120 000",
+    "Garage categorization": "◆ Special",
+    "Container rarity": "n/a"
+  },
+  "pageText": "Texture\nGeneral information\nType:Event\nPrice:120 000\nGarage categorization:◆ Special\nContainer rarity:n/a\nGarage description\nThe moon is full and bright, the dead are seen, it's the pumpkin season - it's Halloween! Available only during the holiday celebrations for Halloween 2017.\nSee also: Paints\nInteresting facts\nThis paint was available in the garage during the 2017 Halloween celebrations from October 25 to November 6, 2017.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}

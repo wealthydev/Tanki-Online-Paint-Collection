@@ -1,0 +1,26 @@
+{
+  "name": "Vertigo",
+  "source": "wiki",
+  "page": "/Vertigo",
+  "type": "Container",
+  "price": {
+    "amount": null,
+    "currency": null,
+    "text": "n/a"
+  },
+  "garageCategorization": "Legendary",
+  "containerRarity": "Legendary",
+  "description": "It's better not to look at this paint for too long, since the combination of rotating lines and geometrical shapes may strike you off balance. You've been warned!",
+  "interestingFacts": [
+    "Paint was added to containers on January 27, 2018.",
+    "Maybe you're falling upward, maybe you just pushed your enemy's hull off a bridge. It's hard to tell just by looking at the paint."
+  ],
+  "otherSections": null,
+  "allFields": {
+    "Type": "Container",
+    "Price": "n/a",
+    "Garage categorization": "◆ Legendary",
+    "Container rarity": "Legendary"
+  },
+  "pageText": "Texture\nGeneral information\nType:Container\nPrice:n/a\nGarage categorization:◆ Legendary\nContainer rarity:Legendary\nGarage description\nIt's better not to look at this paint for too long, since the combination of rotating lines and geometrical shapes may strike you off balance. You've been warned!\nSee also: Paints\nInteresting facts\nPaint was added to containers on January 27, 2018.\nMaybe you're falling upward, maybe you just pushed your enemy's hull off a bridge. It's hard to tell just by looking at the paint.\nGarage preview\nLast Edit: HelpersBot 5/21/2024"
+}
